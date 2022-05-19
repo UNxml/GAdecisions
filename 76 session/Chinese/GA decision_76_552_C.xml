@@ -1,0 +1,136 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/zho@/"></FRBRuri>
+          <FRBRdate date="2022-03-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/zho@.xml"></FRBRuri>
+          <FRBRdate date="2022-03-14" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Open-ended Ad Hoc Intergovernmental Committee of Experts to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes" showAs="UN. Open-ended Ad Hoc Intergovernmental Committee of Experts to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="109" showAs="Countering the use of information and communications technologies for criminal purposes." shortForm="COMPUTER CRIMES" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-01-14" outcome="draftResolution" as="A/76/L.31" by="Russian Federation" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" as="A/76/L.31/Add.1" by="Nicaragua" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="General Assembly Plenary" />
+        <step date="2022-01-20" outcome="adopted" as="A/76/PV.55" by="Adopted, 55th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/552</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">第七十六届会议</session>
+      </p>
+      <p>
+        <inline title="109" name="agenda item">议程项目109</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/552.</docNumber>
+        <docTitle refersTo="#decisionTitle">拟订一项关于打击为犯罪目的使用信息和通信技术行为的全面国际公约特设委员会</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2022年1月20日，大会第55次全体会议以92票赞成、18票反对、41票弃权的记录表决，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> 见<span class="underline"><a href="https://undocs.org/ch/A/76/PV.55">A/76/PV.55</a></span>。</p></authorialNote> 对尼加拉瓜和俄罗斯联邦提议<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/76/L.31">A/76/L.31</a></span>和<span class="underline"><a href="https://undocs.org/ch/A/76/L.31/Add.1">A/76/L.31/Add.1</a></span>。</p></authorialNote>（经修正）<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a></span>和<span class="underline"><a href="https://undocs.org/ch/A/76/L.33/Rev.1/Add.1">A/76/L.33/Rev.1/Add.1</a></span>。</p></authorialNote>采取行动，回顾其2019年12月27日第<a href="https://undocs.org/ch/A/RES/74/247">74/247</a>号决议和2021年5月26日第<a href="https://undocs.org/ch/A/RES/75/282">75/282</a>号决议， 其中大会决定，从2022年1月开始，拟订一项关于打击为犯罪目的使用信息和通信技术行为的全面国际公约特设委员会应至少召开六届会议，每届为期10天，其后结束工作以便向大会第七十八届会议提交公约草案，该特设委员会将在纽约举行第一、第三和第六届谈判会议，在维也纳举行第二、第四和第五届谈判会议，关切地注意到冠状病毒病(COVID-19)的持续情况以及2022年1月在纽约联合国总部安全举行到场会议当前的后勤限制，决定：</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	推迟原定于2022年1月17日至28日在纽约举行的特设委员会第一届会议；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	特设委员会应至少召开六届会议，每届为期10天，间隔不少于11周；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	特设委员会应尽快在纽约举行为期一天的会议，最好在2022年2月28日之前，以处理组织事项；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>(d)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve"> 	在卫生条件和空间允许的情况下，特设委员会应最迟于2022年4月18日在纽约举行第一届谈判会议；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>(e)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve"> 	如果卫生条件和空间不允许在2022年4月之前在纽约举行会议，特设委员会应于2022年5月举行第一届谈判会议，其后各届会议的顺序如下：第一、第三和第四届会议在维也纳举行，第二、第五和第六届会议在纽约举行，最后一届会议在纽约举行。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第55次">第55次全体会议</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">2022年1月20日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
