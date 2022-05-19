@@ -1,0 +1,138 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/ara@/"></FRBRuri>
+          <FRBRdate date="2022-03-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-03-14" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Open-ended Ad Hoc Intergovernmental Committee of Experts to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes" showAs="UN. Open-ended Ad Hoc Intergovernmental Committee of Experts to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="109" showAs="Countering the use of information and communications technologies for criminal purposes." shortForm="COMPUTER CRIMES" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-01-14" outcome="draftResolution" as="A/76/L.31" by="Russian Federation" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" as="A/76/L.31/Add.1" by="Nicaragua" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="General Assembly Plenary" />
+        <step date="2022-01-20" outcome="adopted" as="A/76/PV.55" by="Adopted, 55th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/552</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline title="109" name="agenda item">البند 109 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/552</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">اللجنة المخصصة لوضع اتفاقية دولية شاملة بشأن مكافحة استخدام تكنولوجيات المعلومات والاتصالات للأغراض الإجرامية</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="SingleTxt">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	إن الجمعية العامة، في جلستها العامة 55، المعقودة في 20 كانون الثاني/يناير 2022، بتصويت مسجَّل بـأغلبية 92 صوتاً مقابل 18 صوتاً، وامتناع 41 عضواً عن التصويت<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	()	انظر <a href="https://undocs.org/ar/A/76/PV.55">A/76/PV.55</a>.</p></authorialNote><sup>)</sup>، وبناء على توصية الاتحاد الروسي ونيكاراغوا<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	()	<span class="underline"><a href="https://undocs.org/ar/A/76/L.31">A/76/L.31</a></span> و <span class="underline"><a href="https://undocs.org/ar/A/76/L.31/Add.1">A/76/L.31/Add.1</a></span>.</p></authorialNote><sup>)</sup>، بصيغتها المعدلة<sup>(</sup><authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	()	<span class="underline"><a href="https://undocs.org/ar/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a></span> و <span class="underline"><a href="https://undocs.org/ar/A/76/L.33/Rev.1/Add.1">A/76/L.33/Rev.1/Add.1</a></span>.</p></authorialNote><sup>)</sup>، إذ تشير إلى قرارها <a href="https://undocs.org/ar/A/RES/74/247">74/247</a>، المؤرخ 27 كانون الأول/ ديسمبر 2019، وقرارها <a href="https://undocs.org/ar/A/RES/75/282">75/282</a>، المؤرخ 26 أيار/مايو 2021، الذي قررت فيه أن تعقد اللجنة المخصصة ما لا يقل عن ست دورات، مدة كل دورة منها 10 أيام، اعتبارا من كانون الثاني/يناير 2022، وأن تختم عملها من أجل تقديم مشروع اتفاقية إلى الجمعية العامة في دورتها الثامنة والسبعين، وأن تعقد اللجنة المخصصة الدورات التفاوضية الأولى والثالثة والسادسة في نيويورك، والثانية والرابعة والخامسة في فيينا، وإذ تلاحظ بقلق الحالة الراهنة المتعلقة بمرض فيروس كورونا (كوفيد-19) والقيود اللوجستية التي تحول في الوقت الراهن دون عقد اجتماعات بالحضور الشخصي في ظروف مأمونة بمقر الأمم المتحدة في نيويورك في كانون الثاني/يناير 2022، قررت ما يلي: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="SingleTxt">
+        <num>(أ)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	أن تؤجل الدورة الأولى للجنة المخصصة المقرر عقدها في نيويورك في الفترة من 17 إلى 28 كانون الثاني/يناير 2022؛ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="SingleTxt">
+        <num>(ب)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	أن تعقد اللجنة المخصصة ما لا يقل عن ست دورات مدة كل منها 10 أيام، على أن تُعقد بفارق لا يقل عن 11 أسبوعا فيما بينها؛ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="SingleTxt">
+        <num>(ج)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	أن تعقد اللجنة المخصصة اجتماعا لمدة يوم واحد في نيويورك في أقرب وقت ممكن، ويفضل أن يعقد قبل 28 شباط/فبراير 2022، بهدف معالجة المسائل التنظيمية؛ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>(د)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">	أن تعقد اللجنة المخصصة دورتها التفاوضية الأولى في نيويورك في موعد أقصاه 18 نيسان/أبريل 2022، إذا سمحت الظروف الصحية وتوفر المكان بذلك؛ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>(ه)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">	أن تعقد اللجنة المخصصة، في حال لم تسمح الظروف الصحية ولا توفر المكان بعقد جلسة في نيويورك بحلول نيسان/أبريل 2022، دورتَها التفاوضية الأولى في أيار/مايو 2022 وأن يكون تسلسل الاجتماعات بعد ذلك على النحو التالي: الدورات الأولى والثالثة والرابعة في فيينا، والدورات الثانية والخامسة والسادسة في نيويورك، على أن تُعقد دورة ختامية في نيويورك.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="55">الجلسة العامة 55</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">20 كانون الثاني/يناير 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
