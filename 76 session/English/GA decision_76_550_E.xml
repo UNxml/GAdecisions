@@ -1,0 +1,123 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-550/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-550/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-550/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-550/eng@/"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-550/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-550/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" dictionary="SDGO" showAs="sdg_16"/>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" dictionary="EuroVoc" showAs="civil_society"/>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" dictionary="UNBIS" showAs="civil_society"/>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" dictionary="UNBIS" showAs="justice"/>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" dictionary="UNBIS" showAs="peaceful_coexistence"/>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" dictionary="UNBIS" showAs="social_justice"/>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" dictionary="EuroVoc" showAs="sustainable_development"/>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" dictionary="UNBIS" showAs="sustainable_development"/>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" dictionary="EuroVoc" showAs="right_to_justice"/>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" dictionary="EuroVoc" showAs="public_institution"/>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" dictionary="UNBIS" showAs="public_institution"/>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="International Olympic Committee" showAs="International Olympic Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="Olympic Truce" showAs="Olympic Truce" dictionary="DHLAUTH"></keyword>
+        <keyword value="OLYMPIC GAMES" showAs="OLYMPIC GAMES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SPORTS" showAs="SPORTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PEACE" showAs="PEACE" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="12" showAs="Sport for development and peace: building a peaceful and better world through sport and the Olympic ideal." shortForm="SPORTS--OLYMPIC GAMES" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-01-06" outcome="draftResolution" as="A/76/648" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2022-01-20" outcome="adopted" as="A/76/PV.55" by="Adopted, 55th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/550</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="12" name="agenda item">Agenda item 12</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other Decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="#decisionNumber">76/550.</docNumber>
+        <docTitle refersTo="#decisionTitle"><span class="bold">Building a peaceful and better world through sport and the Olympic ideal</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 55th plenary meeting, on 20 January 2022, the General Assembly took note of the solemn appeal made by the President of the General Assembly in connection with the observance of the Olympic Truce.<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/en/A/76/648">A/76/648</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="55th">55th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">20 January 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,138 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/eng@/"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-552/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Open-ended Ad Hoc Intergovernmental Committee of Experts to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes" showAs="UN. Open-ended Ad Hoc Intergovernmental Committee of Experts to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="109" showAs="Countering the use of information and communications technologies for criminal purposes." shortForm="COMPUTER CRIMES" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-01-14" outcome="draftResolution" as="A/76/L.31" by="Russian Federation" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Nicaragua" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2022-01-20" outcome="adopted" as="A/76/PV.55" by="Adopted, 55th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/552</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="109" name="agenda item">Agenda item 109</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other Decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="#decisionNumber">76/552.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Ad Hoc Committee to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 55th plenary meeting, on 20 January 2022, the General Assembly, by a recorded vote of 92 to 18, with 41 abstentions,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> See <span class="underline"><a href="https://undocs.org/en/A/76/PV.55">A/76/PV.55</a></span>.</p></authorialNote> on the proposal of Nicaragua and the Russian Federation,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/en/A/76/L.31">A/76/L.31</a></span> and <span class="underline"><a href="https://undocs.org/en/A/76/L.31/Add.1">A/76/L.31/Add.1</a></span>.</p></authorialNote> as amended,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/en/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a></span> and <span class="underline"><a href="https://undocs.org/en/A/76/L.33/Rev.1/Add.1">A/76/L.33/Rev.1/Add.1</a></span>.</p></authorialNote> recalling its resolution <a href="https://undocs.org/en/A/RES/74/247">74/247</a> of 27 December 2019 and its resolution <a href="https://undocs.org/en/A/RES/75/282">75/282</a> of 26 May 2021, in which it had decided that the Ad Hoc Committee to Elaborate a Comprehensive International Convention on Countering the Use of Information and Communications Technologies for Criminal Purposes shall convene at least six sessions, of 10 days each, to commence in January 2022, and conclude its work in order to provide a draft convention to the Assembly at its seventy-eighth session, and that the Ad Hoc Committee shall hold the first, third and sixth negotiating sessions in New York and the second, fourth and fifth sessions in Vienna, and noting with concern the ongoing situation regarding the coronavirus disease (COVID-19) and the current logistical limitations to safely holding in-person meetings at United Nations Headquarters in New York in January 2022, decided: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	To postpone the first session of the Ad Hoc Committee, scheduled to be held in New York from 17 to 28 January 2022; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	That the Ad Hoc Committee shall convene at least six sessions of 10 days each, held no less than 11 weeks apart; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	That the Ad Hoc Committee shall hold a one-day meeting in New York as soon as possible, preferably before 28 February 2022, for the purpose of addressing organizational matters; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>(d)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve"> 	That the Ad Hoc Committee shall hold its first negotiating session in New York no later than 18 April 2022, health conditions and space permitting; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>(e)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve"> 	That, if health conditions and space did not permit a meeting in New York by April 2022, the Ad Hoc Committee shall hold its first negotiating session in May 2022 and the sequencing of the meetings shall then be as follows: the first, third and fourth sessions in Vienna and the second, fifth and sixth sessions in New York, with a concluding session taking place in New York.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="55th">55th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">20 January 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

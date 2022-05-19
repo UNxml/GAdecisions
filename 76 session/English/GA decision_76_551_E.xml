@@ -1,0 +1,114 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-551/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-551/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-551/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-551/eng@/"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-551/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-551/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Conference on the Least Developed Countries (5th : 2022 : Doha)" showAs="UN Conference on the Least Developed Countries (5th : 2022 : Doha)" dictionary="DHLAUTH"></keyword>
+        <keyword value="COVID-19" showAs="COVID-19" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="23a" showAs="Follow-up to the 4th United Nations Conference on the Least Developed Countries." shortForm="LEAST DEVELOPED COUNTRIES--CONFERENCE (4TH : 2011 : ISTANBUL)" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-01-17" outcome="draftResolution" as="A/76/L.32" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2022-01-20" outcome="adopted" as="A/76/PV.55" by="Adopted, 55th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/551</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="23 (a)" name="agenda item">Agenda item 23 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other Decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="#decisionNumber">76/551.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Fifth United Nations Conference on the Least Developed Countries</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 55th plenary meeting, on 20 January 2022, the General Assembly, on the proposal of its President,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/en/A/76/L.32">A/76/L.32</a></span>.</p></authorialNote> recalling its resolutions <a href="https://undocs.org/en/A/RES/73/242">73/242</a> of 20 December 2018 and <a href="https://undocs.org/en/A/RES/74/232">74/232</a> A of 19 December 2019 and its decision to convene the Fifth United Nations Conference on the Least Developed Countries at the highest possible level, including Heads of State and Government, recalling also its resolution <a href="https://undocs.org/en/A/RES/74/232">74/232</a> B of 11 August 2020, in which it had decided to reschedule the Conference and to hold it in Doha from 23 to 27 January 2022, and noting with concern the situation concerning the coronavirus disease (COVID-19) pandemic and its unprecedented impacts, decided to further postpone the Conference to a date to be decided at the earliest possible time. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="55th">55th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">20 January 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
