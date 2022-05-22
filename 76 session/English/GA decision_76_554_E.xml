@@ -1,0 +1,1657 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@/"></FRBRuri>
+          <FRBRdate date="2022-05-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-05-21" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="public_health" href="http://metadata.un.org/thesaurus/1005250" showAs="public_health" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Stockholm+50 : a Healthy Planet for the Prosperity of All - our Responsibility, our Opportunity (2022 : Stockholm)" showAs="Stockholm+50 : a Healthy Planet for the Prosperity of All - our Responsibility, our Opportunity (2022 : Stockholm)" dictionary="DHLAUTH"></keyword>
+        <keyword value="ENVIRONMENTAL MANAGEMENT" showAs="ENVIRONMENTAL MANAGEMENT" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ENVIRONMENTAL PROTECTION" showAs="ENVIRONMENTAL PROTECTION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="20" showAs="Sustainable development." shortForm="SUSTAINABLE DEVELOPMENT" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-02-17" outcome="draftResolution" as="A/76/L.37" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" as="#" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="General Assembly Plenary" />
+        <step date="2022-02-28" outcome="adopted" as="A/76/PV.60" by="Adopted, 60th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/554</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="20" name="agenda item">Agenda item 20</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other Decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/554.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Participation of non-governmental organizations, civil society organizations, indigenous peoples’ organizations, academic institutions, the scientific community, the private sector and philanthropic organizations in the international meeting entitled “Stockholm+50: a healthy planet for the prosperity of all – our responsibility, our opportunity”</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 60th plenary meeting, on 28 February 2022, the General Assembly, on the proposal of its President,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.37">A/76/L.37</a>.</p></authorialNote> recalling paragraph 24 of its resolution <a href="https://undocs.org/en/A/RES/75/326">75/326</a> of 10 September 2021, as well as paragraph 15 of annex II thereto, decided to approve the participation of relevant non-governmental organizations, civil society organizations, indigenous peoples’ organizations, academic institutions, the scientific community, the private sector and philanthropic organizations, as listed in the annex to the present decision, as observers in the international meeting entitled “Stockholm+50: a healthy planet for the prosperity of all – our responsibility, our opportunity” and its preparatory meeting. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="60th">60th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-02-28" refersTo="#adoptionDate">28 February 2022</docDate>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/"></FRBRuri>
+                <FRBRdate date="2022-02-28" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@/"></FRBRuri>
+                <FRBRdate date="2022-05-21" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="eng"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-554/eng@.xml"></FRBRuri>
+                <FRBRdate date="2022-05-21" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_3" class="MercuryDocument">
+              <content eId="para_3__content">
+                <p xml:space="preserve">
+                  <span class="bold">Annex</span>
+                </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_4" class="MercuryDocument">
+              <content eId="para_4__content">
+                <p xml:space="preserve">ABB AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_5" class="MercuryDocument">
+              <content eId="para_5__content">
+                <p xml:space="preserve">AbibiNsroma Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_6" class="MercuryDocument">
+              <content eId="para_6__content">
+                <p xml:space="preserve">Advocacy Network Against Irregular Migration </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_7" class="MercuryDocument">
+              <content eId="para_7__content">
+                <p xml:space="preserve">Afeka Tel Aviv Academic College of Engineering </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="MercuryDocument">
+              <content eId="para_8__content">
+                <p xml:space="preserve">AFRICA INSTITUTE FOR ENERGY </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="MercuryDocument">
+              <content eId="para_9__content">
+                <p xml:space="preserve">AFRICA TOURISM AND ENVIRONMENT INITIATIVES </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="MercuryDocument">
+              <content eId="para_10__content">
+                <p xml:space="preserve">African Smart Cities Innovation Foundation (ASCIF) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="MercuryDocument">
+              <content eId="para_11__content">
+                <p xml:space="preserve">African Youth Initiative on Climate Change – Zimbabwe </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="MercuryDocument">
+              <content eId="para_12__content">
+                <p xml:space="preserve">Afrikagrupperna </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="MercuryDocument">
+              <content eId="para_13__content">
+                <p xml:space="preserve">Alliance for Empowering Rural Communities </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="MercuryDocument">
+              <content eId="para_14__content">
+                <p xml:space="preserve">AlphaZULU Advocates </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="MercuryDocument">
+              <content eId="para_15__content">
+                <p xml:space="preserve">Amazon Watch Sverige </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="MercuryDocument">
+              <content eId="para_16__content">
+                <p xml:space="preserve">American Football For African Mission </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="MercuryDocument">
+              <content eId="para_17__content">
+                <p xml:space="preserve">Antarctic and Southern Ocean Coalition </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="MercuryDocument">
+              <content eId="para_18__content">
+                <p xml:space="preserve">Arab Youth Climate Movement Qatar LLC (G) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="MercuryDocument">
+              <content eId="para_19__content">
+                <p xml:space="preserve">ARTPORT_making waves </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="MercuryDocument">
+              <content eId="para_20__content">
+                <p xml:space="preserve">ASEAN Parliamentarians for Human Rights </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="MercuryDocument">
+              <content eId="para_21__content">
+                <p xml:space="preserve">Asian Peoples Movement on Debt and Development </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="MercuryDocument">
+              <content eId="para_22__content">
+                <p xml:space="preserve">Asociación Argentina de Justicia Constitucional </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="MercuryDocument">
+              <content eId="para_23__content">
+                <p xml:space="preserve">Associação Civil Alternativa Terrazul </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_24" class="MercuryDocument">
+              <content eId="para_24__content">
+                <p xml:space="preserve">Association des Volontaires pour l’Environnement Sain </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_25" class="MercuryDocument">
+              <content eId="para_25__content">
+                <p xml:space="preserve">Association for Solidarity through Humanitarian Imperative Action (ASHIA) International</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_26" class="MercuryDocument">
+              <content eId="para_26__content">
+                <p xml:space="preserve">ASSOCIATION INTERNATIONALE VILLES ET PORTS INTERNATIONAL ASSOCIATIONS CITIES AND PORTS (AIVP – IACP) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_27" class="MercuryDocument">
+              <content eId="para_27__content">
+                <p xml:space="preserve">Avandis Consulting </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_28" class="MercuryDocument">
+              <content eId="para_28__content">
+                <p xml:space="preserve">Axfoundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_29" class="MercuryDocument">
+              <content eId="para_29__content">
+                <p xml:space="preserve">Basic Education and Employable Skill Training Pakistan </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_30" class="MercuryDocument">
+              <content eId="para_30__content">
+                <p xml:space="preserve">Blue Green Future, LLC </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_31" class="MercuryDocument">
+              <content eId="para_31__content">
+                <p xml:space="preserve">Bluvest Enterprise Limited </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_32" class="MercuryDocument">
+              <content eId="para_32__content">
+                <p xml:space="preserve">Cambridge Zero, University of Cambridge </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_33" class="MercuryDocument">
+              <content eId="para_33__content">
+                <p xml:space="preserve">Care About Climate </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_34" class="MercuryDocument">
+              <content eId="para_34__content">
+                <p xml:space="preserve">Centre For Social Development </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_35" class="MercuryDocument">
+              <content eId="para_35__content">
+                <p xml:space="preserve">Centro Agronómico Tropical de Investigación y Enseñanza (CATIE) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_36" class="MercuryDocument">
+              <content eId="para_36__content">
+                <p xml:space="preserve">Chalmers University of Technology (Gothenburg Centre for Sustainable Development (GMV)) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_37" class="MercuryDocument">
+              <content eId="para_37__content">
+                <p xml:space="preserve">Change For Planet </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_38" class="MercuryDocument">
+              <content eId="para_38__content">
+                <p xml:space="preserve">Cherish Aid KSK Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_39" class="MercuryDocument">
+              <content eId="para_39__content">
+                <p xml:space="preserve">Círculo Médico de Morón Hurlingham e Ituzaingó </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_40" class="MercuryDocument">
+              <content eId="para_40__content">
+                <p xml:space="preserve">Citizens’ Climate International </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_41" class="MercuryDocument">
+              <content eId="para_41__content">
+                <p xml:space="preserve">Cleantech21 Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_42" class="MercuryDocument">
+              <content eId="para_42__content">
+                <p xml:space="preserve">Climate Action Network South Asia </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_43" class="MercuryDocument">
+              <content eId="para_43__content">
+                <p xml:space="preserve">Climate Leadership Coalition </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_44" class="MercuryDocument">
+              <content eId="para_44__content">
+                <p xml:space="preserve">ClimateView Ab </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_45" class="MercuryDocument">
+              <content eId="para_45__content">
+                <p xml:space="preserve">Close The Gap Initiative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_46" class="MercuryDocument">
+              <content eId="para_46__content">
+                <p xml:space="preserve">Club de Madrid </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_47" class="MercuryDocument">
+              <content eId="para_47__content">
+                <p xml:space="preserve">Collectif des Leaders pour le Développement durable de l’Afrique </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_48" class="MercuryDocument">
+              <content eId="para_48__content">
+                <p xml:space="preserve">College of Diplomatic Studies and International Relations </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_49" class="MercuryDocument">
+              <content eId="para_49__content">
+                <p xml:space="preserve">Community Action Against Plastic Waste (CAPWs) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_50" class="MercuryDocument">
+              <content eId="para_50__content">
+                <p xml:space="preserve">Community Jameel </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_51" class="MercuryDocument">
+              <content eId="para_51__content">
+                <p xml:space="preserve">CONCITO – Denmark’s Green Think Tank </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_52" class="MercuryDocument">
+              <content eId="para_52__content">
+                <p xml:space="preserve">CONCORD Sweden </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_53" class="MercuryDocument">
+              <content eId="para_53__content">
+                <p xml:space="preserve">Congolese Alliance for Sustainable Development </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_54" class="MercuryDocument">
+              <content eId="para_54__content">
+                <p xml:space="preserve">Conseil des Architectes d’Europe (Architects Council of Europe) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_55" class="MercuryDocument">
+              <content eId="para_55__content">
+                <p xml:space="preserve">Conservation Strategy Fund </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_56" class="MercuryDocument">
+              <content eId="para_56__content">
+                <p xml:space="preserve">Consumer Council of Zimbabwe </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_57" class="MercuryDocument">
+              <content eId="para_57__content">
+                <p xml:space="preserve">Cornell University </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_58" class="MercuryDocument">
+              <content eId="para_58__content">
+                <p xml:space="preserve">Corporación Motum </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_59" class="MercuryDocument">
+              <content eId="para_59__content">
+                <p xml:space="preserve">Corporación Serraniagua </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_60" class="MercuryDocument">
+              <content eId="para_60__content">
+                <p xml:space="preserve">Council on Energy, Environment and Water </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_61" class="MercuryDocument">
+              <content eId="para_61__content">
+                <p xml:space="preserve">Curating Tomorrow </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_62" class="MercuryDocument">
+              <content eId="para_62__content">
+                <p xml:space="preserve">Danmission </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_63" class="MercuryDocument">
+              <content eId="para_63__content">
+                <p xml:space="preserve">Development Impact Pathfinders Initiative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_64" class="MercuryDocument">
+              <content eId="para_64__content">
+                <p xml:space="preserve">Disaster Reduction and Environment Protection Forum (DRAEPF) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_65" class="MercuryDocument">
+              <content eId="para_65__content">
+                <p xml:space="preserve">Disaster Reduction Nepal (DRN) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_66" class="MercuryDocument">
+              <content eId="para_66__content">
+                <p xml:space="preserve">Doconomy </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_67" class="MercuryDocument">
+              <content eId="para_67__content">
+                <p xml:space="preserve">D-OLF HYDROMETRIC NIGERIA LIMITED </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_68" class="MercuryDocument">
+              <content eId="para_68__content">
+                <p xml:space="preserve">Drugs for Neglected Diseases initiative (DNDi) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_69" class="MercuryDocument">
+              <content eId="para_69__content">
+                <p xml:space="preserve">Earth Advocacy Youth </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_70" class="MercuryDocument">
+              <content eId="para_70__content">
+                <p xml:space="preserve">Earth Day Network India </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_71" class="MercuryDocument">
+              <content eId="para_71__content">
+                <p xml:space="preserve">Earth Regenerative Project Sierra Leone </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_72" class="MercuryDocument">
+              <content eId="para_72__content">
+                <p xml:space="preserve">Earth System Governance Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_73" class="MercuryDocument">
+              <content eId="para_73__content">
+                <p xml:space="preserve">Eco friendly Volunteers (ECO-V) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_74" class="MercuryDocument">
+              <content eId="para_74__content">
+                <p xml:space="preserve">Eco Warriors Movement </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_75" class="MercuryDocument">
+              <content eId="para_75__content">
+                <p xml:space="preserve">Ecolotrip </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_76" class="MercuryDocument">
+              <content eId="para_76__content">
+                <p xml:space="preserve">Eduactive Soc Coop </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_77" class="MercuryDocument">
+              <content eId="para_77__content">
+                <p xml:space="preserve">Einride </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_78" class="MercuryDocument">
+              <content eId="para_78__content">
+                <p xml:space="preserve">Eko-svest </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_79" class="MercuryDocument">
+              <content eId="para_79__content">
+                <p xml:space="preserve">Eloolo Permaculture Initiative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_80" class="MercuryDocument">
+              <content eId="para_80__content">
+                <p xml:space="preserve">ENACT EARTH FOUNDATION </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_81" class="MercuryDocument">
+              <content eId="para_81__content">
+                <p xml:space="preserve">End Ecocide Sverige </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_82" class="MercuryDocument">
+              <content eId="para_82__content">
+                <p xml:space="preserve">Engineering Association for Development &amp; Environment – EADE </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_83" class="MercuryDocument">
+              <content eId="para_83__content">
+                <p xml:space="preserve">Entreprise Forward </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_84" class="MercuryDocument">
+              <content eId="para_84__content">
+                <p xml:space="preserve">Environment and Social Development Organization – ESDO </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_85" class="MercuryDocument">
+              <content eId="para_85__content">
+                <p xml:space="preserve">Environmental Peacebuilding Association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_86" class="MercuryDocument">
+              <content eId="para_86__content">
+                <p xml:space="preserve">Equity Nepal </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_87" class="MercuryDocument">
+              <content eId="para_87__content">
+                <p xml:space="preserve">Equmeniakyrkan </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_88" class="MercuryDocument">
+              <content eId="para_88__content">
+                <p xml:space="preserve">Esam AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_89" class="MercuryDocument">
+              <content eId="para_89__content">
+                <p xml:space="preserve">Everland LLC </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_90" class="MercuryDocument">
+              <content eId="para_90__content">
+                <p xml:space="preserve">Faculty of Law Lund University </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_91" class="MercuryDocument">
+              <content eId="para_91__content">
+                <p xml:space="preserve">Färnebo folkhögskola </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_92" class="MercuryDocument">
+              <content eId="para_92__content">
+                <p xml:space="preserve">FAUTAPO </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_93" class="MercuryDocument">
+              <content eId="para_93__content">
+                <p xml:space="preserve">Forbrugerrådet Tænk (The Danish Consumer Council) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_94" class="MercuryDocument">
+              <content eId="para_94__content">
+                <p xml:space="preserve">Föreningen Klimatriksdagen </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_95" class="MercuryDocument">
+              <content eId="para_95__content">
+                <p xml:space="preserve">Föreningen Svenska Ekomodernister </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_96" class="MercuryDocument">
+              <content eId="para_96__content">
+                <p xml:space="preserve">Forum jeunes et ODD </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_97" class="MercuryDocument">
+              <content eId="para_97__content">
+                <p xml:space="preserve">Fossil Free Media </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_98" class="MercuryDocument">
+              <content eId="para_98__content">
+                <p xml:space="preserve">Foundations for Tomorrow </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_99" class="MercuryDocument">
+              <content eId="para_99__content">
+                <p xml:space="preserve">Framtidsjorden </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_100" class="MercuryDocument">
+              <content eId="para_100__content">
+                <p xml:space="preserve">Fridays for Future Brasil </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_101" class="MercuryDocument">
+              <content eId="para_101__content">
+                <p xml:space="preserve">Fridays For Future Sierra Leone </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_102" class="MercuryDocument">
+              <content eId="para_102__content">
+                <p xml:space="preserve">Fundación Amigos de la Naturaleza </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_103" class="MercuryDocument">
+              <content eId="para_103__content">
+                <p xml:space="preserve">Global Choices </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_104" class="MercuryDocument">
+              <content eId="para_104__content">
+                <p xml:space="preserve">Global Climate and Health Alliance, a project of the Social Good Fund </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_105" class="MercuryDocument">
+              <content eId="para_105__content">
+                <p xml:space="preserve">Global Goals Consulting </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_106" class="MercuryDocument">
+              <content eId="para_106__content">
+                <p xml:space="preserve">Global Governance Forum </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_107" class="MercuryDocument">
+              <content eId="para_107__content">
+                <p xml:space="preserve">Global Shapers Stockholm </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_108" class="MercuryDocument">
+              <content eId="para_108__content">
+                <p xml:space="preserve">Global Strategic Institute for Sustainable Development – GSISD </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_109" class="MercuryDocument">
+              <content eId="para_109__content">
+                <p xml:space="preserve">Global Youth Parliament Tanzania </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_110" class="MercuryDocument">
+              <content eId="para_110__content">
+                <p xml:space="preserve">GreenFaith </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_111" class="MercuryDocument">
+              <content eId="para_111__content">
+                <p xml:space="preserve">GREENING MUA ENVIRONMENTAL INITIATIVE (GMEI) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_112" class="MercuryDocument">
+              <content eId="para_112__content">
+                <p xml:space="preserve">GREENWAY INTERNATIONAL FOUNDATION </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_113" class="MercuryDocument">
+              <content eId="para_113__content">
+                <p xml:space="preserve">GreenX Telemechanics Limited </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_114" class="MercuryDocument">
+              <content eId="para_114__content">
+                <p xml:space="preserve">Grona Kvinnor </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_115" class="MercuryDocument">
+              <content eId="para_115__content">
+                <p xml:space="preserve">H &amp; M Hennes &amp; Mauritz GBC AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_116" class="MercuryDocument">
+              <content eId="para_116__content">
+                <p xml:space="preserve">Hack for Earth Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_117" class="MercuryDocument">
+              <content eId="para_117__content">
+                <p xml:space="preserve">Haga Initiative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_118" class="MercuryDocument">
+              <content eId="para_118__content">
+                <p xml:space="preserve">Håll Sverige Rent (Keep Sweden Tidy) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_119" class="MercuryDocument">
+              <content eId="para_119__content">
+                <p xml:space="preserve">Hand in Hand Eastern Africa </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_120" class="MercuryDocument">
+              <content eId="para_120__content">
+                <p xml:space="preserve">Hand in Hand Sweden </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_121" class="MercuryDocument">
+              <content eId="para_121__content">
+                <p xml:space="preserve">Handelsbanken </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_122" class="MercuryDocument">
+              <content eId="para_122__content">
+                <p xml:space="preserve">Handelsbanken Liv Försäkringsaktiebolag </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_123" class="MercuryDocument">
+              <content eId="para_123__content">
+                <p xml:space="preserve">Heimdall technologies Corp and GBM Project </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_124" class="MercuryDocument">
+              <content eId="para_124__content">
+                <p xml:space="preserve">HELPING HAND INTERNATIONAL </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_125" class="MercuryDocument">
+              <content eId="para_125__content">
+                <p xml:space="preserve">Hloov India </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_126" class="MercuryDocument">
+              <content eId="para_126__content">
+                <p xml:space="preserve">Hot or Cool Institute </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_127" class="MercuryDocument">
+              <content eId="para_127__content">
+                <p xml:space="preserve">Human Development and Natural Environment Conservation Centre </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_128" class="MercuryDocument">
+              <content eId="para_128__content">
+                <p xml:space="preserve">Humanitarian Organization for Poverty Eradication (HOPE WORLDWIDE – PAKISTAN) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_129" class="MercuryDocument">
+              <content eId="para_129__content">
+                <p xml:space="preserve">IM Swedish Developpment Partner </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_130" class="MercuryDocument">
+              <content eId="para_130__content">
+                <p xml:space="preserve">Impact Pointe Consultancy Limited </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_131" class="MercuryDocument">
+              <content eId="para_131__content">
+                <p xml:space="preserve">Indigneous Climate Action </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_132" class="MercuryDocument">
+              <content eId="para_132__content">
+                <p xml:space="preserve">Ingka Holding </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_133" class="MercuryDocument">
+              <content eId="para_133__content">
+                <p xml:space="preserve">Innovea Development Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_134" class="MercuryDocument">
+              <content eId="para_134__content">
+                <p xml:space="preserve">Institute for Degrowth Studies </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_135" class="MercuryDocument">
+              <content eId="para_135__content">
+                <p xml:space="preserve">Institute for Environmental Studies (IVM)/Vrije Universiteit Amsterdam </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_136" class="MercuryDocument">
+              <content eId="para_136__content">
+                <p xml:space="preserve">Instituto Clima e Sociedade </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_137" class="MercuryDocument">
+              <content eId="para_137__content">
+                <p xml:space="preserve">Intelisense Multi-Solutions Limited </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_138" class="MercuryDocument">
+              <content eId="para_138__content">
+                <p xml:space="preserve">Inter IKEA Services </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_139" class="MercuryDocument">
+              <content eId="para_139__content">
+                <p xml:space="preserve">Inter-American Institute on Justice and Sustainability (IIJS, LLC) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_140" class="MercuryDocument">
+              <content eId="para_140__content">
+                <p xml:space="preserve">INTERNATIONAL FRAGRANCE ASSOCIATION (IFRA) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_141" class="MercuryDocument">
+              <content eId="para_141__content">
+                <p xml:space="preserve">International Young Leaders Organization (IYLO) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_142" class="MercuryDocument">
+              <content eId="para_142__content">
+                <p xml:space="preserve">International Youth Society Internet of Planet AB (Exponential Roadmap Initiative) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_143" class="MercuryDocument">
+              <content eId="para_143__content">
+                <p xml:space="preserve">ISET Policy Institute </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_144" class="MercuryDocument">
+              <content eId="para_144__content">
+                <p xml:space="preserve">ISHAKA 2250 </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_145" class="MercuryDocument">
+              <content eId="para_145__content">
+                <p xml:space="preserve">it is about us </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_146" class="MercuryDocument">
+              <content eId="para_146__content">
+                <p xml:space="preserve">IVL Swedish Environmental Research Institute </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_147" class="MercuryDocument">
+              <content eId="para_147__content">
+                <p xml:space="preserve">Jamma Children Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_148" class="MercuryDocument">
+              <content eId="para_148__content">
+                <p xml:space="preserve">Japan Civil Society Network on SDGs </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_149" class="MercuryDocument">
+              <content eId="para_149__content">
+                <p xml:space="preserve">Just Associates </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_150" class="MercuryDocument">
+              <content eId="para_150__content">
+                <p xml:space="preserve">Just Atonement Inc. </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_151" class="MercuryDocument">
+              <content eId="para_151__content">
+                <p xml:space="preserve">Karnali Development Service </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_152" class="MercuryDocument">
+              <content eId="para_152__content">
+                <p xml:space="preserve">Karolinska Institutet </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_153" class="MercuryDocument">
+              <content eId="para_153__content">
+                <p xml:space="preserve">Kayirabwa Chimpanzee Conservancy Association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_154" class="MercuryDocument">
+              <content eId="para_154__content">
+                <p xml:space="preserve">Kijane Pamoja </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_155" class="MercuryDocument">
+              <content eId="para_155__content">
+                <p xml:space="preserve">Kikandwa Environmental Association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_156" class="MercuryDocument">
+              <content eId="para_156__content">
+                <p xml:space="preserve">KIYITA FOUNDATION </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_157" class="MercuryDocument">
+              <content eId="para_157__content">
+                <p xml:space="preserve">Klimataktion </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_158" class="MercuryDocument">
+              <content eId="para_158__content">
+                <p xml:space="preserve">KTH Royal Institute of Technology </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_159" class="MercuryDocument">
+              <content eId="para_159__content">
+                <p xml:space="preserve">KUDUMBAM </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_160" class="MercuryDocument">
+              <content eId="para_160__content">
+                <p xml:space="preserve">Laboratório do Observatorio do Clima </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_161" class="MercuryDocument">
+              <content eId="para_161__content">
+                <p xml:space="preserve">Laudato Si’ Movement </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_162" class="MercuryDocument">
+              <content eId="para_162__content">
+                <p xml:space="preserve">Leadership Development Association International </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_163" class="MercuryDocument">
+              <content eId="para_163__content">
+                <p xml:space="preserve">LEHO – Ladakh Environment And Health Organisation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_164" class="MercuryDocument">
+              <content eId="para_164__content">
+                <p xml:space="preserve">LSU – Sveriges Ungdomsorganisationer </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_165" class="MercuryDocument">
+              <content eId="para_165__content">
+                <p xml:space="preserve">Luleå stift </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_166" class="MercuryDocument">
+              <content eId="para_166__content">
+                <p xml:space="preserve">LVMH MOET HENNESSY LOUIS VUITTON </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_167" class="MercuryDocument">
+              <content eId="para_167__content">
+                <p xml:space="preserve">Minamata Convention Promotion Network (MICO net) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_168" class="MercuryDocument">
+              <content eId="para_168__content">
+                <p xml:space="preserve">Mistra Center for Sustainable Markets (Misum) at Stockholm School of Economics </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_169" class="MercuryDocument">
+              <content eId="para_169__content">
+                <p xml:space="preserve">Mojo Design Studios </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_170" class="MercuryDocument">
+              <content eId="para_170__content">
+                <p xml:space="preserve">Mother Earth Project </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_171" class="MercuryDocument">
+              <content eId="para_171__content">
+                <p xml:space="preserve">Muhammad Akram &amp; Sons Trading &amp; Investment </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_172" class="MercuryDocument">
+              <content eId="para_172__content">
+                <p xml:space="preserve">National Religious Partnership for the Environment </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_173" class="MercuryDocument">
+              <content eId="para_173__content">
+                <p xml:space="preserve">Natura &amp;Co </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_174" class="MercuryDocument">
+              <content eId="para_174__content">
+                <p xml:space="preserve">Natural Capitalism Solutions </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_175" class="MercuryDocument">
+              <content eId="para_175__content">
+                <p xml:space="preserve">Nature Conservation Advocates for Climate Initiative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_176" class="MercuryDocument">
+              <content eId="para_176__content">
+                <p xml:space="preserve">Nature Protection Nepal </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_177" class="MercuryDocument">
+              <content eId="para_177__content">
+                <p xml:space="preserve">Nepal Grassroots Development Forum (NGDF) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_178" class="MercuryDocument">
+              <content eId="para_178__content">
+                <p xml:space="preserve">Nepal Sustainable Development Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_179" class="MercuryDocument">
+              <content eId="para_179__content">
+                <p xml:space="preserve">Nigerian Youth Biodiversity Network </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_180" class="MercuryDocument">
+              <content eId="para_180__content">
+                <p xml:space="preserve">Normative (Meta Mind AB) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_181" class="MercuryDocument">
+              <content eId="para_181__content">
+                <p xml:space="preserve">ODE.systems GmbH </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_182" class="MercuryDocument">
+              <content eId="para_182__content">
+                <p xml:space="preserve">Olof Palme International Center </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_183" class="MercuryDocument">
+              <content eId="para_183__content">
+                <p xml:space="preserve">Open Society European Policy Institute (OSEPI; part of the Open Society Foundations) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_184" class="MercuryDocument">
+              <content eId="para_184__content">
+                <p xml:space="preserve">Our Future First </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_185" class="MercuryDocument">
+              <content eId="para_185__content">
+                <p xml:space="preserve">Pamoja RDC </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_186" class="MercuryDocument">
+              <content eId="para_186__content">
+                <p xml:space="preserve">Parents For Future Austria </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_187" class="MercuryDocument">
+              <content eId="para_187__content">
+                <p xml:space="preserve">Parents For Future Deutschland e.V. </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_188" class="MercuryDocument">
+              <content eId="para_188__content">
+                <p xml:space="preserve">Parlement des Jeunes Leaders de la Société Civile Guinéenne </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_189" class="MercuryDocument">
+              <content eId="para_189__content">
+                <p xml:space="preserve">Peace Without Limits (PWL) International Organization </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_190" class="MercuryDocument">
+              <content eId="para_190__content">
+                <p xml:space="preserve">PeaceNexus Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_191" class="MercuryDocument">
+              <content eId="para_191__content">
+                <p xml:space="preserve">PEFC International </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_192" class="MercuryDocument">
+              <content eId="para_192__content">
+                <p xml:space="preserve">Plataforma CIPÓ </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_193" class="MercuryDocument">
+              <content eId="para_193__content">
+                <p xml:space="preserve">PMU </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_194" class="MercuryDocument">
+              <content eId="para_194__content">
+                <p xml:space="preserve">Polestar </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_195" class="MercuryDocument">
+              <content eId="para_195__content">
+                <p xml:space="preserve">Protection International </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_196" class="MercuryDocument">
+              <content eId="para_196__content">
+                <p xml:space="preserve">Psychologist for sustainable development </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_197" class="MercuryDocument">
+              <content eId="para_197__content">
+                <p xml:space="preserve">Psychologists/Psychotherapists for Future </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_198" class="MercuryDocument">
+              <content eId="para_198__content">
+                <p xml:space="preserve">Publish What You Pay </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_199" class="MercuryDocument">
+              <content eId="para_199__content">
+                <p xml:space="preserve">PUSH Sweden </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_200" class="MercuryDocument">
+              <content eId="para_200__content">
+                <p xml:space="preserve">Ragn-Sells </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_201" class="MercuryDocument">
+              <content eId="para_201__content">
+                <p xml:space="preserve">Rainforest Foundation Norway </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_202" class="MercuryDocument">
+              <content eId="para_202__content">
+                <p xml:space="preserve">Raoul Wallenberg Institute of Human Rights and Humanitarian Law </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_203" class="MercuryDocument">
+              <content eId="para_203__content">
+                <p xml:space="preserve">Réseau panafricain des jeunes pour la culture de la paix </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_204" class="MercuryDocument">
+              <content eId="para_204__content">
+                <p xml:space="preserve">Ride In 971 </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_205" class="MercuryDocument">
+              <content eId="para_205__content">
+                <p xml:space="preserve">RIGHT TRACK </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_206" class="MercuryDocument">
+              <content eId="para_206__content">
+                <p xml:space="preserve">Rockefeller Philanthropy Advisors </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_207" class="MercuryDocument">
+              <content eId="para_207__content">
+                <p xml:space="preserve">Roma Active Albania </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_208" class="MercuryDocument">
+              <content eId="para_208__content">
+                <p xml:space="preserve">Scania CV AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_209" class="MercuryDocument">
+              <content eId="para_209__content">
+                <p xml:space="preserve">SECMOL </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_210" class="MercuryDocument">
+              <content eId="para_210__content">
+                <p xml:space="preserve">Simul Systems Limited </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_211" class="MercuryDocument">
+              <content eId="para_211__content">
+                <p xml:space="preserve">Skanska AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_212" class="MercuryDocument">
+              <content eId="para_212__content">
+                <p xml:space="preserve">Skift </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_213" class="MercuryDocument">
+              <content eId="para_213__content">
+                <p xml:space="preserve">Smart Youth Network Initiative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_214" class="MercuryDocument">
+              <content eId="para_214__content">
+                <p xml:space="preserve">Social Good Peru </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_215" class="MercuryDocument">
+              <content eId="para_215__content">
+                <p xml:space="preserve">Social Venture Network </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_216" class="MercuryDocument">
+              <content eId="para_216__content">
+                <p xml:space="preserve">Solar Impulse Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_217" class="MercuryDocument">
+              <content eId="para_217__content">
+                <p xml:space="preserve">Somali Greenpeace Association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_218" class="MercuryDocument">
+              <content eId="para_218__content">
+                <p xml:space="preserve">SOPKÖKET </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_219" class="MercuryDocument">
+              <content eId="para_219__content">
+                <p xml:space="preserve">SSAB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_220" class="MercuryDocument">
+              <content eId="para_220__content">
+                <p xml:space="preserve">Stand </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_221" class="MercuryDocument">
+              <content eId="para_221__content">
+                <p xml:space="preserve">Stichting Chloride Free Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_222" class="MercuryDocument">
+              <content eId="para_222__content">
+                <p xml:space="preserve">Stichting World’s Youth for Climate Justice </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_223" class="MercuryDocument">
+              <content eId="para_223__content">
+                <p xml:space="preserve">Stockholm International Peace Research Institute (SIPRI) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_224" class="MercuryDocument">
+              <content eId="para_224__content">
+                <p xml:space="preserve">Stockholm University </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_225" class="MercuryDocument">
+              <content eId="para_225__content">
+                <p xml:space="preserve">Stora Enso </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_226" class="MercuryDocument">
+              <content eId="para_226__content">
+                <p xml:space="preserve">Student Platform for Engineering Education Development (SPEED) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_227" class="MercuryDocument">
+              <content eId="para_227__content">
+                <p xml:space="preserve">Success Capital Organisation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_228" class="MercuryDocument">
+              <content eId="para_228__content">
+                <p xml:space="preserve">Sustainable Campaign Nepal </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_229" class="MercuryDocument">
+              <content eId="para_229__content">
+                <p xml:space="preserve">Sustainable Development Sweden AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_230" class="MercuryDocument">
+              <content eId="para_230__content">
+                <p xml:space="preserve">Sustainable Energy and Enterprise Development for Communities (SEED4Com) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_231" class="MercuryDocument">
+              <content eId="para_231__content">
+                <p xml:space="preserve">Svenska Cellulosa Aktiebolaget SCA </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_232" class="MercuryDocument">
+              <content eId="para_232__content">
+                <p xml:space="preserve">Sveriges Blåbandsungdom </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_233" class="MercuryDocument">
+              <content eId="para_233__content">
+                <p xml:space="preserve">Sveriges Konsumenter </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_234" class="MercuryDocument">
+              <content eId="para_234__content">
+                <p xml:space="preserve">SWECO AB </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_235" class="MercuryDocument">
+              <content eId="para_235__content">
+                <p xml:space="preserve">Swedish Fellowship of Reconciliation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_236" class="MercuryDocument">
+              <content eId="para_236__content">
+                <p xml:space="preserve">Swedish Institute for Standards </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_237" class="MercuryDocument">
+              <content eId="para_237__content">
+                <p xml:space="preserve">Swedish Red Cross </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_238" class="MercuryDocument">
+              <content eId="para_238__content">
+                <p xml:space="preserve">SYSTEMIQ </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_239" class="MercuryDocument">
+              <content eId="para_239__content">
+                <p xml:space="preserve">Team Environment Kenya </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_240" class="MercuryDocument">
+              <content eId="para_240__content">
+                <p xml:space="preserve">TechSverige </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_241" class="MercuryDocument">
+              <content eId="para_241__content">
+                <p xml:space="preserve">Tetra Pak </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_242" class="MercuryDocument">
+              <content eId="para_242__content">
+                <p xml:space="preserve">The Australia Institute </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_243" class="MercuryDocument">
+              <content eId="para_243__content">
+                <p xml:space="preserve">The B Team </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_244" class="MercuryDocument">
+              <content eId="para_244__content">
+                <p xml:space="preserve">The Beijer Institute at the Royal Swedish Academy of Sciences </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_245" class="MercuryDocument">
+              <content eId="para_245__content">
+                <p xml:space="preserve">The ChariTree Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_246" class="MercuryDocument">
+              <content eId="para_246__content">
+                <p xml:space="preserve">The Danish Family Planning Association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_247" class="MercuryDocument">
+              <content eId="para_247__content">
+                <p xml:space="preserve">The Indegenous </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_248" class="MercuryDocument">
+              <content eId="para_248__content">
+                <p xml:space="preserve">The Intelligent Indian </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_249" class="MercuryDocument">
+              <content eId="para_249__content">
+                <p xml:space="preserve">The Natural Resource Governance Institute </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_250" class="MercuryDocument">
+              <content eId="para_250__content">
+                <p xml:space="preserve">The Natural Step International </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_251" class="MercuryDocument">
+              <content eId="para_251__content">
+                <p xml:space="preserve">The New Division </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_252" class="MercuryDocument">
+              <content eId="para_252__content">
+                <p xml:space="preserve">The Polly Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_253" class="MercuryDocument">
+              <content eId="para_253__content">
+                <p xml:space="preserve">The Real Group Academy (The Real Group Inspiration AB) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_254" class="MercuryDocument">
+              <content eId="para_254__content">
+                <p xml:space="preserve">The Sustainability Collaborative </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_255" class="MercuryDocument">
+              <content eId="para_255__content">
+                <p xml:space="preserve">The Swedish Climate Policy Council </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_256" class="MercuryDocument">
+              <content eId="para_256__content">
+                <p xml:space="preserve">The Swedish Institute of International Affairs </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_257" class="MercuryDocument">
+              <content eId="para_257__content">
+                <p xml:space="preserve">The Swedish Peace and Arbitration Society (Svenska Freds- och Skiljedomsföreningen) – SPAS </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_258" class="MercuryDocument">
+              <content eId="para_258__content">
+                <p xml:space="preserve">The Uganda National Apiculture Development Organisation (TUNADO) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_259" class="MercuryDocument">
+              <content eId="para_259__content">
+                <p xml:space="preserve">TMG Research GmbH </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_260" class="MercuryDocument">
+              <content eId="para_260__content">
+                <p xml:space="preserve">Together To Palestine </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_261" class="MercuryDocument">
+              <content eId="para_261__content">
+                <p xml:space="preserve">Tree Aid </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_262" class="MercuryDocument">
+              <content eId="para_262__content">
+                <p xml:space="preserve">Trias Uganda </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_263" class="MercuryDocument">
+              <content eId="para_263__content">
+                <p xml:space="preserve">Umeå University </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_264" class="MercuryDocument">
+              <content eId="para_264__content">
+                <p xml:space="preserve">Union to Union </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_265" class="MercuryDocument">
+              <content eId="para_265__content">
+                <p xml:space="preserve">United Nations Association of Tanzania </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_266" class="MercuryDocument">
+              <content eId="para_266__content">
+                <p xml:space="preserve">United Nations Association of Uganda </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_267" class="MercuryDocument">
+              <content eId="para_267__content">
+                <p xml:space="preserve">UNITED NATIONS ASSOCIATIONS of Andhra Pradesh and Telangana (APUNA) Andhra Pradesh United Nations association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_268" class="MercuryDocument">
+              <content eId="para_268__content">
+                <p xml:space="preserve">United Young Farmers Forum </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_269" class="MercuryDocument">
+              <content eId="para_269__content">
+                <p xml:space="preserve">United Youth Initiative Africa </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_270" class="MercuryDocument">
+              <content eId="para_270__content">
+                <p xml:space="preserve">Université Saint-Louis – Bruxelles </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_271" class="MercuryDocument">
+              <content eId="para_271__content">
+                <p xml:space="preserve">University of Bristol </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_272" class="MercuryDocument">
+              <content eId="para_272__content">
+                <p xml:space="preserve">University of Oulu </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_273" class="MercuryDocument">
+              <content eId="para_273__content">
+                <p xml:space="preserve">University of Pennsylvania </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_274" class="MercuryDocument">
+              <content eId="para_274__content">
+                <p xml:space="preserve">Veritas Global </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_275" class="MercuryDocument">
+              <content eId="para_275__content">
+                <p xml:space="preserve">Vi Agroforestry (Vi-skogen) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_276" class="MercuryDocument">
+              <content eId="para_276__content">
+                <p xml:space="preserve">VIDEA – a BC based International Development Education Association </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_277" class="MercuryDocument">
+              <content eId="para_277__content">
+                <p xml:space="preserve">Voices of Nuclear </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_278" class="MercuryDocument">
+              <content eId="para_278__content">
+                <p xml:space="preserve">Volvo Car Group </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_279" class="MercuryDocument">
+              <content eId="para_279__content">
+                <p xml:space="preserve">Volvo Group </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_280" class="MercuryDocument">
+              <content eId="para_280__content">
+                <p xml:space="preserve">Wadleigh Productions Ltd </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_281" class="MercuryDocument">
+              <content eId="para_281__content">
+                <p xml:space="preserve">Walkbright Charity Organization </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_282" class="MercuryDocument">
+              <content eId="para_282__content">
+                <p xml:space="preserve">We Are Forces of Nature </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_283" class="MercuryDocument">
+              <content eId="para_283__content">
+                <p xml:space="preserve">We Effect </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_284" class="MercuryDocument">
+              <content eId="para_284__content">
+                <p xml:space="preserve">We Mean Business Coalition </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_285" class="MercuryDocument">
+              <content eId="para_285__content">
+                <p xml:space="preserve">Wellbeing Economy Alliance (WEAll) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_286" class="MercuryDocument">
+              <content eId="para_286__content">
+                <p xml:space="preserve">Wikimedia Sverige </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_287" class="MercuryDocument">
+              <content eId="para_287__content">
+                <p xml:space="preserve">WILD Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_288" class="MercuryDocument">
+              <content eId="para_288__content">
+                <p xml:space="preserve">Women Empowerment Against Poverty of Nepal (WEAPoN) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_289" class="MercuryDocument">
+              <content eId="para_289__content">
+                <p xml:space="preserve">Womenite </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_290" class="MercuryDocument">
+              <content eId="para_290__content">
+                <p xml:space="preserve">WONDER CARGO PVT LTD </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_291" class="MercuryDocument">
+              <content eId="para_291__content">
+                <p xml:space="preserve">World Benchmarking Alliance </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_292" class="MercuryDocument">
+              <content eId="para_292__content">
+                <p xml:space="preserve">World Climate Foundation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_293" class="MercuryDocument">
+              <content eId="para_293__content">
+                <p xml:space="preserve">Youth Climate Lab </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_294" class="MercuryDocument">
+              <content eId="para_294__content">
+                <p xml:space="preserve">Youth for Peace and Reconciliation </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_295" class="MercuryDocument">
+              <content eId="para_295__content">
+                <p xml:space="preserve">ZERO – Association for the Sustainability of the Earth System </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_296" class="MercuryDocument">
+              <content eId="para_296__content">
+                <p xml:space="preserve">ZeroMission AB </p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>
