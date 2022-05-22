@@ -1,0 +1,110 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-555/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-555/"></FRBRuri>
+          <FRBRdate date="2022-02-28" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-555/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-555/spa@/"></FRBRuri>
+          <FRBRdate date="2022-04-29" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-02-28/76-555/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-02-28/76-555/spa@.xml"></FRBRuri>
+          <FRBRdate date="2022-04-29" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Stockholm+50 : a Healthy Planet for the Prosperity of All - our Responsibility, our Opportunity (2022 : Stockholm)" showAs="Stockholm+50 : a Healthy Planet for the Prosperity of All - our Responsibility, our Opportunity (2022 : Stockholm)" dictionary="DHLAUTH"></keyword>
+        <keyword value="ENVIRONMENTAL MANAGEMENT" showAs="ENVIRONMENTAL MANAGEMENT" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ENVIRONMENTAL PROTECTION" showAs="ENVIRONMENTAL PROTECTION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="20" showAs="Sustainable development." shortForm="SUSTAINABLE DEVELOPMENT" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-02-18" outcome="draftResolution" as="A/76/L.38" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" as="#" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="General Assembly Plenary" />
+        <step date="2022-02-28" outcome="adopted" as="A/76/PV.60" by="Adopted, 60th plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/555</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="20" name="agenda item">Tema 20 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/555.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Acreditación y participación de organizaciones intergubernamentales en la reunión internacional titulada “Estocolmo+50: un planeta sano para la prosperidad de todos: nuestra responsabilidad, nuestra oportunidad” y su reunión preparatoria</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 60ª sesión plenaria, celebrada el 28 de febrero de 2022, la Asamblea General, a propuesta de su Presidencia<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.38">A/76/L.38</a>.</p></authorialNote>, recordando su resolución <a href="https://undocs.org/es/A/RES/75/326">75/326</a>, de 10 de septiembre de 2021, y tomando conocimiento de la nota de la Secretaría<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/713">A/76/713</a>.</p></authorialNote>, decidió acreditar a las organizaciones citadas en la nota de la Secretaría e invitarlas a participar como organizaciones intergubernamentales, en calidad de observadoras, en los trabajos de la reunión internacional titulada “Estocolmo+50: un planeta sano para la prosperidad de todos: nuestra responsabilidad, nuestra oportunidad” y su reunión preparatoria, de conformidad con el párrafo 13 del anexo II de su resolución <a href="https://undocs.org/es/A/RES/75/326">75/326</a>.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="60ª">60ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-02-28" refersTo="#adoptionDate">28 de febrero de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
