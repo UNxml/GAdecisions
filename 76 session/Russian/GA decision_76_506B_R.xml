@@ -1,0 +1,126 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@/"></FRBRuri>
+          <FRBRdate date="2022-04-29" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@.xml"></FRBRuri>
+          <FRBRdate date="2022-04-29" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (76th sess. : 2021-2022)" showAs="UN. General Assembly (76th sess. : 2021-2022)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (76TH SESS. : 2021-2022)--AGENDA" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-02-28" outcome="adopted" as="A/76/PV.61" by="Adopted, 55th plenary meeting, 61st plenary meeting" />
+        <step date="2022-01-20" outcome="adopted" as="A/76/PV.55" by="Adopted, 55th plenary meeting, 61st plenary meeting" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/506</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Семьдесят шестая сессия</session>
+      </p>
+      <p>
+        <inline title="7" name="agenda item">Пункт 7 повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/506.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">B.	Утверждение повестки дня и распределение пунктов повестки дня</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="SingleTxt">
+        <content eId="para_1__content">
+          <p xml:space="preserve">
+            <span class="bold">В</span>
+            <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+              <p xml:space="preserve">		Решение 76/506 в разделе B.1 <span class="italic">Официальных отчетов Генеральной Ассамблеи, семьдесят шестая сессия, Дополнение № 49</span> (<span class="underline"><a href="https://undocs.org/ru/A/76/49">A/76/49</a></span>), том II, становится решением 76/506 A.</p>
+            </authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="SingleTxt">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	На своем 55‑м пленарном заседании 20 января 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) рассмотреть непосредственно на пленарном заседании подпункт a), озаглавленный «Последующая деятельность по итогам четвертой Конференции Организации Объединенных Наций по наименее развитым странам», пункта 23 повестки дня, озаглавленного «Группы стран, находящихся в особой ситуации», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.32">A/76/L.32</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="SingleTxt">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	На том же заседании Генеральная Ассамблея постановила в рамках раздела H (Контроль над наркотиками, предупреждение преступности и борьба с международным терроризмом во всех его формах и проявлениях) рассмотреть непосредственно на пленарном заседании пункт 109 повестки дня, озаглавленный «Противодействие использованию информационно-коммуникационных технологий в преступных целях», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.31">A/76/L.31</a>.</p></authorialNote>, предлагаемой поправки к нему<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a>.</p></authorialNote> и предлагаемой поправки к поправке к нему<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.34/Rev.1">A/76/L.34/Rev.1</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="SingleTxt">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	На своем 61‑м пленарном заседании 15 марта 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 29 повестки дня, озаглавленного «Улучшение положения женщин», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="55-е">55‑е пленарное заседание</inline>
+        <inline name="adoptionMeeting" title="61-е">61‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">20 января 2022 года</docDate>
+        <docDate date="2022-03-15" refersTo="#adoptionDate">15 марта 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
