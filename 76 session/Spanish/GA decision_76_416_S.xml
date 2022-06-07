@@ -1,0 +1,189 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/"></FRBRuri>
+          <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@/"></FRBRuri>
+          <FRBRdate date="2022-06-06" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@.xml"></FRBRuri>
+          <FRBRdate date="2022-06-06" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Commission on International Trade Law" showAs="UN Commission on International Trade Law" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116e" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-03-15" outcome="adopted" as="A/76/PV.61" by="Adopted, 61st plenary meeting" />
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Alemania" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Afganistán" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Arabia Saudita" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Argelia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Argentina" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Armenia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Australia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Austria" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Belarús" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Bélgica" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Brasil" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Bulgaria" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Camerún" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Canadá" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Chequia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Chile" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="China" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Colombia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Côte d’Ivoire" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Croacia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Ecuador" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="España" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Estados Unidos de América" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Federación de Rusia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Finlandia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Francia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Ghana" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Honduras" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Hungría" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="India" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Indonesia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Irán (República Islámica del)" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Iraq" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Israel" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Italia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Japón" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Kenya" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Kuwait" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Malasia" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Malawi" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Malí" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Marruecos" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Mauricio" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="México" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Nigeria" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Panamá" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Perú" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Polonia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Reino Unido de Gran Bretaña e Irlanda del Norte" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="República de Corea" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="República Democrática del Congo" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="República Dominicana" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Singapur" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Somalia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Sudáfrica" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Suiza" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Tailandia" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Turquía" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Turkmenistán" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Uganda" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Ucrania" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Venezuela (República Bolivariana de)" outcome="composition" akn4un:end="2028"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Vietnam" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-03-15" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="" refersTo="Zimbabwe" outcome="composition" akn4un:end="2025"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/416</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="116 e)" name="agenda item">Tema 116 e) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/416.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de miembros de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 61ª sesión plenaria, celebrada el 15 de marzo de 2022, la Asamblea General, de conformidad con la sección II, párrafos 1 a 3, de su resolución <a href="https://undocs.org/es/A/RES/2205(XXI)">2205 (XXI)</a>, de 17 de diciembre de 1966, enmendada en virtud del párrafo 8 de su resolución <a href="https://undocs.org/es/A/RES/3108(XXVIII)">3108 (XXVIII)</a>, de 12 de diciembre de 1973, y del párrafo 10 b) de su resolución <a href="https://undocs.org/es/A/RES/31/99">31/99</a>, de 15 de diciembre de 1976, así como de sus resoluciones <a href="https://undocs.org/es/A/RES/57/20">57/20</a>, de 19 de noviembre de 2002, y <a href="https://undocs.org/es/A/RES/76/109">76/109</a>, de 9 de diciembre de 2021, eligió al <inline name="smallCaps" style="font-variant:small-caps">Afganistán</inline>, la <inline name="smallCaps" style="font-variant:small-caps">Arabia Saudita</inline>, la <inline name="smallCaps" style="font-variant:small-caps">Argentina</inline>, <inline name="smallCaps" style="font-variant:small-caps">Armenia, Australia, Austria, Belarús</inline>, el <inline name="smallCaps" style="font-variant:small-caps">Brasil, Bulgaria, Chequia, Chile, Colombia, España,</inline> los <inline name="smallCaps" style="font-variant:small-caps">Estados Unidos de América</inline>, la <inline name="smallCaps" style="font-variant:small-caps">India</inline>, <inline name="smallCaps" style="font-variant:small-caps">Irán (República Islámica del)</inline>, el <inline name="smallCaps" style="font-variant:small-caps">Iraq</inline>, <inline name="smallCaps" style="font-variant:small-caps">Israel, Italia, Kenya, Kuwait, Malawi, Marruecos, Mauricio, Nigeria, Panamá, Polonia</inline>, la <inline name="smallCaps" style="font-variant:small-caps">República Democrática del Congo, Somalia, Tailandia, Turquía, Turkmenistán, Uganda</inline> y <inline name="smallCaps" style="font-variant:small-caps">Venezuela (República Bolivariana</inline> <inline name="smallCaps" style="font-variant:small-caps">de</inline>) miembros de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional para un mandato de seis años que comenzaría el 27 de junio de 2022, a fin de llenar las vacantes que se producirían al término de los mandatos de la <inline name="smallCaps" style="font-variant:small-caps">Argentina, Australia, Austria, Belarús</inline>, el <inline name="smallCaps" style="font-variant:small-caps">Brasil, Burundi, Chequia, Chile, Colombia, España</inline>, los <inline name="smallCaps" style="font-variant:small-caps">Estados Unidos de América</inline>, <inline name="smallCaps" style="font-variant:small-caps">Filipinas</inline>, la <inline name="smallCaps" style="font-variant:small-caps">India, Irán (República Islámica del), Israel, Italia, Kenya,</inline> el <inline name="smallCaps" style="font-variant:small-caps">Líbano, Lesotho, Libia, Mauricio, Nigeria</inline>, el <inline name="smallCaps" style="font-variant:small-caps">Pakistán, Polonia, Rumania, Sri Lanka, Tailandia, Turquía, Uganda</inline> y <inline name="smallCaps" style="font-variant:small-caps">Venezuela (República Bolivariana de)</inline> y 5 de los 10 puestos adicionales establecidos en la resolución <a href="https://undocs.org/es/A/RES/76/109">76/109</a>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En consecuencia, a partir del 27 de junio de 2022, la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional quedaría integrada por los 64 Estados Miembros siguientes<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Queda por llenar una vacante de un miembro de los Estados de Europa Occidental y otros Estados para un mandato que comenzaría el 27 de junio de 2022 y terminaría el último día antes del comienzo del 61<sup>er</sup> período de sesiones de la Comisión, en 2028.</p></authorialNote>: <inline name="smallCaps" style="font-variant:small-caps">Alemania*, Afganistán**, Arabia Saudita**, Argelia*, Argentina**, Armenia**, Australia**, Austria**, Belarús**, Bélgica*, Brasil**, Bulgaria**, Camerún*, Canadá*, Chequia**, Chile**, China*, Colombia**, Côte d’Ivoire*, Croacia*, Ecuador*, España**, Estados Unidos de América**, Federación de Rusia*, Finlandia*, Francia*, Ghana*, Honduras*, Hungría*, India**, Indonesia*, Irán (República Islámica del)**, Iraq**, Israel**, Italia**, Japón*, Kenya**, Kuwait**, Malasia*, Malawi*</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">, Malí*, Marruecos**, Mauricio**, México*, Nigeria**, Panamá**, Perú*, Polonia**, Reino Unido de Gran Bretaña e Irlanda del Norte*, República de Corea*, República Democrática del Congo**, República Dominicana*, Singapur*, Somalia**, Sudáfrica*, Suiza*, Tailandia**, Turquía**, Turkmenistán**, Uganda**, Ucrania*, Venezuela (República Bolivariana de)**, Vietnam* </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Zimbabwe</inline>*. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	El mandato termina el día anterior a la apertura del 58º período de sesiones de la Comisión, en 2025. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	El mandato termina el día anterior a la apertura del 61<sup>er</sup> período de sesiones de la Comisión, en 2028.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="61ª">61ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-03-15" refersTo="#adoptionDate">15 de marzo de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
