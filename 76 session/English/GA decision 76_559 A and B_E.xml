@@ -1,0 +1,412 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-29/76-559/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-29/76-559/"></FRBRuri>
+          <FRBRdate date="2022-03-29" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-29/76-559/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-29/76-559/eng@/"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-29/76-559/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-29/76-559/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="6" href="http://metadata.un.org/sdg/6" showAs="sdg_6" dictionary="SDGO"></keyword>
+        <keyword value="water" href="http://eurovoc.europa.eu/597" showAs="water" dictionary="EuroVoc"></keyword>
+        <keyword value="water" href="http://metadata.un.org/thesaurus/030500" showAs="water" dictionary="UNBIS"></keyword>
+        <keyword value="water" href="http://metadata.un.org/thesaurus/1006939" showAs="water" dictionary="UNBIS"></keyword>
+        <keyword value="sanitation" href="http://metadata.un.org/thesaurus/1005701" showAs="sanitation" dictionary="UNBIS"></keyword>
+        <keyword value="public_hygiene" href="http://eurovoc.europa.eu/3371" showAs="public_hygiene" dictionary="EuroVoc"></keyword>
+        <keyword value="water_management" href="http://eurovoc.europa.eu/3144" showAs="water_management" dictionary="EuroVoc"></keyword>
+        <keyword value="water_management" href="http://metadata.un.org/thesaurus/1006948" showAs="water_management" dictionary="UNBIS"></keyword>
+        <keyword value="use_of_water" href="http://eurovoc.europa.eu/4628" showAs="use_of_water" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Conference to Support the Implementation of Sustainable Development Goal 14 : Conserve and Sustainably Use the Oceans, Seas and Marine Resources for Sustainable Development (2022 : Lisbon)" showAs="UN Conference to Support the Implementation of Sustainable Development Goal 14 : Conserve and Sustainably Use the Oceans, Seas and Marine Resources for Sustainable Development (2022 : Lisbon)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="20" showAs="Sustainable development." shortForm="SUSTAINABLE DEVELOPMENT" dictionary="A/76/251"></keyword>
+        <keyword refersTo="agenda" value="78a" showAs="Oceans and the law of the sea." shortForm="LAW OF THE SEA" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-03-23" outcome="draftDecision" as="A/76/L.44" by="submitted by the President of the General Assembly"/>
+        <step date="2022-03-29" as="A/76/PV.63" outcome="adopted" by="63rd" />
+        <step date="2022-06-17" outcome="draftDecision" as="A/76/L.67" by="submitted by the President of the General Assembly"/>
+        <step date="2022-06-21" as="A/76/PV.85" outcome="adopted" by="85th" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/559</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="20 and 78 (a)" name="agenda item">Agenda items 20 and 78 (a)</inline>
+      </p>
+      <p> 
+        <inline name="decision type">Other decisions</inline> 
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/559.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Accreditation and participation of an intergovernmental organization in the 2022 United Nations Conference to Support the Implementation of Sustainable Development Goal 14: Conserve and sustainably use the oceans, seas and marine resources for sustainable development</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution A"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution B"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-29/76-559A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-29/76-559A/"></FRBRuri>
+              <FRBRdate date="2022-03-29" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-29/76-559A/eng@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-29/76-559A/eng@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-29/76-559A/eng@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-29/76-559A/eng@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+            <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+            <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+            <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+            <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+            <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+            <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+            <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+            <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+            <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+            <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+            <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+            <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+            <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+            <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+            <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="6" href="http://metadata.un.org/sdg/6" showAs="sdg_6" dictionary="SDGO"></keyword>
+            <keyword value="water" href="http://eurovoc.europa.eu/597" showAs="water" dictionary="EuroVoc"></keyword>
+            <keyword value="water" href="http://metadata.un.org/thesaurus/030500" showAs="water" dictionary="UNBIS"></keyword>
+            <keyword value="water" href="http://metadata.un.org/thesaurus/1006939" showAs="water" dictionary="UNBIS"></keyword>
+            <keyword value="sanitation" href="http://metadata.un.org/thesaurus/1005701" showAs="sanitation" dictionary="UNBIS"></keyword>
+            <keyword value="public_hygiene" href="http://eurovoc.europa.eu/3371" showAs="public_hygiene" dictionary="EuroVoc"></keyword>
+            <keyword value="water_management" href="http://eurovoc.europa.eu/3144" showAs="water_management" dictionary="EuroVoc"></keyword>
+            <keyword value="water_management" href="http://metadata.un.org/thesaurus/1006948" showAs="water_management" dictionary="UNBIS"></keyword>
+            <keyword value="use_of_water" href="http://eurovoc.europa.eu/4628" showAs="use_of_water" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+            <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+            <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+            <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+            <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="UN Conference to Support the Implementation of Sustainable Development Goal 14 : Conserve and Sustainably Use the Oceans, Seas and Marine Resources for Sustainable Development (2022 : Lisbon)" showAs="UN Conference to Support the Implementation of Sustainable Development Goal 14 : Conserve and Sustainably Use the Oceans, Seas and Marine Resources for Sustainable Development (2022 : Lisbon)" dictionary="DHLAUTH"></keyword>
+            <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+            <keyword value="PARTICIPANTS" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+            <keyword refersTo="agenda" value="20" showAs="Sustainable development." shortForm="SUSTAINABLE DEVELOPMENT" dictionary="A/76/251"></keyword>
+            <keyword refersTo="agenda" value="78a" showAs="Oceans and the law of the sea." shortForm="LAW OF THE SEA" dictionary="A/76/251"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-23" outcome="draftDecision" as="A/76/L.44" by="submitted by the President of the General Assembly"/>
+            <step date="2022-03-29" as="A/76/PV.63" outcome="adopted" by="63rd" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>A</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve">	At its 63rd plenary meeting, on 29 March 2022, the General Assembly, on the proposal of its President,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.44">A/76/L.44</a>.</p></authorialNote> recalling its resolution <a href="https://undocs.org/en/A/RES/73/292">73/292</a> of 9 May 2019, and taking note of the note by the Secretariat,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/767">A/76/767</a>.</p></authorialNote> decided to accredit the organization identified in the note by the Secretariat and invite it to participate as an intergovernmental organization in the work of the 2022 United Nations Conference to Support the Implementation of Sustainable Development Goal 14: Conserve and sustainably use the oceans, seas and marine resources for sustainable development, with observer status, in accordance with paragraph 14 of annex II to Assembly resolution <a href="https://undocs.org/en/A/RES/73/292">73/292</a>. </p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="63rd">63rd plenary meeting</inline>
+            <eol />
+            <docDate date="2022-03-29" refersTo="#adoptionDate">29 March 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-21/76-559B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-21/76-559B/"></FRBRuri>
+              <FRBRdate date="2022-06-21" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-21/76-559B/eng@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-21/76-559B/eng@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-21/76-559B/eng@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-21/76-559B/eng@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+            <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+            <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+            <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+            <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+            <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+            <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+            <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+            <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+            <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+            <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+            <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+            <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+            <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+            <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+            <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="6" href="http://metadata.un.org/sdg/6" showAs="sdg_6" dictionary="SDGO"></keyword>
+            <keyword value="water" href="http://eurovoc.europa.eu/597" showAs="water" dictionary="EuroVoc"></keyword>
+            <keyword value="water" href="http://metadata.un.org/thesaurus/030500" showAs="water" dictionary="UNBIS"></keyword>
+            <keyword value="water" href="http://metadata.un.org/thesaurus/1006939" showAs="water" dictionary="UNBIS"></keyword>
+            <keyword value="sanitation" href="http://metadata.un.org/thesaurus/1005701" showAs="sanitation" dictionary="UNBIS"></keyword>
+            <keyword value="public_hygiene" href="http://eurovoc.europa.eu/3371" showAs="public_hygiene" dictionary="EuroVoc"></keyword>
+            <keyword value="water_management" href="http://eurovoc.europa.eu/3144" showAs="water_management" dictionary="EuroVoc"></keyword>
+            <keyword value="water_management" href="http://metadata.un.org/thesaurus/1006948" showAs="water_management" dictionary="UNBIS"></keyword>
+            <keyword value="use_of_water" href="http://eurovoc.europa.eu/4628" showAs="use_of_water" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+            <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+            <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+            <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+            <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="UN Conference to Support the Implementation of Sustainable Development Goal 14 : Conserve and Sustainably Use the Oceans, Seas and Marine Resources for Sustainable Development (2022 : Lisbon)" showAs="UN Conference to Support the Implementation of Sustainable Development Goal 14 : Conserve and Sustainably Use the Oceans, Seas and Marine Resources for Sustainable Development (2022 : Lisbon)" dictionary="DHLAUTH"></keyword>
+            <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+            <keyword value="PARTICIPANTS" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+            <keyword refersTo="agenda" value="20" showAs="Sustainable development." shortForm="SUSTAINABLE DEVELOPMENT" dictionary="A/76/251"></keyword>
+            <keyword refersTo="agenda" value="78a" showAs="Oceans and the law of the sea." shortForm="LAW OF THE SEA" dictionary="A/76/251"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-06-17" outcome="draftDecision" as="A/76/L.67" by="submitted by the President of the General Assembly"/>
+            <step date="2022-06-21" outcome="adopted" by="85th" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>B</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> At its 85th plenary meeting, on 21 June 2022, the General Assembly, on the proposal of its President,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.67">A/76/L.67</a>.</p></authorialNote> recalling its resolution <a href="https://undocs.org/en/A/RES/73/292">73/292</a> of 9 May 2019, and taking note of the note by the Secretariat,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/866">A/76/866</a>.</p></authorialNote> decided to accredit the organization identified in the note by the Secretariat and invite it to participate as an intergovernmental organization in the work of the 2022 United Nations Conference to Support the Implementation of Sustainable Development Goal 14: Conserve and sustainably use the oceans, seas and marine resources for sustainable development, with observer status, in accordance with paragraph 14 of annex II to Assembly resolution <a href="https://undocs.org/en/A/RES/73/292">73/292</a>.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="85th">85th plenary meeting</inline>
+            <eol />
+            <docDate date="2022-06-21" refersTo="#adoptionDate">21 June 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>

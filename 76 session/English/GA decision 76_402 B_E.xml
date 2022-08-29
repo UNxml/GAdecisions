@@ -1,0 +1,204 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/"></FRBRuri>
+          <FRBRdate date="2022-05-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/eng@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Human Rights Council" dictionary="DHLAUTH" showAs="UN. Human Rights Council"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="116d" dictionary="A/76/251" showAs="Election of members of the Human Rights Council." shortForm="UN. HUMAN RIGHTS COUNCIL--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Human Rights Council" dictionary="DHLAUTH" showAs="UN. Human Rights Council"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="116d" dictionary="A/76/251" showAs="Election of members of the Human Rights Council." shortForm="UN. HUMAN RIGHTS COUNCIL--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71st" />
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="ARGENTINA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="ARMENIA" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="BENIN" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="BOLIVIA (PLURINATIONAL STATE OF)" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="BRAZIL" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="CAMEROON" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="CHINA" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="CÔTE D’IVOIRE" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="CUBA" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="CZECHIA" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="ERITREA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="FINLAND" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="FRANCE" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="GABON" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="GAMBIA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="GERMANY" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="HONDURAS" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="INDIA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="INDONESIA" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="JAPAN" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="KAZAKHSTAN" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="LIBYA" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="LITHUANIA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="LUXEMBOURG" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="MALAYSIA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="MALAWI" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="MARSHALL ISLANDS" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="MAURITANIA" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="MEXICO" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="MONTENEGRO" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="NAMIBIA" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="NEPAL" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="NETHERLANDS" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="PAKISTAN" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="PARAGUAY" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="POLAND" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="QATAR" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="REPUBLIC OF KOREA" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="SENEGAL" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="SOMALIA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="SUDAN" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="UKRAINE" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="UNITED ARAB EMIRATES" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="UNITED STATES OF AMERICA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="UZBEKISTAN" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as="Human Rights Council" by="" refersTo="VENEZUELA (BOLIVARIAN REPUBLIC OF)" outcome="composition" akn4un:end="2022-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/402</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="116 (d)" name="agenda item">Agenda item 116 (d)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/402.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Election of members of the Human Rights Council</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> Decision 76/402, in section A of the <span class="italic">Official Records of the General Assembly, Seventy-sixth Session, Supplement No. 49</span> (<span class="underline"><a href="https://undocs.org/en/A/76/49(Vol.II)">A/76/49</a></span>), vol. II, becomes decision 76/402 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="PlainText">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 71st plenary meeting, on 10 May 2022, the General Assembly, pursuant to its resolutions <a href="https://undocs.org/en/A/RES/60/251">60/251</a> of 15 March 2006 and <a href="https://undocs.org/en/A/RES/65/281">65/281</a> of 17 June 2011, elected <inline name="smallCaps" style="font-variant:small-caps">Czechia</inline> for the remainder of the term of office of the <inline name="smallCaps" style="font-variant:small-caps">Russian Federation</inline> beginning on 10 May 2022 and ending on 31 December 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="PlainText">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	As a result, as of 10 May 2022, the Human Rights Council is composed of the following 47 Member States:<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Argentina, Brazil, Cameroon, Eritrea, India, Japan, Mexico, Nepal, Pakistan, Senegal, Somalia and Ukraine are serving their second consecutive term.</p></authorialNote> <inline name="smallCaps" style="font-variant:small-caps">Argentina</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Armenia</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Benin</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Bolivia (</inline><inline name="smallCaps" style="font-variant:small-caps">Plurinational</inline><inline name="smallCaps" style="font-variant:small-caps"> State of)</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Brazil</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Cameroon</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">China</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Côte d’Ivoire</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Cuba</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Czechia</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Eritrea</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Finland</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">France</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Gabon</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Gambia</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Germany</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Honduras</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">India</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Indonesia</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Japan</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Kazakhstan</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Libya</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Lithuania</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Luxembourg</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Malaysia</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Malawi</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Marshall Islands</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Mauritania</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Mexico</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Montenegro</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Namibia</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Nepal</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Netherlands</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Pakistan</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Paraguay</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Poland</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Qatar</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Republic of Korea</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Senegal</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Somalia</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Sudan</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Ukraine</inline>,** <inline name="smallCaps" style="font-variant:small-caps">United Arab Emirates</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">United Kingdom of Great Britain and Northern Ireland</inline>,** <inline name="smallCaps" style="font-variant:small-caps">United States of America</inline>,*** <inline name="smallCaps" style="font-variant:small-caps">Uzbekistan</inline>** and <inline name="smallCaps" style="font-variant:small-caps">Venezuela (Bolivarian Republic of</inline>).*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="PlainText">
+        <content eId="para_3__content">
+          <p xml:space="preserve">_________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="PlainText">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Term of office expires on 31 December 2022.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="PlainText">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="PlainText">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Term of office expires on 31 December 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="71st">71st plenary meeting</inline>
+        <eol />
+        <docDate date="2022-05-10" refersTo="#adoptionDate">10 May 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

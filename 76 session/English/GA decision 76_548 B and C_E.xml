@@ -1,0 +1,465 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-548/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-548/"></FRBRuri>
+          <FRBRdate date="2022-04-13" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-548/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-548/eng@/"></FRBRuri>
+          <FRBRdate date="2022-08-15" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-548/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-548/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-15" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (76th sess. : 2021-2022)" showAs="UN. General Assembly (76th sess. : 2021-2022)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="136" showAs="Review of the efficiency of the administrative and financial functioning of the United Nations." shortForm="UN--ADMINISTRATION" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2021-12-23" outcome="draftDecision" as="A/C.5/76/L.22" by="submitted by the Chair"/>
+        <step date="2022-04-13" outcome="adopted" by="68th" />
+        <step date="2022-06-29" outcome="adopted" by="89th" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/548</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Fifth Committee</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="136" name="agenda item">Agenda item 136</inline>
+      </p>
+      <p> 
+        <inline name="decision type">Other decisions</inline> 
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/548.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Questions deferred for future consideration</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution B"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution C"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-548B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-548B/"></FRBRuri>
+              <FRBRdate date="2022-04-13" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-548B/eng@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-548B/eng@/"></FRBRuri>
+              <FRBRdate date="2022-08-15" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-548B/eng@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-548B/eng@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-15" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="DHLAUTH">
+            <keyword value="UN. General Assembly (76th sess. : 2021-2022)" showAs="UN. General Assembly (76th sess. : 2021-2022)" dictionary="DHLAUTH"></keyword>
+            <keyword refersTo="agenda" value="136" showAs="Review of the efficiency of the administrative and financial functioning of the United Nations." shortForm="UN--ADMINISTRATION" dictionary="A/76/251"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2021-12-23" outcome="draftDecision" as="A/C.5/76/L.22" by="submitted by the Chair"/>
+            <step date="2022-04-13" outcome="adopted" by="68th" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>B</docNumber>
+            <authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Decision 76/548, in section B.6 of the <span class="italic">Official Records of the General Assembly, Seventy-sixth Session, Supplement No. 49</span> (A/76/49), vol. II, becomes decision 76/548 A.</p></authorialNote>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> At its 68th plenary meeting, on 13 April 2022, the General Assembly, on the recommendation of the Fifth Committee,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/634/Add.1">A/76/634/Add.1</a>, para. 6.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve">
+                <span class="bold">Section A</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">	Decided to defer until the second part of its resumed seventy-sixth session consideration of the following documents:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">
+                <span class="italic">Item 140</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_5" class="MercuryDocument">
+            <content eId="para_5__content">
+              <p xml:space="preserve">
+                <span class="italic">Improving the financial situation of the United Nations</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_6" class="MercuryDocument">
+            <content eId="para_6__content">
+              <p xml:space="preserve">	Report of the Secretary-General on improving the financial situation of the United Nations<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/429">A/76/429</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_7" class="MercuryDocument">
+            <content eId="para_7__content">
+              <p xml:space="preserve">	Related report of the Advisory Committee on Administrative and Budgetary Questions<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/7/Add.29">A/76/7/Add.29</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_8" class="MercuryDocument">
+            <content eId="para_8__content">
+              <p xml:space="preserve">
+                <span class="bold">Section B</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_9" class="MercuryDocument">
+            <content eId="para_9__content">
+              <p xml:space="preserve">	Decided to defer until the first part of its resumed seventy-seventh session consideration of the following documents:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_10" class="MercuryDocument">
+            <content eId="para_10__content">
+              <p xml:space="preserve">
+                <span class="italic">Item 136</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_11" class="MercuryDocument">
+            <content eId="para_11__content">
+              <p xml:space="preserve">
+                <span class="italic">Review of the efficiency of the administrative and financial functioning of the United Nations</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_12" class="MercuryDocument">
+            <content eId="para_12__content">
+              <p xml:space="preserve">
+                <span class="italic">Supply chain activities in the United Nations Secretariat</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_13" class="MercuryDocument">
+            <content eId="para_13__content">
+              <p xml:space="preserve">	Report of the Secretary-General on supply chain activities in the United Nations Secretariat<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/613">A/76/613</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_14" class="MercuryDocument">
+            <content eId="para_14__content">
+              <p xml:space="preserve">	Related report of the Advisory Committee on Administrative and Budgetary Questions<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/722">A/76/722</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_15" class="MercuryDocument">
+            <content eId="para_15__content">
+              <p xml:space="preserve">	Report of the Office of Internal Oversight Services on the audit of implementation of post-employment restrictions for staff involved in the procurement process<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/139">A/76/139</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_16" class="MercuryDocument">
+            <content eId="para_16__content">
+              <p xml:space="preserve">	Report of the Office of Internal Oversight Services on the audit of demand and source planning for peace operations<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/595">A/76/595</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_17" class="MercuryDocument">
+            <content eId="para_17__content">
+              <p xml:space="preserve">
+                <span class="italic">Item 144</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_18" class="MercuryDocument">
+            <content eId="para_18__content">
+              <p xml:space="preserve">
+                <span class="italic">Joint Inspection Unit</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_19" class="MercuryDocument">
+            <content eId="para_19__content">
+              <p xml:space="preserve">	Note by the Secretary-General drawing attention to the report of the Joint Inspection Unit entitled “Review of contemporary practices in the external outsourcing of services to commercial service providers by United Nations system organizations”<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/en/A/75/551">A/75/551</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_20" class="MercuryDocument">
+            <content eId="para_20__content">
+              <p xml:space="preserve">	Note by the Secretary-General transmitting his comments and those of the United Nations System Chief Executives Board for Coordination on the report of the Joint Inspection Unit entitled “Review of contemporary practices in the external outsourcing of services to commercial service providers by United Nations system organizations”<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <a href="https://undocs.org/en/A/75/551/Add.1">A/75/551/Add.1</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="68th">68th plenary meeting</inline>
+            <eol />
+            <docDate date="2022-04-13" refersTo="#adoptionDate">13 April 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-548C/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-548C/"></FRBRuri>
+              <FRBRdate date="2022-06-29" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-548C/eng@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-548C/eng@/"></FRBRuri>
+              <FRBRdate date="2022-08-15" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-548C/eng@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-548C/eng@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-15" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="DHLAUTH">
+            <keyword value="UN. General Assembly (76th sess. : 2021-2022)" showAs="UN. General Assembly (76th sess. : 2021-2022)" dictionary="DHLAUTH"></keyword>
+            <keyword refersTo="agenda" value="136" showAs="Review of the efficiency of the administrative and financial functioning of the United Nations." shortForm="UN--ADMINISTRATION" dictionary="A/76/251"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-06-29" outcome="adopted" by="89th" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>C</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve">	At its 89th meeting, on 29 June 2022, the General Assembly, on the recommendation of the Fifth Committee<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/634/Add.2">A/76/634/Add.2</a>, para. 7.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve">
+                <span class="bold">Section A</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">	Decided to defer until the main part of its seventy-seventh session consideration of the following documents:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">
+                <span class="italic">Item 136</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_5" class="MercuryDocument">
+            <content eId="para_5__content">
+              <p xml:space="preserve">
+                <span class="italic">Review of the efficiency of the administrative and financial functioning of the United Nations</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_6" class="MercuryDocument">
+            <content eId="para_6__content">
+              <p xml:space="preserve">
+                <span class="italic">Investing in prevention and peacebuilding</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_7" class="MercuryDocument">
+            <content eId="para_7__content">
+              <p xml:space="preserve">	Report of the Secretary-General on investing in prevention and peacebuilding<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/732">A/76/732</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_8" class="MercuryDocument">
+            <content eId="para_8__content">
+              <p xml:space="preserve">	Related report of the Advisory Committee on Administrative and Budgetary Questions<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/821">A/76/821</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_9" class="MercuryDocument">
+            <content eId="para_9__content">
+              <p xml:space="preserve">
+                <span class="bold">Section B</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_10" class="MercuryDocument">
+            <content eId="para_10__content">
+              <p xml:space="preserve">	Decided to defer until the second part of its resumed seventy-seventh session consideration of the following documents:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_11" class="MercuryDocument">
+            <content eId="para_11__content">
+              <p xml:space="preserve">
+                <span class="italic">Item 153</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_12" class="MercuryDocument">
+            <content eId="para_12__content">
+              <p xml:space="preserve">
+                <span class="italic">Financing of the United Nations Operation in Côte d’Ivoire</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_13" class="MercuryDocument">
+            <content eId="para_13__content">
+              <p xml:space="preserve">	Report of the Secretary-General on the final performance of the United Nations Operation in Côte d’Ivoire<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/en/A/74/711">A/74/711</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_14" class="MercuryDocument">
+            <content eId="para_14__content">
+              <p xml:space="preserve">	Related report of the Advisory Committee on Administrative and Budgetary Questions<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve"> <a href="https://undocs.org/en/A/74/785">A/74/785</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_15" class="MercuryDocument">
+            <content eId="para_15__content">
+              <p xml:space="preserve">
+                <span class="italic">Item 160</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_16" class="MercuryDocument">
+            <content eId="para_16__content">
+              <p xml:space="preserve">
+                <span class="italic">Financing of the United Nations Mission in Liberia</span>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_17" class="MercuryDocument">
+            <content eId="para_17__content">
+              <p xml:space="preserve">	Report of the Secretary-General on the final performance of the United Nations Mission in Liberia<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"> <a href="https://undocs.org/en/A/75/684">A/75/684</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_18" class="MercuryDocument">
+            <content eId="para_18__content">
+              <p xml:space="preserve">	Related report of the Advisory Committee on Administrative and Budgetary Questions<authorialNote marker="17" placement="bottom" eId="authorialNote_17"><p xml:space="preserve"> <a href="https://undocs.org/en/A/75/823">A/75/823</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="89th">89th plenary meeting</inline>
+            <eol />
+            <docDate date="2022-06-29" refersTo="#adoptionDate">29 June 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>

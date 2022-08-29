@@ -1,0 +1,160 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-23/76-407/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-23/76-407/"></FRBRuri>
+          <FRBRdate date="2022-05-23" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-23/76-407/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-23/76-407/eng@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-23/76-407/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-23/76-407/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Advisory Committee on Administrative and Budgetary Questions" dictionary="DHLAUTH" showAs="UN. Advisory Committee on Administrative and Budgetary Questions"/>
+        <keyword value="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="APPOINTMENT OF MEMBERS"/>
+        <keyword value="117a" dictionary="A/76/251" showAs="Appointment of members of the Advisory Committee on Administrative and Budgetary Questions." shortForm="UN. ADVISORY COMMITTEE ON ADMINISTRATIVE AND BUDGETARY QUESTIONS--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-05-23" as="A/76/PV.74" outcome="adopted" by="74th" />
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Yves Éric AHOUSSOUGBEMEY" refersTo="Benin" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Amjad Qaid AL KUMAIM" refersTo="Yemen" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Makiese Kinkela AUGUSTO" refersTo="Angola" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Abdallah BACHAR BONG" refersTo="Chad" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Feliksas BAKANAUSKAS" refersTo="Lithuania" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Sharon BRENNEN-HAYLOCK" refersTo="Bahamas" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Donna-Marie CHIURAZZI-MAXFIELD" refersTo="United States of America" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Patrick A. CHUASOTO" refersTo="Philippines" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Jakub CHMIELEWSKI" refersTo="Poland" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Udo Klaus FENCHEL" refersTo="Germany" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Olivio FERMÍN" refersTo="Dominican Republic" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Marcel JULLIER" refersTo="Switzerland" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Nabil KALKOUL" refersTo="Algeria" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Evgeny KALUGIN" refersTo="Russian Federation" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Julia A. MACIEL" refersTo="Paraguay" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Vidisha MAITRA" refersTo="India" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Caroline NALWANGA" refersTo="Uganda" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Juliana Gaspar RUAS" refersTo="Brazil" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="SUZUKI Yoriko" refersTo="Japan" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="Cihan TERZI" refersTo="Turkey" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-23" as="Advisory Committee on Administrative and Budgetary Questions" by="YE Xuenong" refersTo="China" outcome="composition" akn4un:end="2022-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/407</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Seventy-sixth session</session>
+      </p>
+      <p>
+        <inline title="117 (a)" name="agenda item">Agenda item 117 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/407.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Appointment of members of the Advisory Committee on Administrative and Budgetary Questions</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> Decision 76/407, in section A of the <span class="italic">Official Records of the General Assembly, Seventy-sixth Session, Supplement No. 49</span> (<span class="underline"><a href="https://undocs.org/en/A/76/49(Vol.II)">A/76/49</a></span>), vol. II, becomes decision 76/407 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 74th plenary meeting, on 23 May 2022, the General Assembly, on the recommendation of the Fifth Committee,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/516/Add.1">A/76/516/Add.1</a>, para. 5.</p></authorialNote> appointed Evgeny Kalugin as a member of the Advisory Committee on Administrative and Budgetary Questions for a term of office beginning on 21 August 2022 and ending on 31 December 2023. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> As a result, as of 21 August 2022, the Advisory Committee on Administrative and Budgetary Questions is composed as follows: Yves Éric <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">houssougbemey</inline> (Benin),*** Amjad Qaid <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">l </inline><inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">umaim</inline> (<span class="italic">Yemen</span>),*** Makiese Kinkela <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">ugusto</inline> (<span class="italic">Angola</span>),*** Abdallah <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">achar</inline><inline name="smallCaps" style="font-variant:small-caps"> Bong</inline> (<span class="italic">Chad</span>),** Feliksas <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">akanauskas</inline> (<span class="italic">Lithuania</span>),** Sharon <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">rennen-Haylock</inline> (<span class="italic">Bahamas</span>),*** Donna-Marie <inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hiurazzi</inline><inline name="smallCaps" style="font-variant:small-caps">-Maxfield</inline> (<span class="italic">United States of America</span>),** Patrick A. <inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">huasoto</inline> (<span class="italic">Philippines</span>),* Jakub <inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hmielewski</inline> (<span class="italic">Poland</span>),*** Udo Klaus <inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">enchel</inline> (<span class="italic">Germany</span>),* Olivio <inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">ermín</inline> (<span class="italic">Dominican Republic</span>),* Marcel <inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">ullier</inline> (<span class="italic">Switzerland</span>),* Nabil <inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">alkoul</inline> (<span class="italic">Algeria</span>),** Evgeny <inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">alugin</inline> (<span class="italic">Russian Federation</span>),** Julia A. <inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">aciel</inline> (<span class="italic">Paraguay</span>),** Vidisha <inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">aitra</inline> (<span class="italic">India</span>),** Caroline <inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">alwanga</inline> (<span class="italic">Uganda</span>),** Juliana Gaspar <inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">uas</inline> (<span class="italic">Brazil</span>),** <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">uzuki</inline> Yoriko (<span class="italic">Japan</span>),* Cihan <inline name="smallCaps" style="font-variant:small-caps">T</inline><inline name="smallCaps" style="font-variant:small-caps">erzi</inline> (<span class="italic">Turkey</span>)** and <inline name="smallCaps" style="font-variant:small-caps">Ye </inline>Xuenong (<span class="italic">China</span>).* </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Term of office expires on 31 December 2022. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2023. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Term of office expires on 31 December 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="74th">74th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-05-23" refersTo="#adoptionDate">23 May 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
