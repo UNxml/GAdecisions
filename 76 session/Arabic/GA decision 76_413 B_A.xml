@@ -1,0 +1,197 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-10/76-413/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-10/76-413/"></FRBRuri>
+          <FRBRdate date="2022-06-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-10/76-413/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-10/76-413/ara@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-10/76-413/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-10/76-413/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Economic and Social Council" dictionary="DHLAUTH" showAs="UN. Economic and Social Council"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="115b" dictionary="A/76/251" showAs="Election of members of the Economic and Social Council." shortForm="UN. ECONOMIC AND SOCIAL COUNCIL--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-10" as="A/76/PV.81" outcome="adopted" by="81" />
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="الأرجنتين" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وإسرائيل" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وإسواتيني" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وأفغانستان" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وإندونيسيا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وإيطاليا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والبرازيل" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والبرتغال" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وبلجيكا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وبلغاريا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وبليز" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وبوتسوانا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وبوليفيا (دولة - المتعددة القوميات)" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وبيرو" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وتشيكيا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وتونس" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وجزر سليمان" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وجمهورية تنزانيا المتحدة" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وجمهورية كوريا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وجمهورية لاو الديمقراطية الشعبية" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والدانمرك" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وزمبابوي" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وسلوفاكيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وسلوفينيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والسويد" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وشيلي" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والصين" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وعمان" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وغواتيمالا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وغينيا الاستوائية" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وفرنسا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وقطر" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكابو فيردي" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكازاخستان" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والكاميرون" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكرواتيا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكندا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكوت ديفوار" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكوستاريكا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وكولومبيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وليبريا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وليبيا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وليختنشتاين" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="ومدغشقر" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والمكسيك" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="وموريشيوس" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="ونيجيريا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="ونيوزيلندا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والهند" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="والولايات المتحدة الأمريكية" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="واليابان" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-10" as="المجلس الاقتصادي والاجتماعي" by="" refersTo="واليونان" outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/413</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline title="115 (ب)" name="agenda item">البند 115 (ب) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/413</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب أعضاء في المجلس الاقتصادي والاجتماعي</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">باء</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> يصبح المقرر 76/413، الوارد في الفرع ألف من <span class="italic">الوثائق الرسمية للجمعية العامة، الدورة السادسة والسبعون، الملحق رقم 49 </span>(<span class="underline"><a href="https://undocs.org/ar/A/76/49">A/76/49</a></span>)، المجلد الثاني، المقرر 76/413 ألف.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="PlainText">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	انتخبت الجمعية العامة، في جلستها العامة 81، المعقودة في 10 حزيران/يونيه 2022، وفقا للمادة 140 من النظام الداخلي للجمعية، ليختنشتاين عضوا في المجلس الاقتصادي والاجتماعي للمدة المتبقية من فترة عضوية النمسا، ابتداء من 1 كانون الثاني/يناير 2023<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> انظر <a href="https://undocs.org/ar/A/76/852">A/76/852</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="PlainText">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	وفي الجلسة نفسها، انتخبت الجمعية العامة، وفقا للمادة 61 من ميثاق الأمم المتحدة، والمادة 145 من النظام الداخلي للجمعية العامة، والفقرة 17 من قرار الجمعية <a href="https://undocs.org/ar/A/RES/68/307">68/307</a> المؤرخ 10 أيلول/سبتمبر 2014 البرازيل وبوتسوانا وجمهورية كوريا وجمهورية لاو الديمقراطية الشعبية والدانمرك وسلوفاكيا وسلوفينيا والسويد والصين وغينيا الاستوائية وقطر وكابو فيردي والكاميرون وكوستاريكا وكولومبيا ونيوزيلندا واليونان أعضاء في المجلس الاقتصادي والاجتماعي لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2023 لملء الشواغر التي تنشأ عند انتهاء مدة عضوية الاتحاد الروسي وبنغلاديش وبنما وبنن وبوتسوانا وتايلند والجبل الأسود وجمهورية كوريا والدانمرك والصين وغابون وفنلندا وكولومبيا والكونغو ولاتفيا ونيكاراغوا ونيوزيلندا واليونان.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="PlainText">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	ونتيجة لذلك، يتألف المجلس الاقتصادي والاجتماعي، اعتبارا من 1 كانون الثاني/يناير 2023، من الدول الأعضاء التالية: الأرجنتين* وإسرائيل* وإسواتيني** وأفغانستان** وإندونيسيا* وإيطاليا** والبرازيل*** والبرتغال* وبلجيكا** وبلغاريا* وبليز** وبوتسوانا*** وبوليفيا (دولة - المتعددة القوميات)* وبيرو** وتشيكيا** وتونس** وجزر سليمان* وجمهورية تنزانيا المتحدة** وجمهورية كوريا*** وجمهورية لاو الديمقراطية الشعبية*** والدانمرك*** وزمبابوي* وسلوفاكيا*** وسلوفينيا*** والسويد*** وشيلي** والصين*** وعمان** وغواتيمالا* وغينيا الاستوائية*** وفرنسا* وقطر*** وكابو فيردي*** وكازاخستان** والكاميرون*** وكرواتيا** وكندا** وكوت ديفوار** وكوستاريكا*** وكولومبيا*** وليبريا* وليبيا* وليختنشتاين* ومدغشقر* والمكسيك* والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية* وموريشيوس** ونيجيريا* ونيوزيلندا*** والهند** والولايات المتحدة الأمريكية** واليابان* واليونان***. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="PlainText">
+        <content eId="para_4__content">
+          <p xml:space="preserve">______________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="PlainText">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="PlainText">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="PlainText">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="81">الجلسة العامة 81</inline>
+        <eol />
+        <docDate date="2022-06-10" refersTo="#adoptionDate">10 حزيران/يونيه 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

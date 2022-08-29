@@ -1,0 +1,472 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/"></FRBRuri>
+          <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/ara@/"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Commission on International Trade Law" dictionary="DHLAUTH" showAs="UN Commission on International Trade Law"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="116e" dictionary="A/76/251" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-29" outcome="adopted" by="89" />
+        <step date="2022-03-15" outcome="adopted" by="61" />
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الاتحاد الروسي" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الأرجنتين" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="أرمينيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="إسبانيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="أستراليا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="إسرائيل" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="أفغانستان" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="إكوادور" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="ألمانيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="إندونيسيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="أوغندا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="أوكرانيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="إيران (جمهورية - الإسلامية)" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="إيطاليا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="البرازيل" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="بلجيكا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="بلغاريا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="بنما" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="بولندا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="بيرو" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="بيلاروس" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="تايلند" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="تركمانستان" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="تركيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="تشيكيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الجزائر" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الجمهورية الدومينيكية" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="جمهورية كوريا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="جمهورية الكونغو الديمقراطية" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="جنوب أفريقيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="زمبابوي" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="سنغافورة" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="سويسرا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="شيلي" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الصومال" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الصين" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="العراق" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="غانا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="فرنسا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="فنزويلا (جمهورية – البوليفارية)" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="فنلندا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="فييت نام" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الكاميرون" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="كرواتيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="كندا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="كوت ديفوار" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="كولومبيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الكويت" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="كينيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="مالي" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="ماليزيا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="المغرب" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="المكسيك" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="ملاوي" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="المملكة العربية السعودية" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="موريشيوس" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="النمسا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="نيجيريا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الهند" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="هندوراس" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="هنغاريا" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="الولايات المتحدة الأمريكية" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="اليابان" outcome="composition" akn4un:end="2025"/>
+        <step date="2022-06-29" as="لجنة الأمم المتحدة للقانون التجاري الدولي" by="" refersTo="اليونان " outcome="composition" akn4un:end="2025"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/416</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline title="116 (ه)" name="agenda item">البند 116 (ه) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/416</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب أعضاء في لجنة الأمم المتحدة للقانون التجاري الدولي</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution ألف"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution باء"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/"></FRBRuri>
+              <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/ara@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-159/76-416A/ara@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="ara"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/ara@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/ara@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+            <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+            <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+            <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+            <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+            <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+            <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+            <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+            <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+            <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+            <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+            <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+            <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+            <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+            <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="UN Commission on International Trade Law" dictionary="DHLAUTH" showAs="UN Commission on International Trade Law"/>
+            <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+            <keyword value="116e" dictionary="A/76/251" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" refersTo="agenda"/>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-15" outcome="adopted" by="61" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>ألف</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> انتخبت الجمعية العامة، في جلستها العامة 61، المعقودة في 15 آذار/مارس 2022، ووفقا لأحكام الفقرات 1 إلى 3 من الجزء الثاني من قرارها 2205 (د-21) المؤرخ 17 كانون الأول/ديسمبر 1966، بالصيغة المعدلة بموجب الفقرة 8 من قرارها 3108 (د-28) المؤرخ 12 كانون الأول/ديسمبر 1973 والفقرة 10 (ب) من قرارها المؤرخ 15 كانون الأول/ديسمبر 1976، فضلا عن قراريها المؤرخ 19 تشرين الثاني/نوفمبر 2002 و المؤرخ 9 كانون الأول/ديسمبر 2021، الأرجنتين وأرمينيا وإسبانيا وأستراليا وإسرائيل وأفغانستان وأوغندا وإيران (جمهورية - الإسلامية) وإيطاليا والبرازيل وبلغاريا وبنما وبولندا وبيلاروس وتايلند وتركمانستان وتركيا وتشيكيا وجمهورية الكونغو الديمقراطية وشيلي والصومال والعراق وفنزويلا (جمهورية – البوليفارية) وكولومبيا والكويت وكينيا والمغرب وملاوي والمملكة العربية السعودية وموريشيوس والنمسا ونيجيريا والهند والولايات المتحدة الأمريكية أعضاء في لجنة الأمم المتحدة للقانون التجاري الدولي لفترة عضوية مدتها ست سنوات تبدأ في 27 حزيران/يونيه 2022، لملء الشواغر الناشئة بانتهاء فترة عضوية الأرجنتين وإسبانيا وأستراليا وإسرائيل وأوغندا وإيران (جمهورية - الإسلامية) وإيطاليا وباكستان والبرازيل وبوروندي وبولندا وبيلاروس وتايلند وتركيا وتشيكيا ورومانيا وسري لانكا وشيلي والفلبين وفنزويلا (جمهورية – البوليفارية) وكولومبيا وكينيا ولبنان وليبيا وليسوتو وموريشيوس والنمسا ونيجيريا والهند والولايات المتحدة الأمريكية، وخمسة مقاعد من المقاعد العشرة الإضافية المنصوص عليها في القرار</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="61">الجلسة العامة 61</inline>
+            <eol />
+            <docDate date="2022-03-15" refersTo="#adoptionDate">15 آذار/مارس 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/"></FRBRuri>
+              <FRBRdate date="2022-06-29" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/ara@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/ara@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="ara"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/ara@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/ara@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+            <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+            <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+            <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+            <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+            <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+            <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+            <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+            <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+            <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+            <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+            <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+            <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+            <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+            <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="UN Commission on International Trade Law" dictionary="DHLAUTH" showAs="UN Commission on International Trade Law"/>
+            <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+            <keyword value="116e" dictionary="A/76/251" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" refersTo="agenda"/>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-06-29" outcome="adopted" by="89" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>باء</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> انتخبت الجمعية العامة، في جلستها العامة 89، المعقودة في 29 حزيران/يونيه 2022، ووفقا لأحكام الفقرات 1 إلى 3 من الجزء الثاني من قرارها 2205 (د-21) المؤرخ 17 كانون الأول/ديسمبر 1966، بالصيغة المعدلة بموجب الفقرة 8 من قرارها 3108 (د-28) المؤرخ 12 كانون الأول/ديسمبر 1973 والفقرة 10 (ب) من قرارها المؤرخ 15 كانون الأول/ديسمبر 1976، فضلا عن قراريها المؤرخ 19 تشرين الثاني/نوفمبر 2002 و المؤرخ 9 كانون الأول/ديسمبر 2021، اليونان عضوا في لجنة الأمم المتحدة للقانون التجاري الدولي لفترة عضوية تبدأ في 29 حزيران/يونيه 2022 وتنتهي في اليوم الأخير السابق لبداية الدورة الحادية والستين للجنة في عام 2028.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve"> ونتيجة لذلك، تتألف لجنة الأمم المتحدة للقانون التجاري الدولي، اعتبارا من 29 حزيران/يونيه 2022، من الدول الأعضاء الـ 65 التالية<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> ووفقا للقرار <a href="https://undocs.org/ar/A/RES/76/109">76/109</a>، سينتخب الأعضاء الخمسة الإضافيون الباقون خلال الدورة التاسعة والسبعين للجمعية العامة.</p></authorialNote>: الاتحاد الروسي* والأرجنتين** وأرمينيا** وإسبانيا** وأستراليا** وإسرائيل** وأفغانستان** وإكوادور* وألمانيا* وإندونيسيا* وأوغندا** وأوكرانيا* وإيران (جمهورية - الإسلامية)** وإيطاليا** والبرازيل** وبلجيكا* وبلغاريا** وبنما** وبولندا** وبيرو* وبيلاروس** وتايلند** وتركمانستان** وتركيا** وتشيكيا** والجزائر* والجمهورية الدومينيكية* وجمهورية كوريا* وجمهورية الكونغو الديمقراطية* وجنوب أفريقيا* وزمبابوي* وسنغافورة* وسويسرا* وشيلي** والصومال** والصين* والعراق** وغانا* وفرنسا* وفنزويلا (جمهورية – البوليفارية)** وفنلندا* وفييت نام* والكاميرون* وكرواتيا* وكندا* وكوت ديفوار* وكولومبيا** والكويت** وكينيا** ومالي* وماليزيا* والمغرب** والمكسيك* وملاوي** والمملكة العربية السعودية** والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية* وموريشيوس** والنمسا** ونيجيريا** والهند** وهندوراس* وهنغاريا* والولايات المتحدة الأمريكية** واليابان* واليونان**. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">___________________ </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">* تنتهي مدة العضوية في آخر يوم قبل بداية الدورة الثامنة والخمسين للجنة في عام 2025. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_5" class="MercuryDocument">
+            <content eId="para_5__content">
+              <p xml:space="preserve">** تنتهي مدة العضوية في آخر يوم قبل بداية الدورة الحادية والستين للجنة في عام 2028.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="89">الجلسة العامة 89</inline>
+            <eol />
+            <docDate date="2022-06-29" refersTo="#adoptionDate">29 حزيران/يونيه 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>

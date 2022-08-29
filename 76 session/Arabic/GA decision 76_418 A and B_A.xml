@@ -1,0 +1,326 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/"></FRBRuri>
+          <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/ara@/"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-03-15" outcome="adopted" by="61" />
+        <step date="2022-03-18" outcome="adopted" by="62" />
+        <step date="2022-05-10" outcome="adopted" by="71" />
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="باكستان" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="البرازيل" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="السنغال" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="السويد" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="كرواتيا" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="كوستاريكا" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="الكويت" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="موريشيوس" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="تعيين أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة" by="" refersTo="الولايات المتحدة الأمريكية" outcome="composition" akn4un:end=" 2024-03-14"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/418</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline title="117 (ح)" name="agenda item">البند 117 (ح) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/418</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold"> تعيين أعضاء في مجلس إطار العمل ‏العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution ألف"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution باء"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/"></FRBRuri>
+              <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/ara@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/ara@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="ara"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/ara@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/ara@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+            <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+            <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+            <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+            <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-15" outcome="adopted" by="61" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>ألف</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> قررت الجمعية العامة، في جلستها العامة 61، المعقودة في 15 آذار/مارس 2022، أن تبدأ فترة عضوية أعضاء مجلس إطار العمل ‏العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة، ومدتها سنتان، في 15 آذار/مارس 2022، وهو تاريخ تعيينهم، مع مراعاة أحكام القرار المؤرخ 19 كانون الأول/ديسمبر 2014.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="61">الجلسة العامة 61</inline>
+            <eol />
+            <docDate date="2022-03-15" refersTo="#adoptionDate">15 آذار/مارس 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/"></FRBRuri>
+              <FRBRdate date="2022-03-18" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/ara@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/ara@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="ara"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/ara@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/ara@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+            <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+            <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+            <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+            <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-18" outcome="adopted" by="62" />
+            <step date="2022-05-10" outcome="adopted" by="71" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>باء</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> قررت الجمعية العامة، في جلستها العامة 61، المعقودة في 15 آذار/مارس 2022، وفقا للقرارين المؤرخ 21 كانون الأول/ديسمبر 2012 و المؤرخ 19 كانون الأول/ديسمبر 2014 والمقرر ألف المؤرخ 15 آذار/مارس 2022، تعيين السنغال والسويد وكرواتيا وكوستاريكا والكويت وموريشيوس والولايات المتحدة الأمريكية أعضاء في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة لفترة عضوية تبدأ في 15 آذار/مارس 2022 وتنتهي في 14 آذار/مارس 2024.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 62، المعقودة في 18 آذار/مارس 2022، وفقا للقرارين <a href="https://undocs.org/ar/A/RES/67/203">67/203</a> و <a href="https://undocs.org/ar/A/RES/69/214">69/214</a> والمقرر <a href="https://undocs.org/ar/A/RES/76/418">76/418</a> ألف، تعيين باكستان عضوا في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة لفترة عضوية تبدأ في 18 آذار/مارس 2022 وتنتهي في 14 آذار/مارس 2024. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 71، المعقودة في 10 أيار/مايو 2022، وفقا للقرارين <a href="https://undocs.org/ar/A/RES/67/203">67/203</a> و <a href="https://undocs.org/ar/A/RES/69/214">69/214</a> والمقرر <a href="https://undocs.org/ar/A/RES/76/418">76/418</a> ألف، تعيين البرازيل عضوا في مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة لفترة عضوية تبدأ في 10 أيار/مايو 2022 وتنتهي في 14 آذار/مارس 2024.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">	ونتيجة لذلك، يتألف مجلس إطار ‏العمل العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة، اعتبارا من 10 أيار/مايو 2022، من الدول الأعضاء التسع التالية<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> تقضي موريشيوس فترة ولايتها الثانية على التوالي. ولا يزال هناك شاغر واحد لعضو من دول أوروبا الشرقية يتعين ملؤه لفترة عضوية تبدأ بتاريخ التعيين وتنتهي في 14 آذار/مارس 2024.</p></authorialNote>: باكستان* والبرازيل* والسنغال* والسويد* وكرواتيا* وكوستاريكا* والكويت* وموريشيوس* والولايات المتحدة الأمريكية*.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_5" class="MercuryDocument">
+            <content eId="para_5__content">
+              <p xml:space="preserve">__________________ </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_6" class="MercuryDocument">
+            <content eId="para_6__content">
+              <p xml:space="preserve">* تنتهي مدة العضوية في 14 آذار/مارس 2024.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="62">الجلسة العامة 62</inline>
+            <inline name="adoptionMeeting" title="71">الجلسة العامة 71</inline>
+            <eol />
+            <docDate date="2022-03-18" refersTo="#adoptionDate">18 آذار/مارس 2022</docDate>
+            <docDate date="2022-05-10" refersTo="#adoptionDate">10 أيار/مايو 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>
