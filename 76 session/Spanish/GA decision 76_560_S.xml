@@ -1,0 +1,112 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-26/76-560/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-26/76-560/"></FRBRuri>
+          <FRBRdate date="2022-04-26" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-26/76-560/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-26/76-560/spa@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-26/76-560/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-26/76-560/spa@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Permanent Forum on Indigenous Issues" showAs="UN. Permanent Forum on Indigenous Issues" dictionary="DHLAUTH"></keyword>
+        <keyword value="INDIGENOUS PEOPLES" showAs="INDIGENOUS PEOPLES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="NON-STATE ACTORS" showAs="NON-STATE ACTORS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="POPULAR PARTICIPATION" showAs="POPULAR PARTICIPATION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="COVID-19" showAs="COVID-19" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="71" showAs="Rights of indigenous peoples." dictionary="A/76/251"></keyword>
+        <keyword refersTo="agenda" value="71a" showAs="Rights of indigenous peoples." shortForm="INDIGENOUS PEOPLES" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-04-14" outcome="draftDecision" as="A/76/L.51" by="submitted by the President of the General Assembly"/>
+        <step date="2022-04-26" as="A/76/PV.69" outcome="adopted" by="69ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/560</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="71" name="agenda item">Tema 71 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/560.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Audiencia interactiva oficiosa con los pueblos indígenas</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	En su 69ª sesión plenaria, celebrada el 26 de abril de 2022, la Asamblea General, a propuesta de su Presidencia<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.51">A/76/L.51</a>.</p></authorialNote>, recordando su resolución <a href="https://undocs.org/es/A/RES/71/321">71/321</a>, de 8 de septiembre de 2017, en la que solicitó a la Presidencia de la Asamblea General que durante su septuagésimo cuarto período de sesiones organizara y presidiera una audiencia interactiva oficiosa con los pueblos indígenas y preparara un resumen de la audiencia, en forma paralela al período de sesiones del Foro Permanente para las Cuestiones Indígenas, asegurando que, en la medida de lo posible, hubiera una representación regional equilibrada, y recordando también sus decisiones 74/565, de 12 de agosto de 2020, y 75/561, de 16 de abril de 2021, en las que aplazó hasta sus períodos de sesiones septuagésimo quinto y septuagésimo sexto, respectivamente, la organización de la audiencia interactiva oficiosa con los pueblos indígenas, y observando con preocupación la situación creada por la enfermedad por coronavirus (COVID‑19), decidió aplazar hasta su septuagésimo séptimo período de sesiones la solicitud a la Presidencia de la Asamblea General de que organizara y presidiera una audiencia interactiva oficiosa con los pueblos indígenas y preparara un resumen de la audiencia.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="69ª">69ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-04-26" refersTo="#adoptionDate">26 de abril de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

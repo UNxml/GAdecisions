@@ -1,0 +1,146 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/"></FRBRuri>
+          <FRBRdate date="2022-06-09" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/spa@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/spa@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ECUADOR" showAs="ECUADOR" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="JAPAN" showAs="JAPAN" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MALTA" showAs="MALTA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MOZAMBIQUE" showAs="MOZAMBIQUE" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SWITZERLAND" showAs="SWITZERLAND" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115a" showAs="Election of non-permanent members of the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-09" as="A/76/PV.79" outcome="adopted" by="79ª" />
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Albania" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Brasil" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="China" outcome="composition"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Ecuador" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Emiratos Árabes Unidos" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Estados Unidos de América" outcome="composition"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Federación de Rusia" outcome="composition"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Francia" outcome="composition"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Gabón" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Ghana" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Japón" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Malta" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Mozambique" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Reino Unido de Gran Bretaña e Irlanda del Norte" outcome="composition"/>
+        <step date="2022-06-09" as="Consejo de Seguridad" by="" refersTo="Suiza" outcome="composition" akn4un:end="2024-12-31"/>         
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/422</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="115 a)" name="agenda item">Tema 115 a) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/422.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de miembros no permanentes del Consejo de Seguridad</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	En su 79ª sesión plenaria, celebrada el 9 de junio de 2022, la Asamblea General, de conformidad con el Artículo 23 de la Carta de las Naciones Unidas, el artículo 142 de su Reglamento y el párrafo 17 de su resolución <a href="https://undocs.org/sp/A/RES/68/307">68/307</a>, de 10 de septiembre de 2014, eligió al <inline name="smallCaps" style="font-variant:small-caps">Ecuador</inline>, el <inline name="smallCaps" style="font-variant:small-caps">Japón, Malta, Mozambique</inline> y <inline name="smallCaps" style="font-variant:small-caps">Suiza</inline> miembros no permanentes del Consejo de Seguridad para un mandato de dos años que comenzaría el 1 de enero de 2023, a fin de llenar las vacantes que se producirían al término de los mandatos de la <inline name="smallCaps" style="font-variant:small-caps">India, Irlanda, Kenya, México</inline> y <inline name="smallCaps" style="font-variant:small-caps">Noruega</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En consecuencia, a partir del 1 de enero de 2023 el Consejo de Seguridad quedará integrado por los 15 Estados Miembros siguientes: <inline name="smallCaps" style="font-variant:small-caps">Albania*, Brasil*, China, Ecuador**, Emiratos Árabes Unidos*, Estados Unidos de América, Federación de Rusia, Francia, Gabón*, Ghana*, Japón**, Malta**, Mozambique**, Reino Unido de Gran Bretaña e Irlanda del Norte</inline> y <inline name="smallCaps" style="font-variant:small-caps">Suiza</inline>**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	El mandato termina el 31 de diciembre de 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	El mandato termina el 31 de diciembre de 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="79ª">79ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-06-09" refersTo="#adoptionDate">9 de junio de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

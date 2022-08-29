@@ -1,0 +1,128 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/"></FRBRuri>
+          <FRBRdate date="2022-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/spa@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/spa@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Vice-President" showAs="UN. General Assembly. Vice-President" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="6" showAs="Election of the Vice-Presidents of the General Assembly." shortForm="UN. GENERAL ASSEMBLY (76TH SESS. : 2021-2022)--VICE-PRESIDENTS" dictionary="A/76/251"></keyword>
+        <keyword refersTo="agenda" value="6" showAs="Election of the Vice-Presidents of the General Assembly." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--VICE-PRESIDENTS" dictionary="A/77/50"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-07" as="A/76/PV.75" outcome="adopted" by="75ª" />
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo="Australia" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Benin" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Burundi" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Chile" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" China" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" El Salvador" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Estados Unidos de América" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Federación de Rusia" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Francia" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Israel" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Jamaica" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Kenya" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Malasia" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Mauritania" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Nepal" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Níger" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Reino Unido de Gran Bretaña e Irlanda del Norte" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Tayikistán" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Turkmenistán" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo=" Viet Nam" outcome="composition"/>
+        <step date="2022-06-07" as="Vicepresidencia de la Asamblea General" by="" refersTo="Zimbabwe" outcome="composition"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/420</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="6" name="agenda item">Tema 6 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/420.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de las Vicepresidencias de la Asamblea General en su septuagésimo séptimo período de sesiones</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 75ª sesión plenaria, celebrada el 7 de junio de 2022, la Asamblea General, de conformidad con el artículo 30 de su Reglamento y con los párrafos 2 y 3 del anexo de la resolución <a href="https://undocs.org/es/A/RES/33/138">33/138</a>, de 19 de diciembre de 1978, eligió a los 21 Estados Miembros siguientes para ocupar las Vicepresidencias de la Asamblea General en su septuagésimo séptimo período de sesiones: <inline name="smallCaps" style="font-variant:small-caps">Australia, Benin, Burundi, Chile, China, El Salvador, Estados Unidos de América, Federación de Rusia, Francia, Israel, Jamaica, Kenya, Malasia, Mauritania, Nepal, Níger, Reino Unido de Gran Bretaña e Irlanda del Norte, Tayikistán, Turkmenistán, Viet Nam</inline> y <inline name="smallCaps" style="font-variant:small-caps">Zimbabwe</inline>.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="75ª">75ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-06-07" refersTo="#adoptionDate">7 de junio de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

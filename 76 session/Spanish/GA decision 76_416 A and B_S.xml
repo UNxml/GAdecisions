@@ -1,0 +1,473 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+        <identification source="#DGACM">
+          <FRBRWork>
+            <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/!main/"></FRBRthis>
+            <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/"></FRBRuri>
+            <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+            <FRBRauthor href="ga" as="author"></FRBRauthor>
+            <FRBRcountry value="un"></FRBRcountry>
+          </FRBRWork>
+          <FRBRExpression>
+            <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@!main/"></FRBRthis>
+            <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@/"></FRBRuri>
+            <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+            <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+            <FRBRlanguage language="spa"></FRBRlanguage>
+          </FRBRExpression>
+          <FRBRManifestation>
+            <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@/!main.xml"></FRBRthis>
+            <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416/spa@.xml"></FRBRuri>
+            <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+            <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+          </FRBRManifestation>
+        </identification>
+        <classification source="http://metadata.un.org/sdg">
+          <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+          <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+          <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+          <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+          <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+        </classification>
+        <classification source="http://metadata.un.org/sdg">
+          <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+          <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+          <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+        </classification>
+        <classification source="http://metadata.un.org/sdg">
+          <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+          <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+          <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+          <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+          <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+          <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+          <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+          <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+          <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+        </classification>
+        <classification source="http://metadata.un.org/sdg">
+          <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+          <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+          <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+          <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+          <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+          <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+          <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+          <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+        </classification>
+        <classification source="http://metadata.un.org/sdg">
+          <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+          <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+          <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+          <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+          <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+          <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+          <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+          <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+          <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+          <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+          <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+        </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Commission on International Trade Law" dictionary="DHLAUTH" showAs="UN Commission on International Trade Law"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="116e" dictionary="A/76/251" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" refersTo="agenda"/>
+      </classification>
+        <workflow source="#un">
+          <step date="2022-03-15" outcome="adopted" by="61ª" />
+          <step date="2022-06-29" outcome="adopted" by="89ª" />
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Alemania" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Afganistán" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Arabia Saudita" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Argelia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Argentina" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Armenia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Australia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Austria" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Belarús" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Bélgica" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Brasil" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Bulgaria" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Camerún" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Canadá" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Chequia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Chile" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="China" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Colombia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Côte d’Ivoire" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Croacia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Ecuador" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="España" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Estados Unidos de América" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Federación de Rusia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Finlandia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Francia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Ghana" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Grecia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Honduras" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Hungría" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="India" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Indonesia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Irán (República Islámica del)" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Iraq" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Israel" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Italia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Japón" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Kenya" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Kuwait" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Malasia" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Malawi" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Malí" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Marruecos" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Mauricio" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="México" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Nigeria" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Panamá" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Perú" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Polonia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Reino Unido de Gran Bretaña e Irlanda del Norte" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="República de Corea" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="República Democrática del Congo" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="República Dominicana" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Singapur" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Somalia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Sudáfrica" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Suiza" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Tailandia" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Turquía" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Turkmenistán" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Uganda" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Ucrania" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Venezuela (República Bolivariana de)" outcome="composition" akn4un:end="2028"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Viet Nam" outcome="composition" akn4un:end="2025"/>
+          <step date="2022-06-29" as="Comisión de las Naciones Unidas para el Derecho Mercantil Internacional" by="Zimbabwe" outcome="composition" akn4un:end="2025"/>
+        </workflow>
+        <analysis source="#un">
+          <parliamentary>
+            <voting>
+              <quorum value=""/>
+            </voting>
+          </parliamentary>
+        </analysis>
+        <references source="#DGACM">
+          <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+          <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+          <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+          <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+          <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+          <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+          <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+          <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+          <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+        </references>
+       
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/416</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="116 e)" name="agenda item">Tema 116 e) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/416.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de miembros de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution A"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution B"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/"></FRBRuri>
+              <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/spa@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/spa@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="spa"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/spa@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-416A/spa@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+            <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+            <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+            <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+            <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+            <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+            <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+            <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+            <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+            <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+            <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+            <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+            <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+            <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+            <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="UN Commission on International Trade Law" dictionary="DHLAUTH" showAs="UN Commission on International Trade Law"/>
+            <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+            <keyword value="116e" dictionary="A/76/251" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" refersTo="agenda"/>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-15" outcome="adopted" by="61ª" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""/>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>A</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> En su 61ª sesión plenaria, celebrada el 15 de marzo de 2022, la Asamblea General, de conformidad con la sección II, párrafos 1 a 3, de su resolución <a href="https://undocs.org/sp/A/RES/2205 (XXI)">2205 (XXI)</a>, de 17 de diciembre de 1966, enmendada en virtud del párrafo 8 de su resolución <a href="https://undocs.org/sp/A/RES/3108 (XXVIII)">3108 (XXVIII)</a>, de 12 de diciembre de 1973, y del párrafo 10 b) de su resolución <a href="https://undocs.org/sp/A/RES/31/99">31/99</a>, de 15 de diciembre de 1976, así como de sus resoluciones <a href="https://undocs.org/sp/A/RES/57/20">57/20</a>, de 19 de noviembre de 2002, y <a href="https://undocs.org/sp/A/RES/76/109">76/109</a>, de 9 de diciembre de 2021, eligió al Afganistán, la Arabia Saudita, la Argentina, Armenia, Australia, Austria, Belarús, el Brasil, Bulgaria, Chequia, Chile, Colombia, España, los Estados Unidos de América, la India, Irán (República Islámica del), el Iraq, Israel, Italia, Kenya, Kuwait, Malawi, Marruecos, Mauricio, Nigeria, Panamá, Polonia, la República Democrática del Congo, Somalia, Tailandia, Turquía, Turkmenistán, Uganda y Venezuela (República Bolivariana de) miembros de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional para un mandato de seis años que comenzaría el 27 de junio de 2022, a fin de llenar las vacantes que se producirían al término de los mandatos de la Argentina, Australia, Austria, Belarús, el Brasil, Burundi, Chequia, Chile, Colombia, España, los Estados Unidos de América, Filipinas, la India, Irán (República Islámica del), Israel, Italia, Kenya, Lesotho, el Líbano, Libia, Mauricio, Nigeria, el Pakistán, Polonia, Rumania, Sri Lanka, Tailandia, Turquía, Uganda y Venezuela (República Bolivariana de) y cinco de los diez puestos adicionales establecidos en la resolución <a href="https://undocs.org/sp/A/RES/76/109">76/109</a>.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="61ª">61ª sesión plenaria</inline>
+            <eol />
+            <docDate date="2022-03-15" refersTo="#adoptionDate">15 de marzo de 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/"></FRBRuri>
+              <FRBRdate date="2022-06-29" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/spa@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/spa@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="spa"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/spa@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-29/76-416B/spa@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+            <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+            <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+            <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+            <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+            <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+            <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+            <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+            <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+            <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+            <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+            <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+            <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+            <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+            <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+            <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+            <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+            <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+            <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="UN Commission on International Trade Law" dictionary="DHLAUTH" showAs="UN Commission on International Trade Law"/>
+            <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+            <keyword value="116e" dictionary="A/76/251" showAs="Election of members of the United Nations Commission on International Trade Law." shortForm="UN COMMISSION ON INTERNATIONAL TRADE LAW--MEMBERS" refersTo="agenda"/>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-06-29" outcome="adopted" by="89ª" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""/>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>B</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> En su 89ª sesión plenaria, celebrada el 29 de junio de 2022, la Asamblea General, de conformidad con la sección II, párrafos 1 a 3, de su resolución <a href="https://undocs.org/sp/A/RES/2205 (XXI)">2205 (XXI)</a>, de 17 de diciembre de 1966, enmendada en virtud del párrafo 8 de su resolución <a href="https://undocs.org/sp/A/RES/3108 (XXVIII)">3108 (XXVIII)</a>, de 12 de diciembre de 1973, y del párrafo 10 b) de su resolución <a href="https://undocs.org/sp/A/RES/31/99">31/99</a>, de 15 de diciembre de 1976, así como de sus resoluciones <a href="https://undocs.org/sp/A/RES/57/20">57/20</a>, de 19 de noviembre de 2002, y <a href="https://undocs.org/sp/A/RES/76/109">76/109</a>, de 9 de diciembre de 2021, eligió a Grecia miembro de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional para un mandato que comenzaría el 29 de junio de 2022 y expiraría el último día anterior al comienzo del 61<sup>er</sup> período de sesiones de la Comisión, en 2028. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve"> En consecuencia, a partir del 29 de junio de 2022, la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional quedó integrada por los 65 Estados Miembros siguientes<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> De conformidad con la resolución <a href="https://undocs.org/es/A/RES/76/109">76/109</a>, los cinco miembros adicionales restantes serán elegidos durante el septuagésimo noveno período de sesiones de la Asamblea General.</p></authorialNote>: <inline name="smallCaps" style="font-variant:small-caps">Alemania*, Afganistán**, Arabia Saudita**, Argelia*, Argentina**, Armenia**, Australia**, Austria**, Belarús**, Bélgica*, Brasil**, Bulgaria**, Camerún*, Canadá*, Chequia**, Chile**, China*, Colombia**, Côte d’Ivoire*, Croacia*, Ecuador*, España**, Estados Unidos de América**, Federación de Rusia*, Finlandia*, Francia*, Ghana*, Grecia**, Honduras*, Hungría*, India**, Indonesia*, Irán (República Islámica del)**, Iraq**, Israel**, Italia**, </inline><inline name="smallCaps" style="font-variant:small-caps">Japón*, Kenya**, Kuwait**, Malasia*, Malawi**, Malí*, Marruecos**, Mauricio**, México*, Nigeria**, Panamá**, Perú*, Polonia**, Reino Unido de Gran Bretaña e Irlanda del Norte*, República de Corea*, República Democrática del Congo**, República Dominicana*, Singapur*, Somalia**, Sudáfrica*, Suiza*, Tailandia**, Turquía**, Turkmenistán**, Uganda**, Ucrania*, Venezuela (República Bolivariana de)**, Viet Nam*</inline> y <inline name="smallCaps" style="font-variant:small-caps">Zimbabwe</inline>*. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">___________________ </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">* El mandato termina el día anterior a la apertura del 58º período de sesiones de la Comisión, en 2025. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_5" class="MercuryDocument">
+            <content eId="para_5__content">
+              <p xml:space="preserve">** El mandato termina el día anterior a la apertura del 61<sup>er</sup> período de sesiones de la Comisión, en 2028.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="89ª">89ª sesión plenaria</inline>
+            <eol />
+            <docDate date="2022-06-29" refersTo="#adoptionDate">29 de junio de 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>
