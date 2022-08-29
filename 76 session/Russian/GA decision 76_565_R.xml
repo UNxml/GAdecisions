@@ -1,0 +1,562 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/"></FRBRuri>
+          <FRBRdate date="2022-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@/"></FRBRuri>
+          <FRBRdate date="2022-08-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-13" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (76th sess. : 2021-2022). High-Level Meeting on Improving Global Road Safety" showAs="UN. General Assembly (76th sess. : 2021-2022). High-Level Meeting on Improving Global Road Safety" dictionary="DHLAUTH"></keyword>
+        <keyword value="TRAFFIC SAFETY" showAs="TRAFFIC SAFETY" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ROAD TRAFFIC" showAs="ROAD TRAFFIC" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="13" showAs="Improving global road safety." shortForm="TRAFFIC SAFETY" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-01" outcome="draftDecision" as="A/76/L.61" by="submitted by the President of the General Assembly"/>
+        <step date="2022-06-07" as="A/76/PV.76" outcome="adopted" by="76-е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/565</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#plenaryMeeting">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Семьдесят шестая сессия</session>
+      </p>
+      <p>
+        <inline title="13" name="agenda item">Пункт 13 повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/565.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Участие неправительственных организаций, организаций гражданского общества, академических учреждений и частного сектора в заседании высокого уровня по вопросу о повышении безопасности дорожного движения во всем мире</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 76‑м пленарном заседании 7 июня 2022 года Генеральная Ассамблея по предложению своего Председателя<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.61">A/76/L.61</a></span>.</p></authorialNote>, сославшись на пункт 11 своей резолюции <a href="https://undocs.org/ru/A/RES/75/308">75/308</a> от 21 июля 2021 года, постановила одобрить участие соответствующих неправительственных организаций, организаций гражданского общества, академических учреждений и структур частного сектора, перечисленных в приложении к настоящему решению, в заседании Генеральной Ассамблеи высокого уровня по вопросу о повышении безопасности дорожного движения во всем мире, в том числе в работе его дискуссионных форумов.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="76-е">76‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-06-07" refersTo="#adoptionDate">7 июня 2022 года</docDate>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/"></FRBRuri>
+                <FRBRdate date="2022-06-07" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@/"></FRBRuri>
+                <FRBRdate date="2022-08-13" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="rus"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-565/rus@.xml"></FRBRuri>
+                <FRBRdate date="2022-08-13" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_3" class="MercuryDocument">
+              <content eId="para_3__content">
+                <p xml:space="preserve">Приложение</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_4" class="MercuryDocument">
+              <content eId="para_4__content">
+                <p xml:space="preserve">Организация «Более совершенный Камерун»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_5" class="MercuryDocument">
+              <content eId="para_5__content">
+                <p xml:space="preserve">Фонд AB InBev</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_6" class="MercuryDocument">
+              <content eId="para_6__content">
+                <p xml:space="preserve">«Эдванст инжиниринг консалтантс лимитед»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_7" class="MercuryDocument">
+              <content eId="para_7__content">
+                <p xml:space="preserve">Объединенная сеть адвокатов</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="MercuryDocument">
+              <content eId="para_8__content">
+                <p xml:space="preserve">«Аменд»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="MercuryDocument">
+              <content eId="para_9__content">
+                <p xml:space="preserve">АНКАП Безопасность</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="MercuryDocument">
+              <content eId="para_10__content">
+                <p xml:space="preserve">Ассоциация «Скорбящие матери»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="MercuryDocument">
+              <content eId="para_11__content">
+                <p xml:space="preserve">Ассоциация за безопасное международное дорожное движение (АБМДД)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="MercuryDocument">
+              <content eId="para_12__content">
+                <p xml:space="preserve">Международная ассоциация АСЧГИД (Ассоциация солидарности через гуманитарные императивные действия) </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="MercuryDocument">
+              <content eId="para_13__content">
+                <p xml:space="preserve">Ассоциация за продвижение медицинской помощи в связи с дорожным травматизмом (AПМПДТ)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="MercuryDocument">
+              <content eId="para_14__content">
+                <p xml:space="preserve">Австралазийский колледж по безопасности дорожного движения</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="MercuryDocument">
+              <content eId="para_15__content">
+                <p xml:space="preserve">«Автолив»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="MercuryDocument">
+              <content eId="para_16__content">
+                <p xml:space="preserve">Организация «Избегайте несчастных случаев»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="MercuryDocument">
+              <content eId="para_17__content">
+                <p xml:space="preserve">Центр по консультированию пострадавших в дорожных происшествиях –– CCVR (Румыния)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="MercuryDocument">
+              <content eId="para_18__content">
+                <p xml:space="preserve">Коалиция за безопасное передвижение "Сентрико реп."</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="MercuryDocument">
+              <content eId="para_19__content">
+                <p xml:space="preserve">Китайский центр автомобильных технологий и исследований</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="MercuryDocument">
+              <content eId="para_20__content">
+                <p xml:space="preserve">Христианский фонд помощи (Пакистан)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="MercuryDocument">
+              <content eId="para_21__content">
+                <p xml:space="preserve">Фонд д-ра Юсуфа Джона Суберу</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="MercuryDocument">
+              <content eId="para_22__content">
+                <p xml:space="preserve">«Драйвскул интерпрайзес»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="MercuryDocument">
+              <content eId="para_23__content">
+                <p xml:space="preserve">Проект по регенерации Земли (Сьерра-Леоне)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_24" class="MercuryDocument">
+              <content eId="para_24__content">
+                <p xml:space="preserve">Восточный альянс за безопасный и экологичный транспорт</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_25" class="MercuryDocument">
+              <content eId="para_25__content">
+                <p xml:space="preserve">Эфиопское общество специалистов по скорой и неотложной помощи</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_26" class="MercuryDocument">
+              <content eId="para_26__content">
+                <p xml:space="preserve">«Фалькони»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_27" class="MercuryDocument">
+              <content eId="para_27__content">
+                <p xml:space="preserve">Фонд экологической безопасности (ФЭБ)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_28" class="MercuryDocument">
+              <content eId="para_28__content">
+                <p xml:space="preserve">Фонд Гонсало Родригеса</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_29" class="MercuryDocument">
+              <content eId="para_29__content">
+                <p xml:space="preserve">«Гейтвей ассосиатс (Соединенноре Корорлевство)»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_30" class="MercuryDocument">
+              <content eId="para_30__content">
+                <p xml:space="preserve">Грузинский альянс за безопасные дороги</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_31" class="MercuryDocument">
+              <content eId="para_31__content">
+                <p xml:space="preserve">Глобальная программа оценки новых автомобилей</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_32" class="MercuryDocument">
+              <content eId="para_32__content">
+                <p xml:space="preserve">Глобальное партнерство по обеспечению безопасности дорожного движения</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_33" class="MercuryDocument">
+              <content eId="para_33__content">
+                <p xml:space="preserve">Инициатива «Зеленый свет»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_34" class="MercuryDocument">
+              <content eId="para_34__content">
+                <p xml:space="preserve">Организация «Гуманность во всем мире» (ГВВМ)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_35" class="MercuryDocument">
+              <content eId="para_35__content">
+                <p xml:space="preserve">Организация «Сделай свое общество лучше» (ОССОЛ)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_36" class="MercuryDocument">
+              <content eId="para_36__content">
+                <p xml:space="preserve">Индийский альянс НПО за безопасность дорожного движения</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_37" class="MercuryDocument">
+              <content eId="para_37__content">
+                <p xml:space="preserve">Институт государственной дипломатии</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_38" class="MercuryDocument">
+              <content eId="para_38__content">
+                <p xml:space="preserve">Институт «Более безопасная Африка» (ИББА)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_39" class="MercuryDocument">
+              <content eId="para_39__content">
+                <p xml:space="preserve">Международное партнерство пострадавших в дорожно-транспортных происшествиях –– МППДТП</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_40" class="MercuryDocument">
+              <content eId="para_40__content">
+                <p xml:space="preserve">ИСХАКА 2250</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_41" class="MercuryDocument">
+              <content eId="para_41__content">
+                <p xml:space="preserve">Университет Джимма</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_42" class="MercuryDocument">
+              <content eId="para_42__content">
+                <p xml:space="preserve">«Джонсон энд Джонсон»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_43" class="MercuryDocument">
+              <content eId="para_43__content">
+                <p xml:space="preserve">Фонд «Продолжаем бороться»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_44" class="MercuryDocument">
+              <content eId="para_44__content">
+                <p xml:space="preserve">Целевой фонд за требование безопасности дорожного движения «Квапда’ас» (ТБДДК)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_45" class="MercuryDocument">
+              <content eId="para_45__content">
+                <p xml:space="preserve">Ассоциация за безопасность дорожного движения «Друзья дорог»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_46" class="MercuryDocument">
+              <content eId="para_46__content">
+                <p xml:space="preserve">Лига против насилия на дорогах</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_47" class="MercuryDocument">
+              <content eId="para_47__content">
+                <p xml:space="preserve">Фонд Мадана Бхандари</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_48" class="MercuryDocument">
+              <content eId="para_48__content">
+                <p xml:space="preserve">Фонд НАСА (Непал)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_49" class="MercuryDocument">
+              <content eId="para_49__content">
+                <p xml:space="preserve">Фонд «Потребности сирот»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_50" class="MercuryDocument">
+              <content eId="para_50__content">
+                <p xml:space="preserve">Непальская автомобильная ассоциация (НАСА Непал)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_51" class="MercuryDocument">
+              <content eId="para_51__content">
+                <p xml:space="preserve">Сеть работодателей за безопасность дорожного движения (СРБДД)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_52" class="MercuryDocument">
+              <content eId="para_52__content">
+                <p xml:space="preserve">Фонд «Орисса взывает»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_53" class="MercuryDocument">
+              <content eId="para_53__content">
+                <p xml:space="preserve">ОХАНА 503</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_54" class="MercuryDocument">
+              <content eId="para_54__content">
+                <p xml:space="preserve">«Оринтинг ОНГД»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_55" class="MercuryDocument">
+              <content eId="para_55__content">
+                <p xml:space="preserve">Профилактика дорожно-транспортных происшествий ––ПДТП</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_56" class="MercuryDocument">
+              <content eId="para_56__content">
+                <p xml:space="preserve">«Пирелли»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_57" class="MercuryDocument">
+              <content eId="para_57__content">
+                <p xml:space="preserve">Общественное объединение «Безопасность дорожного движения»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_58" class="MercuryDocument">
+              <content eId="para_58__content">
+                <p xml:space="preserve">Сетевой центр по профилактике дорожно-транспортных происшествий</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_59" class="MercuryDocument">
+              <content eId="para_59__content">
+                <p xml:space="preserve">Фонд за бдительность в вопросе безопасности дорожного движения</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_60" class="MercuryDocument">
+              <content eId="para_60__content">
+                <p xml:space="preserve">Ассоциация за безопасность дорожного движения</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_61" class="MercuryDocument">
+              <content eId="para_61__content">
+                <p xml:space="preserve">Совет по безопасности дорожного движения Пакистана</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_62" class="MercuryDocument">
+              <content eId="para_62__content">
+                <p xml:space="preserve">Новаторы в вопросе безопасности дорожного движения (НВБДД)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_63" class="MercuryDocument">
+              <content eId="para_63__content">
+                <p xml:space="preserve">Сеть развития пользователей дорог Нигерии</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_64" class="MercuryDocument">
+              <content eId="para_64__content">
+                <p xml:space="preserve">СЭЙФ Индия (Общественное объединение для всех)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_65" class="MercuryDocument">
+              <content eId="para_65__content">
+                <p xml:space="preserve">«Сейф кидз Малайзия» Университет Путра Малайзия</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_66" class="MercuryDocument">
+              <content eId="para_66__content">
+                <p xml:space="preserve">Организация «Более безопасные дороги и автомагистрали Австралии»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_67" class="MercuryDocument">
+              <content eId="para_67__content">
+                <p xml:space="preserve">Технологии экспертов по безопасности (Марокко)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_68" class="MercuryDocument">
+              <content eId="para_68__content">
+                <p xml:space="preserve">Санкалп Джиоти</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_69" class="MercuryDocument">
+              <content eId="para_69__content">
+                <p xml:space="preserve">Секурутэ</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_70" class="MercuryDocument">
+              <content eId="para_70__content">
+                <p xml:space="preserve">Сиже Глобал Нигерия Лимитед</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_71" class="MercuryDocument">
+              <content eId="para_71__content">
+                <p xml:space="preserve">SOS дорожные преступления — Панэллинская ассоциация жертв дорожных преступлений, Греция</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_72" class="MercuryDocument">
+              <content eId="para_72__content">
+                <p xml:space="preserve">Организация «Южноафриканцы против вождения в нетрезвом виде» –– ЮПВНВ</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_73" class="MercuryDocument">
+              <content eId="para_73__content">
+                <p xml:space="preserve">Совет по устойчивому развитию</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_74" class="MercuryDocument">
+              <content eId="para_74__content">
+                <p xml:space="preserve">Сватантрата Абхиян Непал</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_75" class="MercuryDocument">
+              <content eId="para_75__content">
+                <p xml:space="preserve">«Тарик эссалама Бежайя»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_76" class="MercuryDocument">
+              <content eId="para_76__content">
+                <p xml:space="preserve">Спортивное общество «Тракс»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_77" class="MercuryDocument">
+              <content eId="para_77__content">
+                <p xml:space="preserve">Союз велосипедистов Бразилии</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_78" class="MercuryDocument">
+              <content eId="para_78__content">
+                <p xml:space="preserve">Всемирная организация за мир и надежду для человека и родины</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_79" class="MercuryDocument">
+              <content eId="para_79__content">
+                <p xml:space="preserve">Организация «Сострадание молодежи во имя человечности» (Уганда)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_80" class="MercuryDocument">
+              <content eId="para_80__content">
+                <p xml:space="preserve">Фонд «Молодежь Индии»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_81" class="MercuryDocument">
+              <content eId="para_81__content">
+                <p xml:space="preserve">Целевой фонд «Безопасность дорожного движения в Замбии»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_82" class="MercuryDocument">
+              <content eId="para_82__content">
+                <p xml:space="preserve">Ассоциация развития и социального обеспечения ИНКАД</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>
