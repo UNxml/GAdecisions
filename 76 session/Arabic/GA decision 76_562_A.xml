@@ -1,0 +1,106 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-562/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-562/"></FRBRuri>
+          <FRBRdate date="2022-05-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-562/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-562/ara@/"></FRBRuri>
+          <FRBRdate date="2022-08-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-562/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-562/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-13" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Stockholm+50 : a Healthy Planet for the Prosperity of All - our Responsibility, our Opportunity (2022 : Stockholm)" showAs="Stockholm+50 : a Healthy Planet for the Prosperity of All - our Responsibility, our Opportunity (2022 : Stockholm)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="20" showAs="Sustainable development." shortForm="SUSTAINABLE DEVELOPMENT" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-04-29" outcome="draftDecision" as="A/76/L.53" by="submitted by the President of the General Assembly"/>
+        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/562</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline title="20" name="agenda item">البند 20 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/562</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold"> الاجتماع الدولي المعنون ”استوكهولم بعد 50 عاما: عافية الكوكب من أجل ازدهار الجميع - مسؤوليتنا، فرصتنا“</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	إن الجمعية العامة، في جلستها العامة 71، المعقودة في 10 أيار/مايو 2022، بناء على اقتراح من رئيسها<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.53">A/76/L.53</a>.</p></authorialNote>، إذا تشير إلى قراريها <a href="https://undocs.org/ar/A/RES/75/280">75/280</a> المؤرخ 24 أيار/مايو 2021 و <a href="https://undocs.org/ar/A/RES/75/326">75/326</a> المؤرخ 10 أيلول/سبتمبر 2021، المتعلقين بالاجتماع الدولي المعنون ”استوكهولم بعد 50 عاما: عافية الكوكب من أجل ازدهار الجميع - مسؤوليتنا، فرصتنا“، المقرر عقده في استوكهولم في 2 و 3 حزيران/يونيه 2022، قررت، دون أن يشكل ذلك سابقة للاجتماعات الدولية في المستقبل، أنه يجوز لكل من الدول وللاتحاد الأوروبي<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> في حالة الاتحاد الأوروبي، يكون البيان المسجل سلفا مقدما من رئيس المجلس الأوروبي أو رئيسة المفوضية الأوروبية.</p></authorialNote> عند تناول الكلمة في الجلسات العامة تقديم بيان مسجل سلفا لرئيس الدولة أو الحكومة، وسيُبث ذلك البيان في أثناء المناقشة العامة للاجتماع الدولي، بعد تقديمه من جانب رئيس الجلسة.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="71">الجلسة العامة 71</inline>
+        <eol />
+        <docDate date="2022-05-10" refersTo="#adoptionDate">10 أيار/مايو 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

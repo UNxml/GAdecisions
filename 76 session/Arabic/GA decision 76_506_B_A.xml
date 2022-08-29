@@ -1,0 +1,236 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/"></FRBRuri>
+          <FRBRdate date="2022-01-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/ara@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-01-20" as="A/76/PV.55" outcome="adopted" by="55" />
+        <step date="2022-06-20" as="A/76/PV.84" outcome="adopted" by="84" />
+        <step date="2022-06-21" as="A/76/PV.85" outcome="adopted" by="85" />
+        <step date="2022-04-26" as="A/76/PV.69" outcome="adopted" by="69" />
+        <step date="2022-04-08" as="A/76/PV.67" outcome="adopted" by="67" />
+        <step date="2022-07-11" as="A/76/PV.93" outcome="adopted" by="93" />
+        <step date="2022-03-15" as="A/76/PV.61" outcome="adopted" by="61" />
+        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71" />
+        <step date="2022-05-23" as="A/76/PV.74" outcome="adopted" by="74" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/506</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline name="agenda item">البند 7 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقرراًت الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/506</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">إقرار جدول الأعمال وتوزيع بنود جدول الأعمال</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">باء</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> يصبح المقرر 76/506، الوارد في الفرع باء-1 من <span class="italic">الوثائق الرسمية للجمعية العامة، الدورة السادسة والسبعون، الملحق رقم 49 </span>(<span class="underline"><a href="https://undocs.org/ar/A/76/49">A/76/49</a></span>)، المجلد الثاني، المقرر 76/506 ألف.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> قررت الجمعية العامة، في جلستها العامة 55، المعقودة في 20 كانون الثاني/يناير 2022، أن تنظر مباشرةً في جلسة عامة في البند الفرعي (أ) المعنون ”متابعة مؤتمر الأمم المتحدة الرابع المعني بأقل البلدان نمواً“ من البند 23 من جدول الأعمال المعنون ”مجموعات البلدان التي تواجه أوضاعا خاصة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع مقرر<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.32">A/76/L.32</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> وفي الجلسة نفسها، قررت الجمعية العامة أن تنظر مباشرة في جلسة عامة في البند 109 من جدول الأعمال المعنون ”مكافحة استخدام تكنولوجيات المعلومات والاتصالات للأغراض الإجرامية“، تحت العنوان حاء (مراقبة المخدرات ومنع الجريمة ومكافحة الإرهاب الدولي بجميع أشكاله ومظاهره)، وأن تنظر على وجه السرعة في مشروع مقرر<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.31">A/76/L.31</a>.</p></authorialNote>، وفي تعديل مقترح إدخاله عليه<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a>.</p></authorialNote>، وفي تعديل مقترح إدخاله على مشروع التعديل<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.34/Rev.1">A/76/L.34/Rev.1</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 61، المعقودة في 15 آذار/مارس 2022، أن تعيد فتح باب النظر في البند 29 من جدول الأعمال المعنون ”النهوض بالمرأة“ تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر فيه مباشرةً في جلسة عامة، وأن تنظر على وجه السرعة في مشروع قرار<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 67، المعقودة في 8 نيسان/أبريل 2022، أن تعيد فتح باب النظر في البند 12 من جدول الأعمال المعنون ”الرياضة من أجل التنمية والسلام: بناء عالم سلمي أفضل من خلال الرياضة والمثل الأعلى الأولمبي“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.48">A/76/L.48</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة في جلستها العامة 69 المعقودة في 26 نيسان/أبريل 2022 أن تعيد فتح باب النظر في البند 71 من جدول الأعمال المعنون ”حقوق الشعوب الأصلية“، تحت العنوان دال (تعزيز حقوق الإنسان)، وأن تنظر فيه مباشرةً في جلسة عامة، وأن تنظر على وجه السرعة في مشروع مقرر<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.51">A/76/L.51</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve"> وفي الجلسة نفسها، قررت الجمعية العامة أن تعيد فتح باب النظر في البند الفرعي (د) المعنون ”الحد من التهديدات الفضائية عن طريق معايير وقواعد ومبادئ تضبط أنماط السلوك المسؤول“ من البند 98 من جدول الأعمال المعنون ”منع حدوث سباق تسلح في الفضاء الخارجي“، تحت العنوان زاي (نزع السلاح)، وأن تنظر فيه مباشرةً في جلسة عامة، وأن تنظر على وجه السرعة في مشروع مقرر<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.50">A/76/L.50</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 71، المعقودة في 10 أيار/مايو 2022، أن تعيد فتح باب النظر في البند الفرعي (ب) المعنون ”انتخاب أعضاء في مجلس حقوق الإنسان“ من البند 116 من جدول الأعمال المعنون ”انتخابات لملء الشواغر في الأجهزة الفرعية وانتخابات أخرى“ تحت العنوان طاء (المسائل التنظيمية والإدارية والمسائل الأخرى) وأن تنظر على وجه السرعة في إجراء الانتخاب لملء مقعد شاغر نتيجة انسحاب أحد أعضاء المجلس.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 74، المعقودة في 23 أيار/مايو 2022، أن تعيد فتح باب النظر في البند 26 من جدول الأعمال المعنون ”التنمية الزراعية والأمن الغذائي والتغذية“ تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر فيه مباشرة في جلسة عامة، وأن تنظر على وجه السرعة في مشروع قرار<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.55">A/76/L.55</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve"> وفي الجلسة نفسها، قررت الجمعية العامة أن تعيد فتح باب النظر في البند الفرعي (أ) المعنون ”تعيين أعضاء في اللجنة الاستشارية لشؤون الإدارة والميزانية“ من البند 117 من جدول الأعمال المعنون ”تعيينات لملء الشواغر في الأجهزة الفرعية وتعيينات أخرى“ تحت العنوان طاء (المسائل التنظيمية والإدارية والمسائل الأخرى) وأن تنظر على وجه السرعة في تقرير اللجنة الخامسة<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/516/Add.1">A/76/516/Add.1</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 84، المعقودة في 20 حزيران/يونيه 2022، أن تعيد فتح باب النظر في البند 29 من جدول الأعمال المعنون ”النهوض بالمرأة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.66">A/76/L.66</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="MercuryDocument">
+        <content eId="para_11__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 85، المعقودة في 21 حزيران/يونيه 2022، أن تعيد فتح باب النظر في البند الفرعي (ش) المعنون ”المشاكل الناشئة عن تكديس فائض مخزونات الذخيرة التقليدية“ من البند 100 من جدول الأعمال المعنون ”نزع السلاح العام الكامل“، تحت العنوان زاي (نزع السلاح)، وأن تنظر فيه مباشرة في جلسة عامة وأن تنظر على وجه السرعة في مشروع مقرر<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.65">A/76/L.65</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <content eId="para_12__content">
+          <p xml:space="preserve"> وقررت الجمعية العامة، في جلستها العامة 93، المعقودة في 11 تموز/يوليه 2022، أن تعيد فتح باب النظر في البند الفرعي (ب) المعنون ”مسائل حقوق الإنسان، بما في ذلك النهج البديلة لتحسين التمتع الفعلي بحقوق الإنسان والحريات الأساسية“ من البند 74 من جدول الأعمال المعنون ”تعزيز حقوق الإنسان وحمايتها“ تحت العنوان دال (تعزيز حقوق الإنسان)، وأن تنظر فيه مباشرة في جلسة عامة، وأن تنظر على وجه السرعة في مشروع مقرر<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/76/L.69">A/76/L.69</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="55">الجلسة العامة 55</inline>
+        <inline name="adoptionMeeting" title="84">الجلسة العامة 84</inline>
+        <inline name="adoptionMeeting" title="85">الجلسة العامة 85</inline>
+        <inline name="adoptionMeeting" title="69">الجلسة العامة 69</inline>
+        <inline name="adoptionMeeting" title="67">الجلسة العامة 67</inline>
+        <inline name="adoptionMeeting" title="93">الجلسة العامة 93</inline>
+        <inline name="adoptionMeeting" title="61">الجلسة العامة 61</inline>
+        <inline name="adoptionMeeting" title="71">الجلسة العامة 71</inline>
+        <inline name="adoptionMeeting" title="74">الجلسة العامة 74</inline>
+        <eol />
+        <docDate date="2022-01-20" refersTo="#adoptionDate">20 كانون الثاني/يناير 2022</docDate>
+        <docDate date="2022-06-20" refersTo="#adoptionDate">20 حزيران/يونيه 2022</docDate>
+        <docDate date="2022-06-21" refersTo="#adoptionDate">21 حزيران/يونيه 2022</docDate>
+        <docDate date="2022-04-26" refersTo="#adoptionDate">26 نيسان/أبريل 2022</docDate>
+        <docDate date="2022-04-08" refersTo="#adoptionDate">8 نيسان/أبريل 2022</docDate>
+        <docDate date="2022-07-11" refersTo="#adoptionDate">11 تموز/يوليه 2022</docDate>
+        <docDate date="2022-03-15" refersTo="#adoptionDate">15 آذار/مارس 2022</docDate>
+        <docDate date="2022-05-10" refersTo="#adoptionDate">10 أيار/مايو 2022</docDate>
+        <docDate date="2022-05-23" refersTo="#adoptionDate">23 أيار/مايو 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
