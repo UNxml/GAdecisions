@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-11/76-563/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-11/76-563/"></FRBRuri>
+          <FRBRdate date="2022-05-11" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-11/76-563/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-11/76-563/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-11/76-563/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-11/76-563/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-13" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CUBA" showAs="CUBA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SANCTIONS" showAs="SANCTIONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="UNITED STATES" showAs="UNITED STATES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="TRADE BOYCOTTS" showAs="TRADE BOYCOTTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="LAWS AND REGULATIONS" showAs="LAWS AND REGULATIONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="42" showAs="Necessity of ending the economic, commercial and financial embargo imposed by the United States of America against Cuba." shortForm="CUBA--UNITED STATES" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-05-03" outcome="draftDecision" as="A/76/L.54" by="Cuba"/>
+        <step date="2022-05-11" as="A/76/PV.72" outcome="adopted" by="72e" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/563</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="42" name="agenda item">Point 42 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Autres décisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/563.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nécessité de lever le blocus économique, commercial et financier imposé à Cuba par les États-Unis d’Amérique</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 72<sup>e</sup> séance plénière, le 11 mai 2022, sur proposition de Cuba<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/fr/A/76/L.54">A/76/L.54</a></span>.</p></authorialNote>, l’Assemblée générale a décidé de reporter l’examen de la question intitulée « Nécessité de lever le blocus économique, commercial et financier imposé à Cuba par les États-Unis d’Amérique », ainsi que du rapport du Secrétaire général<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/fr/A/76/405">A/76/405</a></span>.</p></authorialNote>, et d’inscrire cette question à l’ordre du jour provisoire de sa soixante-dix-septième session.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="72e">72e séance plénière</inline>
+        <eol />
+        <docDate date="2022-05-11" refersTo="#adoptionDate">11 mai 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

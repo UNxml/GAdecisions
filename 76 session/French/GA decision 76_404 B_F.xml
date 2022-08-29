@@ -1,0 +1,173 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-404/"></FRBRuri>
+          <FRBRdate date="2022-04-13" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-404/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-404/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-04-13/76-404/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-04-13/76-404/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee for Programme and Coordination" dictionary="DHLAUTH" showAs="UN. Committee for Programme and Coordination"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="116a" dictionary="A/76/251" showAs="Election of members of the Committee for Programme and Coordination." shortForm="UN. COMMITTEE FOR PROGRAMME AND COORDINATION--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-04-13" as="A/76/PV.68" outcome="adopted" by="68e" />
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Allemagne" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Arménie" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Bélarus" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Belgique" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Botswana" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Brésil" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Cameroun" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Chili" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Chine" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Comores" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Costa Rica" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Cuba" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Érythrée" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Eswatini" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="États-Unis d’Amérique" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Fédération de Russie" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="France" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Inde" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Iran (République islamique d’)" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Italie" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Japon" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Kenya" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Libéria" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Mali" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Malte" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Mauritanie" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Pakistan" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Paraguay" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Philippines" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Pologne" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="République de Corée" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="République dominicaine" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Royaume-Uni de Grande-Bretagne et d’Irlande du Nord" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-04-13" as="Comité du programme et de la coordination" by="" refersTo="Uruguay" outcome="composition" akn4un:end="2022-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="116 a)" name="agenda item">Point 116 a) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/404.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection de membres du Comité du programme et de la coordination</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> La décision 76/404 qui figure à la section A des <span class="italic">Documents officiels de l’Assemblée générale, soixante-seizième session, Supplément n</span><span class="italic"><sup>o</sup></span><span class="italic"> 49</span> (<span class="underline underline underline underline underline"><a href="https://undocs.org/fr/A/76/49(vol.II)">A/76/49</a></span>), vol. II, porte dorénavant le numéro 76/404 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="PlainText">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 68<sup>e</sup> séance plénière, le 13 avril 2022, l’Assemblée générale, sur la base des candidatures présentées par le Conseil économique et social et conformément à l’annexe de la résolution <a href="https://undocs.org/fr/A/RES/2008 (LX)">2008 (LX)</a> du Conseil en date du 14 mai 1976 et à sa propre décision 42/450 du 17 décembre 1987, a élu la <inline name="smallCaps" style="font-variant:small-caps">Belgique</inline> membre du Comité du programme et de la coordination pour un mandat prenant effet à la date de l’élection et venant à expiration le 31 décembre 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="PlainText">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En conséquence, au 13 avril 2022, le Comité du programme et de la coordination se compose des 34 États Membres suivants : <inline name="smallCaps" style="font-variant:small-caps">Allemagne</inline><inline name="smallCaps" style="font-variant:small-caps">**, A</inline><inline name="smallCaps" style="font-variant:small-caps">rménie</inline><inline name="smallCaps" style="font-variant:small-caps">**, B</inline><inline name="smallCaps" style="font-variant:small-caps">élarus</inline><inline name="smallCaps" style="font-variant:small-caps">**, </inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">elgique***, </inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">otswana***, </inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">résil**, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">ameroun**, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hili***, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hine*, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">omores*, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">osta </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">ica**, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">uba**, </inline><inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">rythrée**, eswatini**, </inline><inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">tats-</inline><inline name="smallCaps" style="font-variant:small-caps">U</inline><inline name="smallCaps" style="font-variant:small-caps">nis d’</inline><inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">mérique**, </inline><inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">édération de </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">ussie***, </inline><inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">rance***, </inline><inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">nde**, </inline><inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">ran (</inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">épublique islamique d’)**, </inline><inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">talie**, </inline><inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">apon**, </inline><inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">enya***, </inline><inline name="smallCaps" style="font-variant:small-caps">L</inline><inline name="smallCaps" style="font-variant:small-caps">ibéria*, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">ali**, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">alte**, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">auritanie*, </inline><inline name="smallCaps" style="font-variant:small-caps">P</inline><inline name="smallCaps" style="font-variant:small-caps">akistan**, </inline><inline name="smallCaps" style="font-variant:small-caps">P</inline><inline name="smallCaps" style="font-variant:small-caps">araguay***, </inline><inline name="smallCaps" style="font-variant:small-caps">P</inline><inline name="smallCaps" style="font-variant:small-caps">hilippines*, </inline><inline name="smallCaps" style="font-variant:small-caps">P</inline><inline name="smallCaps" style="font-variant:small-caps">ologne**, </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">épublique de </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">orée*, </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">épublique dominicaine**, </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">oyaume-</inline><inline name="smallCaps" style="font-variant:small-caps">U</inline><inline name="smallCaps" style="font-variant:small-caps">ni de </inline><inline name="smallCaps" style="font-variant:small-caps">G</inline><inline name="smallCaps" style="font-variant:small-caps">rande-</inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">retagne et d’</inline><inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">rlande du </inline><inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">ord** </inline>et <inline name="smallCaps" style="font-variant:small-caps">U</inline><inline name="smallCaps" style="font-variant:small-caps">ruguay*.</inline> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="PlainText">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="PlainText">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2022. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="PlainText">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2023. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="PlainText">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="68e">68e séance plénière</inline>
+        <eol />
+        <docDate date="2022-04-13" refersTo="#adoptionDate">13 avril 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

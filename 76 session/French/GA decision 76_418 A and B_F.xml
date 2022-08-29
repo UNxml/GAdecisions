@@ -1,0 +1,341 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/"></FRBRuri>
+          <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" showAs="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117h" showAs="Appointment of members of the Board of the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns." shortForm="TEN-YEAR FRAMEWORK OF PROGRAMMES ON SUSTAINABLE CONSUMPTION AND PRODUCTION PATTERNS. BOARD--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-03-15" outcome="adopted" by="61e" />
+        <step date="2022-03-18" outcome="adopted" by="62e" />
+        <step date="2022-05-10" outcome="adopted" by="71e" />
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Brésil" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Costa Rica" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Croatie" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="États-Unis d’Amérique" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Koweït" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Maurice" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Pakistan" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Sénégal" outcome="composition" akn4un:end=" 2024-03-14"/>
+        <step date="2022-05-10" as="Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables" by="Suède" outcome="composition" akn4un:end=" 2024-03-14"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/418</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="117 h)" name="agenda item">Point 117 h) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/418.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nomination de membres du Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution A"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution B"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/"></FRBRuri>
+              <FRBRdate date="2022-03-15" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/fra@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/fra@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="fra"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/fra@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-15/76-418A/fra@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+            <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+            <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+            <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+            <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" showAs="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" dictionary="DHLAUTH"></keyword>
+            <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+            <keyword refersTo="agenda" value="117h" showAs="Appointment of members of the Board of the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns." shortForm="TEN-YEAR FRAMEWORK OF PROGRAMMES ON SUSTAINABLE CONSUMPTION AND PRODUCTION PATTERNS. BOARD--MEMBERS" dictionary="A/76/251"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-15" outcome="adopted" by="61e" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>A</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> À sa 61<sup>e</sup> séance plénière, le 15 mars 2022, l’Assemblée générale a décidé, en tenant compte de sa résolution <a href="https://undocs.org/fr/A/RES/69/214">69/214</a> du 19 décembre 2014, que le mandat de deux ans des membres du Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables prendrait effet le 15 mars 2022, date de leur nomination. </p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="61e">61e séance plénière</inline>
+            <eol />
+            <docDate date="2022-03-15" refersTo="#adoptionDate">15 mars 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/"></FRBRuri>
+              <FRBRdate date="2022-03-18" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/fra@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/fra@/"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="fra"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/fra@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-18/76-418B/fra@.xml"></FRBRuri>
+              <FRBRdate date="2022-08-14" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+            <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+            <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+            <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+            <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+            <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="http://metadata.un.org/sdg">
+            <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+            <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+            <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+            <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+            <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+            <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+            <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+            <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+          </classification>
+          <classification source="DHLAUTH">
+            <keyword value="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" showAs="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" dictionary="DHLAUTH"></keyword>
+            <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+            <keyword refersTo="agenda" value="117h" showAs="Appointment of members of the Board of the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns." shortForm="TEN-YEAR FRAMEWORK OF PROGRAMMES ON SUSTAINABLE CONSUMPTION AND PRODUCTION PATTERNS. BOARD--MEMBERS" dictionary="A/76/251"></keyword>
+          </classification>
+          <workflow source="#un">
+            <step date="2022-03-18" outcome="adopted" by="62e" />
+            <step date="2022-05-10" outcome="adopted" by="71e" />
+          </workflow>
+          <analysis source="#un">
+            <parliamentary>
+              <voting>
+                <quorum value=""></quorum>
+              </voting>
+            </parliamentary>
+          </analysis>
+          <references source="#DGACM">
+            <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+            <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+            <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+            <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+            <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+            <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+            <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+            <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+            <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+          </references>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>B</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve"> À sa 61<sup>e</sup> séance plénière, le 15 mars 2022, l’Assemblée générale a décidé, conformément à ses résolutions <a href="https://undocs.org/fr/A/RES/67/203">67/203</a> du 21 décembre 2012 et <a href="https://undocs.org/fr/A/RES/69/214">69/214</a> du 19 décembre 2014 et à sa décision 76/418 A du 15 mars 2022, de nommer le Costa Rica, la Croatie, les États-Unis d’Amérique, le Koweït, Maurice, le Sénégal et la Suède membres du Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables pour un mandat prenant effet le 15 mars 2022 et venant à expiration le 14 mars 2024. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve"> À sa 62<sup>e</sup> séance plénière, le 18 mars 2022, l’Assemblée générale a décidé, conformément à ses résolutions <a href="https://undocs.org/en/A/RES/67/203">67/203</a> et <a href="https://undocs.org/en/A/RES/69/214">69/214</a> et à sa décision 76/418 A, de nommer le <inline name="smallCaps" style="font-variant:small-caps">Pakistan</inline> membre du Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables pour un mandat prenant effet le 18 mars 2022 et venant à expiration le 14 mars 2024. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">	À sa 71<sup>e</sup> séance plénière, le 10 mai 2022, l’Assemblée générale a décidé, conformément à ses résolutions <a href="https://undocs.org/en/A/RES/67/203">67/203</a> et <a href="https://undocs.org/en/A/RES/69/214">69/214</a> et à sa décision 76/418 A, de nommer le <inline name="smallCaps" style="font-variant:small-caps">Brésil</inline> membre du Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables pour un mandat prenant effet le 10 mai 2022 et venant à expiration le 14 mars 2024.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">	En conséquence, au 10 mai 2022, le Conseil du Cadre décennal de programmation concernant les modes de consommation et de production durables se compose des États Membres suivants<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Maurice en est à son deuxième mandat consécutif. Il reste à pourvoir un siège parmi les États d’Europe orientale pour un mandat prenant effet à la date de nomination et venant à expiration le 14 mars 2024.</p></authorialNote> : <inline name="smallCaps" style="font-variant:small-caps">Brésil*, Costa Rica*, Croatie*, États-Unis d’Amérique*, Koweït*, Maurice*, Pakistan*, Sénégal* </inline>et <inline name="smallCaps" style="font-variant:small-caps">Suède</inline>*.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_5" class="MercuryDocument">
+            <content eId="para_5__content">
+              <p xml:space="preserve">__________________ </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_6" class="MercuryDocument">
+            <content eId="para_6__content">
+              <p xml:space="preserve">*	Mandat venant à expiration le 14 mars 2024.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="62e">62e séance plénière</inline>
+            <inline name="adoptionMeeting" title="71e">71e séance plénière</inline>
+            <eol />
+            <docDate date="2022-03-18" refersTo="#adoptionDate">18 mars 2022</docDate>
+            <docDate date="2022-05-10" refersTo="#adoptionDate">10 mai 2022</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>

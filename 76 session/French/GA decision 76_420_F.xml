@@ -1,0 +1,128 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/"></FRBRuri>
+          <FRBRdate date="2022-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-07/76-420/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Vice-President" showAs="UN. General Assembly. Vice-President" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="6" showAs="Election of the Vice-Presidents of the General Assembly." shortForm="UN. GENERAL ASSEMBLY (76TH SESS. : 2021-2022)--VICE-PRESIDENTS" dictionary="A/76/251"></keyword>
+        <keyword refersTo="agenda" value="6" showAs="Election of the Vice-Presidents of the General Assembly." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--VICE-PRESIDENTS" dictionary="A/77/50"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-07" as="A/76/PV.75" outcome="adopted" by="75e" />
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Australie" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Bénin" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Burundi" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Chili" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Chine" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="El Salvador" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="États-Unis d’Amérique" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Fédération de Russie" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="France" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Israël" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Jamaïque" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Kenya" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Malaisie" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Mauritanie" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Népal" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Niger" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Royaume-Uni de Grande-Bretagne et d’Irlande du Nord" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Tadjikistan" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Turkménistan" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Viet Nam" outcome="composition"/>
+        <step date="2022-06-07" as="vice-présidence de l’Assemblée générale" by="" refersTo="Zimbabwe" outcome="composition"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/420</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="6" name="agenda item">Point 6 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/420.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection à la vice-présidence de l’Assemblée générale à sa soixante-dix-septième session</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> À sa 75<sup>e</sup> séance, le 7 juin 2022, l’Assemblée générale, conformément à l’article 30 de son règlement intérieur et aux paragraphes 2 et 3 de l’annexe de sa résolution <a href="https://undocs.org/fr/A/RES/33/138">33/138</a> du 19 décembre 1978, a élu les 21 États Membres suivants à la vice-présidence de sa soixante-dix-septième session : <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">ustralie, </inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">énin, </inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">urundi, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hili, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hine, </inline><inline name="smallCaps" style="font-variant:small-caps">E</inline><inline name="smallCaps" style="font-variant:small-caps">l </inline><inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">alvador, </inline><inline name="smallCaps" style="font-variant:small-caps">États-Unis d’Amérique,</inline> <inline name="smallCaps" style="font-variant:small-caps">Fédération </inline><inline name="smallCaps" style="font-variant:small-caps">de </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">ussie, </inline><inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">rance, </inline><inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">sraël, </inline><inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">amaïque, </inline><inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">enya, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">alaisie, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">auritanie, </inline><inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">épal, </inline><inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">iger, </inline><inline name="smallCaps" style="font-variant:small-caps">Royaume-Uni de Grande-Bretagne et d’Irlande du Nord</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">T</inline><inline name="smallCaps" style="font-variant:small-caps">adjikistan, </inline><inline name="smallCaps" style="font-variant:small-caps">T</inline><inline name="smallCaps" style="font-variant:small-caps">urkménistan, </inline><inline name="smallCaps" style="font-variant:small-caps">V</inline><inline name="smallCaps" style="font-variant:small-caps">iet </inline><inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">am </inline>et <inline name="smallCaps" style="font-variant:small-caps">Z</inline><inline name="smallCaps" style="font-variant:small-caps">imbabwe.</inline></p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="75e">75e séance plénière</inline>
+        <eol />
+        <docDate date="2022-06-07" refersTo="#adoptionDate">7 juin 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

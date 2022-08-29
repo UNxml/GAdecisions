@@ -1,0 +1,146 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/"></FRBRuri>
+          <FRBRdate date="2022-06-09" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ECUADOR" showAs="ECUADOR" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="JAPAN" showAs="JAPAN" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MALTA" showAs="MALTA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MOZAMBIQUE" showAs="MOZAMBIQUE" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SWITZERLAND" showAs="SWITZERLAND" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115a" showAs="Election of non-permanent members of the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-09" as="A/76/PV.79" outcome="adopted" by="79e" />
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Albanie" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Brésil" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Chine" outcome="composition"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Émirats arabes unis" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Équateur" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="États-Unis d’Amérique" outcome="composition"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Fédération de Russie" outcome="composition"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="France" outcome="composition"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Gabon" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Ghana" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Japon" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Malte" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Mozambique" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Royaume-Uni de Grande-Bretagne et d’Irlande du Nord" outcome="composition"/>
+        <step date="2022-06-09" as="Conseil de sécurité" by="" refersTo="Suisse" outcome="composition" akn4un:end="2024-12-31"/> 
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/422</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="115 a)" name="agenda item">Point 115 a) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/422.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection de membres non permanents du Conseil de sécurité</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 79<sup>e</sup> séance plénière, le 9 juin 2022, l’Assemblée générale, conformément à l’Article 23 de la Charte des Nations Unies, à l’article 142 de son règlement intérieur et au paragraphe 17 de sa résolution <a href="https://undocs.org/fr/A/RES/68/307">68/307</a> du 10 septembre 2014, a élu l’É<inline name="smallCaps" style="font-variant:small-caps">quateur, </inline>le <inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">apon, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">alte, </inline>le <inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">ozambique </inline>et la <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">uisse</inline> membres non permanents du Conseil de sécurité pour un mandat de deux ans prenant effet le 1<sup>er</sup> janvier 2023, afin de pourvoir les sièges laissés vacants par les États ci‑après, membres sortants : <inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">nde, </inline><inline name="smallCaps" style="font-variant:small-caps">I</inline><inline name="smallCaps" style="font-variant:small-caps">rlande, </inline><inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">enya, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">exique </inline>et <inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">orvège</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En conséquence, au 1<sup>er</sup> janvier 2023, le Conseil de sécurité se compose des 15 États Membres suivants : A<inline name="smallCaps" style="font-variant:small-caps">lbanie*, </inline><inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">résil*, </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hine, </inline><inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">mirats arabes unis*, </inline><inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">quateur**, </inline><inline name="smallCaps" style="font-variant:small-caps">États-Unis d’Amérique</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">édération de </inline><inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">ussie, </inline><inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">rance, </inline><inline name="smallCaps" style="font-variant:small-caps">G</inline><inline name="smallCaps" style="font-variant:small-caps">abon*, </inline><inline name="smallCaps" style="font-variant:small-caps">G</inline><inline name="smallCaps" style="font-variant:small-caps">hana*, </inline><inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">apon**, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">alte**, </inline><inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">ozambique**, </inline><inline name="smallCaps" style="font-variant:small-caps">Royaume-Uni de Grande-Bretagne et d’Irlande du Nord</inline> et <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">uisse**</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="79e">79e séance plénière</inline>
+        <eol />
+        <docDate date="2022-06-09" refersTo="#adoptionDate">9 juin 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

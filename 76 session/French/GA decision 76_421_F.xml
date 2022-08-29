@@ -1,0 +1,159 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/"></FRBRuri>
+          <FRBRdate date="2022-06-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. 1st Committee. Chair" showAs="UN. General Assembly. 1st Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 2nd Committee. Chair" showAs="UN. General Assembly. 2nd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 3rd Committee. Chair" showAs="UN. General Assembly. 3rd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" showAs="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 5th Committee. Chair" showAs="UN. General Assembly. 5th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee. Chair" showAs="UN. General Assembly. 6th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="5" showAs="Election of the officers of the Main Committees." shortForm="UN. GENERAL ASSEMBLY (76TH SESS. : 2021-2022)--OFFICERS" dictionary="A/76/251"></keyword>
+        <keyword refersTo="agenda" value="5" showAs="Election of the officers of the Main Committees." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--OFFICERS" dictionary="A/77/50"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-08" as="A/76/PV.77" outcome="adopted" by="77e" />
+        <step date=" 2022-06-08" as="Première Commission" by="M. Magzhan ILYASSOV" refersTo="Kazakhstan" outcome="composition"/>
+        <step date=" 2022-06-08" as="Commission des questions politiques spéciales et de la décolonisation (Quatrième Commission)" by="M. Mohamed AL HASSAN" refersTo="Oman" outcome="composition"/>
+        <step date=" 2022-06-08" as="Deuxième Commission" by="Mme Lachezara STOEVA" refersTo="Bulgarie" outcome="composition"/>
+        <step date=" 2022-06-08" as="Troisième Commission" by="M. José Alfonso BLANCO CONDE" refersTo="République dominicaine" outcome="composition"/>
+        <step date=" 2022-06-08" as="Cinquième Commission" by="M. Philippe KRIDELKA" refersTo="Belgique" outcome="composition"/>
+        <step date=" 2022-06-08" as="Sixième Commission" by="M. Pedro Comissário AFONSO" refersTo="Mozambique" outcome="composition"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/421</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="5" name="agenda item">Point 5 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/421.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection à la présidence des grandes commissions de l’Assemblée générale à sa soixante-dix-septième session</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	Le 7 juin 2022, la Première Commission, la Commission des questions politiques spéciales et de la décolonisation (Quatrième Commission) et les Deuxième, Troisième, Cinquième et Sixième Commissions de l’Assemblée générale se sont réunies, conformément à l’alinéa a) de l’article 99 et à l’article 103 du Règlement intérieur de l’Assemblée, afin d’élire leurs présidents.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	À la 77<sup>e</sup> séance plénière, le 8 juin 2022, le Président de l’Assemblée générale a annoncé que les personnes ci‑après avaient été élues à la présidence de la Première Commission, de la Commission des questions politiques spéciales et de la décolonisation (Quatrième Commission) et des Deuxième, Troisième, Cinquième et Sixième Commissions de l’Assemblée à sa soixante-dix-septième session.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">
+            <span class="italic">Première Commission</span> :			M. Magzhan I<inline name="smallCaps" style="font-variant:small-caps">lyassov</inline> (Kazakhstan)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Commission des questions politiques  spéciales et de la décolonisation  (Quatrième Commission)</span> :		M. Mohamed <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">l </inline><inline name="smallCaps" style="font-variant:small-caps">H</inline><inline name="smallCaps" style="font-variant:small-caps">assan</inline> (Oman)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">
+            <span class="italic">Deuxième Commission</span> :			M<sup>me</sup> Lachezara <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">toeva</inline> (Bulgarie)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">
+            <span class="italic">Troisième Commission</span> :			M. José Alfonso <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">lanco </inline><inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">onde </inline>(République dominicaine)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Cinquième Commission</span> :			M. Philippe K<inline name="smallCaps" style="font-variant:small-caps">ridelka</inline> (Belgique)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">
+            <span class="italic">Sixième Commission</span> :			M. Pedro Comissário <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">fonso</inline> (Mozambique)</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="77e">77e séance plénière</inline>
+        <eol />
+        <docDate date="2022-06-08" refersTo="#adoptionDate">8 juin 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
