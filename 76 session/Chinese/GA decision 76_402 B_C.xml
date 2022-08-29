@@ -1,0 +1,197 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/"></FRBRuri>
+          <FRBRdate date="2022-05-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/zho@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-05-10/76-402/zho@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Human Rights Council" dictionary="DHLAUTH" showAs="UN. Human Rights Council"/>
+        <keyword value="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus" showAs="ELECTION OF MEMBERS"/>
+        <keyword value="116d" dictionary="A/76/251" showAs="Election of members of the Human Rights Council." shortForm="UN. HUMAN RIGHTS COUNCIL--MEMBERS" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="第71次" />
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="阿根廷" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="亚美尼亚" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="贝宁" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="多民族玻利维亚国" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="巴西" outcome="composition" akn4un:end="2022-12-31"/>
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="喀麦隆" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="中国" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="科特迪瓦" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="古巴" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="捷克" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="厄立特里亚" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="芬兰" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="法国" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="加蓬" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="冈比亚" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="德国" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="洪都拉斯" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="印度" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="印度尼西亚" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="日本" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="哈萨克斯坦" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="利比亚" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="立陶宛" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="卢森堡" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="马来西亚" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="马拉维" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="马绍尔群岛" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="毛里塔尼亚" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="墨西哥" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="黑山" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="纳米比亚" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="尼泊尔" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="荷兰" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="巴基斯坦" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="巴拉圭" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="波兰" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="卡塔尔" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="大韩民国" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="塞内加尔" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="索马里" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="苏丹" outcome="composition" akn4un:end="2022-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="乌克兰" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="阿拉伯联合酋长国" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="大不列颠及北爱尔兰联合王国" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="美利坚合众国" outcome="composition" akn4un:end="2024-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="乌兹别克斯坦" outcome="composition" akn4un:end="2023-12-31"/> 
+        <step date="2022-05-10" as=" Conseil des droits de l’homme" by="" refersTo="委内瑞拉玻利瓦尔共和国" outcome="composition" akn4un:end="2022-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/402</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">第七十六届会议</session>
+      </p>
+      <p>
+        <inline title="116(d)" name="agenda item">议程项目116(d)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/402.</docNumber>
+        <docTitle refersTo="#decisionTitle">选举人权理事会成员</docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> 《大会正式记录，第七十六届会议，补编第49号》(<span class="underline"><a href="https://undocs.org/ch/A/76/49">A/76/49</a></span>)，第二卷A节中的第76/402号决定成为第76/402 A号决定。 </p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年5月10日，大会第71次全体会议根据其2006年3月15日第<a href="https://undocs.org/ch/A/RES/60/251">60/251</a>号决议和2011年6月17日第<a href="https://undocs.org/ch/A/RES/65/281">65/281</a>号决议，选举捷克完成俄罗斯联邦剩余的任期，自2022年5月10日起，至2023年12月31日止。 </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	因此，自2022年5月10日起，人权理事会由以下47个会员国组成<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> 阿根廷、巴西、喀麦隆、厄立特里亚、印度、日本、墨西哥、尼泊尔、巴基斯坦、塞内加尔、索马里和乌克兰是第二次连任。</p></authorialNote>：阿根廷、*** 亚美尼亚、* 贝宁、*** 多民族玻利维亚国、** 巴西、* 喀麦隆、*** 中国、** 科特迪瓦、** 古巴、** 捷克、**厄立特里亚、*** 芬兰、*** 法国、** 加蓬、** 冈比亚、*** 德国、* 洪都拉斯、*** 印度、*** 印度尼西亚、* 日本、* 哈萨克斯坦、*** 利比亚、* 立陶宛、*** 卢森堡、*** 马来西亚、*** 马拉维、** 马绍尔群岛、* 毛里塔尼亚、* 墨西哥、** 黑山、*** 纳米比亚、* 尼泊尔、** 荷兰、* 巴基斯坦、** 巴拉圭、*** 波兰、* 卡塔尔、*** 大韩民国、* 塞内加尔、** 索马里、*** 苏丹、* 乌克兰、** 阿拉伯联合酋长国、*** 大不列颠及北爱尔兰联合王国、** 美利坚合众国、*** 乌兹别克斯坦**和委内瑞拉玻利瓦尔共和国。* </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="a3">
+        <content eId="para_3__content">
+          <p xml:space="preserve">_________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="a3">
+        <content eId="para_4__content">
+          <p xml:space="preserve">* 2022年12月31日任期届满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="a3">
+        <content eId="para_5__content">
+          <p xml:space="preserve">** 2023年12月31日任期届满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="a3">
+        <content eId="para_6__content">
+          <p xml:space="preserve">*** 2024年12月31日任期届满。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第71次">第71次全体会议</inline>
+        <eol />
+        <docDate date="2022-05-10" refersTo="#adoptionDate">2022年5月10日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

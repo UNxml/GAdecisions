@@ -1,0 +1,151 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/"></FRBRuri>
+          <FRBRdate date="2022-06-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/zho@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-08/76-421/zho@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. 1st Committee. Chair" showAs="UN. General Assembly. 1st Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 2nd Committee. Chair" showAs="UN. General Assembly. 2nd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 3rd Committee. Chair" showAs="UN. General Assembly. 3rd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" showAs="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 5th Committee. Chair" showAs="UN. General Assembly. 5th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee. Chair" showAs="UN. General Assembly. 6th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="5" showAs="Election of the officers of the Main Committees." shortForm="UN. GENERAL ASSEMBLY (76TH SESS. : 2021-2022)--OFFICERS" dictionary="A/76/251"></keyword>
+        <keyword refersTo="agenda" value="5" showAs="Election of the officers of the Main Committees." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--OFFICERS" dictionary="A/77/50"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-08" as="A/76/PV.77" outcome="adopted" by="第77次" />
+        <step date=" 2022-06-08" as="第一委员会" by="马格然·伊利亚索夫" refersTo="哈萨克斯坦" outcome="composition"/>
+        <step date=" 2022-06-08" as="特别政治和非殖民化委员会(第四委员会)" by="穆罕默德·哈桑" refersTo="阿曼" outcome="composition"/>
+        <step date=" 2022-06-08" as="第二委员会" by="拉谢扎拉•斯托伊娃" refersTo="保加利亚" outcome="composition"/>
+        <step date=" 2022-06-08" as="第三委员会" by="何塞·阿方索·布兰科·孔德" refersTo="多米尼加共和国" outcome="composition"/>
+        <step date=" 2022-06-08" as="第五委员会" by="菲利普·克里德尔卡" refersTo="比利时" outcome="composition"/>
+        <step date=" 2022-06-08" as="第六委员会" by="佩德罗·科米萨里奥·阿丰索" refersTo="莫桑比克" outcome="composition"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/421</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">第七十六届会议</session>
+      </p>
+      <p>
+        <inline title="5" name="agenda item">议程项目5</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/421.</docNumber>
+        <docTitle refersTo="#decisionTitle">选举大会第七十七届会议各主要委员会主席</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年6月7日，大会第一委员会、特别政治和非殖民化委员会(第四委员会)、第二、第三、第五和第六委员会根据大会议事规则第九十九(甲)和一〇三条，开会选举各自的主席。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	2022年6月8日，大会主席在第77次全体会议上宣布下列人士当选大会第七十七届会议第一委员会、特别政治和非殖民化(第四委员会)、第二、第三、第五和第六委员会的主席： </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">第一委员会：马格然·伊利亚索夫(哈萨克斯坦)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">特别政治和非殖民化委员会(第四委员会)：穆罕默德·哈桑(阿曼)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">第二委员会：拉谢扎拉斯托伊娃(保加利亚)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">第三委员会：何塞·阿方索·布兰科·孔德(多米尼加共和国)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">第五委员会：菲利普·克里德尔卡(比利时)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">第六委员会：佩德罗·科米萨里奥·阿丰索(莫桑比克)</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第77次">第77次全体会议</inline>
+        <eol />
+        <docDate date="2022-06-08" refersTo="#adoptionDate">2022年6月8日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

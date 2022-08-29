@@ -1,0 +1,144 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/"></FRBRuri>
+          <FRBRdate date="2022-06-09" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/zho@/"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-06-09/76-422/zho@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ECUADOR" showAs="ECUADOR" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="JAPAN" showAs="JAPAN" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MALTA" showAs="MALTA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MOZAMBIQUE" showAs="MOZAMBIQUE" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SWITZERLAND" showAs="SWITZERLAND" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115a" showAs="Election of non-permanent members of the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-09" as="A/76/PV.79" outcome="adopted" by="第79次" />
+        <step date="2022-06-09" as="Security Council" by="" refersTo="阿尔巴尼亚" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="巴西" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="中国" outcome="composition"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="厄瓜多尔" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="法国" outcome="composition"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="加蓬" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="加纳" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="日本" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="马耳他" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="莫桑比克" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="俄罗斯联邦" outcome="composition"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="瑞士" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="阿拉伯联合酋长国" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="大不列颠及北爱尔兰联合王国" outcome="composition"/>
+        <step date="2022-06-09" as="Security Council" by="" refersTo="美利坚合众国" outcome="composition"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/422</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">第七十六届会议</session>
+      </p>
+      <p>
+        <inline title="115(a)" name="agenda item">议程项目115(a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/422.</docNumber>
+        <docTitle refersTo="#decisionTitle">选举安全理事会非常任理事国</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年6月9日，大会根据《联合国宪章》第二十三条、大会议事规则第一四二条、大会2014年9月10日第<a href="https://undocs.org/ch/A/RES/68/307">68/307</a>号决议第17段，选举厄瓜多尔、日本、马耳他、莫桑比克和瑞士为安全理事会非常任理事国，自2023年1月1日起任期两年，填补因印度、爱尔兰、肯尼亚、墨西哥和挪威任期届满而出现的空缺。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	因此，从2023年1月1日起，安全理事会由下列15个会员国组成：阿尔巴尼亚、* 巴西、* 中国、厄瓜多尔、** 法国、加蓬、* 加纳、* 日本、** 马耳他、** 莫桑比克、** 俄罗斯联邦、瑞士、** 阿拉伯联合酋长国、* 大不列颠及北爱尔兰联合王国和美利坚合众国。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*2023年12月31日任期届满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**2024年12月31日任期届满。 </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第79次">第79次全体会议</inline>
+        <eol />
+        <docDate date="2022-06-09" refersTo="#adoptionDate">2022年6月9日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
