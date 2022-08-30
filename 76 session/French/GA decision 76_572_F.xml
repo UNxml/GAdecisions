@@ -1,0 +1,137 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-07-12/76-572/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-07-12/76-572/"></FRBRuri>
+          <FRBRdate date="2022-07-12" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-07-12/76-572/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-07-12/76-572/fra@/"></FRBRuri>
+          <FRBRdate date="2022-08-29" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-07-12/76-572/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-07-12/76-572/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-08-29" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Open-ended Working Group on the Question of Equitable Representation on and Increase in the Membership of the Security Council and Other Matters related to the Security Council" showAs="UN. General Assembly. Open-ended Working Group on the Question of Equitable Representation on and Increase in the Membership of the Security Council and Other Matters related to the Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="123" showAs="Question of equitable representation on and increase in the membership of the Security Council and other matters related to the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERSHIP" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-07-12" outcome="adopted" by="94e" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/572</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="123" name="agenda item">Point 123 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Autres décisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/572.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Question de la représentation équitable au Conseil de sécurité et de l’augmentation du nombre de ses membres et autres questions connexes ayant trait au Conseil de sécurité</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 94<sup>e</sup> séance plénière, le 12 juillet 2022, sur proposition de son président, l’Assemblée générale :</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">  a décidé de réaffirmer son rôle central s’agissant de la question de la représentation équitable au Conseil de sécurité et de l’augmentation du nombre de ses membres et d’autres questions connexes ayant trait au Conseil ainsi que l’engagement pris par les chefs d’État et de gouvernement représentant les peuples du monde de donner un nouveau souffle aux discussions sur la réforme du Conseil de sécurité ;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">  a décidé de poursuivre immédiatement les négociations intergouvernementales sur la réforme du Conseil de sécurité en séance plénière informelle à sa soixante-dix-septième session, conformément à ses décisions 62/557 du 15 septembre 2008, 63/565 B du 14 septembre 2009, 64/568 du 13 septembre 2010, 65/554 du 12 septembre 2011, 66/566 du 13 septembre 2012, 67/561 du 29 août 2013, 68/557 du 8 septembre 2014, 69/560 du 14 septembre 2015, 70/559 du 27 juillet 2016, 71/553 du 19 juillet 2017, 72/557 du 29 juin 2018, 73/554 du 25 juin 2019, 74/569 du 31 août 2020 et 75/569 du 22 juin 2021, sur la base des séances informelles tenues au cours de sa soixante-seizième session, dont il était rendu compte dans la lettre datée du 16 mai 2022 adressée par les coprésidentes, et en se fondant sur la version révisée du document où celles‑ci énonçaient des éléments communs portant sur les points de convergence et de divergence au sujet de la question de la représentation équitable au Conseil de sécurité et de l’augmentation du nombre de ses membres et des questions connexes, qui avait été distribuée le 19 mai 2022, et en s’inspirant des positions et des propositions des États Membres, qui figuraient dans le texte et l’annexe distribués le 31 juillet 2015, pour aider à orienter ses futurs travaux ;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>c)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">  a salué les initiatives, l’engagement actif et l’action énergique de son président et noté avec satisfaction le rôle actif des coprésidentes et les efforts concrets qu’elles avaient déployés de concert en vue d’une réforme globale rapide du Conseil de sécurité ;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>d)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">  a décidé de convoquer, au cours de sa soixante-dix-septième session, le Groupe de travail à composition non limitée chargé d’examiner la question de la représentation équitable au Conseil de sécurité et de l’augmentation du nombre de ses membres, ainsi que d’autres questions ayant trait au Conseil de sécurité, si les États Membres en décidaient ainsi ;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>e)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">  a également décidé d’inscrire à l’ordre du jour de sa soixante-dix-septième session la question intitulée « Question de la représentation équitable au Conseil de sécurité et de l’augmentation du nombre de ses membres et autres questions connexes ayant trait au Conseil de sécurité ».</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="94e">94e séance plénière</inline>
+        <eol />
+        <docDate date="2022-07-12" refersTo="#adoptionDate">12 juillet 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
