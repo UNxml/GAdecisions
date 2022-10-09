@@ -1,0 +1,107 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/"></FRBRuri>
+          <FRBRdate date="2022-09-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/zho@/"></FRBRuri>
+          <FRBRdate date="2022-09-30" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/zho@.xml"></FRBRuri>
+          <FRBRdate date="2022-09-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Conference of States Parties and Signatories of Treaties that Establish Nuclear-Weapon-Free Zones (4th : #### : ####)" showAs="Conference of States Parties and Signatories of Treaties that Establish Nuclear-Weapon-Free Zones (4th : #### : ####)" dictionary="DHLAUTH"></keyword>
+        <keyword value="NUCLEAR-WEAPON-FREE ZONES" showAs="NUCLEAR-WEAPON-FREE ZONES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MONGOLIA" showAs="MONGOLIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="100" showAs="General and complete disarmament." shortForm="DISARMAMENT--GENERAL AND COMPLETE" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-08-24" as="A/76/L.79" by="Brazil" outcome="draftDecision"/>
+        <step date="2022-09-08" outcome="adopted" by="第102次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/575</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">第七十六届会议</session>
+      </p>
+      <p>
+        <inline title="100" name="agenda item">议程项目100</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/575.</docNumber>
+        <docTitle refersTo="#decisionTitle">无核武器区和蒙古第四次会议</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年9月8日，大会第102次全体会议依照巴西的提案<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/76/L.79">A/76/L.79</a>。</p></authorialNote> 回顾大会2018年12月13日第<a href="https://undocs.org/ch/A/RES/73/71">73/71</a>号决议，其中大会决定于2020年4月24日在纽约联合国总部举行为期一天的无核武器区和蒙古第四次会议，又回顾其2020年4月13日第74/549号决定，其中决定，由于冠状病毒病(COVID-19)疫情，将无核武器区和蒙古第四次会议推迟至2021年举行，具体时间由大会第七十五届会议决定，还回顾其2021年7月29日第75/575号决定，其中决定进一步推迟会议，日期由大会第七十六届会议决定，决定在大会另有决定之前不举行无核武器区和蒙古第四次会议。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第102次">第102次全体会议</inline>
+        <eol />
+        <docDate date="2022-09-08" refersTo="#adoptionDate">2022年9月8日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
