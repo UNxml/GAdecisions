@@ -1,0 +1,109 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/"></FRBRuri>
+          <FRBRdate date="2022-09-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/fra@/"></FRBRuri>
+          <FRBRdate date="2022-09-30" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-08/76-575/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-09-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Conference of States Parties and Signatories of Treaties that Establish Nuclear-Weapon-Free Zones (4th : #### : ####)" showAs="Conference of States Parties and Signatories of Treaties that Establish Nuclear-Weapon-Free Zones (4th : #### : ####)" dictionary="DHLAUTH"></keyword>
+        <keyword value="NUCLEAR-WEAPON-FREE ZONES" showAs="NUCLEAR-WEAPON-FREE ZONES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MONGOLIA" showAs="MONGOLIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="100" showAs="General and complete disarmament." shortForm="DISARMAMENT--GENERAL AND COMPLETE" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-08-24" as="A/76/L.79" by="Brazil" outcome="draftDecision"/>
+        <step date="2022-09-08" outcome="adopted" by="102e" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/575</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Soixante-seizième session</session>
+      </p>
+      <p>
+        <inline title="100" name="agenda item">Point 100 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Autres décisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/575.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Quatrième Conférence des zones exemptes d’armes nucléaires et de la Mongolie</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 102<sup>e</sup> séance plénière, le 8 septembre 2022, sur proposition du Brésil<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/fr/A/76/L.79">A/76/L.79</a></span>.</p></authorialNote>, l’Assemblée générale, rappelant sa résolution <a href="https://undocs.org/fr/A/RES/73/71">73/71</a> du 13 décembre 2018, dans laquelle elle avait décidé de convoquer la quatrième Conférence des zones exemptes d’armes nucléaires et de la Mongolie, d’une durée d’une journée, au Siège de l’Organisation des Nations Unies à New York, le 24 avril 2020, rappelant également sa décision 74/549 du 13 avril 2020, dans laquelle elle avait décidé, en raison de la situation engendrée par la maladie à coronavirus 2019 (COVID‑19), de reporter la quatrième Conférence des zones exemptes d’armes nucléaires et de la Mongolie à l’année 2021, à des dates qu’elle fixerait à sa soixante-quinzième session, et sa décision 75/575 du 29 juillet 2021, dans laquelle elle avait décidé de reporter une nouvelle fois la Conférence à une date qu’elle fixerait à sa soixante-seizième session, a décidé de ne pas convoquer la quatrième Conférence des zones exemptes d’armes nucléaires et de la Mongolie, à moins qu’elle n’en décide autrement.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="102e">102e séance plénière</inline>
+        <eol />
+        <docDate date="2022-09-08" refersTo="#adoptionDate">8 septembre 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
