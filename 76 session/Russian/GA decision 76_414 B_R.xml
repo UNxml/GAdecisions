@@ -1,0 +1,154 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/"></FRBRuri>
+          <FRBRdate date="2022-03-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/rus@/"></FRBRuri>
+          <FRBRdate date="2022-10-04" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/rus@.xml"></FRBRuri>
+          <FRBRdate date="2022-10-09" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Permanent Forum on People of African Descent" showAs="UN. Permanent Forum on People of African Descent" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116g" showAs="Election of members of the Permanent Forum of People of African Descent." shortForm="UN. PERMANENT FORUM OF PEOPLE OF AFRICAN DESCENT--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step by="" date="2022-03-08" outcome="adopted" />
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Эпси Камбелль Барр" refersTo="Коста-Рика" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Гейнел Диана Карри" refersTo="Багамские Острова" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Джастин Хэнсфорд" refersTo="Соединенные Штаты Америки" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Хуан Хунцзян" refersTo="Китай" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Мартин Кимани" refersTo="Кения" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Микаэл Макекране" refersTo="Швеция" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Пастор Элиас Мурильо Мартинес" refersTo="Колумбия" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Алиса Анжель Нком" refersTo="Камерун" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Мона Омар" refersTo="Египет" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Постоянный форум лиц африканского происхождения" by="Джун Сумер" refersTo="Сент-Люсия" outcome="composition" akn4un:end="2025-03-07"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/414</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#plenaryMeeting">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Семьдесят шестая сессия</session>
+      </p>
+      <p>
+        <inline title="116 g)" name="agenda item">Пункт 116 g) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/414.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы членов Постоянного форума лиц африканского происхождения</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+              <p xml:space="preserve"> Решение 76/414 в разделе A <span class="italic">Официальных отчетов Генеральной Ассамблеи, семьдесят шестая сессия, Дополнение № 49</span> (<a href="https://undocs.org/ru/a/76/49(Vol.II)">A/76/49</a>), том II, становится решением 76/414 A.</p>
+            </authorialNote>
+          </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_7" class="PlainText">
+        <content eId="para_7__content">
+          <p xml:space="preserve">	8 марта 2022 года Председатель Совета по правам человека в соответствии с резолюцией <a href="https://undocs.org/ru/A/RES/75/314">75/314</a> Генеральной Ассамблеи от 2 августа 2021 года объявил о назначении следующих лиц членами Постоянного форума лиц африканского происхождения на трехлетний срок полномочий, вступающий в силу немедленно: Гейнел Диана Карри, Хуан Хунцзян, Микаэл Макекране, Пастор Элиас Mурильо Мартинес и Алиса Анжель Нком<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> См. <a href="https://undocs.org/ru/A/76/952">A/76/952</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="PlainText">
+        <content eId="para_8__content">
+          <p xml:space="preserve"> Таким образом, на 8 марта 2022 года в состав Постоянного форума лиц африканского происхождения входят: Эпси Камбелль Барр (<span class="italic">Коста‑Рика</span>)*, Гейнел Диана Карри (<span class="italic">Багамские Острова</span>)*, Джастин Хэнсфорд (<span class="italic">Соединенные Штаты Америки</span>)*, Хуан Хунцзян (<span class="italic">Китай</span>)*, Мартин Кимани (<span class="italic">Кения</span>)*, Микаэл Макекране (<span class="italic">Швеция</span>)*, Пастор Элиас Мурильо Мартинес (<span class="italic">Колумбия</span>)*, Алиса Анжель Нком (<span class="italic">Камерун</span>)*, Мона Омар (<span class="italic">Египет</span>)* и Джун Сумер (<span class="italic">Сент‑Люсия</span>)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="PlainText">
+        <content eId="para_9__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="PlainText">
+        <content eId="para_10__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 7 марта 2025 года.</p>
+        </content>
+      </paragraph>
+
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="">(пленарное заседание не запланировано)</inline>
+        <eol />
+        <docDate date="2022-03-08" refersTo="#adoptionDate">8 марта 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

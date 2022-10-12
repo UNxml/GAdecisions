@@ -13,14 +13,14 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@/"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="rus"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/rus@.xml"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
@@ -73,15 +73,17 @@
         <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
       </classification>
       <workflow source="#un">
-        <step date="2022-01-20" as="A/76/PV.55" outcome="adopted" by="55-е" />
-        <step date="2022-04-26" as="A/76/PV.69" outcome="adopted" by="69-е" />
-        <step date="2022-03-15" as="A/76/PV.61" outcome="adopted" by="61-е" />
-        <step date="2022-04-08" as="A/76/PV.67" outcome="adopted" by="67-е" />
-        <step date="2022-06-20" as="A/76/PV.84" outcome="adopted" by="84-е" />
-        <step date="2022-06-21" as="A/76/PV.85" outcome="adopted" by="85-е" />
-        <step date="2022-07-11" as="A/76/PV.93" outcome="adopted" by="93-е" />
-        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71-е" />
-        <step date="2022-05-23" as="A/76/PV.74" outcome="adopted" by="74-е" />
+        <step date="2022-01-20" outcome="adopted" by="55-е" />
+        <step date="2022-04-26" outcome="adopted" by="69-е" />
+        <step date="2022-03-15" outcome="adopted" by="61-е" />
+        <step date="2022-04-08" outcome="adopted" by="67-е" />
+        <step date="2022-06-20" outcome="adopted" by="84-е" />
+        <step date="2022-06-21" outcome="adopted" by="85-е" />
+        <step date="2022-07-11" outcome="adopted" by="93-е" />
+        <step date="2022-07-21" outcome="adopted" by="96-е" />
+        <step date="2022-07-28" outcome="adopted" by="97-е" />
+        <step date="2022-05-10" outcome="adopted" by="71-е" />
+        <step date="2022-05-23" outcome="adopted" by="74-е" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -119,7 +121,7 @@
         <docType>Решение</docType>
       </p>
       <p>
-        <docProponent refersTo="#plenaryMeeting">пленарное заседание</docProponent>
+        <docProponent refersTo="#noMainCommittee">пленарное заседание</docProponent>
       </p>
       <p>
         <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Семьдесят шестая сессия</session>
@@ -140,72 +142,82 @@
       </p>
       <p>
         <docNumber refersTo="#letter">
-          <span class="bold">В</span>
+          <span class="bold">B</span>
         </docNumber>
         <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
-          <p xml:space="preserve">		Решение 76/506 в разделе B.1 <span class="italic">Официальных отчетов Генеральной Ассамблеи, семьдесят шестая сессия, Дополнение № 49</span> (<span class="underline"><a href="https://undocs.org/ru/A/76/49">A/76/49</a></span>), т. II, становится решением 76/506 A.</p>
+          <p xml:space="preserve"> Решение 76/506 в разделе B.1 Официальных отчетов Генеральной Ассамблеи, семьдесят шестая сессия, Дополнение № 49 (<span class="underline"><a href="https://undocs.org/ru/A/76/49">A/76/49</a></span>), том II, становится решением 76/506 A.</p>
         </authorialNote>
       </p>
     </preface>
     <mainBody>
-      <paragraph eId="para_1" class="SingleTxt">
+      <paragraph eId="para_1" class="MercuryDocument">
         <content eId="para_1__content">
-          <p xml:space="preserve">	На своем 55‑м пленарном заседании 20 января 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) рассмотреть непосредственно на пленарном заседании подпункт a), озаглавленный «Последующая деятельность по итогам четвертой Конференции Организации Объединенных Наций по наименее развитым странам», пункта 23 повестки дня, озаглавленного «Группы стран, находящихся в особой ситуации», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.32">A/76/L.32</a>.</p></authorialNote>. </p>
+          <p xml:space="preserve"> На своем 55‑м пленарном заседании 20 января 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) рассмотреть непосредственно на пленарном заседании подпункт a), озаглавленный «Последующая деятельность по итогам четвертой Конференции Организации Объединенных Наций по наименее развитым странам», пункта 23 повестки дня, озаглавленного «Группы стран, находящихся в особой ситуации», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.32">A/76/L.32</a></span>.</p></authorialNote>. </p>
         </content>
       </paragraph>
-      <paragraph eId="para_2" class="SingleTxt">
+      <paragraph eId="para_2" class="MercuryDocument">
         <content eId="para_2__content">
-          <p xml:space="preserve">	На том же заседании Генеральная Ассамблея постановила в рамках раздела H (Контроль над наркотиками, предупреждение преступности и борьба с международным терроризмом во всех его формах и проявлениях) рассмотреть непосредственно на пленарном заседании пункт 109 повестки дня, озаглавленный «Противодействие использованию информационно-коммуникационных технологий в преступных целях», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.31">A/76/L.31</a>.</p></authorialNote>, предлагаемой поправки к нему<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a>.</p></authorialNote> и предлагаемой поправки к поправке к нему<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.34/Rev.1">A/76/L.34/Rev.1</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На том же заседании Генеральная Ассамблея постановила в рамках раздела H (Контроль над наркотиками, предупреждение преступности и борьба с международным терроризмом во всех его формах и проявлениях) рассмотреть непосредственно на пленарном заседании пункт 109 повестки дня, озаглавленный «Противодействие использованию информационно-коммуникационных технологий в преступных целях», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.31">A/76/L.31</a></span>.</p></authorialNote>, предлагаемой поправки к нему<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a></span>.</p></authorialNote> и предлагаемой поправки к поправке к нему<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.34/Rev.1">A/76/L.34/Rev.1</a></span>.</p></authorialNote>. </p>
         </content>
       </paragraph>
-      <paragraph eId="para_3" class="SingleTxt">
+      <paragraph eId="para_3" class="MercuryDocument">
         <content eId="para_3__content">
-          <p xml:space="preserve">	На своем 61‑м пленарном заседании 15 марта 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 29 повестки дня, озаглавленного «Улучшение положения женщин», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">		<a href="https://undocs.org/ru/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
+          <p xml:space="preserve"> На своем 61‑м пленарном заседании 15 марта 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 29 повестки дня, озаглавленного «Улучшение положения женщин», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.40">A/76/L.40</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_4" class="SingleTxt">
+      <paragraph eId="para_4" class="MercuryDocument">
         <content eId="para_4__content">
-          <p xml:space="preserve">	На своем 67‑м пленарном заседании 8 апреля 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 12 повестки дня, озаглавленного «Спорт на благо развития и мира: утверждение мира и построение более счастливой жизни на планете посредством спорта и воплощения олимпийских идеалов», и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.48">A/76/L.48</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На своем 67‑м пленарном заседании 8 апреля 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 12 повестки дня, озаглавленного «Спорт на благо развития и мира: утверждение мира и построение более счастливой жизни на планете посредством спорта и воплощения олимпийских идеалов», и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.48">A/76/L.48</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_5" class="SingleTxt">
+      <paragraph eId="para_5" class="MercuryDocument">
         <content eId="para_5__content">
-          <p xml:space="preserve">	На своем 69‑м пленарном заседании 26 апреля 2022 года Генеральная Ассамблея постановила в рамках раздела D (Поощрение прав человека) возобновить рассмотрение пункта 71 повестки дня, озаглавленного «Права коренных народов», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.51">A/76/L.51</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На 69‑м пленарном заседании 26 апреля 2022 года Генеральная Ассамблея постановила в рамках раздела D (Поощрение прав человека) возобновить рассмотрение непосредственно на пленарном заседании пункта 71 повестки дня, озаглавленного «Права коренных народов», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.51">A/76/L.51</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_6" class="SingleTxt">
+      <paragraph eId="para_6" class="MercuryDocument">
         <content eId="para_6__content">
-          <p xml:space="preserve">	На том же заседании Генеральная Ассамблея постановила в рамках раздела G (Разоружение) возобновить рассмотрение подпункта d), озаглавленного «Уменьшение космических угроз путем принятия норм, правил и принципов ответственного поведения», пункта 98 повестки дня, озаглавленного «Предотвращение гонки вооружений в космическом пространстве», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.50">A/76/L.50</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На том же заседании Генеральная Ассамблея постановила в рамках раздела G (Разоружение) возобновить рассмотрение подпункта d), озаглавленного «Уменьшение космических угроз путем принятия норм, правил и принципов ответственного поведения», пункта 98 повестки дня, озаглавленного «Предотвращение гонки вооружений в космическом пространстве», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.50">A/76/L.50</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_7" class="SingleTxt">
+      <paragraph eId="para_7" class="MercuryDocument">
         <content eId="para_7__content">
-          <p xml:space="preserve">	На своем 71‑м пленарном заседании 10 мая 2022 года Генеральная Ассамблея постановила в рамках раздела I (Организационные, административные и прочие вопросы) возобновить рассмотрение подпункта d), озаглавленного «Выборы членов Совета по правам человека», пункта 116 повестки дня, озаглавленного «Выборы для заполнения вакансий во вспомогательных органах и другие выборы», и незамедлительно приступить к проведению выборов с целью заполнения вакансии, образовавшейся в связи с выходом члена Совета.</p>
+          <p xml:space="preserve"> На своем 71‑м пленарном заседании 10 мая 2022 года Генеральная Ассамблея в рамках раздела I (Организационные, административные и прочие вопросы) постановила возобновить рассмотрение подпункта d), озаглавленного «Выборы членов Совета по правам человека», пункта 116 повестки дня, озаглавленного «Выборы для заполнения вакансий во вспомогательных органах и другие выборы», и незамедлительно приступить к проведению выборов для заполнения вакансии, образовавшейся в результате выхода одного из членов Совета.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_8" class="SingleTxt">
+      <paragraph eId="para_8" class="MercuryDocument">
         <content eId="para_8__content">
-          <p xml:space="preserve">	На своем 74‑м пленарном заседании 23 мая 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 26 повестки дня, озаглавленного «Сельскохозяйственное развитие, продовольственная безопасность и питание», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.55">A/76/L.55</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На своем 74‑м пленарном заседании 23 мая 2022 года Генеральная Ассамблея в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) постановила возобновить рассмотрение пункта 26 повестки дня, озаглавленного «Сельскохозяйственное развитие, продовольственная безопасность и питание», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.55">A/76/L.55</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_9" class="SingleTxt">
+      <paragraph eId="para_9" class="MercuryDocument">
         <content eId="para_9__content">
-          <p xml:space="preserve">	На том же заседании Генеральная Ассамблея постановила в рамках раздела I (Организационные, административные и прочие вопросы) возобновить рассмотрение подпункта a) пункта 117 повестки дня, озаглавленного «Назначения для заполнения вакансий во вспомогательных органах и другие назначения», и незамедлительно приступить к рассмотрению доклада Пятого комитета<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/516/Add.1">A/76/516/Add.1</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На том же заседании Генеральная Ассамблея постановила в рамках раздела I (Организационные, административные и прочие вопросы) возобновить рассмотрение подпункта a), озаглавленного «Назначение членов Консультативного комитета по административным и бюджетным вопросам», пункта 117 повестки дня, озаглавленного «Назначения для заполнения вакансий во вспомогательных органах и другие назначения», и незамедлительно приступить к рассмотрению доклада Пятого комитета<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/516/Add.1">A/76/516/Add.1</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_10" class="SingleTxt">
+      <paragraph eId="para_10" class="MercuryDocument">
         <content eId="para_10__content">
-          <p xml:space="preserve">	На своем 84‑м пленарном заседании 20 июня 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 29 повестки дня, озаглавленного «Улучшение положения женщин», и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.66">A/76/L.66</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На своем 84‑м пленарном заседании 20 июня 2022 года Генеральная Ассамблея постановила в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) возобновить рассмотрение пункта 29 повестки дня, озаглавленного «Улучшение положения женщин», и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.66">A/76/L.66</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_11" class="SingleTxt">
+      <paragraph eId="para_11" class="MercuryDocument">
         <content eId="para_11__content">
-          <p xml:space="preserve">	На своем 85‑м пленарном заседании 21 июня 2022 года Генеральная Ассамблея постановила в рамках раздела G (Разоружение) возобновить рассмотрение подпункта u), озаглавленного «Проблемы, порождаемые накоплением избыточных запасов обычных боеприпасов», пункта 100 повестки дня, озаглавленного «Всеобщее и полное разоружение», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.65">A/76/L.65</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> На своем 85‑м пленарном заседании 21 июня 2022 года Генеральная Ассамблея в рамках раздела G (Разоружение) постановила возобновить рассмотрение подпункта u), озаглавленного «Проблемы, порождаемые накоплением избыточных запасов обычных боеприпасов», пункта 100 повестки дня, озаглавленного «Всеобщее и полное разоружение», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.65">A/76/L.65</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_12" class="SingleTxt">
+      <paragraph eId="para_12" class="MercuryDocument">
         <content eId="para_12__content">
-          <p xml:space="preserve">	На своем 93‑м пленарном заседании 11 июля 2022 года Генеральная Ассамблея постановила в рамках раздела D (Поощрение прав человека) возобновить рассмотрение подпункта b), озаглавленного «Вопросы прав человека, включая альтернативные подходы в деле содействия эффективному осуществлению прав человека и основных свобод», пункта 74 повестки дня, озаглавленного «Поощрение и защита прав человека», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">		<span class="underline"><a href="https://undocs.org/ru/A/76/L.69">A/76/L.69</a></span>.</p></authorialNote> .</p>
+          <p xml:space="preserve"> На своем 93‑м пленарном заседании 11 июля 2022 года Генеральная Ассамблея в рамках раздела D (Поощрение прав человека) постановила возобновить рассмотрение подпункта b), озаглавленного «Вопросы прав человека, включая альтернативные подходы в деле содействия эффективному осуществлению прав человека и основных свобод», пункта 74 повестки дня, озаглавленного «Поощрение и защита прав человека», рассмотреть его непосредственно на пленарном заседании и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.69">A/76/L.69</a></span>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve"> На своем 96‑м пленарном заседании 21 июля 2022 года Генеральная Ассамблея в рамках раздела A (Содействие поступательному экономическому росту и устойчивому развитию согласно соответствующим резолюциям Генеральной Ассамблеи и решениям последних конференций Организации Объединенных Наций) постановила возобновить рассмотрение непосредственно на пленарном заседании пункта 25 повестки дня, озаглавленного «Оперативная деятельность в целях развития», и незамедлительно приступить к рассмотрению проекта решения<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.73">A/76/L.73</a></span>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <content eId="para_14__content">
+          <p xml:space="preserve"> На своем 97‑м пленарном заседании 28 июля 2022 года Генеральная Ассамблея в рамках раздела D (Поощрение прав человека) постановила возобновить рассмотрение подпункта b), озаглавленного «Вопросы прав человека, включая альтернативные подходы в деле содействия эффективному осуществлению прав человека и основных свобод», пункта 74 повестки дня, озаглавленного «Поощрение и защита прав человека», и незамедлительно приступить к рассмотрению проекта резолюции<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/L.75">A/76/L.75</a></span>.</p></authorialNote>.</p>
         </content>
       </paragraph>
     </mainBody>
@@ -218,6 +230,8 @@
         <inline name="adoptionMeeting" title="84-е">84‑е пленарное заседание</inline>
         <inline name="adoptionMeeting" title="85-е">85‑е пленарное заседание</inline>
         <inline name="adoptionMeeting" title="93-е">93‑е пленарное заседание</inline>
+        <inline name="adoptionMeeting" title="96-е">96‑е пленарное заседание</inline>
+        <inline name="adoptionMeeting" title="97-е">97‑е пленарное заседание</inline>
         <inline name="adoptionMeeting" title="71-е">71‑е пленарное заседание</inline>
         <inline name="adoptionMeeting" title="74-е">74‑е пленарное заседание</inline>
         <eol />
@@ -228,6 +242,8 @@
         <docDate date="2022-06-20" refersTo="#adoptionDate">20 июня 2022 года</docDate>
         <docDate date="2022-06-21" refersTo="#adoptionDate">21 июня 2022 года</docDate>
         <docDate date="2022-07-11" refersTo="#adoptionDate">11 июля 2022 года</docDate>
+        <docDate date="2022-07-21" refersTo="#adoptionDate">21 июля 2022 года</docDate>
+        <docDate date="2022-07-28" refersTo="#adoptionDate">28 июля 2022 года</docDate>
         <docDate date="2022-05-10" refersTo="#adoptionDate">10 мая 2022 года</docDate>
         <docDate date="2022-05-23" refersTo="#adoptionDate">23 мая 2022 года</docDate>
       </p>
