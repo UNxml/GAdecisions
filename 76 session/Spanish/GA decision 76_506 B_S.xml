@@ -13,14 +13,14 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/spa@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/spa@/"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="spa"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/spa@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/spa@.xml"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
@@ -73,15 +73,17 @@
         <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
       </classification>
       <workflow source="#un">
-        <step date="2022-01-20" as="A/76/PV.55" outcome="adopted" by="55ª" />
-        <step date="2022-03-15" as="A/76/PV.61" outcome="adopted" by="61ª" />
-        <step date="2022-04-26" as="A/76/PV.69" outcome="adopted" by="69ª" />
-        <step date="2022-06-20" as="A/76/PV.84" outcome="adopted" by="84ª" />
-        <step date="2022-06-21" as="A/76/PV.85" outcome="adopted" by="85ª" />
-        <step date="2022-07-11" as="A/76/PV.93" outcome="adopted" by="93ª" />
-        <step date="2022-04-08" as="A/76/PV.67" outcome="adopted" by="67ª" />
-        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71ª" />
-        <step date="2022-05-23" as="A/76/PV.74" outcome="adopted" by="74ª" />
+        <step date="2022-01-20" outcome="adopted" by="55ª" />
+        <step date="2022-03-15" outcome="adopted" by="61ª" />
+        <step date="2022-04-26" outcome="adopted" by="69ª" />
+        <step date="2022-06-20" outcome="adopted" by="84ª" />
+        <step date="2022-06-21" outcome="adopted" by="85ª" />
+        <step date="2022-07-11" outcome="adopted" by="93ª" />
+        <step date="2022-07-21" outcome="adopted" by="96ª" />
+        <step date="2022-07-28" outcome="adopted" by="97ª" />
+        <step date="2022-04-08" outcome="adopted" by="67ª" />
+        <step date="2022-05-10" outcome="adopted" by="71ª" />
+        <step date="2022-05-23" outcome="adopted" by="74ª" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -143,7 +145,7 @@
           <span class="bold">B</span>
         </docNumber>
         <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
-          <p xml:space="preserve"> La decisión 76/506, que figura en la sección B.1 de los <span class="italic">Documentos Oficiales de la Asamblea General, septuagésimo sexto período de sesiones, suplemento núm. 49</span> (<span class="underline"><a href="https://undocs.org/sp/a/76/49(Vol.II)">A/76/49</a></span>), vol. II, pasa a ser la decisión 76/506 A.</p>
+          <p xml:space="preserve"> La decisión 76/506, que figura en la sección B.1 de los <span class="italic">Documentos Oficiales de la Asamblea General, septuagésimo sexto período de sesiones, suplemento núm. 49</span> (<span class="underline"><a href="https://undocs.org/es/A/76/49">A/76/49</a></span>), vol. II, pasa a ser la decisión 76/506 A.</p>
         </authorialNote>
       </p>
     </preface>
@@ -160,12 +162,12 @@
       </paragraph>
       <paragraph eId="para_3" class="MercuryDocument">
         <content eId="para_3__content">
-          <p xml:space="preserve"> En su 61ª sesión plenaria, celebrada el 15 de marzo de 2022, la Asamblea General decidió reabrir el examen del tema 29 del programa, titulado “Adelanto de las mujeres”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
+          <p xml:space="preserve"> En su 61ª sesión plenaria, celebrada el 15 de marzo de 2022, la Asamblea General decidió reabrir el examen del tema 29 del programa, titulado “Adelanto de las mujeres”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y del desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
         </content>
       </paragraph>
       <paragraph eId="para_4" class="MercuryDocument">
         <content eId="para_4__content">
-          <p xml:space="preserve"> En su 67ª sesión plenaria, celebrada el 8 de abril de 2022, la Asamblea General decidió reabrir el examen del tema 12 del programa, titulado “El deporte para el desarrollo y la paz: construcción de un mundo pacífico y mejor mediante el deporte y el ideal olímpico”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.48">A/76/L.48</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> En su 67ª sesión plenaria, celebrada el 8 de abril de 2022, la Asamblea General decidió reabrir el examen del tema 12 del programa, titulado “El deporte para el desarrollo y la paz: construcción de un mundo mejor y más pacífico mediante el deporte y el ideal olímpico”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y del desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.48">A/76/L.48</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_5" class="MercuryDocument">
@@ -175,17 +177,17 @@
       </paragraph>
       <paragraph eId="para_6" class="MercuryDocument">
         <content eId="para_6__content">
-          <p xml:space="preserve"> En la misma sesión, la Asamblea General decidió reabrir el examen del subtema d), titulado “Reducción de las amenazas relacionadas con el espacio mediante normas, reglas y principios de comportamiento responsable”, del tema 98 del programa, titulado “Prevención de la carrera armamentista en el espacio ultraterrestre”, bajo el epígrafe G (“Desarme”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.50">A/76/L.50</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> En la misma sesión, la Asamblea General decidió reabrir el examen del subtema d), titulado “Reducción de las amenazas relacionadas con el espacio mediante normas, reglas y principios de conductas responsables”, del tema 98 del programa, titulado “Prevención de la carrera armamentista en el espacio ultraterrestre”, bajo el epígrafe G (“Desarme”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.50">A/76/L.50</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_7" class="MercuryDocument">
         <content eId="para_7__content">
-          <p xml:space="preserve"> En su 71ª sesión plenaria, celebrada el 10 de mayo de 2022, la Asamblea General decidió reabrir el examen del subtema d), titulado “Elección de miembros del Consejo de Derechos Humanos”, del tema 116 del programa, titulado “Elecciones para llenar vacantes en órganos subsidiarios y otras elecciones”, bajo el epígrafe I (“Asuntos administrativos y de organización y otros asuntos”), y proceder de inmediato a realizar una elección para llenar la vacante que se produjo por la retirada de un miembro del Consejo.</p>
+          <p xml:space="preserve"> En su 71ª sesión plenaria, celebrada el 10 de mayo de 2022, la Asamblea General decidió reabrir el examen del subtema d), titulado “Elección de miembros del Consejo de Derechos Humanos”, del tema 116 del programa, titulado “Elecciones para llenar vacantes en órganos subsidiarios y otras elecciones”, bajo el epígrafe I (“Asuntos administrativos y de organización y otros asuntos”), y ocuparse de inmediato de la elección para llenar la vacante producida por la retirada de un miembro del Consejo.</p>
         </content>
       </paragraph>
       <paragraph eId="para_8" class="MercuryDocument">
         <content eId="para_8__content">
-          <p xml:space="preserve"> En su 74ª sesión plenaria, celebrada el 23 de mayo de 2022, la Asamblea General decidió reabrir el examen del tema 26 del programa, titulado “Desarrollo agrícola, seguridad alimentaria y nutrición”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.55">A/76/L.55</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> En su 74ª sesión plenaria, celebrada el 23 de mayo de 2022, la Asamblea General decidió reabrir el examen del tema 26 del programa, titulado “Desarrollo agrícola, seguridad alimentaria y nutrición”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y del desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.55">A/76/L.55</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_9" class="MercuryDocument">
@@ -195,7 +197,7 @@
       </paragraph>
       <paragraph eId="para_10" class="MercuryDocument">
         <content eId="para_10__content">
-          <p xml:space="preserve"> En su 84ª sesión plenaria, celebrada el 20 de junio de 2022, la Asamblea General decidió reabrir el examen del tema 29 del programa, titulado “Adelanto de las mujeres”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.66">A/76/L.66</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> En su 84ª sesión plenaria, celebrada el 20 de junio de 2022, la Asamblea General decidió reabrir el examen del tema 29 del programa, titulado “Adelanto de las mujeres”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y del desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.66">A/76/L.66</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_11" class="MercuryDocument">
@@ -205,7 +207,17 @@
       </paragraph>
       <paragraph eId="para_12" class="MercuryDocument">
         <content eId="para_12__content">
-          <p xml:space="preserve"> En su 93ª sesión plenaria, celebrada el 11 de julio de 2022, la Asamblea General decidió reabrir el examen del subtema b), titulado “Cuestiones de derechos humanos, incluidos otros medios de mejorar el goce efectivo de los derechos humanos y las libertades fundamentales”, del tema 74 del programa, titulado “Promoción y protección de los derechos humanos”, bajo el epígrafe D (“Promoción de los derechos humanos”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.69">A/76/L.69</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> En su 93ª sesión plenaria, celebrada el 11 de julio de 2022, la Asamblea General decidió reabrir el examen del subtema b), titulado “Cuestiones de derechos humanos, incluidos otros medios de mejorar el goce efectivo de los derechos humanos y las libertades fundamentales”, del tema 74 del programa, titulado “Promoción y protección de los derechos humanos”, bajo el epígrafe D (“Promoción de los derechos humanos”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.69">A/76/L.69</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve"> En su 96ª sesión plenaria, celebrada el 21 de julio de 2022, la Asamblea General decidió reabrir el examen del tema 25 del programa, titulado “Actividades operacionales para el desarrollo”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.73">A/76/L.73</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <content eId="para_14__content">
+          <p xml:space="preserve"> En su 97ª sesión plenaria, celebrada el 28 de julio de 2022, la Asamblea General decidió reabrir el examen del subtema b), titulado “Cuestiones de derechos humanos, incluidos otros medios de mejorar el goce efectivo de los derechos humanos y las libertades fundamentales”, del tema 74 del programa, titulado “Promoción y protección de los derechos humanos”, bajo el epígrafe D (“Promoción de los derechos humanos”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"> <a href="https://undocs.org/es/A/76/L.75">A/76/L.75</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
     </mainBody>
@@ -217,6 +229,8 @@
         <inline name="adoptionMeeting" title="84ª">84ª sesión plenaria</inline>
         <inline name="adoptionMeeting" title="85ª">85ª sesión plenaria</inline>
         <inline name="adoptionMeeting" title="93ª">93ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="96ª">96ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="97ª">97ª sesión plenaria</inline>
         <inline name="adoptionMeeting" title="67ª">67ª sesión plenaria</inline>
         <inline name="adoptionMeeting" title="71ª">71ª sesión plenaria</inline>
         <inline name="adoptionMeeting" title="74ª">74ª sesión plenaria</inline>
@@ -227,6 +241,8 @@
         <docDate date="2022-06-20" refersTo="#adoptionDate">20 de junio de 2022</docDate>
         <docDate date="2022-06-21" refersTo="#adoptionDate">21 de junio de 2022</docDate>
         <docDate date="2022-07-11" refersTo="#adoptionDate">11 de julio de 2022</docDate>
+        <docDate date="2022-07-21" refersTo="#adoptionDate">21 de julio de 2022</docDate>
+        <docDate date="2022-07-28" refersTo="#adoptionDate">28 de julio de 2022</docDate>
         <docDate date="2022-04-08" refersTo="#adoptionDate">8 de abril de 2022</docDate>
         <docDate date="2022-05-10" refersTo="#adoptionDate">10 de mayo de 2022</docDate>
         <docDate date="2022-05-23" refersTo="#adoptionDate">23 de mayo de 2022</docDate>

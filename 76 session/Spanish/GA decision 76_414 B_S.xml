@@ -1,0 +1,153 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/"></FRBRuri>
+          <FRBRdate date="2022-03-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/spa@/"></FRBRuri>
+          <FRBRdate date="2022-10-04" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/spa@.xml"></FRBRuri>
+          <FRBRdate date="2022-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Permanent Forum on People of African Descent" showAs="UN. Permanent Forum on People of African Descent" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116g" showAs="Election of members of the Permanent Forum of People of African Descent." shortForm="UN. PERMANENT FORUM OF PEOPLE OF AFRICAN DESCENT--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step by="" date="2022-03-08" outcome="adopted" />
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Epsy CAMPBELL BARR" refersTo="Costa Rica" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Gaynel Diana CURRY" refersTo="Bahamas" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Justin HANSFORD" refersTo="Estados Unidos de América" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="HUANG Hongjiang" refersTo="China" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Martin KIMANI" refersTo="Kenya" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Michael MCECHRANE" refersTo="Suecia" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Pastor Elías MURILLO MARTÍNEZ" refersTo="Colombia" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Alice Angèle NKOM" refersTo="Camerún" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="Mona OMAR" refersTo="Egipto" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="Foro Permanente de Afrodescendientes" by="June SOOMER" refersTo="Santa Lucía" outcome="composition" akn4un:end="2025-03-07"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/414</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">Septuagésimo sexto período de sesiones</session>
+      </p>
+      <p>
+        <inline title="116 g)" name="agenda item">Tema 116 g) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/414.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de miembros del Foro Permanente de Afrodescendientes</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> La decisión 76/414, que figura en la sección A de los <span class="italic">Documentos Oficiales de la Asamblea General, septuagésimo sexto período de sesiones, suplemento núm. 49 (</span><span class="italic underline"><a href="https://undocs.org/sp/A/76/49">A/76/49</a></span><span class="italic">)</span>, vol. II, pasa a ser la decisión 76/414 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="PlainText">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	El 8 de marzo de 2022, la Presidencia del Consejo de Derechos Humanos, de conformidad con la resolución <a href="https://undocs.org/sp/A/RES/75/314">75/314</a> de la Asamblea General, de 2 de agosto de 2021, anunció el nombramiento de las siguientes personas como miembros del Foro Permanente de Afrodescendientes para un mandato de tres años con efecto inmediato: Gaynel Diana Curry, Huang Hongjiang, Michael McEchrane, Pastor Elías Murillo Martínez y Alice Angèle Nkom<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Véase <span class="underline"><a href="https://undocs.org/sp/A/76/952">A/76/952</a></span>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="PlainText">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En consecuencia, a partir del 8 de marzo de 2022, el Foro Permanente de Afrodescendientes quedó compuesto por las personas siguientes: Epsy <inline name="smallCaps" style="font-variant:small-caps">Campbell Barr</inline> (<span class="italic">Costa Rica</span>)*, Gaynel Diana <inline name="smallCaps" style="font-variant:small-caps">Curry</inline> (<span class="italic">Bahamas</span>)*, Justin <inline name="smallCaps" style="font-variant:small-caps">Hansford</inline> (<span class="italic">Estados Unidos de América</span>)*, <inline name="smallCaps" style="font-variant:small-caps">Huang</inline> Hongjiang (<span class="italic">China</span>)*, Martin <inline name="smallCaps" style="font-variant:small-caps">Kimani</inline> (<span class="italic">Kenya</span>)*, Michael <inline name="smallCaps" style="font-variant:small-caps">McEchrane</inline> (<span class="italic">Suecia</span>)*, Pastor Elías <inline name="smallCaps" style="font-variant:small-caps">Murillo Martínez</inline> (<span class="italic">Colombia</span>)*, Alice Angèle <inline name="smallCaps" style="font-variant:small-caps">Nkom</inline> (<span class="italic">Camerún</span>)*, Mona <inline name="smallCaps" style="font-variant:small-caps">Omar</inline> (<span class="italic">Egipto</span>)* y June <inline name="smallCaps" style="font-variant:small-caps">Soomer</inline> (<span class="italic">Santa Lucía</span>)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="PlainText">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="PlainText">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	El mandato termina el 7 de marzo de 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="">No se celebró sesión plenaria.</inline>
+        <eol />
+        <docDate date="2022-03-08" refersTo="#adoptionDate">8 de marzo de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
