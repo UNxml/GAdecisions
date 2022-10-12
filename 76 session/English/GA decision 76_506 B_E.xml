@@ -13,31 +13,77 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/eng@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/eng@/"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="eng"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/eng@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/eng@.xml"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
-      <classification source="DHLAUTH">
-        <keyword value="UN. General Assembly (76th sess. : 2021-2022)" showAs="UN. General Assembly (76th sess. : 2021-2022)" dictionary="DHLAUTH"></keyword>
-        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (76TH SESS. : 2021-2022)--AGENDA" dictionary="A/76/251"></keyword>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
       </classification>
       <workflow source="#un">
-        <step date="2022-01-20" as="A/76/PV.55" outcome="adopted" by="55th" />
-        <step date="2022-03-15" as="A/76/PV.61" outcome="adopted" by="61st" />
-        <step date="2022-04-26" as="A/76/PV.69" outcome="adopted" by="69th" />
-        <step date="2022-04-08" as="A/76/PV.67" outcome="adopted" by="67th" />
-        <step date="2022-06-20" as="A/76/PV.84" outcome="adopted" by="84th" />
-        <step date="2022-06-21" as="A/76/PV.85" outcome="adopted" by="85th" />
-        <step date="2022-07-11" as="A/76/PV.93" outcome="adopted" by="93rd" />
-        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71st" />
-        <step date="2022-05-23" as="A/76/PV.74" outcome="adopted" by="74th" />
+        <step date="2022-01-20" outcome="adopted" by="55th" />
+        <step date="2022-03-15" outcome="adopted" by="61st" />
+        <step date="2022-04-26" outcome="adopted" by="69th" />
+        <step date="2022-04-08" outcome="adopted" by="67th" />
+        <step date="2022-06-20" outcome="adopted" by="84th" />
+        <step date="2022-06-21" outcome="adopted" by="85th" />
+        <step date="2022-07-11" outcome="adopted" by="93rd" />
+        <step date="2022-07-21" outcome="adopted" by="96th" />
+        <step date="2022-07-28" outcome="adopted" by="97th" />
+        <step date="2022-05-10" outcome="adopted" by="71st" />
+        <step date="2022-05-23" outcome="adopted" by="74th" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -65,7 +111,7 @@
         </span>
       </p>
       <p class="upperRight">
-        <docNumber refersTo="#symbol">A/DEC/76/506 B</docNumber>
+        <docNumber refersTo="#symbol">A/DEC/76/506</docNumber>
       </p>
       <p class="upperLeft">
         <img src="logo-un.jpg"></img>
@@ -99,7 +145,7 @@
           <span class="bold">B</span>
         </docNumber>
         <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
-          <p xml:space="preserve"> Decision 76/506, in section B.1 of the <span class="italic">Official Records of the General Assembly, Seventy-sixth Session, Supplement No. 49</span> (<span class="underline"><a href="https://undocs.org/en/A/76/49(Vol.II)">A/76/49</a></span>), vol. II, becomes decision 76/506 A.</p>
+          <p xml:space="preserve"> Decision 76/506, in section B.1 of the <span class="italic">Official Records of the General Assembly, Seventy-sixth Session, Supplement No. 49</span> (<span class="underline"><a href="https://undocs.org/en/A/76/49(vol.ii)">A/76/49</a></span>), vol. II, becomes decision 76/506 A.</p>
         </authorialNote>
       </p>
     </preface>
@@ -164,6 +210,16 @@
           <p xml:space="preserve"> At its 93rd plenary meeting, on 11 July 2022, the General Assembly decided to reopen consideration of sub-item (b) entitled “Human rights questions, including alternative approaches for improving the effective enjoyment of human rights and fundamental freedoms” of agenda item 74 entitled “Promotion and protection of human rights”, under heading D (Promotion of human rights), to consider it directly in plenary meeting and to proceed expeditiously with the consideration of a draft decision.<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.69">A/76/L.69</a>.</p></authorialNote></p>
         </content>
       </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve"> At its 96th plenary meeting, on 21 July 2022, the General Assembly decided to reopen consideration of agenda item 25 entitled “Operational activities for development”, under heading A (Promotion of sustained economic growth and sustainable development in accordance with the relevant resolutions of the General Assembly and recent United Nations conferences), to consider it directly in plenary meeting and to proceed expeditiously with the consideration of a draft decision.<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.73">A/76/L.73</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <content eId="para_14__content">
+          <p xml:space="preserve"> At its 97th plenary meeting, on 28 July 2022, the General Assembly decided to reopen consideration of sub-item (b) entitled “Human rights questions, including alternative approaches for improving the effective enjoyment of human rights and fundamental freedoms” of agenda item 74 entitled “Promotion and protection of human rights”, under heading D (Promotion of human rights), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.75">A/76/L.75</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
@@ -174,6 +230,8 @@
         <inline name="adoptionMeeting" title="84th">84th plenary meeting</inline>
         <inline name="adoptionMeeting" title="85th">85th plenary meeting</inline>
         <inline name="adoptionMeeting" title="93rd">93rd plenary meeting</inline>
+        <inline name="adoptionMeeting" title="96th">96th plenary meeting</inline>
+        <inline name="adoptionMeeting" title="97th">97th plenary meeting</inline>
         <inline name="adoptionMeeting" title="71st">71st plenary meeting</inline>
         <inline name="adoptionMeeting" title="74th">74th plenary meeting</inline>
         <eol />
@@ -184,6 +242,8 @@
         <docDate date="2022-06-20" refersTo="#adoptionDate">20 June 2022</docDate>
         <docDate date="2022-06-21" refersTo="#adoptionDate">21 June 2022</docDate>
         <docDate date="2022-07-11" refersTo="#adoptionDate">11 July 2022</docDate>
+        <docDate date="2022-07-21" refersTo="#adoptionDate">21 July 2022</docDate>
+        <docDate date="2022-07-28" refersTo="#adoptionDate">28 July 2022</docDate>
         <docDate date="2022-05-10" refersTo="#adoptionDate">10 May 2022</docDate>
         <docDate date="2022-05-23" refersTo="#adoptionDate">23 May 2022</docDate>
       </p>
