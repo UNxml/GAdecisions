@@ -13,14 +13,14 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/fra@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/fra@/"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="publication"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="fra"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/fra@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2022-01-20/76-506/fra@.xml"></FRBRuri>
-          <FRBRdate date="2022-08-12" name="markup"></FRBRdate>
+          <FRBRdate date="2022-09-30" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
@@ -73,15 +73,17 @@
         <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
       </classification>
       <workflow source="#un">
-        <step date="2022-01-20" as="A/76/PV.55" outcome="adopted" by="55e" />
-        <step date="2022-07-11" as="A/76/PV.93" outcome="adopted" by="93e" />
-        <step date="2022-04-26" as="A/76/PV.69" outcome="adopted" by="69e" />
-        <step date="2022-03-15" as="A/76/PV.61" outcome="adopted" by="61e" />
-        <step date="2022-04-08" as="A/76/PV.67" outcome="adopted" by="67e" />
-        <step date="2022-06-20" as="A/76/PV.84" outcome="adopted" by="84e" />
-        <step date="2022-06-21" as="A/76/PV.85" outcome="adopted" by="85e" />
-        <step date="2022-05-10" as="A/76/PV.71" outcome="adopted" by="71e" />
-        <step date="2022-05-23" as="A/76/PV.74" outcome="adopted" by="74e" />
+        <step date="2022-01-20" outcome="adopted" by="55e" />
+        <step date="2022-07-11" outcome="adopted" by="93e" />
+        <step date="2022-07-21" outcome="adopted" by="96e" />
+        <step date="2022-07-28" outcome="adopted" by="97e" />
+        <step date="2022-04-26" outcome="adopted" by="69e" />
+        <step date="2022-03-15" outcome="adopted" by="61e" />
+        <step date="2022-04-08" outcome="adopted" by="67e" />
+        <step date="2022-06-20" outcome="adopted" by="84e" />
+        <step date="2022-06-21" outcome="adopted" by="85e" />
+        <step date="2022-05-10" outcome="adopted" by="71e" />
+        <step date="2022-05-23" outcome="adopted" by="74e" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -143,24 +145,24 @@
           <span class="bold">B</span>
         </docNumber>
         <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
-          <p xml:space="preserve"> La décision 76/506, qui figure à la section B.1 des <span class="italic">Documents officiels de l’Assemblée générale, soixante-seizième session, Supplément n</span><span class="italic"><sup>o</sup></span><span class="italic"> 49</span> (<span class="underline underline underline underline"><a href="https://undocs.org/en/a/76/49(Vol.II)">A/76/49</a></span>), vol. II, porte dorénavant le numéro 76/506 A.</p>
+          <p xml:space="preserve"> La décision 76/506, qui figure à la section B.1 des <span class="italic">Documents officiels de l’Assemblée générale, soixante-seizième session, Supplément n</span><span class="italic"><sup>o</sup></span><span class="italic"> 49</span> (<span class="underline underline underline underline"><a href="https://undocs.org/fr/A/76/49">A/76/49</a></span>), vol. II, porte dorénavant le numéro 76/506 A.</p>
         </authorialNote>
       </p>
     </preface>
     <mainBody>
       <paragraph eId="para_1" class="MercuryDocument">
         <content eId="para_1__content">
-          <p xml:space="preserve"> À sa 55<sup>e</sup> séance plénière, le 20 janvier 2022, l’Assemblée générale a décidé d’examiner directement en plénière le point subsidiaire a) intitulé « Suivi de la quatrième Conférence des Nations Unies sur les pays les moins avancés » du point 23 de l’ordre du jour intitulé « Groupes de pays en situation particulière », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.32">A/76/L.32</a>.</p></authorialNote>. </p>
+          <p xml:space="preserve"> À sa 55<sup>e</sup> séance plénière, le 20 janvier 2022, l’Assemblée générale a décidé d’examiner directement en plénière le point subsidiaire a) intitulé « Suivi de la quatrième Conférence des Nations Unies sur les pays les moins avancés » du point 23 de l’ordre du jour intitulé « Groupes de pays en situation particulière », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.32">A/76/L.32</a>.</p></authorialNote>. </p>
         </content>
       </paragraph>
       <paragraph eId="para_2" class="MercuryDocument">
         <content eId="para_2__content">
-          <p xml:space="preserve"> À la même séance, l’Assemblée générale a décidé d’examiner directement en plénière le point 109 de l’ordre du jour intitulé « Lutte contre l’utilisation des technologies de l’information et des communications à des fins criminelles », sous le titre H (Contrôle des drogues, prévention du crime et lutte contre le terrorisme international sous toutes ses formes et dans toutes ses manifestations), et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.31">A/76/L.31</a>.</p></authorialNote>, d’une proposition d’amendement s’y rapportant<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a>.</p></authorialNote> et d’une proposition d’amendement se rapportant à ladite proposition d’amendement<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.34/Rev.1">A/76/L.34/Rev.1</a>.</p></authorialNote>. </p>
+          <p xml:space="preserve"> À la même séance, l’Assemblée générale a décidé d’examiner directement en plénière le point 109 de l’ordre du jour intitulé « Lutte contre l’utilisation des technologies de l’information et des communications à des fins criminelles », sous le titre H (Contrôle des drogues, prévention du crime et lutte contre le terrorisme international sous toutes ses formes et dans toutes ses manifestations), et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.31">A/76/L.31</a>.</p></authorialNote>, d’une proposition d’amendement s’y rapportant<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.33/Rev.1">A/76/L.33/Rev.1</a>.</p></authorialNote> et d’une proposition d’amendement se rapportant à ladite proposition d’amendement<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.34/Rev.1">A/76/L.34/Rev.1</a>.</p></authorialNote>. </p>
         </content>
       </paragraph>
       <paragraph eId="para_3" class="MercuryDocument">
         <content eId="para_3__content">
-          <p xml:space="preserve"> À sa 61<sup>e</sup> séance plénière, le 15 mars 2022, l’Assemblée générale a décidé de reprendre l’examen du point 29 de l’ordre du jour intitulé « Promotion des femmes », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), de l’examiner directement en plénière et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/en/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
+          <p xml:space="preserve"> À sa 61<sup>e</sup> séance plénière, le 15 mars 2022, l’Assemblée générale a décidé de reprendre l’examen du point 29 de l’ordre du jour intitulé « Promotion des femmes », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), de l’examiner directement en plénière et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.40">A/76/L.40</a>.</p></authorialNote>. </p>
         </content>
       </paragraph>
       <paragraph eId="para_4" class="MercuryDocument">
@@ -195,7 +197,7 @@
       </paragraph>
       <paragraph eId="para_10" class="MercuryDocument">
         <content eId="para_10__content">
-          <p xml:space="preserve"> À sa 84<sup>e</sup> séance plénière, le 20 juin 2022, l’Assemblée générale a décidé de reprendre l’examen du point 29 de l’ordre du jour intitulé « Promotion des femmes », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.66">A/76/L.66</a>.</p></authorialNote>.</p>
+          <p xml:space="preserve"> À sa 84<sup>e</sup> séance plénière, le 20 juin 2022, l’Assemblée générale a décidé de reprendre l’examen du point 29 de l’ordre du jour intitulé « Promotion des femmes », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.66">A/76/L.66</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_11" class="MercuryDocument">
@@ -208,11 +210,23 @@
           <p xml:space="preserve"> À sa 93<sup>e</sup> séance plénière, le 11 juillet 2022, l’Assemblée générale a décidé de reprendre l’examen du point subsidiaire b) intitulé « Questions relatives aux droits humains, y compris les divers moyens de mieux assurer l’exercice effectif des droits humains et des libertés fondamentales » du point 74 de l’ordre du jour intitulé « Promotion et protection des droits humains », sous le titre D (Promotion des droits humains), de l’examiner directement en plénière et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.69">A/76/L.69</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve"> À sa 96<sup>e</sup> séance plénière, le 21 juillet 2022, l’Assemblée générale a décidé de reprendre l’examen du point 25 de l’ordre du jour intitulé « Activités opérationnelles de développement », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), de l’examiner directement en plénière et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.73">A/76/L.73</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <content eId="para_14__content">
+          <p xml:space="preserve"> À sa 97<sup>e</sup> séance plénière, le 28 juillet 2022, l’Assemblée générale a décidé de reprendre l’examen du point subsidiaire b) intitulé « Questions relatives aux droits humains, y compris les divers moyens de mieux assurer l’exercice effectif des droits humains et des libertés fondamentales » du point 74 de l’ordre du jour intitulé « Promotion et protection des droits humains », sous le titre D (Promotion des droits humains), et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/76/L.75">A/76/L.75</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
         <inline name="adoptionMeeting" title="55e">55e séance plénière</inline>
         <inline name="adoptionMeeting" title="93e">93e séance plénière</inline>
+        <inline name="adoptionMeeting" title="96e">96e séance plénière</inline>
+        <inline name="adoptionMeeting" title="97e">97e séance plénière</inline>
         <inline name="adoptionMeeting" title="69e">69e séance plénière</inline>
         <inline name="adoptionMeeting" title="61e">61e séance plénière</inline>
         <inline name="adoptionMeeting" title="67e">67e séance plénière</inline>
@@ -223,6 +237,8 @@
         <eol />
         <docDate date="2022-01-20" refersTo="#adoptionDate">20 janvier 2022</docDate>
         <docDate date="2022-07-11" refersTo="#adoptionDate">11 juillet 2022</docDate>
+        <docDate date="2022-07-21" refersTo="#adoptionDate">21 juillet 2022</docDate>
+        <docDate date="2022-07-28" refersTo="#adoptionDate">28 juillet 2022</docDate>
         <docDate date="2022-04-26" refersTo="#adoptionDate">26 avril 2022</docDate>
         <docDate date="2022-03-15" refersTo="#adoptionDate">15 mars 2022</docDate>
         <docDate date="2022-04-08" refersTo="#adoptionDate">8 avril 2022</docDate>
