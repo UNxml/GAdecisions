@@ -1,0 +1,155 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/"></FRBRuri>
+          <FRBRdate date="2022-03-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/ara@/"></FRBRuri>
+          <FRBRdate date="2022-10-05" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-03-08/76-414/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-10-05" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Permanent Forum on People of African Descent" showAs="UN. Permanent Forum on People of African Descent" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116g" showAs="Election of members of the Permanent Forum of People of African Descent." shortForm="UN. PERMANENT FORUM OF PEOPLE OF AFRICAN DESCENT--MEMBERS" dictionary="A/76/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step by="" date="2022-03-08" outcome="adopted" />
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="إبسي كامبل بار" refersTo="كوستاريكا" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="وغاينيل ديانا كاري" refersTo="جزر البهاما" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="وجوستين هانسفورد" refersTo="الولايات المتحدة الأمريكية" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="وهوانغ هونغ جيانغ" refersTo="الصين" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="ومارتن كيماني" refersTo="كينيا" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="ومايكل ماكيكرين" refersTo="السويد" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="والقس إلياس مورييو مارتينيز" refersTo="كولومبيا" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="وأليس أنجيل نكوم" refersTo="الكاميرون" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="ومنى عمر" refersTo="مصر" outcome="composition" akn4un:end="2025-03-07"/>
+        <step date="2022-03-08" as="المنتدى الدائم المعني بالمنحدرين من أصل أفريقي" by="وجون سومر" refersTo="سانت لوسيا" outcome="composition" akn4un:end="2025-03-07"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/76/414</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="76" eId="coverPage_1__session_1">الدورة السادسة والسبعون</session>
+      </p>
+      <p>
+        <inline title="116 (ز)" name="agenda item">البند 116 (ز) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">76/414</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب أعضاء المنتدى الدائم المعني بالمنحدرين من أصل أفريقي</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="PlainText">
+        <content eId="para_1__content">
+          <p xml:space="preserve">
+            <span class="bold">(باء)</span>
+            <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+              <p xml:space="preserve"> يصبح المقرر 76/414، الوارد في الفرع ألف من <span class="italic">الوثائق الرسمية للجمعية العامة، الدورة السادسة والسبعون، الملحق رقم 49 </span>(<span class="underline"><a href="https://undocs.org/ar/A/76/49">A/76/49</a></span>)، المجلد الثاني، المقرر 76/414 ألف.</p>
+            </authorialNote>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="PlainText">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	في 8 آذار/مارس 2022، أعلن رئيس مجلس حقوق الإنسان، وفقا لقرار الجمعية العامة <a href="https://undocs.org/ar/A/RES/75/314">75/314</a> المؤرخ 2 آب/أغسطس 2021، تعيين الأشخاص التالية أسماؤهم أعضاء في المنتدى الدائم المعني بالمنحدرين من أصل أفريقي لفترة عضوية مدتها ثلاث سنوات تبدأ على الفور: غاينيل ديانا كاري، وهوانغ هونغ جيانغ، ومايكل ماكيكرين، والقس إلياس مورييو مارتينيز، وأليس أنجيل نكوم<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> انظر <span class="underline"><a href="https://undocs.org/ar/A/76/952">A/76/952</a></span>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="PlainText">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> ونتيجة لذلك، واعتبارا من 8 آذار/مارس 2022، يتألف المنتدى الدائم للمنحدرين من أصل أفريقي على النحو التالي: إبسي كامبل بار (كوستاريكا)*، وغاينيل ديانا كاري (جزر البهاما)*، وجوستين هانسفورد (الولايات المتحدة الأمريكية)*، وهوانغ هونغ جيانغ (الصين)*، ومارتن كيماني (كينيا)*، ومايكل ماكيكرين (السويد)*، والقس إلياس مورييو مارتينيز (كولومبيا)*، وأليس أنجيل نكوم (الكاميرون)*، ومنى عمر (مصر)*، وجون سومر (سانت لوسيا).*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="PlainText">
+        <content eId="para_4__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="PlainText">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	تنتهي مدة العضوية في 7 آذار/مارس 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="">لم تعقد جلسة عامة</inline>
+        <eol />
+        <docDate date="2022-03-08" refersTo="#adoptionDate">8 آذار/مارس 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
