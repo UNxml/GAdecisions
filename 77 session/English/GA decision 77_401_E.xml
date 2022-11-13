@@ -1,0 +1,115 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-13/77-401/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-13/77-401/"></FRBRuri>
+          <FRBRdate date="2022-09-13" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-13/77-401/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-13/77-401/eng@/"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-13/77-401/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-13/77-401/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Credentials Committee" showAs="UN. General Assembly. Credentials Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="3a" showAs="Appointment of the members of the Credentials Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023). CREDENTIALS COMMITTEE--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-09-13" outcome="adopted" by="1st" />
+        <step date="2022-09-13" as="Credentials Committee" refersTo="ANGOLA" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="AUSTRIA" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="CHINA" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="GUYANA" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="MALDIVES" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="RUSSIAN FEDERATION" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="UNITED STATES OF AMERICA" by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="URUGUAY " by="" outcome="appointment"/>
+        <step date="2022-09-13" as="Credentials Committee" refersTo="ZAMBIA" by="" outcome="appointment"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/401</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="3 (a)" name="agenda item">Agenda item 3 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/401.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Appointment of the members of the Credentials Committee</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 1st plenary meeting, on 13 September 2022, the General Assembly, in accordance with rule 28 of its rules of procedure, appointed a Credentials Committee for its seventy-seventh session consisting of the following Member States: <inline name="smallCaps" style="font-variant:small-caps">Angola, Austria, China, Guyana, Maldives, Russian Federation, United States of America, Uruguay</inline> and <inline name="smallCaps" style="font-variant:small-caps">Zambia</inline>.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="1st">1st plenary meeting</inline>
+        <eol />
+        <docDate date="2022-09-13" refersTo="#adoptionDate">13 September 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

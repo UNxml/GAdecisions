@@ -1,0 +1,125 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-506/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-506/"></FRBRuri>
+          <FRBRdate date="2022-09-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-506/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-506/eng@/"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-506/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-506/eng@.xml"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-06-15" outcome="draftDecision" as="A/77/L.1" by="Albania, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Estonia, Finland, France, Georgia, Germany, Greece, Guatemala, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Malta, Marshall Islands, Micronesia (Federated States of), Monaco, Montenegro, Netherlands, North Macedonia, Norway, Palau, Poland, Portugal, Republic of Korea, Republic of Moldova, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Türkiye, Ukraine, United Kingdom of Great Britain and Northern Ireland and United States of America" />
+        <step date="0001-01-01" outcome="draftDecisionAdditionalSponsors" by="Andorra, Liechtenstein, New Zealand and Switzerland" />
+        <step date="2022-09-16" outcome="adopted" by="3rd" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/506</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="7" name="agenda item">Agenda item 7</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/506.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">General debate of the seventy-seventh session of the General Assembly in September 2022</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 3rd plenary meeting, on 16 September 2022, the General Assembly, on the proposal of Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, the Dominican Republic, Estonia, Finland, France, Georgia, Germany, Greece, Guatemala, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Marshall Islands, Micronesia (Federated States of), Monaco, Montenegro, the Netherlands, New Zealand, North Macedonia, Norway, Palau, Poland, Portugal, the Republic of Korea, the Republic of Moldova, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Türkiye, Ukraine, the United Kingdom of Great Britain and Northern Ireland and the United States of America,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/en/A/77/L.1">A/77/L.1</a></span>; see also <span class="underline"><a href="https://undocs.org/en/A/77/PV.3">A/77/PV.3</a></span>.</p></authorialNote> by a recorded vote of 101 to 7, with 19 abstentions,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> See <a href="https://undocs.org/en/A/77/PV.3">A/77/PV.3</a>.</p></authorialNote> noting with concern the situations in which leaders of peace-loving sovereign States, Members of the United Nations, could not participate in person in the meetings of the General Assembly for reasons beyond their control owing to ongoing foreign invasion, aggression, military hostilities that did not allow safe departure from and return to their countries, or the need to discharge their national defence and security duties and functions, and recalling, inter alia, its resolution <a href="https://undocs.org/en/A/RES/ES-11/1">E</a><a href="https://undocs.org/en/A/RES/ES-11/1">S-11/1</a> of 2 March 2022:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	Decided, without setting a precedent for future general debates and mandated high-level meetings planned for future high-level weeks, that Ukraine might submit a pre-recorded statement of its Head of State, which would be played in the General Assembly Hall during the general debate of the Assembly at its seventy-seventh session after introduction by its representative who was physically present in the Assembly Hall;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	Also decided that, in addition to the verbatim records of the general debate of the General Assembly at its seventy-seventh session, the President of the General Assembly would circulate as a document of the Assembly the statement delivered by the Head of State by means of a pre-recorded statement during the general debate and submitted to the President no later than the day on which the pre-recorded statement was played in the Assembly Hall;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	Further decided that these procedures shall apply only to the meetings of the general debate of the General Assembly at its seventy-seventh session. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="3rd">3rd plenary meeting</inline>
+        <eol />
+        <docDate date="2022-09-16" refersTo="#adoptionDate">16 September 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
