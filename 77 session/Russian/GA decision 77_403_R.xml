@@ -1,0 +1,191 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/"></FRBRuri>
+          <FRBRdate date="2022-10-11" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/rus@/"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/rus@.xml"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Human Rights Council" showAs="UN. Human Rights Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117c" showAs="Election of members of the Human Rights Council." shortForm="UN. HUMAN RIGHTS COUNCIL--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-11" outcome="adopted" by="17-е" />
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Алжир" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Аргентина" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Бангладеш" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Бельгия" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Бенин" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Боливия (Многонациональное Государство)" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Вьетнам" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Габон" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Гамбия" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Германия" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Гондурас" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Грузия" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Индия" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Казахстан" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Камерун" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Катар" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Китай" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Коста-Рика" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Кот‑д’Ивуар" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Куба" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Кыргызстан" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Литва" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Люксембург" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Малави" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Малайзия" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Мальдивские Острова" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Марокко" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Мексика" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Непал" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Объединенные Арабские Эмираты" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Пакистан" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Парагвай" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Румыния" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Сенегал" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Соединенное Королевство Великобритании и Северной Ирландии" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Соединенные Штаты Америки" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Сомали" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Судан" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Узбекистан" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Украина" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Финляндия" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Франция" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Черногория" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Чехия" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Чили" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Эритрея" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Совет по правам человека"  by="" refersTo="Южная Африка" outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/403</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#plenaryMeeting">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="117 c)" name="agenda item">Пункт 117 c) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/403.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы членов Совета по правам человека</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 17‑м пленарном заседании 11 октября 2022 года Генеральная Ассамблея в соответствии со своими резолюциями <a href="https://undocs.org/ru/A/RES/60/251">60/251</a> от 15 марта 2006 года и <a href="https://undocs.org/ru/A/RES/65/281">65/281</a> от 17 июня 2011 года избрала Алжир, Бангладеш, Бельгию, Вьетнам, Германию, Грузию, Коста-Рику, Кыргызстан, Мальдивские Острова, Марокко, Румынию, Судан, Чили и Южную Африку членами Совета по правам человека на трехлетний срок полномочий, начинающийся 1 января 2023 года, для заполнения вакансий, возникающих в связи с истечением срока полномочий Армении, Бразилии, Венесуэлы (Боливарианская Республика), Германии, Индонезии, Ливии, Мавритании, Маршалловых Островов, Намибии, Нидерландов, Польши, Республики Корея, Судана и Японии.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	Таким образом, на 10 мая 2022 года в состав Совета по правам человека входят следующие 47 государств-членов<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Аргентина, Германия, Индия, Камерун, Мексика, Непал, Пакистан, Сенегал, Сомали, Судан, Украина и Эритрея исполняют свои обязанности в течение второго срока подряд.</p></authorialNote>: Алжир***, Аргентина**, Бангладеш***, Бельгия***, Бенин**, Боливия (Многонациональное Государство)*, Вьетнам***, Габон*, Гамбия**, Германия***, Гондурас**, Грузия***, Индия**, Казахстан**, Камерун**, Катар**, Китай*, Коста‑Рика***, Кот‑д’Ивуар*, Куба*, Кыргызстан***, Литва**, Люксембург**, Малави*, Малайзия**, Мальдивские Острова***, Марокко***, Мексика*, Непал*, Объединенные Арабские Эмираты**, Пакистан*, Парагвай**, Румыния***, Сенегал*, Соединенное Королевство Великобритании и Северной Ирландии*, Соединенные Штаты Америки**, Сомали**, Судан***, Узбекистан*, Украина*, Финляндия**, Франция*, Черногория**, Чехия*, Чили***, Эритрея** и Южная Африка***.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">____________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 31 декабря 2023 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 31 декабря 2024 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 31 декабря 2025 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="17-е">17‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-10-11" refersTo="#adoptionDate">11 октября 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
