@@ -1,0 +1,187 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/"></FRBRuri>
+          <FRBRdate date="2022-10-11" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/ara@/"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/ara@.xml"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Human Rights Council" showAs="UN. Human Rights Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117c" showAs="Election of members of the Human Rights Council." shortForm="UN. HUMAN RIGHTS COUNCIL--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-11" outcome="adopted" by="17" />
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الأرجنتين" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="إريتريا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="ألمانيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الإمارات العربية المتحدة" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="أوزبكستان" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="أوكرانيا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="باراغواي" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="باكستان" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="بلجيكا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="بنغلاديش" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="بنن" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="بوليفيا (دولة - المتعددة القوميات)" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="تشيكيا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الجبل الأسود" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الجزائر" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="جنوب أفريقيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="جورجيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="رومانيا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="السنغال" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="السودان" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="شيلي" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الصومال" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الصين" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="غابون" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="غامبيا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="فرنسا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="فنلندا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="فييت نام" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="قطر" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="قيرغيزستان" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="كازاخستان" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الكاميرون" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="كوبا" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="كوت ديفوار" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="كوستاريكا" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="لكسمبرغ" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="ليتوانيا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="ماليزيا" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="المغرب" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="المكسيك" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="ملاوي" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="ملديف" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="المملكة المتحدة لبريطانيا العظمى أيرلندا الشمالية" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="نيبال" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الهند" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="هندوراس" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="مجلس حقوق الإنسان"  by="" refersTo="الولايات المتحدة الأمريكية" outcome="composition" akn4un:end="2024-12-31"/>
+        
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/403</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="117 (ج)" name="agenda item">البند 117 (ج) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/403</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب أعضاء في مجلس حقوق الإنسان</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	انتخبت الجمعية العامة، في جلستها العامة 17، المعقودة في 11 تشرين الأول/أكتوبر 2022، عملا بقراريها <a href="https://undocs.org/ar/A/RES/60/251">60/251</a> المؤرخ 15 آذار/مارس 2006 و <a href="https://undocs.org/ar/A/RES/65/281">65/281</a> المؤرخ 17 حزيران/يونيه 2011، ألمانيا، وبلجيكا، وبنغلاديش، والجزائر، وجنوب أفريقيا، وجورجيا، ورومانيا، والسودان، وشيلي، وفييت نام، وقيرغيزستان، وكوستاريكا، والمغرب، وملديف، أعضاء في مجلس حقوق الإنسان لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2023 لملء الشواغر الناشئة عن انتهاء فترة عضوية أرمينيا، وألمانيا، وإندونيسيا، والبرازيل، وبولندا، وجزر مارشال، وجمهورية كوريا، والسودان، وفنزويلا (جمهورية – البوليفارية)، وليبيا، وموريتانيا، وناميبيا، وهولندا، واليابان. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	ونتيجة لذلك، يتألف مجلس حقوق الإنسان، اعتبارا من 1 كانون الثاني/يناير 2023، من الدول الأعضاء الـ 47 التالية<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">)(	تقضي الأرجنتين وإريتريا وألمانيا وأوكرانيا وباكستان والسنغال والسودان والصومال والكاميرون والمكسيك ونيبال والهند فترة ولايتها الثانية على التوالي.</p></authorialNote><sup>)</sup>: الأرجنتين** وإريتريا** وألمانيا*** والإمارات العربية المتحدة** وأوزبكستان* وأوكرانيا* وباراغواي** وباكستان* وبلجيكا*** وبنغلاديش*** وبنن** وبوليفيا (دولة - المتعددة القوميات)* وتشيكيا* والجبل الأسود** والجزائر*** وجنوب أفريقيا*** وجورجيا*** ورومانيا*** والسنغال* والسودان*** وشيلي*** والصومال** والصين* وغابون* وغامبيا** وفرنسا* وفنلندا** وفييت نام*** وقطر** وقيرغيزستان*** وكازاخستان** والكاميرون** وكوبا* وكوت ديفوار* وكوستاريكا *** ولكسمبرغ** وليتوانيا** وماليزيا** والمغرب*** والمكسيك* وملاوي* وملديف*** والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية* ونيبال* والهند** وهندوراس** والولايات المتحدة الأمريكية**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="FootnoteText">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	*	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="FootnoteText">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	**	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="FootnoteText">
+        <content eId="para_5__content">
+          <p xml:space="preserve">	***	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="17">الجلسة العامة 17</inline>
+        <eol />
+        <docDate date="2022-10-11" refersTo="#adoptionDate">11 تشرين الأول/أكتوبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
