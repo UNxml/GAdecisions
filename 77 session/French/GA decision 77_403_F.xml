@@ -1,0 +1,191 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/"></FRBRuri>
+          <FRBRdate date="2022-10-11" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/fra@/"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-10-11/77-403/fra@.xml"></FRBRuri>
+          <FRBRdate date="2022-11-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Human Rights Council" showAs="UN. Human Rights Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117c" showAs="Election of members of the Human Rights Council." shortForm="UN. HUMAN RIGHTS COUNCIL--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-11" outcome="adopted" by="17e" />
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Afrique du Sud" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Algérie" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Allemagne" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Argentine" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Bangladesh" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Belgique" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Bénin" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Bolivie (État plurinational de)" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Cameroun" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Chili" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Chine" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Costa Rica" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Côte d’Ivoire" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Cuba" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Émirats arabes unis" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Érythrée" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="États-Unis d’Amérique" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Finlande" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="France" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Gabon" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Gambie" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Géorgie" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Honduras" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Inde" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Kazakhstan" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Kirghizistan" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Lituanie" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Luxembourg" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Malaisie" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Malawi" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Maldives" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Maroc" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Mexique" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Monténégro" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Népal" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Ouzbékistan" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Pakistan" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Paraguay" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Qatar" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Roumanie" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Royaume-Uni de Grande-Bretagne et d’Irlande du Nord" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Sénégal" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Somalie" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Soudan" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Tchéquie" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Ukraine" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2022-10-11" as="Conseil des droits de l’homme"  by="" refersTo="Viet Nam" outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/403</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Soixante-dix-septième session</session>
+      </p>
+      <p>
+        <inline title="117 c)" name="agenda item">Point 117 c) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/403.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection de membres du Conseil des droits de l’homme</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 17<sup>e</sup> séance plénière, le 11 octobre 2022, conformément à ses résolutions <a href="https://undocs.org/fr/A/RES/60/251">60/251</a> du 15 mars 2006 et <a href="https://undocs.org/fr/A/RES/65/281">65/281</a> du 17 juin 2011, l’Assemblée générale a élu l’<inline name="smallCaps" style="font-variant:small-caps">Afrique du Sud, </inline>l’<inline name="smallCaps" style="font-variant:small-caps">Algérie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>l’<inline name="smallCaps" style="font-variant:small-caps">Allemagne, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Bangladesh</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>la <inline name="smallCaps" style="font-variant:small-caps">Belgique, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Chili</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Costa Rica</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>la <inline name="smallCaps" style="font-variant:small-caps">Géorgie, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Kirghizistan, </inline>les <inline name="smallCaps" style="font-variant:small-caps">Maldives, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Maroc, </inline>la <inline name="smallCaps" style="font-variant:small-caps">Roumanie, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Soudan </inline>et le <inline name="smallCaps" style="font-variant:small-caps">Viet Nam</inline> membres du Conseil des droits de l’homme pour un mandat de trois ans prenant effet le 1<sup>er</sup> janvier 2023, afin de pourvoir les sièges laissés vacants par les pays ci‑après, membres sortants : <inline name="smallCaps" style="font-variant:small-caps">Allemagne, Arménie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Brésil</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Îles M</inline><inline name="smallCaps" style="font-variant:small-caps">arshall, </inline><inline name="smallCaps" style="font-variant:small-caps">Indonésie, Japon, Libye, Mauritanie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Namibie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Pays‑Bas</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Pologne</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">République de Corée</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Soudan </inline>et<inline name="smallCaps" style="font-variant:small-caps"> Venezuela </inline><inline name="smallCaps" style="font-variant:small-caps">(</inline><inline name="smallCaps" style="font-variant:small-caps">République bolivarienne du</inline><inline name="smallCaps" style="font-variant:small-caps">).</inline></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En conséquence, au 1<sup>er</sup> janvier 2023, le Conseil des droits de l’homme se compose des 47 États Membres suivants<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> L’Allemagne, l’Argentine, le Cameroun, l’Érythrée, l’Inde, le Mexique, le Népal, le Pakistan, le Sénégal, la Somalie, le Soudan et l’Ukraine en sont à leur deuxième mandat consécutif.</p></authorialNote> : <inline name="smallCaps" style="font-variant:small-caps">Afrique du Sud</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Algérie</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Allemagne</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Argentine</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Bangladesh</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Belgique</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Bénin</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Bolivie </inline><inline name="smallCaps" style="font-variant:small-caps">(</inline><inline name="smallCaps" style="font-variant:small-caps">État </inline><inline name="smallCaps" style="font-variant:small-caps">plurinational </inline><inline name="smallCaps" style="font-variant:small-caps">de</inline><inline name="smallCaps" style="font-variant:small-caps">)*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Cameroun</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Chili</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Chine</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Costa Rica</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">ôte d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Ivoire</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">uba*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Émirats arabes unis</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Érythrée</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">États-Unis d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Amérique</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Finlande</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">France</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Gabon</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Gambie</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Géorgie</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Honduras</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Inde</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">azakhstan**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Kirghizistan</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Lituanie</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">L</inline><inline name="smallCaps" style="font-variant:small-caps">uxembourg**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Malaisie</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">alawi*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">M</inline><inline name="smallCaps" style="font-variant:small-caps">aldives***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Maroc</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Mexique</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Monténégro</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Népal</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Ou</inline><inline name="smallCaps" style="font-variant:small-caps">zb</inline><inline name="smallCaps" style="font-variant:small-caps">é</inline><inline name="smallCaps" style="font-variant:small-caps">kistan*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Pakistan</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">P</inline><inline name="smallCaps" style="font-variant:small-caps">araguay**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Q</inline><inline name="smallCaps" style="font-variant:small-caps">atar**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Roumanie</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Royaume-Uni de Grande-Bretagne et d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Irlande du Nord</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Sénégal</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Somalie</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Soudan</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Tchéquie</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Ukraine</inline><inline name="smallCaps" style="font-variant:small-caps">* </inline>et <inline name="smallCaps" style="font-variant:small-caps">V</inline><inline name="smallCaps" style="font-variant:small-caps">iet </inline><inline name="smallCaps" style="font-variant:small-caps">N</inline><inline name="smallCaps" style="font-variant:small-caps">am***</inline><inline name="smallCaps" style="font-variant:small-caps">.</inline></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">____________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="17e">17e séance plénière</inline>
+        <eol />
+        <docDate date="2022-10-11" refersTo="#adoptionDate">11 octobre 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
