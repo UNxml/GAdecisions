@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/"></FRBRuri>
+          <FRBRdate date="2022-12-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" showAs="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONVENTIONAL WEAPONS" showAs="CONVENTIONAL WEAPONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="AMMUNITION" showAs="AMMUNITION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="STOCKPILE MANAGEMENT" showAs="STOCKPILE MANAGEMENT" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="GROUPS OF EXPERTS" showAs="GROUPS OF EXPERTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99bb" showAs="Problems arising from the accumulation of conventional ammunition stockpiles in surplus." shortForm="CONVENTIONAL WEAPONS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-12" outcome="draftDecision" as="A/C.1/77/L.51" by="France, Germany" />
+        <step date="2022-12-30" outcome="adopted" by="56" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/547</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">اللجنة الأولى</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="99 (ب ب)" name="agenda item">البند 99 (ب ب) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/547</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">المشاكل الناشئة عن تكديس فائض مخزونات الذخيرة التقليدية</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	إن الجمعية العامة، في جلستها العامة 56 (المستأنفة) المعقودة في 30 كانون الأول/ديسمبر 2022، بتصويت مسجل بأغلبية 162 صوتا مقابل لا شيء وامتناع 6 أعضاء عن التصويت<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() انظر <span class="underline"><a href="https://undocs.org/ar/A/77/PV.56 (Resumption 1)">A/77/PV.56 (Resumption 1)</a></span>.</p></authorialNote><sup>)</sup>، بناء على توصية اللجنة الأولى<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">() <span class="underline"><a href="https://undocs.org/ar/A/77/385">A/77/385</a></span>، الفقرة 111.</p></authorialNote><sup>)</sup>، إذ تشير إلى مقررها 59/515 المؤرخ 3 كانون الأول/ديسمبر 2004، وقراراتها <a href="https://undocs.org/ar/A/RES/60/74">60/74</a> المؤرخ 8 كانون الأول/ديسمبر 2005، و <a href="https://undocs.org/ar/A/RES/61/72">61/72</a> المؤرخ 6 كانون الأول/ديسمبر 2006، و <a href="https://undocs.org/ar/A/RES/63/61">63/61</a> المؤرخ 2 كانون الأول/ديسمبر 2008، و <a href="https://undocs.org/ar/A/RES/64/51">64/51</a> المؤرخ 2 كانون الأول/ديسمبر 2009، و <a href="https://undocs.org/ar/A/RES/66/42">66/42</a> المؤرخ 2 كانون الأول/ديسمبر 2011، و <a href="https://undocs.org/ar/A/RES/68/52">68/52</a> المؤرخ 5 كانون الأول/ديسمبر 2013، و <a href="https://undocs.org/ar/A/RES/70/35">70/35</a> المؤرخ 7 كانون الأول/ديسمبر 2015، و <a href="https://undocs.org/ar/A/RES/72/55">72/55</a> المؤرخ 4 كانون الأول/ديسمبر 2017، و <a href="https://undocs.org/ar/A/RES/74/65">74/65</a> المؤرخ 12 كانون الأول/ديسمبر 2019، ومقررها <a href="https://undocs.org/ar/A/RES/75/552">75/552</a> المؤرخ 31 كانون الأول/ديسمبر 2020، وقرارها <a href="https://undocs.org/ar/A/RES/76/233">76/233</a> المؤرخ 24 كانون الأول/ديسمبر 2021 الذي قررت بموجبه إنشاء فريق عامل مفتوح باب العضوية لوضع مجموعة من الالتزامات السياسية باعتبارها إطارا عالميا جديدا يعالج الثغرات القائمة حاليا في إدارة الذخيرة طوال دورة حياتها، على أن يجتمع الفريق العامل في دورتين مدة كل منهما خمسة أيام في عام 2022 وفي دورة واحدة مدتها خمسة أيام في عام 2023 ويقدم إلى الجمعية العامة في دورتها الثامنة والسبعين تقريرا عن أعماله يضمنه توصيات بشأن مجموعة من الالتزامات السياسية باعتبارها إطارا عالميا جديدا بشأن الذخيرة التقليدية، ومقررها <a href="https://undocs.org/ar/A/RES/76/568">76/568</a> المؤرخ 21 حزيران/يونيه 2022، قررت أن يجتمع الفريق العامل المفتوح باب العضوية المعني بالذخيرة التقليدية في دورة إضافية مدتها خمسة أيام في نيويورك في عام 2023 ليكمل عمله، وطلبت إلى الأمين العام أن يقدم الدعم اللازم لعقد الدورة الإضافية، وقررت أن تدرج في جدول الأعمال المؤقت لدورتها الثامنة والسبعين، في إطار البند المعنون ”نزع السلاح العام الكامل“، البند الفرعي المعنون ”المشاكل الناشئة عن تكديس فائض مخزونات الذخيرة التقليدية“.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56">الجلسة العامة 56 (المستأنفة)</inline>
+        <eol />
+        <docDate date="2022-12-30" refersTo="#adoptionDate">30 كانون الأول/ديسمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

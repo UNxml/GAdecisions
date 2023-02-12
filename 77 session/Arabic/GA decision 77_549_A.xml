@@ -1,0 +1,988 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-549/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-549/"></FRBRuri>
+          <FRBRdate date="2022-12-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-549/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-549/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-549/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-549/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="public_health" href="http://metadata.un.org/thesaurus/1005250" showAs="public_health" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-30" outcome="adopted" by="56" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/549</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline name="agenda item">البند 7 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/549</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">البنود المتبقية في جدول الأعمال لتنظر فيها الجمعية العامة في دورتها السابعة والسبعين</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	أحاطت الجمعية العامة علما، في جلستها العامة 56 (المستأنفة) المعقودة في 30 كانون الأول/ديسمبر 2022، بالبنود التالية المدرجة في جدول الأعمال التي لا يزال يتعين النظر فيها في دورتها السابعة والسبعين، بالإضافة إلى المسائل التنظيمية والبنود التي قد يتعين النظر فيها إعمالا للنظام الداخلي للجمعية:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	البند 9 -		تقرير المجلس الاقتصادي والاجتماعي </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	البند 10 -	تنفيذ إعلان الالتزام بشأن فيروس نقص المناعة البشرية/متلازمة نقص المناعة المكتسب (الإيدز) والإعلانين السياسيين بشأن فيروس نقص المناعة البشرية/الإيدز</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	البند 12 -	2001-2010: عقد دحر الملاريا في البلدان النامية، ولا سيما في أفريقيا</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">	البند 13 -	التنفيذ والمتابعة المتكاملان والمنسقان لنتائج المؤتمرات الرئيسية ومؤتمرات القمة التي تعقدها الأمم المتحدة في الميدانين الاقتصادي والاجتماعي والميادين المتصلة بهما </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">	البند 14 -	ثقافة السلام</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">	البند 18 -	التنمية المستدامة: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">	صوب تحقيق التنمية المستدامة: تنفيذ خطة التنمية المستدامة لعام 2030، بوسائل منها الاستهلاك والإنتاج المستدامان، استنادا إلى جدول أعمال القرن 21 </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">	الحد من مخاطر الكوارث</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="MercuryDocument">
+        <num>(ي)</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">	مكافحة العواصف الرملية والترابية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <content eId="para_12__content">
+          <p xml:space="preserve">	البند 20 -	العولمة والترابط</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve">	البند 21 -	مجموعات البلدان التي تواجه أوضاعا خاصة:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">	متابعة مؤتمر الأمم المتحدة الخامس المعني بأقل البلدان نمواً</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="MercuryDocument">
+        <content eId="para_15__content">
+          <p xml:space="preserve">	البند 22 -	القضاء على الفقر وقضايا إنمائية أخرى</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <content eId="para_16__content">
+          <p xml:space="preserve">	البند 27 -	تقرير مجلس الأمن </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <content eId="para_17__content">
+          <p xml:space="preserve">	البند 28 -	تقرير لجنة بناء السلام </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <content eId="para_18__content">
+          <p xml:space="preserve">	البند 29 -	دور الماس في تأجيج النزاع</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="MercuryDocument">
+        <content eId="para_19__content">
+          <p xml:space="preserve">	البند 30 -	منع نشوب النزاعات المسلحة:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">	منع نشوب النزاعات المسلحة </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">	تعزيز دور الوساطة في تسوية المنازعات بالوسائل السلمية ومنع نشوب النزاعات وحلها</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <content eId="para_22__content">
+          <p xml:space="preserve">	البند 31 -	النزاعات التي طال أمدها في منطقة مجموعة بلدان جورجيا وأوكرانيا وأذربيجان ومولدوفا وآثارها على السلام والأمن والتنمية على الصعيد الدولي </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <content eId="para_23__content">
+          <p xml:space="preserve">	البند 32 -	الحالة في الشرق الأوسط </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <content eId="para_24__content">
+          <p xml:space="preserve">	البند 33 -	قضية فلسطين </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <content eId="para_25__content">
+          <p xml:space="preserve">	البند 35 -	مسألة جزيرة مايوت القمرية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <content eId="para_26__content">
+          <p xml:space="preserve">	البند 37 -	الحالة في أمريكا الوسطى: التقدم المحرز في تشكيل منطقة سلام وحرية وديمقراطية وتنمية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <content eId="para_27__content">
+          <p xml:space="preserve">	البند 38 -	مسألة قبرص</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <content eId="para_28__content">
+          <p xml:space="preserve">	البند 39 -	العدوان المسلح على جمهورية الكونغو الديمقراطية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <content eId="para_29__content">
+          <p xml:space="preserve">	البند 40 -	مسألة جزر فوكلاند (مالفيناس)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <content eId="para_30__content">
+          <p xml:space="preserve">	البند 41 -	حالة الديمقراطية وحقوق الإنسان في هايتي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <content eId="para_31__content">
+          <p xml:space="preserve">	البند 42 -	العدوان الإسرائيلي المسلح على المنشآت النووية العراقية وآثاره الخطيرة على النظام الدولي الثابت فيما يتعلق باستخدام الطاقة النووية في الأغراض السلمية، وعدم انتشار الأسلحة النووية، والسلام والأمن الدوليين</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <content eId="para_32__content">
+          <p xml:space="preserve">	البند 43 -	آثار احتلال العراق للكويت وعدوانه عليها</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <content eId="para_33__content">
+          <p xml:space="preserve">	البند 47 -	الممارسات الإسرائيلية والأنشطة الاستيطانية التي تمس حقوق الإنسان للشعب الفلسطيني وغيره من السكان العرب في الأراضي المحتلة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="MercuryDocument">
+        <content eId="para_34__content">
+          <p xml:space="preserve">	البند 55 -	تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <content eId="para_35__content">
+          <p xml:space="preserve">	البند 58 -	بناء السلام والحفاظ على السلام </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="MercuryDocument">
+        <content eId="para_36__content">
+          <p xml:space="preserve">	البند 59 -	الحالة في أراضي أوكرانيا المحتلة مؤقتا</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="MercuryDocument">
+        <content eId="para_37__content">
+          <p xml:space="preserve">	البند 60 -	استخدام حق النقض</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="MercuryDocument">
+        <content eId="para_38__content">
+          <p xml:space="preserve">	البند 61 -	منطقة السلام والثقة والتعاون في وسط آسيا </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="MercuryDocument">
+        <content eId="para_39__content">
+          <p xml:space="preserve">	البند 62 -	الشراكة الجديدة من أجل تنمية أفريقيا: التقدم المحرز في التنفيذ والدعم الدولي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">	الشراكة الجديدة من أجل تنمية أفريقيا: التقدم المحرز في التنفيذ والدعم الدولي </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">	أسباب النزاع في أفريقيا وتحقيق السلام الدائم والتنمية المستدامة فيها </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="MercuryDocument">
+        <content eId="para_42__content">
+          <p xml:space="preserve">	البند 66 -	القضاء على العنصرية والتمييز العنصري وكراهية الأجانب وما يتصل بذلك من تعصب</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="MercuryDocument">
+        <content eId="para_43__content">
+          <p xml:space="preserve">	البند 68 -	تعزيز حقوق الإنسان وحمايتها</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="MercuryDocument">
+        <content eId="para_44__content">
+          <p xml:space="preserve">	البند 69 -	تعزيز تنسيق ما تقدمه الأمم المتحدة من مساعدة إنسانية ومن مساعدة غوثية في حالات الكوارث، بما في ذلك المساعدة الاقتصادية الخاصة: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">	تعزيز تنسيق المساعدة الإنسانية التي تقدمها الأمم المتحدة في حالات الطوارئ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">	تقديم المساعدة إلى الشعب الفلسطيني </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">	تقديم المساعدة الاقتصادية الخاصة إلى فرادى البلدان أو المناطق</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">	تعزيز التعاون الدولي وتنسيق الجهود في دراسة الآثار الناجمة عن كارثة تشيرنوبيل وتخفيفها وتقليلها</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="MercuryDocument">
+        <content eId="para_52__content">
+          <p xml:space="preserve">	البند 70 -	تقرير محكمة العدل الدولية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="MercuryDocument">
+        <content eId="para_53__content">
+          <p xml:space="preserve">	البند 72 -	المحيطات وقانون البحار: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">	المحيطات وقانون البحار</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="MercuryDocument">
+        <content eId="para_55__content">
+          <p xml:space="preserve">	البند 78 -	الجرائم المرتكبة ضد الإنسانية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="MercuryDocument">
+        <content eId="para_56__content">
+          <p xml:space="preserve">	البند 87 -	طلب فتوى من محكمة العدل الدولية بشأن الآثار القانونية لفصل أرخبيل شاغوس عن موريشيوس في عام 1965</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="MercuryDocument">
+        <content eId="para_57__content">
+          <p xml:space="preserve">	البند 88 -	الدوائر الاستثنائية في محاكم كمبوديا - المهام المتبقية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="MercuryDocument">
+        <content eId="para_58__content">
+          <p xml:space="preserve">	البند 90 -	تخفيض الميزانيات العسكرية:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">	تخفيض الميزانيات العسكرية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">	المعلومات الموضوعية عن المسائل العسكرية، بما في ذلك شفافية النفقات العسكرية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="MercuryDocument">
+        <content eId="para_61__content">
+          <p xml:space="preserve">	البند 99 -	نزع السلاح العام الكامل</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="MercuryDocument">
+        <content eId="para_62__content">
+          <p xml:space="preserve">	البند 109 -	منع الجريمة والعدالة الجنائية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="MercuryDocument">
+        <content eId="para_63__content">
+          <p xml:space="preserve">	البند 113 -	تقرير الأمين العام عن أعمال المنظمة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="MercuryDocument">
+        <content eId="para_64__content">
+          <p xml:space="preserve">	البند 114 -	تقرير الأمين العام عن صندوق بناء السلام</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="MercuryDocument">
+        <content eId="para_65__content">
+          <p xml:space="preserve">	البند 115 -	الإخطار الوارد من الأمين العام بموجب الفقرة 2 من المادة 12 من ميثاق الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="MercuryDocument">
+        <content eId="para_66__content">
+          <p xml:space="preserve">	البند 116 -	انتخابات لملء الشواغر في الأجهزة الرئيسية:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">	انتخاب أعضاء غير دائمين في مجلس الأمن </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">	انتخاب أعضاء في المجلس الاقتصادي والاجتماعي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="MercuryDocument">
+        <content eId="para_69__content">
+          <p xml:space="preserve">	البند 117 -	انتخابات لملء الشواغر في الأجهزة الفرعية وانتخابات أخرى:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">	انتخاب المدير التنفيذي لبرنامج الأمم المتحدة للبيئة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="MercuryDocument">
+        <content eId="para_71__content">
+          <p xml:space="preserve">	البند 118 -	تعيينات لملء الشواغر في الأجهزة الفرعية وتعيينات أخرى:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_72__content">
+          <p xml:space="preserve">	تعيين أعضاء في لجنة الخدمة المدنية الدولية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="MercuryDocument">
+        <content eId="para_73__content">
+          <p xml:space="preserve">’		1‘	تعيين أعضاء في اللجنة </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="MercuryDocument">
+        <content eId="para_74__content">
+          <p xml:space="preserve">’		2‘	تسمية رئيس اللجنة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="MercuryDocument">
+        <num>(هـ)</num>
+        <content eId="para_75__content">
+          <p xml:space="preserve">	تعيين أعضاء في اللجنة الاستشارية المستقلة للمراجعة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="MercuryDocument">
+        <num>(و)</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">	تعيين أعضاء في لجنة المؤتمرات </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_78" class="MercuryDocument">
+        <num>(ط)</num>
+        <content eId="para_78__content">
+          <p xml:space="preserve">	تعيين أعضاء في مجلس الإطار ‏العشري للبرامج المتعلقة بأنماط الاستهلاك والإنتاج المستدامة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_79" class="MercuryDocument">
+        <content eId="para_79__content">
+          <p xml:space="preserve">	البند 119 -	قبول أعضاء جدد في الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_80" class="MercuryDocument">
+        <content eId="para_80__content">
+          <p xml:space="preserve">	البند 120 -	متابعة نتائج مؤتمر قمة الألفية </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_81" class="MercuryDocument">
+        <content eId="para_81__content">
+          <p xml:space="preserve">	البند 121 -	استراتيجية الأمم المتحدة العالمية لمكافحة الإرهاب.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_82" class="MercuryDocument">
+        <content eId="para_82__content">
+          <p xml:space="preserve">	البند 122 -	الاحتفال بإلغاء الرق وتجارة الرقيق عبر المحيط الأطلسي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="MercuryDocument">
+        <content eId="para_83__content">
+          <p xml:space="preserve">	البند 123 -	تنفيذ قرارات الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_84" class="MercuryDocument">
+        <content eId="para_84__content">
+          <p xml:space="preserve">	البند 124 -	تنشيط أعمال الجمعية العامة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="MercuryDocument">
+        <content eId="para_85__content">
+          <p xml:space="preserve">	البند 125 -	مسألة التمثيل العادل في مجلس الأمن وزيادة عدد أعضائه والمسائل الأخرى المتصلة بمجلس الأمن</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="MercuryDocument">
+        <content eId="para_86__content">
+          <p xml:space="preserve">	البند 126 -	تعزيز منظومة الأمم المتحدة:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_87" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_87__content">
+          <p xml:space="preserve">	تعزيز منظومة الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_88__content">
+          <p xml:space="preserve">	الدور المركزي لمنظومة الأمم المتحدة في إدارة الشؤون العالمية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_89" class="MercuryDocument">
+        <content eId="para_89__content">
+          <p xml:space="preserve">	البند 127 -	التعاون بين الأمم المتحدة والمنظمات الإقليمية والمنظمات الأخرى:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_90" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_90__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والاتحاد الأفريقي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_91" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_91__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والمنظمة الاستشارية القانونية الآسيوية الأفريقية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_93" class="MercuryDocument">
+        <num>(و)</num>
+        <content eId="para_93__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنظمة الدول الأمريكية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_96" class="MercuryDocument">
+        <num>(ز)</num>
+        <content eId="para_96__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنظمة الأمن والتعاون في أوروبا</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_100" class="MercuryDocument">
+        <num>(ح)</num>
+        <content eId="para_100__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والجماعة الكاريبية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_105" class="MercuryDocument">
+        <num>(ط)</num>
+        <content eId="para_105__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنظمة التعاون الاقتصادي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_111" class="MercuryDocument">
+        <num>(ي)</num>
+        <content eId="para_111__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والمنظمة الدولية للفرنكوفونية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_118" class="MercuryDocument">
+        <num>(ل)</num>
+        <content eId="para_118__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومجلس أوروبا</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_126" class="MercuryDocument">
+        <num>(م)</num>
+        <content eId="para_126__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والجماعة الاقتصادية لدول وسط أفريقيا</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_135" class="MercuryDocument">
+        <num>(ن)</num>
+        <content eId="para_135__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنظمة حظر الأسلحة الكيميائية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_145" class="MercuryDocument">
+        <num>(س)</num>
+        <content eId="para_145__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنظمة التعاون الاقتصادي في منطقة البحر الأسود</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_156" class="MercuryDocument">
+        <num>(ع)</num>
+        <content eId="para_156__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنتدى جزر المحيط الهادئ</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_168" class="MercuryDocument">
+        <num>(ق)</num>
+        <content eId="para_168__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة ومنظمة شنغهاي للتعاون</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_181" class="MercuryDocument">
+        <num>(خ)</num>
+        <content eId="para_181__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والمنظمة الدولية للهجرة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_195" class="MercuryDocument">
+        <num>(ض)</num>
+        <content eId="para_195__content">
+          <p xml:space="preserve">	التعاون بين الأمم المتحدة والصندوق الدولي لإنقاذ بحر آرال</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_196" class="MercuryDocument">
+        <content eId="para_196__content">
+          <p xml:space="preserve">	البند 128 -	الصحة العالمية والسياسة الخارجية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_197" class="MercuryDocument">
+        <content eId="para_197__content">
+          <p xml:space="preserve">	البند 131 -	الاستغلال والانتهاك الجنسيان: تنفيذ سياسة عدم التسامح إطلاقا ‬‬</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_198" class="MercuryDocument">
+        <content eId="para_198__content">
+          <p xml:space="preserve">	البند 132 -	المسؤولية عن الحماية ومنع الإبادة الجماعية وجرائم الحرب والتطهير العرقي والجرائم ضد الإنسانية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_199" class="MercuryDocument">
+        <content eId="para_199__content">
+          <p xml:space="preserve">	البند 133 -	أثر التغير التكنولوجي السريع على تحقيق أهداف وغايات التنمية المستدامة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_200" class="MercuryDocument">
+        <content eId="para_200__content">
+          <p xml:space="preserve">	البند 134 -	تقرير مكتب الأمم المتحدة للشباب</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_201" class="MercuryDocument">
+        <content eId="para_201__content">
+          <p xml:space="preserve">	البند 135 -	التقارير المالية والبيانات المالية المراجعة وتقارير مجلس مراجعي الحسابات:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_202" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_202__content">
+          <p xml:space="preserve">	الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_203" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_203__content">
+          <p xml:space="preserve">	عمليات الأمم المتحدة لحفظ السلام</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_205" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_205__content">
+          <p xml:space="preserve">	مركز التجارة الدولية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_208" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_208__content">
+          <p xml:space="preserve">	جامعة الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_212" class="MercuryDocument">
+        <num>(هـ)</num>
+        <content eId="para_212__content">
+          <p xml:space="preserve">	برنامج الأمم المتحدة الإنمائي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_217" class="MercuryDocument">
+        <num>(و)</num>
+        <content eId="para_217__content">
+          <p xml:space="preserve">	صندوق الأمم المتحدة للمشاريع الإنتاجية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_223" class="MercuryDocument">
+        <num>(ز)</num>
+        <content eId="para_223__content">
+          <p xml:space="preserve">	منظمة الأمم المتحدة للطفولة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_230" class="MercuryDocument">
+        <num>(ح)</num>
+        <content eId="para_230__content">
+          <p xml:space="preserve">	وكالة الأمم المتحدة لإغاثة وتشغيل اللاجئين الفلسطينيين في الشرق الأدنى</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_238" class="MercuryDocument">
+        <num>(ط)</num>
+        <content eId="para_238__content">
+          <p xml:space="preserve">	معهد الأمم المتحدة للتدريب والبحث</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_247" class="MercuryDocument">
+        <num>(ي)</num>
+        <content eId="para_247__content">
+          <p xml:space="preserve">	صناديق التبرعات التي يديرها مفوض الأمم المتحدة السامي لشؤون اللاجئين</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_257" class="MercuryDocument">
+        <num>(ك)</num>
+        <content eId="para_257__content">
+          <p xml:space="preserve">	صندوق برنامج الأمم المتحدة للبيئة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_268" class="MercuryDocument">
+        <num>(ل)</num>
+        <content eId="para_268__content">
+          <p xml:space="preserve">	صندوق الأمم المتحدة للسكان</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_280" class="MercuryDocument">
+        <num>(م)</num>
+        <content eId="para_280__content">
+          <p xml:space="preserve">	برنامج الأمم المتحدة للمستوطنات البشرية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_293" class="MercuryDocument">
+        <num>(ن)</num>
+        <content eId="para_293__content">
+          <p xml:space="preserve">	مكتب الأمم المتحدة المعني بالمخدرات والجريمة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_307" class="MercuryDocument">
+        <num>(س)</num>
+        <content eId="para_307__content">
+          <p xml:space="preserve">	مكتب الأمم المتحدة لخدمات المشاريع</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_322" class="MercuryDocument">
+        <num>(ع)</num>
+        <content eId="para_322__content">
+          <p xml:space="preserve">	هيئة الأمم المتحدة للمساواة بين الجنسين وتمكين المرأة (هيئة الأمم المتحدة للمرأة)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_338" class="MercuryDocument">
+        <num>(ف)</num>
+        <content eId="para_338__content">
+          <p xml:space="preserve">	الآلية الدولية لتصريف الأعمال المتبقية للمحكمتين الجنائيتين</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_355" class="MercuryDocument">
+        <num>(ص)</num>
+        <content eId="para_355__content">
+          <p xml:space="preserve">	الصندوق المشترك للمعاشات التقاعدية لموظفي الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_356" class="MercuryDocument">
+        <content eId="para_356__content">
+          <p xml:space="preserve">	البند 136 -	استعراض كفاءة الأداء الإداري والمالي للأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_357" class="MercuryDocument">
+        <content eId="para_357__content">
+          <p xml:space="preserve">	البند 137 -	الميزانية البرنامجية لعام 2022</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_358" class="MercuryDocument">
+        <content eId="para_358__content">
+          <p xml:space="preserve">	البند 138 -	الميزانية البرنامجية لعام 2023</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_359" class="MercuryDocument">
+        <content eId="para_359__content">
+          <p xml:space="preserve">	البند 139 -	تخطيط البرامج</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_360" class="MercuryDocument">
+        <content eId="para_360__content">
+          <p xml:space="preserve">	البند 140 -	تحسين الحالة المالية للأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_361" class="MercuryDocument">
+        <content eId="para_361__content">
+          <p xml:space="preserve">	البند 141 -	خطة المؤتمرات</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_362" class="MercuryDocument">
+        <content eId="para_362__content">
+          <p xml:space="preserve">	البند 142 -	جدول الأنصبة المقررة لقسمة نفقات الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_363" class="MercuryDocument">
+        <content eId="para_363__content">
+          <p xml:space="preserve">	البند 143 -	إدارة الموارد البشرية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_364" class="MercuryDocument">
+        <content eId="para_364__content">
+          <p xml:space="preserve">	البند 144 -	وحدة التفتيش المشتركة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_365" class="MercuryDocument">
+        <content eId="para_365__content">
+          <p xml:space="preserve">	البند 145 -	النظام الموحد للأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_366" class="MercuryDocument">
+        <content eId="para_366__content">
+          <p xml:space="preserve">	البند 146 -	نظام المعاشات التقاعدية لموظفي الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_367" class="MercuryDocument">
+        <content eId="para_367__content">
+          <p xml:space="preserve">	البند 147 -	تنسيق شؤون الإدارة والميزانية بين الأمم المتحدة والوكالات المتخصصة والوكالة الدولية للطاقة الذرية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_368" class="MercuryDocument">
+        <content eId="para_368__content">
+          <p xml:space="preserve">	البند 148 -	تقرير عن أنشطة مكتب خدمات الرقابة الداخلية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_369" class="MercuryDocument">
+        <content eId="para_369__content">
+          <p xml:space="preserve">	البند 149 -	إقامة العدل في الأمم المتحدة</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_370" class="MercuryDocument">
+        <content eId="para_370__content">
+          <p xml:space="preserve">	البند 150 -	تمويل الآلية الدولية لتصريف الأعمال المتبقية للمحكمتين الجنائيتين,</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_371" class="MercuryDocument">
+        <content eId="para_371__content">
+          <p xml:space="preserve">	البند 151 -	الجوانب الإدارية والمتعلقة بالميزانية لتمويل عمليات الأمم المتحدة لحفظ السلام</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_372" class="MercuryDocument">
+        <content eId="para_372__content">
+          <p xml:space="preserve">	البند 152 -	تمويل قوة الأمم المتحدة الأمنية المؤقتة لأبيي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_373" class="MercuryDocument">
+        <content eId="para_373__content">
+          <p xml:space="preserve">	البند 153 -	تمويل بعثة الأمم المتحدة المتكاملة المتعددة الأبعاد لتحقيق الاستقرار في جمهورية أفريقيا الوسطى</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_374" class="MercuryDocument">
+        <content eId="para_374__content">
+          <p xml:space="preserve">	البند 154 -	تمويل عملية الأمم المتحدة في كوت ديفوار</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_375" class="MercuryDocument">
+        <content eId="para_375__content">
+          <p xml:space="preserve">	البند 155 -	تمويل قوة الأمم المتحدة لحفظ السلام في قبرص</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_376" class="MercuryDocument">
+        <content eId="para_376__content">
+          <p xml:space="preserve">	البند 156 -	تمويل بعثة منظمة الأمم المتحدة لتحقيق الاستقرار في جمهورية الكونغو الديمقراطية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_377" class="MercuryDocument">
+        <content eId="para_377__content">
+          <p xml:space="preserve">	البند 157 -	تمويل بعثة الأمم المتحدة في تيمور الشرقية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_378" class="MercuryDocument">
+        <content eId="para_378__content">
+          <p xml:space="preserve">	البند 158 -	تمويل بعثة الأمم المتحدة لتحقيق الاستقرار في هايتي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_379" class="MercuryDocument">
+        <content eId="para_379__content">
+          <p xml:space="preserve">	البند 159 -	تمويل بعثة الأمم المتحدة لدعم نظام العدالة في هايتي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_380" class="MercuryDocument">
+        <content eId="para_380__content">
+          <p xml:space="preserve">	البند 160 -	تمويل بعثة الأمم المتحدة للإدارة المؤقتة في كوسوفو</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_381" class="MercuryDocument">
+        <content eId="para_381__content">
+          <p xml:space="preserve">	البند 161 -	تمويل بعثة الأمم المتحدة في ليبريا</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_382" class="MercuryDocument">
+        <content eId="para_382__content">
+          <p xml:space="preserve">	البند 162 -	تمويل بعثة الأمم المتحدة المتكاملة المتعددة الأبعاد لتحقيق الاستقرار في مالي</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_383" class="MercuryDocument">
+        <content eId="para_383__content">
+          <p xml:space="preserve">	البند 163 -	تمويل قوات الأمم المتحدة لحفظ السلام في الشرق الأوسط:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_384" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_384__content">
+          <p xml:space="preserve">	قوة الأمم المتحدة لمراقبة فض الاشتباك</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_385" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_385__content">
+          <p xml:space="preserve">	قوة الأمم المتحدة المؤقتة في لبنان </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_386" class="MercuryDocument">
+        <content eId="para_386__content">
+          <p xml:space="preserve">	البند 164 -	تمويل بعثة الأمم المتحدة في جنوب السودان</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_387" class="MercuryDocument">
+        <content eId="para_387__content">
+          <p xml:space="preserve">	البند 165 -	تمويل بعثة الأمم المتحدة للاستفتاء في الصحراء الغربية</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_388" class="MercuryDocument">
+        <content eId="para_388__content">
+          <p xml:space="preserve">	البند 166 -	تمويل العملية المختلطة للاتحاد الأفريقي والأمم المتحدة في دارفور </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_389" class="MercuryDocument">
+        <content eId="para_389__content">
+          <p xml:space="preserve">	البند 167 -	تمويل الأنشطة الناشئة عن قرار مجلس الأمن <a href="https://undocs.org/ar/S/RES/1863 (2009)">1863 (2009)</a></p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56">الجلسة العامة 56 (المستأنفة)</inline>
+        <eol />
+        <docDate date="2022-12-30" refersTo="#adoptionDate">30 كانون الأول/ديسمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

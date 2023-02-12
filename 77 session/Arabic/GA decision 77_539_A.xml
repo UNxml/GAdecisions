@@ -1,0 +1,408 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-14/77-539/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-14/77-539/"></FRBRuri>
+          <FRBRdate date="2022-12-14" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-14/77-539/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-14/77-539/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-14/77-539/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-14/77-539/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 2nd Committee" showAs="UN. General Assembly. 2nd Committee" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="124" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-14" outcome="adopted" by="53" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/539</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#secondCommittee">اللجنة الثانية</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">البند 124 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/539</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">مشروع برنامج عمل اللجنة الثانية خلال الدورة الثامنة والسبعين للجمعية العامة</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> قامت الجمعية العامة، في جلستها العامة 53 المعقودة في 14 كانون الأول/ديسمبر 2022، بناء على توصية اللجنة الثانية<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">)( المرجع نفسه.</p></authorialNote><sup>)</sup>، بما يلي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	وافقت على برنامج عمل اللجنة الثانية لدورة الجمعية العامة الثامنة والسبعين على النحو المبين أدناه؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	دعت مكتب اللجنة الثانية في الدورة الثامنة والسبعين أن يأخذ في الاعتبار برنامج العمل والجدول الزمني المؤقتين للجنة، بصيغتهما الواردة في الوثيقة A/C.2/77/CRP.1، عند إعداده مشروع برنامج العمل والجدول الزمني للجنة في دورتها الثامنة والسبعين.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="bold">مشروع برنامج العمل</span>
+            <sup>(</sup>
+            <authorialNote marker="2" placement="bottom" eId="authorialNote_2">
+              <p xml:space="preserve">)( ستستند القائمة النهائية بالبنود والبنود الفرعية التي سيُنظر فيها إلى ما تتخذه الجمعية العامة من قرارات ومقررات.</p>
+            </authorialNote>
+            <sup>)</sup>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">	1 -	تسخير تكنولوجيات المعلومات والاتصالات لأغراض التنمية المستدامة.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">	2 -	المسائل المتعلقة بسياسات الاقتصاد الكلي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">	التجارة الدولية والتنمية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">	النظام المالي الدولي والتنمية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">	القدرة على تحمّل الدين الخارجي والتنمية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">	السلع الأساسية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <num>(هـ)</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">	الشمول المالي من أجل تحقيق التنمية المستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <num>(و)</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">	تعزيز التعاون الدولي لمكافحة التدفقات المالية غير المشروعة وتوطيد الممارسات الجيدة بشأن إعادة الأصول لتعزيز التنمية المستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <num>(ز)</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">	تشجيع الاستثمارات من أجل التنمية المستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <num>(ح)</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">	تعزيز التعاون الدولي الشامل والفعال بشأن المسائل الضريبية في الأمم المتحدة.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="MercuryDocument">
+        <content eId="para_36__content">
+          <p xml:space="preserve">	3 -	متابعة وتنفيذ نتائج المؤتمرات الدولية لتمويل التنمية.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="MercuryDocument">
+        <content eId="para_37__content">
+          <p xml:space="preserve">	4 -	التنمية المستدامة:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">	صوب تحقيق التنمية المستدامة: تنفيذ خطة التنمية المستدامة لعام 2030، بوسائل منها الاستهلاك والإنتاج المستدامان، استنادا إلى جدول أعمال القرن 21؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">	متابعة وتنفيذ إجراءات العمل المعجَّل للدول الجزرية الصغيرة النامية (مسار ساموا) واستراتيجية موريشيوس لمواصلة تنفيذ برنامج العمل من أجل التنمية المستدامة للدول الجزرية الصغيرة النامية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">	الحد من مخاطر الكوارث؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">	حماية المناخ العالمي لمنفعة الأجيال البشرية الحالية والمقبلة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="MercuryDocument">
+        <num>(هـ)</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">	تنفيذ اتفاقية الأمم المتحدة لمكافحة التصحر في البلدان التي تعاني من الجفاف الشديد و/أو من التصحر، وبخاصة في أفريقيا؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="MercuryDocument">
+        <num>(و)</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">	اتفاقية التنوع البيولوجي؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="MercuryDocument">
+        <num>(ز)</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">	التعليم من أجل التنمية المستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="MercuryDocument">
+        <num>(ح)</num>
+        <content eId="para_66__content">
+          <p xml:space="preserve">	ضمان حصول الجميع بتكلفة ميسورة على خدمات الطاقة الحديثة الموثوقة والمستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="MercuryDocument">
+        <num>(ط)</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">	مكافحة العواصف الرملية والترابية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="MercuryDocument">
+        <num>(ي)</num>
+        <content eId="para_83__content">
+          <p xml:space="preserve">	تعزيز التعاون في مجال الإدارة المتكاملة للمناطق الساحلية من أجل تحقيق التنمية المستدامة.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_84" class="MercuryDocument">
+        <content eId="para_84__content">
+          <p xml:space="preserve">	5 -	العولمة والترابط:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_85__content">
+          <p xml:space="preserve">	تسخير العلم والتكنولوجيا والابتكار لأغراض التنمية المستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_86__content">
+          <p xml:space="preserve">	الثقافة والتنمية المستدامة؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_88__content">
+          <p xml:space="preserve">	التعاون الإنمائي مع البلدان المتوسطة الدخل.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_89" class="MercuryDocument">
+        <content eId="para_89__content">
+          <p xml:space="preserve">	6 -	مجموعات البلدان التي تواجه أوضاعا خاصة:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_90" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_90__content">
+          <p xml:space="preserve">	متابعة مؤتمر الأمم المتحدة الخامس المعني بأقل البلدان نمواً؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_91" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_91__content">
+          <p xml:space="preserve">	متابعة مؤتمر الأمم المتحدة الثاني المعني بالبلدان النامية غير الساحلية.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_92" class="MercuryDocument">
+        <content eId="para_92__content">
+          <p xml:space="preserve">	7 -	القضاء على الفقر وقضايا إنمائية أخرى:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_93" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_93__content">
+          <p xml:space="preserve">	تنفيذ عقد الأمم المتحدة الثالث للقضاء على الفقر (2018-2027)؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_94" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_94__content">
+          <p xml:space="preserve">	القضاء على الفقر في الريف من أجل تنفيذ خطة التنمية المستدامة لعام 2030.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_95" class="MercuryDocument">
+        <content eId="para_95__content">
+          <p xml:space="preserve">	8 -	الأنشطة التنفيذية من أجل التنمية:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_96" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_96__content">
+          <p xml:space="preserve">	الأنشطة ‏التنفيذية ‏التي تضطلع بها منظومة الأمم المتحدة من أجل التنمية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_97" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_97__content">
+          <p xml:space="preserve">	التعاون فيما بين بلدان الجنوب من أجل التنمية.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_98" class="MercuryDocument">
+        <content eId="para_98__content">
+          <p xml:space="preserve">	9 -	التنمية الزراعية والأمن الغذائي والتغذية:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_99" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_99__content">
+          <p xml:space="preserve">	التنمية الزراعية والأمن الغذائي والتغذية؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_100" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_100__content">
+          <p xml:space="preserve">	الألياف النباتية الطبيعية والتنمية المستدامة.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_101" class="MercuryDocument">
+        <content eId="para_101__content">
+          <p xml:space="preserve">	10 -	السيادة الدائمة للشعب الفلسطيني في الأرض الفلسطينية المحتلة، بما فيها القدس الشرقية، وللسكان العرب في الجولان السوري المحتل على مواردهم الطبيعية.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_102" class="MercuryDocument">
+        <content eId="para_102__content">
+          <p xml:space="preserve">	11 -	تنشيط أعمال الجمعية العامة.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_103" class="MercuryDocument">
+        <content eId="para_103__content">
+          <p xml:space="preserve">	12 -	تخطيط البرامج.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="53">الجلسة العامة 53</inline>
+        <eol />
+        <docDate date="2022-12-14" refersTo="#adoptionDate">14 كانون الأول/ديسمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

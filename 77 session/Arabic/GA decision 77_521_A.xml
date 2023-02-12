@@ -1,0 +1,315 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee" showAs="UN. General Assembly. 6th Committee" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="124" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-11" outcome="draftDecision" as="A/C.6/77/L.24" by="" />
+        <step date="2022-12-07" outcome="adopted" by="47" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/521</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#sixthCommittee">اللجنة السادسة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">البند 124 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/521</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">برنامج العمل المؤقت للجنة السادسة في الدورة الثامنة والسبعين</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	أشارت الجمعية العامة، في جلستها العامة 47 المعقودة في 7 كانون الأول/ديسمبر 2022، بناء على توصية اللجنة السادسة<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() <span class="underline"><a href="https://undocs.org/ar/A/77/426">A/77/426</a></span>، الفقرة 6.</p></authorialNote><sup>)</sup>، إلى أن اللجنة قررت اعتماد برنامج العمل المؤقت التالي للدورة الثامنة والسبعين للجمعية، على النحو الذي اقترحه المكتب: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">
+            <span class="bold">برنامج العمل المؤقت</span>
+            <sup>(</sup>
+            <authorialNote marker="2" placement="bottom" eId="authorialNote_2">
+              <p xml:space="preserve">() يشير إلى مواعيد مؤقتة في عام 2023 لإجراء المناقشات المتعلقة بكل بند، دون الإخلال بتخصيص جلسات إضافية للأفرقة العاملة التي تنشئها اللجنة السادسة والإحاطات الإعلامية التي تعقدها على مستوى الأمانة العامة. ووفقا لقرار الجمعية العامة <span class="underline"><a href="https://undocs.org/ar/A/RES/69/250">69/250</a></span>، ليس من المقرر عقد أي جلسات رسمية للجنة في 13 تشرين الثاني/نوفمبر 2023 (ديوالي).</p>
+            </authorialNote>
+            <sup>)</sup>
+          </p>
+        </content>
+      </paragraph>
+      <container name="table" eId="container_3">
+        <table eId="container_3_table_1" akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;Right&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;Bottom&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;Left&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;InsideHorizontal&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;InsideVertical&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0}}" akn4un:data-width-type="0-auto">
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>2 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>تنظيم أعمال اللجنة السادسة</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>2 و 3 و 4 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>التدابير الرامية إلى القضاء على الإرهاب الدولي</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>4 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>تخطيط البرامج</p>
+              <p>حماية الأشخاص في حالات الكوارث</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>10 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>المساءلة الجنائية لموظفي الأمم المتحدة وخبرائها الموفدين في بعثات</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>11 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>إقامة العدل في الأمم المتحدة</p>
+              <p>[النظام الموحّد للأمم المتحدة]<sup>(</sup><authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">() رهنا بإحالة هذا البند من جدول الأعمال إلى اللجنة.</p></authorialNote><sup>)</sup></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>11 و 12 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>الجرائم ضد الإنسانية</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>12 و 13 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>نطاق مبدأ الولاية القضائية العالمية وتطبيقه</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>16 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>تقرير لجنة الأمم المتحدة للقانون التجاري الدولي عن أعمال دورتها السادسة والخمسين</p>
+              <p>طلب/طلبات الحصول على مركز المراقب<sup>(</sup><authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">() طلب/طلبات الحصول على مركز المراقب المدرجة، للمرة الأولى، في جدول أعمال الدورة الثامنة والسبعين.</p></authorialNote><sup>)</sup></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>16 و 17 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>سيادة القانون على الصعيدين الوطني والدولي</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>17 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>مسؤولية المنظمات الدولية</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>18 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>تعزيز الإطار التعاهدي الدولي وتدعيمه</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>19 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>برنامج الأمم المتحدة للمساعدة في تدريس القانون الدولي ودراسته ونشره وزيادة تفهمه </p>
+              <p>تقرير اللجنة الخاصة المعنية بميثاق الأمم المتحدة وبتعزيز دور المنظمة</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>20 تشرين الأول/أكتوبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>طرد الأجانب</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>23 إلى 27 تشرين الأول/أكتوبر و 31 تشرين الأول/أكتوبر إلى 2 تشرين الثاني/نوفمبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>تقرير لجنة القانون الدولي عن أعمال دورتها الرابعة والسبعين</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>6 تشرين الثاني/نوفمبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>تقرير لجنة العلاقات مع البلد المضيف</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>9 تشرين الثاني/نوفمبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>طلب/طلبات الحصول على مركز المراقب<sup>(</sup><authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">() طلب/طلبات الحصول على مركز المراقب المدرجة، للمرة الأولى، في جدول أعمال إحدى الدورات السابقة.</p></authorialNote><sup>)</sup></p>
+              <p>تنشيط أعمال الجمعية العامة</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>17 تشرين الثاني/نوفمبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>انتخاب أعضاء مكاتب اللجان الرئيسية</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3323-dxa" akn4un:data-justification="Both">
+              <p>2 و 16 تشرين الثاني/نوفمبر</p>
+            </td>
+            <td akn4un:data-width-type="6027-dxa" akn4un:data-justification="Both">
+              <p>مواعيد محجوزة</p>
+            </td>
+          </tr>
+        </table>
+      </container>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="47">الجلسة العامة 47</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">7 كانون الأول/ديسمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
