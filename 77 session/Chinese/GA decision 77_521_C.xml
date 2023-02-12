@@ -1,0 +1,335 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee" showAs="UN. General Assembly. 6th Committee" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="124" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-11" outcome="draftDecision" as="A/C.6/77/L.24" by="" />
+        <step date="2022-12-07" outcome="adopted" by="第47次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/521</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#sixthCommittee">第六委员会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">议程项目124</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/521.</docNumber>
+        <docTitle refersTo="#decisionTitle">第七十八届会议期间第六委员会暂定工作方案</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年12月7日大会第47次全体会议根据第六委员会的建议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/426">A/77/426</a>，第6段。</p></authorialNote> 注意到第六委员会决定通过由主席团提议的大会第七十八届会议期间暂定工作方案如下：</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	暂定工作方案<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> 显示2023年各议程项目下辩论的暂定日期，同时不妨碍第六委员会为所设工作组分配额外的会议和进行额外的秘书处情况通报。根据大会第<a href="https://undocs.org/ch/A/RES/69/250">69/250</a>号决议，在2023年11月13日(排灯节)不安排委员会正式会议。</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <container name="table" eId="container_3">
+        <table eId="container_3_table_1" akn4un:data-width-type="0-auto">
+          <tr>
+            <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="3238-dxa"></td>
+            <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="4819-dxa"></td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月2日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>第六委员会的工作安排</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月2日、3日和4日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>消除国际恐怖主义的措施</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月4日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>方案规划</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa"></td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>发生灾害时的人员保护</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月10日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>追究联合国官员和特派专家的刑事责任</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月11日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>联合国内部司法</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa"></td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>[联合国共同制度]<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> 取决于该议程项目分配给委员会。</p></authorialNote></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月11日和12日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>危害人类罪</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月12日和13日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>普遍管辖权原则的范围和适用</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月16日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>联合国国际贸易法委员会第五十六届会议工作报告</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa"></td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>申请大会观察员地位的请求<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> 首次列入第七十八届会议议程的申请大会观察员地位的请求。</p></authorialNote></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月16日和17日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>国内和国际的法治</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月17日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>国际组织的责任</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月18日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>加强和促进国际条约框架</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月19日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>联合国国际法的教学、研究、传播和广泛了解协助方案</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa"></td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>联合国宪章和加强联合国作用特别委员会的报告</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>10月20日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>驱逐外国人</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa" akn4un:data-justification="Left">
+              <p>10月23日至27日及 10月31日至11月2日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>国际法委员会第七十四届会议工作报告</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>11月6日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>东道国关系委员会的报告</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>11月9日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>申请大会观察员地位的请求<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> 首次列入先前届会议程的申请大会观察员地位的请求。</p></authorialNote></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa"></td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>振兴大会工作</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="3238-dxa">
+              <p>11月17日</p>
+            </td>
+            <td akn4un:data-width-type="4819-dxa">
+              <p>选举各主要委员会的主席团成员</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="3238-dxa">
+              <p>11月2日和16日</p>
+            </td>
+            <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="4819-dxa">
+              <p>预留备用</p>
+            </td>
+          </tr>
+        </table>
+      </container>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第47次">第47次全体会议</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">2022年12月7日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

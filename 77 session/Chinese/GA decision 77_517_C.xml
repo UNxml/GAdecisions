@@ -1,0 +1,112 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="NUCLEAR-WEAPON-FREE ZONES" showAs="NUCLEAR-WEAPON-FREE ZONES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="DISARMAMENT AGREEMENTS" showAs="DISARMAMENT AGREEMENTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ANTARCTICA" showAs="ANTARCTICA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="LATIN AMERICA AND THE CARIBBEAN" showAs="LATIN AMERICA AND THE CARIBBEAN" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="OCEANIA" showAs="OCEANIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SOUTHEAST ASIA" showAs="SOUTHEAST ASIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="AFRICA" showAs="AFRICA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99i" showAs="Nuclear-weapon-free southern hemisphere and adjacent areas." shortForm="NUCLEAR-WEAPON-FREE ZONE--SOUTHERN HEMISPHERE" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-13" outcome="draftDecision" as="A/C.1/77/L.72" by="Brazil, Brunei Darussalam, Chile, Mexico" />
+        <step date="0001-01-01" outcome="draftDecisionAdditionalSponsors" by="Cuba, Indonesia, Ireland, New Zealand, Peru, Thailand, Uruguay" />
+        <step date="2022-12-07" outcome="adopted" by="第46次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/517</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">第一委员会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="99 (i)" name="agenda item">议程项目99 (i)</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/517.</docNumber>
+        <docTitle refersTo="#decisionTitle">无核武器的南半球和毗邻地区</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年12月7日大会第46次全体会议根据第一委员会的建议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/385">A/77/385</a>，第111段。</p></authorialNote> 通过记录表决以158票对1票、20票弃权，<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/A/77/PV.46">A/77/PV.46</a>。</p></authorialNote> 回顾其1996年12月10日第<a href="https://undocs.org/ch/A/RES/51/45">51/45</a> B号、1997年12月9日第<a href="https://undocs.org/ch/A/RES/52/38">52/38</a> N号、1998年12月4日第<a href="https://undocs.org/ch/A/RES/53/77">53/77</a> Q号、1999年12月1日第<a href="https://undocs.org/ch/A/RES/54/54">54/54</a> L号、2000年11月20日第<a href="https://undocs.org/ch/A/RES/55/33">55/33</a> I号、2001年11月29日第<a href="https://undocs.org/ch/A/RES/56/24">56/24</a> G号、2002年11月22日第<a href="https://undocs.org/ch/A/RES/57/73">57/73</a>号、2003年12月8日第<a href="https://undocs.org/ch/A/RES/58/49">58/49</a>号、2004年12月3日第<a href="https://undocs.org/ch/A/RES/59/85">59/85</a>号、2005年12月8日第<a href="https://undocs.org/ch/A/RES/60/58">60/58</a>号、2006年12月6日第<a href="https://undocs.org/ch/A/RES/61/69">61/69</a>号、2007年12月5日第<a href="https://undocs.org/ch/A/RES/62/35">62/35</a>号、2008年12月2日第<a href="https://undocs.org/ch/A/RES/63/65">63/65</a>号、2009年12月2日第<a href="https://undocs.org/ch/A/RES/64/44">64/44</a>号、2010年12月8日第<a href="https://undocs.org/ch/A/RES/65/58">65/58</a>号、2012年12月3日第<a href="https://undocs.org/ch/A/RES/67/55">67/55</a>号、2014年12月2日第<a href="https://undocs.org/ch/A/RES/69/35">69/35</a>号、2015年12月7日第<a href="https://undocs.org/ch/A/RES/70/45">70/45</a>号、2016年12月5日第<a href="https://undocs.org/ch/A/RES/71/51">71/51</a>号、2017年12月4日第<a href="https://undocs.org/ch/A/RES/72/45">72/45</a>号和2019年12月12日第<a href="https://undocs.org/ch/A/RES/74/48">74/48</a>号和2021年12月6日第<a href="https://undocs.org/ch/A/RES/76/44">76/44</a>号决议，决定在大会第七十八届会议临时议程题为“全面彻底裁军”的项目下列入题为“无核武器的南半球和毗邻地区”的分项。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第46次">第46次全体会议</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">2022年12月7日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

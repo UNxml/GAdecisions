@@ -1,0 +1,116 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-14/77-538/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-14/77-538/"></FRBRuri>
+          <FRBRdate date="2022-12-14" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-14/77-538/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-14/77-538/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-14/77-538/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-14/77-538/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. 2nd Committee" showAs="UN. General Assembly. 2nd Committee" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="124" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="draftDecision" as="A/C.2/77/L.53" by="submitted by the Bureau" />
+        <step date="2022-12-14" outcome="adopted" by="第53次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/538</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#secondCommittee">第二委员会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">议程项目124</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/538.</docNumber>
+        <docTitle refersTo="#decisionTitle">振兴第二委员会的工作</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年12月14日大会第53次全体会议根据第二委员会的建议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/451">A/77/451</a>，第9段。</p></authorialNote> 回顾其2021年9月10日第<a href="https://undocs.org/ch/A/RES/75/325">75/325</a>号决议，特别是关于工作方法的规定，以及2020年8月11日第74/537 B号和2021年7月29日第75/548 B号决定：</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	决定第二委员会主席团将在2023年头几个月举行非正式对话，讨论振兴委员会工作的问题；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	又决定第二委员会在对话后召开一次全体会议，评估审议情况，并酌情就建议采取行动，供大会随后核准，使任何变动能在第七十八届会议前生效。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第53次">第53次全体会议</inline>
+        <eol />
+        <docDate date="2022-12-14" refersTo="#adoptionDate">2022年12月14日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

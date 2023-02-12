@@ -1,0 +1,109 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/"></FRBRuri>
+          <FRBRdate date="2022-12-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" showAs="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONVENTIONAL WEAPONS" showAs="CONVENTIONAL WEAPONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="AMMUNITION" showAs="AMMUNITION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="STOCKPILE MANAGEMENT" showAs="STOCKPILE MANAGEMENT" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="GROUPS OF EXPERTS" showAs="GROUPS OF EXPERTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99bb" showAs="Problems arising from the accumulation of conventional ammunition stockpiles in surplus." shortForm="CONVENTIONAL WEAPONS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-12" outcome="draftDecision" as="A/C.1/77/L.51" by="France, Germany" />
+        <step date="2022-12-30" outcome="adopted" by="第56次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/547</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">第一委员会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="99(bb)" name="agenda item">议程项目99(bb)</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/547.</docNumber>
+        <docTitle refersTo="#decisionTitle">过剩常规弹药储存的积累引起的问题</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年12月30日大会第56次全体会议(续会)根据第一委员会的建议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/385">A/77/385</a>，第111段。</p></authorialNote> 通过记录表决以162票对零票、6票弃权，<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/A/77/PV.56(Resumption1)">A/77/PV.56 (Resumption 1)</a>。</p></authorialNote> 回顾其2004年12月3日第<a href="https://undocs.org/ch/A/RES/59/515">59/515</a>号决定和2005年12月8日第<a href="https://undocs.org/ch/A/RES/60/74">60/74</a>号、2006年12月6日第<a href="https://undocs.org/ch/A/RES/61/72">61/72</a>号、2008年12月2日第<a href="https://undocs.org/ch/A/RES/63/61">63/61</a>号、2009年12月2日第<a href="https://undocs.org/ch/A/RES/64/51">64/51</a>号、2011年12月2日第<a href="https://undocs.org/ch/A/RES/66/42">66/42</a>号、2013年12月5日第<a href="https://undocs.org/ch/A/RES/68/52">68/52</a>号、2015年12月7日第<a href="https://undocs.org/ch/A/RES/70/35">70/35</a>号、2017年12月4日第<a href="https://undocs.org/ch/A/RES/72/55">72/55</a>号和2019年12月12日第<a href="https://undocs.org/ch/A/RES/74/65">74/65</a>号决议、2020年12月31日第<a href="https://undocs.org/ch/A/RES/75/552">75/552</a>号决定、2021年12月24日第<a href="https://undocs.org/ch/A/RES/76/233">76/233</a>号决议(其中大会决定设立拟订一系列政治承诺作为新的全球框架以弥合弹药全周期管理方面现有差距的不限成员名额工作组，该工作组将在2022年举行两次为期5天的会议，在2023年举行一次为期5天的会议，并向大会第七十八届会议提交一份工作报告，包括就一套政治承诺作为新的全球常规弹药框架提出建议)，以及2022年6月21日第76/568号决定，决定常规弹药问题不限成员名额工作组应于2023年在纽约再召开一次为期5天的会议，以完成其工作，请秘书长为召开不限成员名额工作组的额外会议提供必要的支持，并决定在大会第七十八届会议临时议程题为“全面彻底裁军”的项目下列入题为“过剩常规弹药储存的积累引起的问题”的分项。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第56次">第56次全体会议(续会)</inline>
+        <eol />
+        <docDate date="2022-12-30" refersTo="#adoptionDate">2022年12月30日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
