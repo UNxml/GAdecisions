@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/"></FRBRuri>
+          <FRBRdate date="2022-12-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/spa@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" showAs="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONVENTIONAL WEAPONS" showAs="CONVENTIONAL WEAPONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="AMMUNITION" showAs="AMMUNITION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="STOCKPILE MANAGEMENT" showAs="STOCKPILE MANAGEMENT" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="GROUPS OF EXPERTS" showAs="GROUPS OF EXPERTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99bb" showAs="Problems arising from the accumulation of conventional ammunition stockpiles in surplus." shortForm="CONVENTIONAL WEAPONS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-12" outcome="draftDecision" as="A/C.1/77/L.51" by="France, Germany" />
+        <step date="2022-12-30" outcome="adopted" by="56ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/547</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">Primera Comisión</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="99 bb)" name="agenda item">Tema 99 bb) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/547.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Problemas que plantea la acumulación excesiva de existencias de municiones convencionales</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	En su 56ª sesión plenaria (continuación), celebrada el 30 de diciembre de 2022, la Asamblea General, en votación registrada de 162 votos contra ninguno y 6 abstenciones<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Véase <span class="underline"><a href="https://undocs.org/sp/A/77/PV.56 (Resumption 1)">A/77/PV.56 (Resumption 1)</a></span>.</p></authorialNote>, por recomendación de la Primera Comisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/385">A/77/385</a></span>, párr. 111.</p></authorialNote>, recordando su decisión 59/515, de 3 de diciembre de 2004, y sus resoluciones <a href="https://undocs.org/sp/A/RES/60/74">60/74</a>, de 8 de diciembre de 2005, <a href="https://undocs.org/sp/A/RES/61/72">61/72</a>, de 6 de diciembre de 2006, <a href="https://undocs.org/sp/A/RES/63/61">63/61</a>, de 2 de diciembre de 2008, <a href="https://undocs.org/sp/A/RES/64/51">64/51</a>, de 2 de diciembre de 2009, <a href="https://undocs.org/sp/A/RES/66/42">66/42</a>, de 2 de diciembre de 2011, <a href="https://undocs.org/sp/A/RES/68/52">68/52</a>, de 5 de diciembre de 2013, <a href="https://undocs.org/sp/A/RES/70/35">70/35</a>, de 7 de diciembre de 2015, <a href="https://undocs.org/sp/A/RES/72/55">72/55</a>, de 4 de diciembre de 2017, y <a href="https://undocs.org/sp/A/RES/74/65">74/65</a>, de 12 de diciembre de 2019, su decisión 75/552, de 31 de diciembre de 2020, su resolución <a href="https://undocs.org/sp/A/RES/76/233">76/233</a>, de 24 de diciembre de 2021, en la que decidió establecer un grupo de trabajo de composición abierta para elaborar un conjunto de compromisos políticos como nuevo marco global que colmaría las lagunas existentes en la gestión de las municiones durante toda su vida útil, y que el grupo se reuniera durante dos períodos de sesiones de cinco días en 2022 y durante un período de sesiones de cinco días en 2023 y que le presentara, en su septuagésimo octavo período de sesiones, un informe sobre su labor que incluyera recomendaciones sobre un conjunto de compromisos políticos como nuevo marco global sobre las municiones convencionales, y su decisión 76/568, de 21 de junio de 2022, decidió que el grupo de trabajo de composición abierta sobre las municiones convencionales se reuniera durante otro período de sesiones de cinco días en Nueva York en 2023 para concluir su labor, solicitó al Secretario General que prestara el apoyo necesario para convocar ese período de sesiones adicional y decidió incluir en el programa provisional de su septuagésimo octavo período de sesiones, bajo el tema titulado “Desarme general y completo”, el subtema titulado “Problemas que plantea la acumulación excesiva de existencias de municiones convencionales”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56ª">56ª sesión plenaria (continuación)</inline>
+        <eol />
+        <docDate date="2022-12-30" refersTo="#adoptionDate">30 de diciembre de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

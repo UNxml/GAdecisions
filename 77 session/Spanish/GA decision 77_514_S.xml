@@ -1,0 +1,107 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-514/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-514/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-514/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-514/spa@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-514/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-514/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Group of Governmental Experts to Consider the Role of Verification in Advancing Nuclear Disarmament" showAs="UN. Group of Governmental Experts to Consider the Role of Verification in Advancing Nuclear Disarmament" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="99oo" showAs="Nuclear disarmament verification." shortForm="NUCLEAR DISARMAMENT--VERIFICATION" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-07" outcome="draftDecision" as="A/C.1/77/L.26" by="Brazil, Netherlands, Norway, South Africa, Switzerland, United Kingdom of Great Britain and Northern Ireland" />
+        <step date="2022-12-07" outcome="adopted" by="46ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/514</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">Primera Comisión</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="99 oo)" name="agenda item">Tema 99 oo) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/514.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Verificación del desarme nuclear</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	En su 46ª sesión plenaria, celebrada el 7 de diciembre de 2022, la Asamblea General, en votación registrada de 177 votos contra ninguno y 2 abstenciones<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Véase <span class="underline"><a href="https://undocs.org/sp/A/77/PV.46">A/77/PV.46</a></span>.</p></authorialNote>, por recomendación de la Primera Comisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/385">A/77/385</a></span>, párr. 111.</p></authorialNote>, recordando sus resoluciones <a href="https://undocs.org/sp/A/RES/71/67">71/67</a>, de 5 de diciembre de 2016, y <a href="https://undocs.org/sp/A/RES/74/50">74/50</a>, de 12 de diciembre de 2019, y sus decisiones 72/514, de 4 de diciembre de 2017, 73/514, de 5 de diciembre de 2018, 75/516, de 7 de diciembre de 2020, y 76/515, de 6 de diciembre de 2021, y observando que el Grupo de Expertos Gubernamentales encargado de seguir examinando las cuestiones relativas a la verificación del desarme nuclear había comenzado su labor, decidió incluir en el programa provisional de su septuagésimo octavo período de sesiones, bajo el tema titulado “Desarme general y completo”, el subtema titulado “Verificación del desarme nuclear”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="46ª">46ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">7 de diciembre de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
