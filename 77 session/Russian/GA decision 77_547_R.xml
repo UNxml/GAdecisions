@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/"></FRBRuri>
+          <FRBRdate date="2022-12-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/rus@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-30/77-547/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" showAs="UN. Group of Governmental Experts on Conventional Ammunition Stockpiles in Surplus" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONVENTIONAL WEAPONS" showAs="CONVENTIONAL WEAPONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="AMMUNITION" showAs="AMMUNITION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="STOCKPILE MANAGEMENT" showAs="STOCKPILE MANAGEMENT" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="GROUPS OF EXPERTS" showAs="GROUPS OF EXPERTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99bb" showAs="Problems arising from the accumulation of conventional ammunition stockpiles in surplus." shortForm="CONVENTIONAL WEAPONS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-12" outcome="draftDecision" as="A/C.1/77/L.51" by="France, Germany" />
+        <step date="2022-12-30" outcome="adopted" by="56-е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/547</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">Первый комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="99 (bb)" name="agenda item">Пункт 99 (bb) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/547.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Проблемы, порождаемые накоплением избыточных запасов обычных боеприпасов</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 56-м (возобновленном) пленарном заседании 30 декабря 2022 года Генеральная Ассамблея по итогам заносимого в отчет о заседании голосования 162 голосами при 6 воздержавшихся, при этом никто не голосовал против<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/76/PV.56 (Resumption 1)">A/76/PV.56 (Resumption 1)</a></span></p></authorialNote>, по рекомендации Первого комитета<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/77/385">A/77/385</a></span>, п. 111.</p></authorialNote>, сославшись на свое решение 59/515 от 3 декабря 2004 года и свои резолюции <a href="https://undocs.org/ru/A/RES/60/74">60/74</a> от 8 декабря 2005 года, <a href="https://undocs.org/ru/A/RES/61/72">61/72</a> от 6 декабря 2006 года, <a href="https://undocs.org/ru/A/RES/63/61">63/61</a> от 2 декабря 2008 года, <a href="https://undocs.org/ru/A/RES/64/51">64/51</a> от 2 декабря 2009 года, <a href="https://undocs.org/ru/A/RES/66/42">66/42</a> от 2 декабря 2011 года, <a href="https://undocs.org/ru/A/RES/68/52">68/52</a> от 5 декабря 2013 года, <a href="https://undocs.org/ru/A/RES/70/35">70/35</a> от 7 декабря 2015 года, <a href="https://undocs.org/ru/A/RES/72/55">72/55</a> от 4 декабря 2017 года и <a href="https://undocs.org/ru/A/RES/74/65">74/65</a> от 12 декабря 2019 года, свое решение 75/552 от 31 декабря 2020 года, свою резолюцию <a href="https://undocs.org/ru/A/RES/76/233">76/233</a> от 24 декабря 2021 года, в которой она постановила учредить рабочую группу открытого состава для выработки свода политических обязательств в качестве нового глобального рамочного документа, который устранит существующие пробелы в управлении боеприпасами на протяжении их жизненного цикла, которая проведет две пятидневные сессии в 2022 году и одну пятидневную сессию в 2023 году и представит доклад о своей работе, включая рекомендации относительно свода политических обязательств в качестве нового глобального рамочного документа по обычным боеприпасам, Генеральной Ассамблее на ее семьдесят восьмой сессии, и свое решение 76/568 от 21 июня 2022 года, постановила, что рабочая группа открытого состава по обычным боеприпасам соберется на дополнительную сессию продолжительностью пять дней в 2023 году в Нью‑Йорке для завершения своей работы, просила Генерального секретаря оказать необходимую поддержку для созыва дополнительной сессии и постановила включить в предварительную повестку дня своей семьдесят восьмой сессии, в рамках пункта, озаглавленного «Всеобщее и полное разоружение», подпункт, озаглавленный «Проблемы, порождаемые накоплением избыточных запасов обычных боеприпасов».</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56-е">56-е (возобновленное) пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-12-30" refersTo="#adoptionDate">30 декабря 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

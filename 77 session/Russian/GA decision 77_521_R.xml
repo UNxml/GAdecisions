@@ -1,0 +1,338 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/rus@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-521/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee" showAs="UN. General Assembly. 6th Committee" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="124" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-11" outcome="draftDecision" as="A/C.6/77/L.24" by="" />
+        <step date="2022-12-07" outcome="adopted" by="47-е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/521</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#sixthCommittee">Шестой комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">Пункт 124 повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/521.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Предварительная программа работы Шестого комитета на семьдесят восьмой сессии</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 47‑м пленарном заседании 7 декабря 2022 года Генеральная Ассамблея по рекомендации Шестого комитета<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/77/426">A/77/426</a></span>, п. 6.</p></authorialNote> приняла к сведению, что Комитет постановил утвердить следующую предварительную программу работы на семьдесят восьмой сессии Ассамблеи, предложенную Бюро:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">
+            <span class="bold">Предварительная программа работы</span>
+            <authorialNote marker="2" placement="bottom" eId="authorialNote_2">
+              <p xml:space="preserve"> С указанием предварительных дат в 2023 году для прений в рамках соответствующих пунктов без ущерба распределению дополнительных заседаний рабочих групп, учрежденных Шестым комитетом, и брифингов Секретариата, созванных этим комитетом. В соответствии с резолюцией <span class="underline"><a href="https://undocs.org/ru/A/RES/69/250">69/250</a></span> Генеральной Ассамблеи на 13 ноября 2023 года (Дивали) официальных заседаний Комитета не запланировано.</p>
+            </authorialNote>
+          </p>
+        </content>
+      </paragraph>
+      <container name="table" eId="container_3">
+        <table eId="container_3_table_1" akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;Right&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;Bottom&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;Left&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;InsideHorizontal&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0},&quot;InsideVertical&quot;:{&quot;Style&quot;:&quot;none&quot;,&quot;Size&quot;:0,&quot;Space&quot;:0}}" akn4un:data-width-type="0-auto">
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>2 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Организация работы Шестого комитета</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>2, 3 и 4 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Меры по ликвидации международного терроризма </p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>4 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Планирование по программам</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa"></td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Защита людей в случае бедствий</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>10 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Уголовная ответственность должностных лиц и экспертов в командировках Организации Объединенных Наций</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>11 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Отправление правосудия в Организации Объединенных Наций</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa"></td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>[Общая система Организации Объединенных Наций<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> При условии передачи пункта повестки дня Комитету.</p></authorialNote>] </p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>11 и 12 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Преступления против человечности</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>12 и 13 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Охват и применение принципа универсальной юрисдикции</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>16 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Доклад Комиссии Организации Объединенных Наций по праву международной торговли о работе ее пятьдесят шестой сессии</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa"></td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Просьба(ы) о предоставлении статуса наблюдателя<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> Просьба(ы) о предоставлении статуса наблюдателя, которые были впервые включены в повестку дня семьдесят восьмой сессии.</p></authorialNote></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>16 и 17 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Верховенство права на национальном и международном уровнях</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>17 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Ответственность международных организаций</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>18 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Укрепление и поощрение международного договорного режима</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>19 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Программа помощи Организации Объединенных Наций в области преподавания, изучения, распространения и более широкого признания международного права </p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa"></td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Доклад Специального комитета по Уставу Организации Объединенных Наций и усилению роли Организации</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>20 октября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Высылка иностранцев</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>23–27 октября и 31 октября – 2 ноября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Доклад Комиссии международного права о работе ее семьдесят четвертой сессии</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>6 ноября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Доклад Комитета по сношениям со страной пребывания</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>9 ноября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Просьба(ы) о предоставлении статуса наблюдателя<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> Просьба(ы) о предоставлении статуса наблюдателя, которые были впервые включены в повестку дня более ранних сессий.</p></authorialNote></p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa"></td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Активизация работы Генеральной Ассамблеи</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>17 ноября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Выборы должностных лиц главных комитетов</p>
+            </td>
+          </tr>
+          <tr>
+            <td akn4un:data-width-type="2695-dxa">
+              <p>2 и 16 ноября</p>
+            </td>
+            <td akn4un:data-width-type="6655-dxa">
+              <p>Резервное время</p>
+            </td>
+          </tr>
+        </table>
+      </container>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="47-е">47‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">7 декабря 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

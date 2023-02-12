@@ -1,0 +1,107 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-515/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-515/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-515/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-515/rus@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-515/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-515/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (79th sess. : 2024-2025)" showAs="UN. General Assembly (79th sess. : 2024-2025)" dictionary="DHLAUTH"></keyword>
+        <keyword value="BALLISTIC MISSILES" showAs="BALLISTIC MISSILES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99u" showAs="Missiles." shortForm="BALLISTIC MISSILES" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-11" outcome="draftDecision" as="A/C.1/77/L.38" by="Iran (Islamic Republic of)" />
+        <step date="2022-12-07" outcome="adopted" by="46-е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/515</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">Первый комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="99 u)" name="agenda item">Пункт 99 u) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/515.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Ракеты</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 46‑м пленарном заседании 7 декабря 2022 года Генеральная Ассамблея по итогам заносимого в отчет о заседании голосования 161 голосом против 5 при 11 воздержавшихся<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> См. <span class="underline"><a href="https://undocs.org/ru/A/77/PV.46">A/77/PV.46</a></span>.</p></authorialNote> по рекомендации Первого комитета<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/77/385">A/77/385</a></span>, п. 111.</p></authorialNote>, сославшись на свои резолюции <a href="https://undocs.org/ru/A/RES/54/54">54/54</a> F от 1 декабря 1999 года, <a href="https://undocs.org/ru/A/RES/55/33">55/33</a> A от 20 ноября 2000 года, <a href="https://undocs.org/ru/A/RES/56/24">56/24</a> B от 29 ноября 2001 года, <a href="https://undocs.org/ru/A/RES/57/71">57/71</a> от 22 ноября 2002 года, <a href="https://undocs.org/ru/A/RES/58/37">58/37</a> от 8 декабря 2003 года, <a href="https://undocs.org/ru/A/RES/59/67">59/67</a> от 3 декабря 2004 года, <a href="https://undocs.org/ru/A/RES/61/59">61/59</a> от 6 декабря 2006 года и <a href="https://undocs.org/ru/A/RES/63/55">63/55</a> от 2 декабря 2008 года и свои решения 60/515 от 8 декабря 2005 года, 62/514 от 5 декабря 2007 года, 65/517 от 8 декабря 2010 года, 66/516 от 2 декабря 2011 года, 67/516 от 3 декабря 2012 года, 68/517 от 5 декабря 2013 года, 69/517 от 2 декабря 2014 года, 71/516 от 5 декабря 2016 года, 73/513 от 5 декабря 2018 года и 75/518 от 7 декабря 2020 года, постановила включить в предварительную повестку дня своей семьдесят девятой сессии в рамках пункта, озаглавленного «Всеобщее и полное разоружение», подпункт, озаглавленный «Ракеты».</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="46-е">46‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">7 декабря 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

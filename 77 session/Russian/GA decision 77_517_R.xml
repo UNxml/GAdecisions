@@ -1,0 +1,114 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/"></FRBRuri>
+          <FRBRdate date="2022-12-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/rus@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-07/77-517/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="NUCLEAR-WEAPON-FREE ZONES" showAs="NUCLEAR-WEAPON-FREE ZONES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="DISARMAMENT AGREEMENTS" showAs="DISARMAMENT AGREEMENTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ANTARCTICA" showAs="ANTARCTICA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="LATIN AMERICA AND THE CARIBBEAN" showAs="LATIN AMERICA AND THE CARIBBEAN" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="OCEANIA" showAs="OCEANIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SOUTHEAST ASIA" showAs="SOUTHEAST ASIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="AFRICA" showAs="AFRICA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="99i" showAs="Nuclear-weapon-free southern hemisphere and adjacent areas." shortForm="NUCLEAR-WEAPON-FREE ZONE--SOUTHERN HEMISPHERE" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-10-13" outcome="draftDecision" as="A/C.1/77/L.72" by="Brazil, Brunei Darussalam, Chile, Mexico" />
+        <step date="0001-01-01" outcome="draftDecisionAdditionalSponsors" by="Cuba, Indonesia, Ireland, New Zealand, Peru, Thailand, Uruguay" />
+        <step date="2022-12-07" outcome="adopted" by="46-е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/517</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#firstCommittee">Первый комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="99 (i)" name="agenda item">Пункт 99 (i) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/517.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Южное полушарие и прилегающие районы, свободные от ядерного оружия</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 46‑м пленарном заседании 7 декабря 2022 года Генеральная Ассамблея по итогам заносимого в отчет о заседании голосования 158 голосами против 1 при 20 воздержавшихся<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> См. <span class="underline"><a href="https://undocs.org/ru/A/77/PV.46">A/77/PV.46</a></span>.</p></authorialNote> по рекомендации Первого комитета<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/77/385">A/77/385</a></span>, п. 111.</p></authorialNote>, сославшись на свои резолюции <a href="https://undocs.org/ru/A/RES/51/45">51/45</a> B от 10 декабря 1996 года, <a href="https://undocs.org/ru/A/RES/52/38">52/38</a> N от 9 декабря 1997 года, <a href="https://undocs.org/ru/A/RES/53/77">53/77</a> Q от 4 декабря 1998 года, <a href="https://undocs.org/ru/A/RES/54/54">54/54</a> L от 1 декабря 1999 года, <a href="https://undocs.org/ru/A/RES/55/33">55/33</a> I от 20 ноября 2000 года, <a href="https://undocs.org/ru/A/RES/56/24">56/24</a> G от 29 ноября 2001 года, <a href="https://undocs.org/ru/A/RES/57/73">57/73</a> от 22 ноября 2002 года, <a href="https://undocs.org/ru/A/RES/58/49">58/49</a> от 8 декабря 2003 года, <a href="https://undocs.org/ru/A/RES/59/85">59/85</a> от 3 декабря 2004 года, <a href="https://undocs.org/ru/A/RES/60/58">60/58</a> от 8 декабря 2005 года, <a href="https://undocs.org/ru/A/RES/61/69">61/69</a> от 6 декабря 2006 года, <a href="https://undocs.org/ru/A/RES/62/35">62/35</a> от 5 декабря 2007 года, <a href="https://undocs.org/ru/A/RES/63/65">63/65</a> от 2 декабря 2008 года, <a href="https://undocs.org/ru/A/RES/64/44">64/44</a> от 2 декабря 2009 года, <a href="https://undocs.org/ru/A/RES/65/58">65/58</a> от 8 декабря 2010 года, <a href="https://undocs.org/ru/A/RES/67/55">67/55</a> от 3 декабря 2012 года, <a href="https://undocs.org/ru/A/RES/69/35">69/35</a> от 2 декабря 2014 года, <a href="https://undocs.org/ru/A/RES/70/45">70/45</a> от 7 декабря 2015 года, <a href="https://undocs.org/ru/A/RES/71/51">71/51</a> от 5 декабря 2016 года, <a href="https://undocs.org/ru/A/RES/72/45">72/45</a> от 4 декабря 2017 года, <a href="https://undocs.org/ru/A/RES/74/48">74/48</a> от 12 декабря 2019 года и <a href="https://undocs.org/ru/A/RES/76/44">76/44</a> от 6 декабря 2021 года, постановила включить в предварительную повестку дня своей семьдесят восьмой сессии в рамках пункта, озаглавленного «Всеобщее и полное разоружение», подпункт, озаглавленный «Южное полушарие и прилегающие районы, свободные от ядерного оружия».</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="46-е">46‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-12-07" refersTo="#adoptionDate">7 декабря 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
