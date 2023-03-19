@@ -1,0 +1,188 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="15" href="http://metadata.un.org/sdg/15" showAs="sdg_15" dictionary="SDGO"></keyword>
+        <keyword value="land,_plant_and_soil_resources" href="http://metadata.un.org/thesaurus/030600" showAs="land,_plant_and_soil_resources" dictionary="UNBIS"></keyword>
+        <keyword value="deforestation" href="http://eurovoc.europa.eu/339" showAs="deforestation" dictionary="EuroVoc"></keyword>
+        <keyword value="deforestation" href="http://metadata.un.org/thesaurus/1001550" showAs="deforestation" dictionary="UNBIS"></keyword>
+        <keyword value="desertification" href="http://eurovoc.europa.eu/416" showAs="desertification" dictionary="EuroVoc"></keyword>
+        <keyword value="desertification" href="http://metadata.un.org/thesaurus/1001594" showAs="desertification" dictionary="UNBIS"></keyword>
+        <keyword value="biodiversity" href="http://eurovoc.europa.eu/5463" showAs="biodiversity" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="public_health" href="http://metadata.un.org/thesaurus/1005250" showAs="public_health" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee on Conferences" showAs="UN. Committee on Conferences" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118f" showAs="Appointment of members of the Committee on Conferences." shortForm="UN. COMMITTEE ON CONFERENCES--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34" />
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="الاتحاد الروسي" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="إيران (جمهورية - الإسلامية)" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="البرتغال" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="بولندا" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="جيبوتي" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="سري لانكا" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="السنغال" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="الصين" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="فرنسا" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="كوت ديفوار" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="كينيا" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="ماليزيا" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="مصر" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="النمسا" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="نيجيريا" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="الولايات المتحدة الأمريكية" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة المؤتمرات" refersTo="اليابان" by="" outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/406</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="118 (و)" name="agenda item">البند 118 (و) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/406</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين أعضاء في لجنة المؤتمرات</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	أحاطت الجمعية العامة علما، في جلستها العامة 34 المعقودة في 15 تشرين الثاني/نوفمبر 2022، وفقا للفقرة 2 من قرارها <a href="https://undocs.org/ar/A/RES/43/222">43/222</a> باء المؤرخ 21 كانون الأول/ديسمبر 1988، بتعيين رئيسها، عقب إجراء مشاورات مع رؤساء المجموعات الإقليمية المعنية، جيبوتي والصين ومصر والنمسا والولايات المتحدة الأمريكية واليابان أعضاء في لجنة المؤتمرات لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	ونتيجة لذلك، واعتبارا من 1 كانون الثاني/يناير 2023، تتألف لجنة المؤتمرات من الدول الأعضاء الـ 17 التالية<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() لا يزال يتعين ملء أربعة شواغر لأعضاء من دول أمريكا اللاتينية ومنطقة البحر الكاريبي: عضو واحد لفترة عضوية تبدأ في تاريخ التعيين وتنتهي في 31 كانون الأول/ديسمبر 2023، وعضوان لفترة عضوية تبدأ في تاريخ التعيين وتنتهي في 31 كانون الأول/ديسمبر 2024، وعضو واحد لفترة عضوية تبدأ في تاريخ التعيين وتنتهي في 31 كانون الأول/ديسمبر 2025. </p></authorialNote><sup>)</sup>: الاتحاد الروسي* وإيران (جمهورية - الإسلامية)** والبرتغال** وبولندا** وجيبوتي*** وسري لانكا* والسنغال** والصين*** وفرنسا* وكوت ديفوار** وكينيا* وماليزيا* ومصر*** والنمسا*** ونيجيريا* والولايات المتحدة الأمريكية*** واليابان***.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34">الجلسة العامة 34</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,151 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-414/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-414/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-414/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-414/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-414/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-414/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Dispute Tribunal" showAs="UN Dispute Tribunal" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118g" showAs="Appointment of the judges of the United Nations Dispute Tribunal." shortForm="UN DISPUTE TRIBUNAL--JUDGES" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34" />
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="فرنسا" by="جويل آدا " outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="بربادوس" by="فرانسيس بيل " outcome="composition" akn4un:end="2026-07-09"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="إيطاليا" by="فرانشيسكو بوفا " outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="ترينيداد وتوباغو" by="إليانور دونالدسون-هانيويل " outcome="composition" akn4un:end="2026-07-09"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="ملاوي" by="راشيل سيكويز " outcome="composition" akn4un:end="2026-07-09"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="الصين" by="شيانغتشوانغ سون " outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="أوغندا" by="مارغريت تيبوليا " outcome="composition" akn4un:end="2026-07-09"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="إثيوبيا" by="سولومون واكتولا " outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="محكمة الأمم المتحدة للمنازعات" refersTo="الولايات المتحدة الأمريكية" by="شون دانيال والاس " outcome="composition" akn4un:end="2030-06-30"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/414</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">اللجنة الخامسة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="118 (ز)" name="agenda item">البند 118 (ز) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/414</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين قضاة محكمة الأمم المتحدة للمنازعات</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	عينت الجمعية العامة، في جلستها العامة 34 المعقودة في 15 تشرين الثاني/نوفمبر 2022، عملا بالمادة 4 من النظام الأساسي لمحكمة الأمم المتحدة للمنازعات الوارد في المرفق الأول للقرار <a href="https://undocs.org/ar/A/RES/63/253">63/253</a> المؤرخ 24 كانون الأول/ديسمبر 2008 والمعدل بالقرار <a href="https://undocs.org/ar/A/RES/73/276">73/276</a> المؤرخ 22 كانون الأول/ديسمبر 2018، وبناء على توصية مجلس العدل الداخلي<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() انظر <span class="underline"><a href="https://undocs.org/ar/A/77/129/Rev.1">A/77/129/Rev.1</a></span>.</p></authorialNote><sup>)</sup>، الشخصين التاليين اسماهما قاضيين في المحكمة لفترة ولاية مدتها سبع سنوات تبدأ في 1 تموز/يوليه 2023 وتنتهي في 30 حزيران/يونيه 2030: شيانغتشوانغ سون (الصين)، قاض متفرغ، جنيف؛ وسولومون واكتولا (إثيوبيا)، قاض غير متفرغ.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	وعينت الجمعية العامة، في جلستها العامة 35 المعقودة في نفس التاريخ، عملا بالمادة 4 من النظام الأساسي لمحكمة الأمم المتحدة للمنازعات الوارد في المرفق الأول للقرار <a href="https://undocs.org/ar/A/RES/63/253">63/253</a> والمعدل بالقرار <a href="https://undocs.org/ar/A/RES/73/276">73/276</a>، وبناء على توصية مجلس العدل الداخلي<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">() المرجع نفسه.</p></authorialNote><sup>)</sup>، شون دانيال والاس (الولايات المتحدة الأمريكية) قاضيا متفرغا في المحكمة في نيروبي لفترة ولاية مدتها سبع سنوات تبدأ في 1 تموز/يوليه 2023 وتنتهي في 30 حزيران/يونيه 2030.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف محكمة الأمم المتحدة للمنازعات، اعتبارا من 1 تموز/يوليه 2023، على النحو التالي: جويل <span class="bold">آدا </span>(فرنسا، قاضية متفرغة، نيويورك)* وفرانسيس <span class="bold">بيل </span>(بربادوس، قاض غير متفرغ)** وفرانشيسكو <span class="bold">بوفا </span>(إيطاليا، قاض غير متفرغ)* وإليانور <span class="bold">دونالدسون-هانيويل</span> (ترينيداد وتوباغو، قاضية غير متفرغة)** وراشيل <span class="bold">سيكويز </span>(ملاوي، قاضية غير متفرغة)** وشيانغتشوانغ <span class="bold">سون </span>(الصين، قاض متفرغ، جنيف)*** ومارغريت <span class="bold">تيبوليا </span>(أوغندا، قاضية غير متفرغة)** وسولومون <span class="bold">واكتولا </span>(إثيوبيا، قاض غير متفرغ)*** وشون دانيال <span class="bold">والاس </span>(الولايات المتحدة الأمريكية، قاض متفرغ، نيروبي)***.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">___________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	تنتهي مدة العضوية في 30 حزيران/يونيه 2026.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	تنتهي مدة العضوية في 9 تموز/يوليه 2026.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">*** 	تنتهي مدة العضوية في 30 حزيران/يونيه 2030.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34">الجلسة العامة 34</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+      <p>
+        <inline name="adoptionMeeting" title="35">الجلسة العامة 35</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

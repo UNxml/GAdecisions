@@ -1,0 +1,154 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="International Civil Service Commission" showAs="International Civil Service Commission" dictionary="DHLAUTH"></keyword>
+        <keyword value="International Civil Service Commission. Chair" showAs="International Civil Service Commission. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118d" showAs="Appointment of members of the International Civil Service Commission." dictionary="A/77/251"></keyword>
+        <keyword refersTo="agenda" value="118di" showAs="Appointment of members of the Commission." shortForm="INTERNATIONAL CIVIL SERVICE COMMISSION--MEMBERS" dictionary="A/77/251"></keyword>
+        <keyword refersTo="agenda" value="118dii" showAs="Designation of the Chair of the Commission." shortForm="INTERNATIONAL CIVIL SERVICE COMMISSION. CHAIR" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34" />
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="الجزائر" by="العربي جاكطة " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="سيراليون" by="أندرو غبيباي بنغالي " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="إسبانيا" by="خافيير بيلمونت رولدان " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="المكسيك" by="كلاوديا أنخيليكا بوينو ريناغا " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="اليونان" by="سبيريدون فلوغايتيس " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="الاتحاد الروسي" by="إيغور غولوبوفسكي " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="اليابان" by="كاجي ميساكو " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="جمهورية كوريا" by="بان-سوك كيم " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="ليبيا" by="علي كرير " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="الولايات المتحدة الأمريكية" by="جيفري ماونتس " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="كندا" by="شونا أولني " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="البرازيل" by="جواو فارغاس " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="الصين" by="وانغ شياوتشو " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="بولندا" by="وبوغوسلاف وينيد " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="لجنة الخدمة المدنية الدولية " refersTo="المغرب" by="الحسن زهيد " outcome="composition" akn4un:end="2024-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/411</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">اللجنة الخامسة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="118 (د)" name="agenda item">البند 118 (د) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/411</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين أعضاء في لجنة الخدمة المدنية الدولية</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	قامت الجمعية العامة، في جلستها العامة 34 المعقودة في 15 تشرين الثاني/نوفمبر 2022، بناء على توصية اللجنة الخامسة<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() <span class="underline"><a href="https://undocs.org/ar/A/77/570">A/77/570</a></span>، الفقرة 6 (أ).</p></authorialNote><sup>)</sup>، بتعيين أو إعادة تعيين الأشخاص التالية أسماؤهم أعضاء في لجنة الخدمة المدنية الدولية لفترة عضوية مدتها أربع سنوات تبدأ في 1 كانون الثاني/يناير 2023: أندرو غبيباي بنغالي (سيراليون) وخافيير بيلمونت رولدان (إسبانيا) وعلي كرير (ليبيا) وجواو فارغاس (البرازيل) وبوغوسلاف وينيد (بولندا).</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	وفي الجلسة نفسها، عينت الجمعية العامة، بناء على توصية اللجنة الخامسة<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">() المرجع نفسه، الفقرة 6 (ب).</p></authorialNote><sup>)</sup>، العربي جاكطة (الجزائر) رئيسا لفترة أربع سنوات تبدأ في 1 كانون الثاني/يناير 2023، رهنا بتمديد مناظر لفترة عضويته في لجنة الخدمة المدنية الدولية. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف لجنة الخدمة المدنية الدولية، اعتبارا من 1 كانون الثاني/يناير 2023، على النحو التالي: العربي <span class="bold">جاكطة </span>(الجزائر، رئيس)* وأندرو غبيباي <span class="bold">بنغالي </span>(سيراليون)*** وخافيير<span class="bold"> بيلمونت رولدان</span> (إسبانيا)*** وكلاوديا أنخيليكا <span class="bold">بوينو ريناغا</span> (المكسيك)** وسبيريدون <span class="bold">فلوغايتيس </span>(اليونان)** وإيغور <span class="bold">غولوبوفسكي </span>(الاتحاد الروسي)* و<span class="bold">كاجي</span> ميساكو (اليابان)** وبان-سوك <span class="bold">كيم </span>(جمهورية كوريا)* وعلي <span class="bold">كرير </span>(ليبيا)*** وجيفري <span class="bold">ماونتس </span>(الولايات المتحدة الأمريكية)** وشونا <span class="bold">أولني </span>(كندا)** وجواو فارغاس (البرازيل)*** و<span class="bold">وانغ </span>شياوتشو (الصين)* وبوغوسلاف <span class="bold">وينيد </span>(بولندا)*** والحسن <span class="bold">زهيد </span>(المغرب)*. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">* 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">*** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2026.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34">الجلسة العامة 34</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

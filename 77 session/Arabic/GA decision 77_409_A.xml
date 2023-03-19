@@ -1,0 +1,149 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-409/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-409/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-409/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-409/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-409/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-409/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee on Contributions" showAs="UN. Committee on Contributions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118b" showAs="Appointment of members of the Committee on Contributions." shortForm="UN. COMMITTEE ON CONTRIBUTIONS--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34" />
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="باكستان" by="سيد ياور علي " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="بوتسوانا" by="فولوغو كاوني بوغاتسو " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="السنغال" by="شيخ تيديان ديم " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="كرواتيا" by="ياسمينكا دينيتش " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="أستراليا" by="غوردون إيكيرسلي " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="باراغواي" by="إيلينا كونسبسيون فيليب سالاسار " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="أوروغواي" by="برناردو غريفر ديل أويو " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="ألمانيا" by="مايكل هولتش " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="أوكرانيا" by="إيهور هوميني " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="سويسرا" by="مارسيل جولييه " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="جمهورية كوريا" by="جي-سون جون " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="اليابان" by="كيتانو ميتسورو " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="الاتحاد الروسي" by="فاديم لابوتين " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="الصين" by="لين شان " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="كينيا" by="جوزيف ماسيلا " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="الولايات المتحدة الأمريكية" by="توماس أنتوني ريباش " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="البرازيل" by="هنريك دا سيلفيرا ساردينها بينتو " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="لجنة الاشتراكات" refersTo="المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية" by="ستيف تاونلي " outcome="composition" akn4un:end="2023-12-31"/> 
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/409</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">اللجنة الخامسة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="118 (ب)" name="agenda item">البند 118 (ب) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/409</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين أعضاء في لجنة الاشتراكات</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	قامت الجمعية العامة، في جلستها العامة 34 المعقودة في 15 تشرين الثاني/نوفمبر 2022، بناء على توصية اللجنة الخامسة<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() <span class="underline"><a href="https://undocs.org/ar/A/77/568">A/77/568</a></span>، الفقرة 4.</p></authorialNote><sup>)</sup>، بتعيين أو إعادة تعيين الأشخاص التالية أسماؤهم أعضاء في لجنة الاشتراكات لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2023: شيخ تيديان ديم (السنغال) وغوردون إيكيرسلي (أستراليا) وإيلينا كونسبسيون فيليب سالاسار (باراغواي) وبرناردو غريفر ديل أويو (أوروغواي) ومارسيل جولييه (سويسرا) وجوزيف ماسيلا (كينيا). </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف لجنة الاشتراكات، اعتبارا من 1 كانون الثاني/يناير 2023، على النحو التالي: سيد ياور <span class="bold">علي</span> (باكستان)** وفولوغو كاوني <span class="bold">بوغاتسو </span>(بوتسوانا)** وشيخ تيديان <span class="bold">ديم </span>(السنغال)*** وياسمينكا <span class="bold">دينيتش </span>(كرواتيا)** وغوردون <span class="bold">إيكيرسلي </span>(أستراليا)*** وإيلينا كونسبسيون <span class="bold">فيليب سالاسار</span> (باراغواي)*** وبرناردو <span class="bold">غريفر ديل أويو</span> (أوروغواي)*** ومايكل <span class="bold">هولتش </span>(ألمانيا)* وإيهور <span class="bold">هوميني </span>(أوكرانيا)** ومارسيل <span class="bold">جولييه </span>(سويسرا)*** وجي-سون <span class="bold">جون </span>(جمهورية كوريا)* و<span class="bold">كيتانو</span> ميتسورو (اليابان)** وفاديم <span class="bold">لابوتين </span>(الاتحاد الروسي)* و<span class="bold">لين</span> شان (الصين)* وجوزيف <span class="bold">ماسيلا </span>(كينيا)*** وتوماس أنتوني <span class="bold">ريباش </span>(الولايات المتحدة الأمريكية)** وهنريك دا سيلفيرا <span class="bold">ساردينها بينتو</span> (البرازيل)* وستيف <span class="bold">تاونلي </span>(المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية)*. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">* 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">*** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34">الجلسة العامة 34</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

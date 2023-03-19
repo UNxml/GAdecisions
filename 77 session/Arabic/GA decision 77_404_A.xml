@@ -1,0 +1,153 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/"></FRBRuri>
+          <FRBRdate date="2022-11-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Brant, Leonardo Nemer Caldeira" showAs="Brant, Leonardo Nemer Caldeira" dictionary="DHLAUTH"></keyword>
+        <keyword value="ICJ" showAs="ICJ" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116c" showAs="Election of 1 member of the International Court of Justice." shortForm="ICJ--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-04" outcome="adopted" by="29" />
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="فرنسا" by="روني أبراهام" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="المغرب" by="محمد بنونة" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="الهند" by="دالفير بهانداري" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="البرازيل" by="ليوناردو نيمر كالديرا برانت" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="أستراليا" by="هيلاري تشارلزوورث" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="الولايات المتحدة الأمريكية" by="جوان إ. دوناهيو" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="الاتحاد الروسي" by="كيريل جيفورجيان" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="اليابان" by="إيواساوا يوجي" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="ألمانيا" by="غيورك نولتي" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="جامايكا" by="باتريك ليبتون روبنسون" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="لبنان" by="نواف سلام" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="أوغندا" by="جوليا سيبوتيندي" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="سلوفاكيا" by="بيتر تومكا" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="الصين" by="شوي هانتشين" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="محكمة العدل الدولية" refersTo="الصومال" by="عبد القوي أحمد يوسف" outcome="composition" akn4un:end="2027-02-05"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="116 (ج)" name="agenda item">البند 116 (ج) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/404</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب عضو في محكمة العدل الدولية</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">		شرعت الجمعية العامة، في جلستها العامة 29 المعقودة في 4 تشرين الثاني/نوفمبر 2022، ومجلس الأمن، في جلسته 9182 المعقودة في التاريخ ذاته، كل على حدة، وفقا للمواد 2 إلى 4 و 7 إلى 12 و 14 و 15 من النظام الأساسي لمحكمة العدل الدولية والمادتين 150 و 151 من النظام الداخلي للجمعية والمادتين 40 و 61 من النظام الداخلي المؤقت للمجلس، في انتخاب عضو في المحكمة للفترة المتبقية من مدة عضوية القاضي أنطونيو أوغوستو كانسادو ترينداد (البرازيل) الذي توفي في 29 أيار/مايو 2022<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() انظر <span class="underline"><a href="https://undocs.org/ar/A/77/481-S/2022/722">A/77/481-S/2022/722</a></span>.</p></authorialNote><sup>)</sup>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">		وانتُخب ليوناردو نيمر كالديرا برانت (البرازيل)، وقد حصل على الأغلبية المطلقة المطلوبة من الأصوات في كل من الجمعية العامة ومجلس الأمن، عضوا في المحكمة لفترة عضوية تبدأ في 4 تشرين الثاني/نوفمبر 2022 وتنتهي في 5 شباط/فبراير 2027.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">		ونتيجة لذلك، تتألف محكمة العدل الدولية، اعتبارا من 4 تشرين الثاني/نوفمبر 2022، على النحو التالي: روني <span class="bold">أبراهام </span>(فرنسا)** ومحمد <span class="bold">بنونة </span>(المغرب)* ودالفير <span class="bold">بهانداري </span>(الهند)** وليوناردو نيمر كالديرا <span class="bold">برانت </span>(البرازيل)** وهيلاري <span class="bold">تشارلزوورث </span>(أستراليا)* وجوان إ. <span class="bold">دوناهيو </span>(الولايات المتحدة الأمريكية)* وكيريل <span class="bold">جيفورجيان </span>(الاتحاد الروسي)* و<span class="bold">إيواساوا</span> يوجي (اليابان)*** وغيورك <span class="bold">نولتي </span>(ألمانيا)*** وباتريك ليبتون <span class="bold">روبنسون </span>(جامايكا)* ونواف <span class="bold">سلام </span>(لبنان)** وجوليا <span class="bold">سيبوتيندي </span>(أوغندا)*** وبيتر <span class="bold">تومكا </span>(سلوفاكيا)*** و<span class="bold">شوي</span> هانتشين (الصين)*** وعبد القوي أحمد <span class="bold">يوسف </span>(الصومال)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">______________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	تنتهي مدة العضوية في 5 شباط/فبراير 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	تنتهي مدة العضوية في 5 شباط/فبراير 2027.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	تنتهي مدة العضوية في 5 شباط/فبراير 2030.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="29">الجلسة العامة 29</inline>
+        <eol />
+        <docDate date="2022-11-04" refersTo="#adoptionDate">4 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

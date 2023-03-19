@@ -1,0 +1,143 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/"></FRBRuri>
+          <FRBRdate date="2022-12-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Hoshino, Toshiya" showAs="Hoshino, Toshiya" dictionary="DHLAUTH"></keyword>
+        <keyword value="Joint Inspection Unit" showAs="Joint Inspection Unit" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118j" showAs="Appointment of members of the Joint Inspection Unit." shortForm="JOINT INSPECTION UNIT--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-20" outcome="adopted" by="56" />
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="العراق" by="مهند علي عمران الموسوي " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="الاتحاد الروسي" by="بافيل تشيرنيكوف " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="الولايات المتحدة الأمريكية" by="إيلين كرونين " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="المكسيك" by="كارولينا ماريا فرنانديس أوباسو " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="بوتسوانا" by="غايميلوي غويتسيمانغ " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="اليابان" by="هوشينو توشيا " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="أنتيغوا وبربودا" by="كونرود هنت " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="إسبانيا" by="خيسوس ميراندا هيتا " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="جمهورية مولدوفا" by="فيكتور مورارو " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="ألمانيا" by="غونكي روشر " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="وحدة التفتيش المشتركة" refersTo="إريتريا" by="تسفاليم سيوم " outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/417</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="118 (ي)" name="agenda item">البند 118 (ي) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/417</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين أعضاء في وحدة التفتيش المشتركة</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	عينت الجمعية العامة، في جلستها العامة 56 المعقودة في 20 كانون الأول/ديسمبر 2022، عملا بالفقرة 2 من المادة 3 من النظام الأساسي لوحدة التفتيش المشتركة الوارد في مرفق القرار <a href="https://undocs.org/ar/A/RES/31/192">31/192</a> المؤرخ 22 كانون الأول/ديسمبر 1976، هوشينو توشيا عضوا في وحدة التفتيش المشتركة لفترة عضوية مدتها خمس سنوات تبدأ في 1 كانون الثاني/يناير 2023 وتنتهي في 31 كانون الأول/ديسمبر 2027 نتيجة لاستقالة كاميوكا كيكو<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() انظر <span class="underline"><a href="https://undocs.org/ar/A/77/643">A/77/643</a></span>.</p></authorialNote><sup>)</sup>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف وحدة التفتيش المشتركة، اعتبارا من 1 كانون الثاني/يناير 2023، على النحو التالي: مهند علي عمران <span class="bold">الموسوي</span> (العراق)***، وبافيل <span class="bold">تشيرنيكوف</span> (الاتحاد الروسي)***، وإيلين <span class="bold">كرونين</span> (الولايات المتحدة الأمريكية)**، وكارولينا ماريا <span class="bold">فرنانديس أوباسو</span> (المكسيك)**، وغايميلوي <span class="bold">غويتسيمانغ</span> (بوتسوانا)***، و<span class="bold">هوشينو</span> توشيا (اليابان)***، وكونرود <span class="bold">هنت</span> (أنتيغوا وبربودا)***، وخيسوس <span class="bold">ميراندا هيتا</span> (إسبانيا)*، وفيكتور <span class="bold">مورارو</span> (جمهورية مولدوفا)*، وغونكي <span class="bold">روشر</span> (ألمانيا)* وتسفاليم <span class="bold">سيوم</span> (إريتريا)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">* 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2026.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">*** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2027.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56">الجلسة العامة 56</inline>
+        <eol />
+        <docDate date="2022-12-20" refersTo="#adoptionDate">20 كانون الأول/ديسمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

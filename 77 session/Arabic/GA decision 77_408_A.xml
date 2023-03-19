@@ -1,0 +1,170 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/ara@/"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-24" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Advisory Committee on Administrative and Budgetary Questions" showAs="UN. Advisory Committee on Administrative and Budgetary Questions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118a" showAs="Appointment of members of the Advisory Committee on Administrative and Budgetary Questions." shortForm="UN. ADVISORY COMMITTEE ON ADMINISTRATIVE AND BUDGETARY QUESTIONS--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34" />
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="الهند" by="سوريندرا كومار أدهانا " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="بنن" by="إيف إريك أهوسوغبيمي " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="اليمن" by="أمجد قايد الكميم " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="أنغولا" by="ماكيزي كينكيلا أوغوستو " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="تشاد" by="عبد الله بشار بونغ " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="ليتوانيا" by="فيليكساس باكاناوسكاس " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="جزر البهاما" by="شارون برينين-هايلوك " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="بولندا" by="جاكوب شميليفسكي " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="ألمانيا" by="أودو فنشل " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="الجمهورية الدومينيكية" by="أوليفيو فيرمين " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="إيطاليا" by="كارلو جاكوبوتشي " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="الصين" by="جي هجون " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="جمهورية كوريا" by="جي-سون جون " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="الجزائر" by="نبيل كلكول " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="الاتحاد الروسي" by="إيفغيني كالوغين " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="باراغواي" by="جوليا أ. ماسيل " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="اليابان" by="ماتسودا يوكيكو " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="أوغندا" by="كارولين نالوانغا " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="البرازيل" by="جوليانا غاسبار رواس " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="الولايات المتحدة الأمريكية" by="ستيفاني شير " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="اللجنة الاستشارية لشؤون الإدارة والميزانية" refersTo="تركيا" by="جيهان تيرزي " outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/408</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">اللجنة الخامسة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="118 (أ)" name="agenda item">البند 118 (أ) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/408</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين أعضاء في اللجنة الاستشارية لشؤون الإدارة والميزانية</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	قامت الجمعية العامة، في جلستها العامة 34 المعقودة في 15 تشرين الثاني/نوفمبر 2022، بناء على توصية اللجنة الخامسة<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() <span class="underline"><a href="https://undocs.org/ar/A/77/567">A/77/567</a></span>، الفقرة 5.</p></authorialNote><sup>)</sup>، بتعيين أو إعادة تعيين الأشخاص التالية أسماؤهم أعضاء في اللجنة الاستشارية لشؤون الإدارة والميزانية:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	أودو فنشل (ألمانيا) وأوليفيو فيرمين (الجمهورية الدومينيكية) وكارلو جاكوبوتشي (إيطاليا) وجي هجون (الصين) وجي-سون جون (جمهورية كوريا) وماتسودا يوكيكو (اليابان) لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2023؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	ستيفاني شير (الولايات المتحدة الأمريكية) لفترة عضوية تبدأ في 1 كانون الثاني/يناير 2023 وتنتهي في 31 كانون الأول/ديسمبر 2023 نتيجة لاستقالة دونا-ماري تشيورازي-ماكسفيلد؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	سوريندرا كومار أدهانا (الهند) لفترة عضوية تبدأ في 15 تشرين الثاني/نوفمبر 2022 وتنتهي في 31 كانون الأول/ديسمبر 2023 نتيجة لاستقالة فيديشا مايترا.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف اللجنة الاستشارية لشؤون الإدارة والميزانية، اعتبارا من 1 كانون الثاني/يناير 2023، على النحو التالي: سوريندرا كومار <span class="bold">أدهانا</span> (الهند)* وإيف إريك <span class="bold">أهوسوغبيمي</span> (بنن)** وأمجد قايد <span class="bold">الكميم</span> (اليمن)** وماكيزي كينكيلا <span class="bold">أوغوستو</span> (أنغولا)** وعبد الله <span class="bold">بشار بونغ</span> (تشاد)* وفيليكساس <span class="bold">باكاناوسكاس</span> (ليتوانيا)* وشارون <span class="bold">برينين-هايلوك</span> (جزر البهاما)** وجاكوب <span class="bold">شميليفسكي</span> (بولندا)** وأودو فنشل (ألمانيا)*** وأوليفيو <span class="bold">فيرمين</span> (الجمهورية الدومينيكية)*** وكارلو <span class="bold">جاكوبوتشي</span> (إيطاليا)*** و<span class="bold">جي</span> هجون (الصين)*** وجي-سون <span class="bold">جون</span> (جمهورية كوريا)*** ونبيل <span class="bold">كلكول</span> (الجزائر)* وإيفغيني <span class="bold">كالوغين</span> (الاتحاد الروسي)* وجوليا أ. <span class="bold">ماسيل</span> (باراغواي)* و<span class="bold">ماتسودا</span> يوكيكو (اليابان)*** وكارولين <span class="bold">نالوانغا</span> (أوغندا)* وجوليانا غاسبار <span class="bold">رواس</span> (البرازيل)* وستيفاني <span class="bold">شير</span> (الولايات المتحدة الأمريكية)* وجيهان <span class="bold">تيرزي</span> (تركيا)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">* 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2023. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve">*** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34">الجلسة العامة 34</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 تشرين الثاني/نوفمبر 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
