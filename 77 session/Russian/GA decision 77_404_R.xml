@@ -1,0 +1,153 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/"></FRBRuri>
+          <FRBRdate date="2022-11-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/rus@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Brant, Leonardo Nemer Caldeira" showAs="Brant, Leonardo Nemer Caldeira" dictionary="DHLAUTH"></keyword>
+        <keyword value="ICJ" showAs="ICJ" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116c" showAs="Election of 1 member of the International Court of Justice." shortForm="ICJ--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-04" outcome="adopted" by="29-е" />
+        <step date="2022-11-04" as="Международный Суд" refersTo="Франция" by="Ронни АБРААМ" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Марокко" by="Мухаммад БЕННУНА" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Индия" by="Далвир БХАНДАРИ" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Бразилия" by="Леонарду Немер Калдейра БРАНТ" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Австралия" by="Хилари  ЧАРЛЗУОРТ" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Соединенные Штаты Америки" by="Джоан Э. ДОНОХЬЮ" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Российская Федерация" by="Кирилл ГЕВОРГЯН" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Япония" by="Юдзи ИВАСАВА" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Германия" by="Георг НОЛЬТЕ" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Ямайка" by="Патрик Липтон РОБИНСОН" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Ливан" by="Наваф САЛАМ" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Уганда" by=" Джулия СЕБУТИНДЕ" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Словакия" by="Петер ТОМКА" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Китай" by="Ханьцинь СЮЭ" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Международный Суд" refersTo="Сомали" by="Абдулкави Ахмед ЮСУФ" outcome="composition" akn4un:end="2027-02-05"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="116 (c)" name="agenda item">Пункт 116 (c) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/404.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы одного члена Международного Суда</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	Генеральная Ассамблея на своем 29‑м пленарном заседании 4 ноября 2022 года и Совет Безопасности на своем 9182‑м заседании, состоявшемся в тот же день, независимо друг от друга приступили к избранию в соответствии со статьями 2–4, 7–12, 14 и 15 Статута Международного Суда, правилами 150 и 151 правил процедуры Ассамблеи и правилами 40 и 61 временных правил процедуры Совета одного члена Суда на не истекший срок полномочий г-на Антониу Аугусту Кансаду Триндади (Бразилия), скончавшегося 29 мая 2022 года<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> См. <a href="https://undocs.org/ru/A/77/481">A/77/481-S/2022/722</a>.</p></authorialNote>.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+        <p xml:space="preserve">	Получив необходимое абсолютное большинство голосов как в Генеральной Ассамблее, так и в Совете Безопасности, Леонарду Немер Калдейра Брант (Бразилия) был избран членом Суда на срок полномочий, начинающийся 4 ноября 2022 года и истекающий 5 февраля 2027 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	Таким образом, на 4 ноября 2022 года в состав Международного Суда входят следующие лица: <inline name="smallCaps" style="font-variant:small-caps">Р</inline>онни <inline name="smallCaps" style="font-variant:small-caps">Абраам</inline> (Франция)**, Мухаммад <inline name="smallCaps" style="font-variant:small-caps">Беннуна</inline> (Марокко)*, Далвир <inline name="smallCaps" style="font-variant:small-caps">Бхандари</inline> (Индия)**, Леонарду Немер Калдейра <inline name="smallCaps" style="font-variant:small-caps">Брант</inline> (Бразилия)**, Хилари  <inline name="smallCaps" style="font-variant:small-caps">Чарлзуорт</inline> (Австралия)*, Джоан Э. <inline name="smallCaps" style="font-variant:small-caps">Донохью</inline> (Соединенные Штаты Америки)*, Кирилл <inline name="smallCaps" style="font-variant:small-caps">Геворгян</inline> (Российская Федерация)*, Юдзи <inline name="smallCaps" style="font-variant:small-caps">Ивасава</inline> (Япония)***, Георг <inline name="smallCaps" style="font-variant:small-caps">Нольте</inline> (Германия)***, Патрик Липтон <inline name="smallCaps" style="font-variant:small-caps">Робинсон</inline> (Ямайка)*, Наваф <inline name="smallCaps" style="font-variant:small-caps">Салам</inline> (Ливан)**,  Джулия <inline name="smallCaps" style="font-variant:small-caps">Себутинде</inline> (Уганда)***, Петер <inline name="smallCaps" style="font-variant:small-caps">Томка</inline> (Словакия)***, Ханьцинь <inline name="smallCaps" style="font-variant:small-caps">Сюэ</inline> (Китай)*** и Абдулкави Ахмед <inline name="smallCaps" style="font-variant:small-caps">Юсуф</inline> (Сомали)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">____________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 5 февраля 2024 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 5 февраля 2027 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 5 февраля 2030 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="29-е">29‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-11-04" refersTo="#adoptionDate">4 ноября 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

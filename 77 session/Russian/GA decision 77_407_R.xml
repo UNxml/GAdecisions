@@ -1,0 +1,134 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/rus@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Appeals Tribunal" showAs="UN Appeals Tribunal" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118h" showAs="Appointment of the judges of the United Nations Appeals Tribunal." shortForm="UN APPEALS TRIBUNAL--JUDGES" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34-е" />
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Новая Зеландия" by="Грэм КОЛГАН" outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Камерун" by="Лесли Формин ФОРБАНГ" outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Китай" by="ГАО Сяоли" outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Канада" by="Канвалдип САНДХУ" outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Южная Африка" by="Кэтрин СЭВИДЖ" outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Египет" by="Абдельмохсен Ахмед ШЕХА" outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="Апелляционный трибунал Организации Объединенных Наций" refersTo="Ливан/Чили" by="Нассиб ЗИАДЕ" outcome="composition" akn4un:end="2030-06-30"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/407</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="118 (h)" name="agenda item">Пункт 118 (h) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/407.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Назначение судей Апелляционного трибунала Организации Объединенных Наций</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 34‑м пленарном заседании 15 ноября 2022 года Генеральная Ассамблея в соответствии со статьей 3 статута Апелляционного трибунала Организации Объединенных Наций, содержащегося в приложении II к резолюции <a href="https://undocs.org/ru/A/RES/63/253">63/253</a> от 24 декабря 2008 года, и по рекомендации Совета по внутреннему правосудию<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> См. <span class="underline"><a href="https://undocs.org/ru/A/77/129/Rev.1">A/77/129/Rev.1</a></span>.</p></authorialNote> назначила Лесли Формина Форбанга (Камерун), Кэтрин Сэвидж (Южная Африка), Абдельмохсена Ахмеда Шеху (Египет) и Нассиба Зиаде (Ливан/Чили) судьями Трибунала на срок полномочий, начинающийся 1 июля 2023 года и истекающий 30 июня 2030 года, для заполнения вакансий, возникающих в связи с истечением срока полномочий Марты Халфельд Фуртаду ди Мендонса Шмидт, Забине Книерим, Джона Реймонда Мерфи и Димитриоса Райкоса; и Гао Сяоли (Китай) на срок полномочий, начинающийся 15 ноября 2022 года и истекающий 30 июня 2026 года, для заполнения вакансии, возникшей в результате отставки Жан-Франсуа Невена 10 января 2022 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	Таким образом, на 1 июля 2023 года в состав Апелляционного трибунала Организации Объединенных Наций входят следующие лица: Грэм <inline name="smallCaps" style="font-variant:small-caps">Колган</inline> (Новая Зеландия)*, Лесли Формин <inline name="smallCaps" style="font-variant:small-caps">Форбанг</inline> (Камерун)**, <inline name="smallCaps" style="font-variant:small-caps">Гао </inline>Сяоли (Китай)*, Канвалдип <inline name="smallCaps" style="font-variant:small-caps">Сандху</inline> (Канада)*, Кэтрин <inline name="smallCaps" style="font-variant:small-caps">Сэвидж</inline> (Южная Африка)**, Абдельмохсен Ахмед <inline name="smallCaps" style="font-variant:small-caps">Шеха</inline> (Египет)** и Нассиб <inline name="smallCaps" style="font-variant:small-caps">Зиаде</inline> (Ливан/Чили)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 30 июня 2026 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 30 июня 2030 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34-е">34‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 ноября 2022 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
