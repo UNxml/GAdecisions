@@ -1,0 +1,163 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee for Programme and Coordination" showAs="UN. Committee for Programme and Coordination" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117a" showAs="Election of members of the Committee for Programme and Coordination." shortForm="UN. COMMITTEE FOR PROGRAMME AND COORDINATION--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="第34次" />
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="阿根廷" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="亚美尼亚" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="白俄罗斯" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="比利时" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="博茨瓦纳" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="巴西" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="喀麦隆" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="智利" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="中国" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="哥斯达黎加" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="古巴" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="多米尼加共和国" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="厄立特里亚" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="斯威士兰" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="法国" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="德国" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="印度" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="伊朗伊斯兰共和国" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="意大利" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="日本" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="肯尼亚" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="利比里亚" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="马里" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="马耳他" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="摩洛哥" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="巴基斯坦" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="巴拉圭" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="菲律宾" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="波兰" by=""  outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="大韩民国" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="俄罗斯联邦" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="突尼斯" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="大不列颠及北爱尔兰联合王国" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="方案和协调委员会 " refersTo="美利坚合众国" by="" outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/405</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="117(a)" name="agenda item">议程项目117(a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/405.</docNumber>
+        <docTitle refersTo="#decisionTitle">选举方案和协调委员会成员</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年11月15日大会第34次全体会议根据经济及社会理事会的提名，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/A/77/540">A/77/540</a>；另见经济及社会理事会第2022/203 B和C号决定。</p></authorialNote> 并按照经社理事会1976年5月14日第<a href="https://undocs.org/ch/e/res/2008(LX)">20</a><a href="https://undocs.org/ch/A/RES/2008(LX)">0</a><a href="https://undocs.org/ch/A/RES/2008(LX)">8</a><a href="https://undocs.org/ch/A/RES/2008(LX)">(LX)</a>号决议的附件和大会1987年12月17日第42/450号决定，选举阿根廷、中国、利比里亚、摩洛哥、菲律宾、大韩民国和突尼斯为方案和协调委员会成员，自2023年1月1日起任期三年，填补因中国、科摩罗、利比里亚、毛里塔尼亚、菲律宾、大韩民国和乌拉圭任满而出现的空缺。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	因此，自2023年1月1日起，方案和协调委员会由下列34个会员国组成：阿根廷、*** 亚美尼亚、* 白俄罗斯、* 比利时、** 博茨瓦纳、** 巴西、* 喀麦隆、* 智利、** 中国、*** 哥斯达黎加、* 古巴、* 多米尼加共和国、* 厄立特里亚、* 斯威士兰、* 法国、** 德国、* 印度、* 伊朗伊斯兰共和国、* 意大利、* 日本、* 肯尼亚、** 利比里亚、*** 马里、* 马耳他、* 摩洛哥、*** 巴基斯坦、* 巴拉圭、** 菲律宾、*** 波兰、* 大韩民国、*** 俄罗斯联邦、** 突尼斯、*** 大不列颠及北爱尔兰联合王国* 和美利坚合众国。*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	2023年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	2024年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	2025年12月31日任满。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第34次">第34次全体会议</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">2022年11月15日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

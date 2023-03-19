@@ -1,0 +1,168 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Advisory Committee on Administrative and Budgetary Questions" showAs="UN. Advisory Committee on Administrative and Budgetary Questions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118a" showAs="Appointment of members of the Advisory Committee on Administrative and Budgetary Questions." shortForm="UN. ADVISORY COMMITTEE ON ADMINISTRATIVE AND BUDGETARY QUESTIONS--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="第34次" />
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="印度" by="苏伦德拉·库马尔·阿达纳" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="贝宁" by=" 伊夫·埃里克·阿胡苏贝梅" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="也门" by=" 阿姆贾德·加伊德·库迈姆" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="安哥拉" by=" 马基埃斯·金凯拉·奥古斯托" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="乍得" by=" 阿卜杜拉·巴沙尔·邦" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="立陶宛" by=" 费利克萨斯·巴卡瑙斯卡斯" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="巴哈马" by=" 沙伦·布伦南-海洛克" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="波兰" by=" 雅各布·赫梅莱夫斯基" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="德国" by=" 乌多·芬切尔" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="多米尼加共和国" by=" 奥利维奥·费尔明" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="意大利" by=" 卡洛·雅各布奇" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="中国" by=" 计颢骏" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="大韩民国" by=" 田志善" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="阿尔及利亚" by=" 纳比勒·卡尔库勒" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="俄罗斯联邦" by=" 耶夫格尼·卡卢金" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="巴拉圭" by=" 茱莉亚·马西埃尔" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="日本" by=" 松田友纪子" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="乌干达" by=" 卡罗琳·纳尔万加" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="巴西" by=" 茹丽安娜·加斯帕尔·鲁阿斯" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="美利坚合众国" by=" 斯蒂芬妮·希尔" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="行政和预算问题咨询委员会" refersTo="土耳其" by="吉汗·泰尔齐" outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/408</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">第五委员会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="118(a)" name="agenda item">议程项目118(a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/408.</docNumber>
+        <docTitle refersTo="#decisionTitle">任命行政和预算问题咨询委员会成员</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年11月15日，大会第34次全体会议根据第五委员会的建议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/567">A/77/567</a>，第5段。</p></authorialNote> 任命或再次任命以下人士为行政和预算问题咨询委员会成员：</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	乌多·芬切尔(德国)、奥利维奥·费尔明(多米尼加共和国)、卡洛·雅各布奇(意大利)、计颢骏(中国)、田志善(大韩民国)和松田友纪子(日本)，自2023年1月1日起任期三年；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	由于唐娜-玛丽·基乌拉齐-马克斯菲尔德辞职而任命斯蒂芬妮·希尔(美利坚合众国)，任期自2023年1月1日起，至2023年12月31日止；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	由于维迪沙·迈特拉辞职而任命苏伦德拉·库马尔·阿达纳(印度)，任期自2022年11月15日起，至2023年12月31日止。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">	因此，自2023年1月1日起，行政和预算问题咨询委员会的组成如下：苏伦德拉·库马尔·阿达纳 (印度)、* 伊夫·埃里克·阿胡苏贝梅 (贝宁)、** 阿姆贾德·加伊德·库迈姆 (也门)、** 马基埃斯·金凯拉·奥古斯托(安哥拉)、** 阿卜杜拉·巴沙尔·邦(乍得)、* 费利克萨斯·巴卡瑙斯卡斯(立陶宛)、* 沙伦·布伦南-海洛克(巴哈马)、** 雅各布·赫梅莱夫斯基(波兰)、** 乌多·芬切尔(德国)、*** 奥利维奥·费尔明(多米尼加共和国)、*** 卡洛·雅各布奇(意大利)、*** 计颢骏(中国)、*** 田志善(大韩民国)、*** 纳比勒·卡尔库勒(阿尔及利亚)、* 耶夫格尼·卡卢金(俄罗斯联邦)、* 茱莉亚·马西埃尔(巴拉圭)、* 松田友纪子(日本)、*** 卡罗琳·纳尔万加(乌干达)、* 茹丽安娜·加斯帕尔·鲁阿斯(巴西)、* 斯蒂芬妮·希尔(美利坚合众国)*和吉汗·泰尔齐(土耳其)。*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">*	2023年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">**	2024年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve">***	2025年12月31日任满。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+      <conclusions eId="conclusions">
+        <p>
+          <inline name="adoptionMeeting" title="第34次">第34次全体会议</inline>
+          <eol />
+          <docDate date="2022-11-15" refersTo="#adoptionDate">2022年11月15日</docDate>
+        </p>
+      </conclusions>
+  </statement>
+</akomaNtoso>

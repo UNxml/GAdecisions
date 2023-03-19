@@ -1,0 +1,170 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/"></FRBRuri>
+          <FRBRdate date="2022-12-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Peacebuilding Commission. Organizational Committee" showAs="UN. Peacebuilding Commission. Organizational Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117b" showAs="Election of members of the Organizational Committee of the Peacebuilding Commission." shortForm="UN. PEACEBUILDING COMMISSION. ORGANIZATIONAL COMMITTEE--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-20" outcome="adopted" by="第56次" />
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="孟加拉国" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="巴西" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="保加利亚" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="加拿大" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="中国" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="克罗地亚" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="丹麦" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="多米尼加共和国" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="厄瓜多尔" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="埃及" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="埃塞俄比亚" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="法国" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="德国" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="印度" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="意大利" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="日本" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="肯尼亚" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="莫桑比克" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="尼泊尔" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="尼日利亚" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="挪威" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="秘鲁" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="卡塔尔" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="大韩民国" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="俄罗斯联邦" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="卢旺达" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="圣文森特和格林纳丁斯" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="南非" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="瑞典" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="大不列颠及北爱尔兰联合王国" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="建设和平委员会组织委员会" refersTo="美利坚合众国" by="" outcome="composition" akn4un:end=""/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/416</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="117(b)" name="agenda item">议程项目117(b)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/416.</docNumber>
+        <docTitle refersTo="#decisionTitle">选举建设和平委员会组织委员会成员</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年12月20日大会第56次全体会议根据大会2005年12月20日第<a href="https://undocs.org/ch/A/RES/60/180">60/180</a>号、2006年5月8日第<a href="https://undocs.org/ch/A/RES/60/261">60/261</a>号和2008年12月18日第<a href="https://undocs.org/ch/A/RES/63/145">63/145</a>号决议，选举埃及、肯尼亚、卡塔尔、圣文森特和格林纳丁斯和南非为建设和平委员会组织委员会成员，自2023年1月1日起任期两年，以填补巴西、哥斯达黎加、埃及、黎巴嫩和南非任期届满后出现的空缺。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	根据第<a href="https://undocs.org/ch/A/RES/60/180">60/180</a>号决议第 4 (a)至(d)段，已选举和(或)选择26个国家为建设和平委员会组织委员会成员：保加利亚和多米尼加共和国由大会选出；<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> 见第76/412号决定。</p></authorialNote> 中国、厄瓜多尔、法国、莫桑比克、俄罗斯联邦、大不列颠及北爱尔兰联合王国和美利坚合众国由安全理事会选出；<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/S/2023/37">S/2023/37</a>。</p></authorialNote> 巴西、克罗地亚、丹麦、意大利、尼日利亚、秘鲁和大韩民国由经济及社会理事会选出；<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> 见经济及社会理事会第2022/206 C和D号以及第2023/208号决定。</p></authorialNote> 加拿大、德国、日本、挪威和瑞典从缴纳联合国预算分摊会费和向联合国各基金、方案和机构包括向建设和平常设基金自愿捐款最多的10个国家中选出；<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/A/77/652">A/77/652</a>。</p></authorialNote> 孟加拉国、埃塞俄比亚、印度、尼泊尔和卢旺达则是从为联合国特派团派遣军事人员和民警最多的10个国家中选出。<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/A/77/650">A/77/650</a>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	因此，自2023年1月1日起，建设和平委员会组织委员会由下列31个会员国组成：孟加拉国、*** 巴西、**** 保加利亚、** 加拿大、*** 中国、* 克罗地亚、**** 丹麦、**** 多米尼加共和国、** 厄瓜多尔、** 埃及、*** 埃塞俄比亚、*** 法国、* 德国、*** 印度、*** 意大利、**** 日本、*** 肯尼亚、*** 莫桑比克、** 尼泊尔、*** 尼日利亚、**** 挪威、*** 秘鲁、**** 卡塔尔、*** 大韩民国、**** 俄罗斯联邦、* 卢旺达、*** 圣文森特和格林纳丁斯、*** 南非、*** 瑞典、*** 大不列颠及北爱尔兰联合王国*和美利坚合众国。*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	安全理事会常任理事国。 </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	2023年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	2024年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">****	2024年12月31日任满或经济及社会理事会成员任期终止时结束，以先到日期为准。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第56次">第56次全体会议</inline>
+        <eol />
+        <docDate date="2022-12-20" refersTo="#adoptionDate">2022年12月20日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

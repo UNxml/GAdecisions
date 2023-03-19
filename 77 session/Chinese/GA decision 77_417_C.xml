@@ -1,0 +1,141 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/"></FRBRuri>
+          <FRBRdate date="2022-12-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/zho@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Hoshino, Toshiya" showAs="Hoshino, Toshiya" dictionary="DHLAUTH"></keyword>
+        <keyword value="Joint Inspection Unit" showAs="Joint Inspection Unit" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118j" showAs="Appointment of members of the Joint Inspection Unit." shortForm="JOINT INSPECTION UNIT--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-20" outcome="adopted" by="第56次" />
+        <step date="2023-01-01" as="联合检查组" refersTo="伊拉克" by="莫汉阿德·阿里·奥姆兰·穆萨维" outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="俄罗斯联邦" by="帕维尔·切尔尼科夫" outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="美利坚合众国" by="艾琳·克罗宁" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="墨西哥" by="卡罗琳娜·玛丽亚·费尔南德斯·奥帕索" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="博茨瓦纳" by="哈埃伊迈尔韦·霍伊采曼" outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="日本" by="星野俊也" outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="安提瓜和巴布达" by="康罗德·亨特" outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="西班牙" by="赫苏斯·米兰达·伊塔" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="摩尔多瓦共和国" by="维克托·莫拉鲁" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="德国" by="贡科·罗舍尔" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="联合检查组" refersTo="厄立特里亚" by="特斯法阿莱姆·塞尤姆" outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/417</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="118(j)" name="agenda item">议程项目118(j)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/417.</docNumber>
+        <docTitle refersTo="#decisionTitle">任命联合检查组成员</docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	2022年12月20日，大会第56次全体会议按照1976年12月22日第<a href="https://undocs.org/ch/A/RES/31/192">31/192</a>号决议附件所载《联合检查组章程》第三条第2款，因上冈惠子辞职而任命星野俊也为联合检查组成员，任期五年，自2023年1月1日起，至2027年12月31日止。<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> 见<a href="https://undocs.org/ch/A/77/643">A/77/643</a>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	因此，自2023年1月1日起，联合检查组的组成如下：莫汉阿德·阿里·奥姆兰·穆萨维(伊拉克)、*** 帕维尔·切尔尼科夫(俄罗斯联邦)、*** 艾琳·克罗宁(美利坚合众国)、** 卡罗琳娜·玛丽亚·费尔南德斯·奥帕索(墨西哥)、** 哈埃伊迈尔韦·霍伊采曼(博茨瓦纳)、*** 星野俊也(日本)、*** 康罗德·亨特(安提瓜和巴布达)、*** 赫苏斯·米兰达·伊塔(西班牙)、* 维克托·莫拉鲁(摩尔多瓦共和国)、* 贡科·罗舍尔(德国)* 和特斯法阿莱姆·塞尤姆(厄立特里亚)。*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	2025年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	2026年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	2027年12月31日任满。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第56次">第56次全体会议</inline>
+        <eol />
+        <docDate date="2022-12-20" refersTo="#adoptionDate">2022年12月20日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
