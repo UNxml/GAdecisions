@@ -1,0 +1,170 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/eng@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-408/eng@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Advisory Committee on Administrative and Budgetary Questions" showAs="UN. Advisory Committee on Administrative and Budgetary Questions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118a" showAs="Appointment of members of the Advisory Committee on Administrative and Budgetary Questions." shortForm="UN. ADVISORY COMMITTEE ON ADMINISTRATIVE AND BUDGETARY QUESTIONS--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34th" />
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="India" by="Surendra Kumar Adhana " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Benin" by="Yves Éric Ahoussougbemey " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Yemen" by="Amjad Qaid Al Kumaim " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Angola" by="Makiese Kinkela Augusto " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Chad" by="Abdallah Bachar Bong " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Lithuania" by="Feliksas Bakanauskas " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Bahamas" by="Sharon Brennen-Haylock " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Poland" by="Jakub Chmielewski " outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Germany" by="Udo Fenchel " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Dominican Republic" by="Olivio Fermín " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Italy" by="Carlo Jacobucci " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="China" by="Ji Haojun " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Republic of Korea" by="Ji-Sun Jun " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Algeria" by="Nabil Kalkoul " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Russian Federation" by="Evgeny Kalugin " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Paraguay" by="Julia A. Maciel " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Japan" by="Matsuda Yukiko " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Uganda" by="Caroline Nalwanga " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Brazil" by="Juliana Gaspar Ruas " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="United States of America" by="Stephani Scheer " outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Advisory Committee on Administrative and Budgetary Questions" refersTo="Türkiye" by="Cihan Terzi " outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/408</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Fifth Committee</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="118 (a)" name="agenda item">Agenda item 118 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/408.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Appointment of members of the Advisory Committee on Administrative and Budgetary Questions</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 34th plenary meeting, on 15 November 2022, the General Assembly, on the recommendation of the Fifth Committee,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/567">A/77/567</a>, para. 5.</p></authorialNote> appointed or reappointed the following persons as members of the Advisory Committee on Administrative and Budgetary Questions:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	Udo Fenchel (Germany), Olivio Fermín (Dominican Republic), Carlo Jacobucci (Italy), Ji Haojun (China), Ji-sun Jun (Republic of Korea) and Matsuda Yukiko (Japan) for a three-year term of office beginning on 1 January 2023;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	Stephani Scheer (United States of America) for a term of office beginning on 1 January 2023 and ending on 31 December 2023 as a result of the resignation of Donna-Marie Chiurazzi-Maxfield;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	Surendra Kumar Adhana (India) for a term of office beginning on 15 November 2022 and ending on 31 December 2023 as a result of the resignation of Vidisha Maitra.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">	As a result, as of 1 January 2023, the Advisory Committee on Administrative and Budgetary Questions is composed as follows: Surendra Kumar <inline name="smallCaps" style="font-variant:small-caps">Adhana</inline> (India),* Yves Éric <inline name="smallCaps" style="font-variant:small-caps">Ahoussougbemey</inline> (Benin),** Amjad Qaid <inline name="smallCaps" style="font-variant:small-caps">Al </inline><inline name="smallCaps" style="font-variant:small-caps">Kumaim</inline> (Yemen),** Makiese Kinkela <inline name="smallCaps" style="font-variant:small-caps">Augusto</inline> (Angola),** Abdallah <inline name="smallCaps" style="font-variant:small-caps">Bachar</inline><inline name="smallCaps" style="font-variant:small-caps"> Bong</inline> (Chad),* Feliksas <inline name="smallCaps" style="font-variant:small-caps">Bakanauskas</inline> (Lithuania),* Sharon <inline name="smallCaps" style="font-variant:small-caps">Brennen-Haylock</inline> (Bahamas),** Jakub <inline name="smallCaps" style="font-variant:small-caps">Chmielewski</inline> (Poland),** Udo <inline name="smallCaps" style="font-variant:small-caps">Fenchel</inline> (Germany),*** Olivio <inline name="smallCaps" style="font-variant:small-caps">Fermín</inline> (Dominican Republic),*** Carlo <inline name="smallCaps" style="font-variant:small-caps">Jacobucci</inline> (Italy),*** <inline name="smallCaps" style="font-variant:small-caps">Ji</inline> Haojun (China),*** Ji-Sun <inline name="smallCaps" style="font-variant:small-caps">Jun</inline> (Republic of Korea),*** Nabil <inline name="smallCaps" style="font-variant:small-caps">Kalkoul</inline> (Algeria),* Evgeny <inline name="smallCaps" style="font-variant:small-caps">Kalugin</inline> (Russian Federation),* Julia A. <inline name="smallCaps" style="font-variant:small-caps">Maciel</inline> (Paraguay),* <inline name="smallCaps" style="font-variant:small-caps">Matsuda</inline> Yukiko (Japan),*** Caroline <inline name="smallCaps" style="font-variant:small-caps">Nalwanga</inline> (Uganda),* Juliana Gaspar <inline name="smallCaps" style="font-variant:small-caps">Ruas</inline> (Brazil),* Stephani <inline name="smallCaps" style="font-variant:small-caps">Scheer</inline> (United States of America)* and Cihan <inline name="smallCaps" style="font-variant:small-caps">T</inline><inline name="smallCaps" style="font-variant:small-caps">erzi</inline> (Türkiye).*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">*	Term of office expires on 31 December 2023. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve">***	Term of office expires on 31 December 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34th">34th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 November 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

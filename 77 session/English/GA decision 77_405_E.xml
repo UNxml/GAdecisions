@@ -1,0 +1,165 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/eng@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-405/eng@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee for Programme and Coordination" showAs="UN. Committee for Programme and Coordination" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117a" showAs="Election of members of the Committee for Programme and Coordination." shortForm="UN. COMMITTEE FOR PROGRAMME AND COORDINATION--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34th" />
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo="Argentina" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Armenia" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Belarus" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Belgium" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Botswana" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Brazil" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Cameroon" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Chile" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" China" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Costa Rica" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Cuba" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Dominican Republic" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Eritrea" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Eswatini" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" France" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Germany" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" India" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Iran (Islamic Republic of)" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Italy" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Japan" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Kenya" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Liberia" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Mali" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Malta" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Morocco" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Pakistan" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Paraguay" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Philippines" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Poland" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Republic of Korea" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Russian Federation" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" Tunisia" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo=" United Kingdom of Great Britain and Northern Ireland" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-03" as="Committee for Programme and Coordination" refersTo="United States of America" by="" outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/405</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="117 (a)" name="agenda item">Agenda item 117 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/405.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Election of members of the Committee for Programme and Coordination</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 34th plenary meeting, on 15 November 2022, the General Assembly, on the basis of nominations by the Economic and Social Council<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> See <a href="https://undocs.org/en/A/77/540">A/77/540</a>; see also Economic and Social Council decisions 2022/203 B and C.</p></authorialNote> and in accordance with the annex to Council resolution <a href="https://undocs.org/en/E/RES/2008(LX)">2008 </a><a href="https://undocs.org/en/A/RES/2008 (LX)">(</a><a href="https://undocs.org/en/A/RES/2008 (LX)">LX)</a> of 14 May 1976 and Assembly decision 42/450 of 17 December 1987, elected <inline name="smallCaps" style="font-variant:small-caps">Argentina, China, Liberia, Morocco,</inline> the <inline name="smallCaps" style="font-variant:small-caps">Philippines,</inline> the <inline name="smallCaps" style="font-variant:small-caps">Republic of Korea</inline> and <inline name="smallCaps" style="font-variant:small-caps">Tunisia</inline> as members of the Committee for Programme and Coordination for a three-year term of office beginning on 1 January 2023 to fill the vacancies occurring on the expiration of the terms of office of <inline name="smallCaps" style="font-variant:small-caps">China,</inline> the <inline name="smallCaps" style="font-variant:small-caps">Comoros, Liberia, Mauritania,</inline> the <inline name="smallCaps" style="font-variant:small-caps">Philippines,</inline> the <inline name="smallCaps" style="font-variant:small-caps">Republic of Korea</inline> and <inline name="smallCaps" style="font-variant:small-caps">Uruguay</inline>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	As a result, as of 1 January 2023, the Committee for Programme and Coordination is composed of the following 34 Member States: <inline name="smallCaps" style="font-variant:small-caps">Argentina,*** Armenia,* Belarus,* </inline><inline name="smallCaps" style="font-variant:small-caps">Belgium,**</inline><inline name="smallCaps" style="font-variant:small-caps"> Botswana,** Brazil,* Cameroon,* Chile,** China,*** Costa Rica,* Cuba,* Dominican Republic,* Eritrea,* Eswatini,* France,** Germany,* India,* Iran (Islamic Republic of),* Italy,* Japan,* Kenya,** Liberia,*** Mali,* Malta,* Morocco,*** Pakistan,* Paraguay,** Philippines,*** Poland,* Republic of Korea,*** Russian Federation,** Tunisia,*** United Kingdom of Great Britain and Northern Ireland</inline>* and <inline name="smallCaps" style="font-variant:small-caps">United States of America</inline>.*</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Term of office expires on 31 December 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Term of office expires on 31 December 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34th">34th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 November 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

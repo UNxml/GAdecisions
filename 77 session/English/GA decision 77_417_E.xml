@@ -1,0 +1,143 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/"></FRBRuri>
+          <FRBRdate date="2022-12-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/eng@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-417/eng@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Hoshino, Toshiya" showAs="Hoshino, Toshiya" dictionary="DHLAUTH"></keyword>
+        <keyword value="Joint Inspection Unit" showAs="Joint Inspection Unit" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118j" showAs="Appointment of members of the Joint Inspection Unit." shortForm="JOINT INSPECTION UNIT--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-20" outcome="adopted" by="56th" />
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Iraq" by="Mohanad Ali Omran Al-Musawi " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Russian Federation" by="Pavel Chernikov " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="United States of America" by="Eileen Cronin " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Mexico" by="Carolina María Fernández Opazo " outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Botswana" by="Gaeimelwe Goitsemang " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Japan" by="Hoshino Toshiya " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Antigua and Barbuda" by="Conrod Hunte " outcome="composition" akn4un:end="2027-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Spain" by="Jesús Miranda Hita " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Republic of Moldova" by="Victor Moraru " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Germany" by="Gönke Roscher " outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Joint Inspection Unit" refersTo="Eritrea" by="Tesfaalem Seyoum " outcome="composition" akn4un:end="2025-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/417</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="118 (j)" name="agenda item">Agenda item 118 (j)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/417.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Appointment of members of the Joint Inspection Unit</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 56th plenary meeting, on 20 December 2022, the General Assembly, pursuant to article 3, paragraph 2, of the statute of the Joint Inspection Unit, contained in the annex to resolution <a href="https://undocs.org/en/A/RES/31/192">31/192</a> of 22 December 1976, appointed Hoshino Toshiya as a member of the Joint Inspection Unit for a five-year term of office beginning on 1 January 2023 and expiring on 31 December 2027 as a result of the resignation of Kamioka Keiko.<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> See <a href="https://undocs.org/en/A/77/643">A/77/643</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	As a result, as of 1 January 2023, the Joint Inspection Unit is composed as follows: Mohanad Ali Omran <inline name="smallCaps" style="font-variant:small-caps">Al-</inline><inline name="smallCaps" style="font-variant:small-caps">Musawi</inline> (Iraq),*** Pavel <inline name="smallCaps" style="font-variant:small-caps">Chernikov</inline> (Russian Federation),*** Eileen <inline name="smallCaps" style="font-variant:small-caps">Cronin</inline> (United States of America),** Carolina María<inline name="smallCaps" style="font-variant:small-caps"> Fern</inline><inline name="smallCaps" style="font-variant:small-caps">á</inline><inline name="smallCaps" style="font-variant:small-caps">ndez </inline><inline name="smallCaps" style="font-variant:small-caps">Opazo</inline> (Mexico),** Gaeimelwe <inline name="smallCaps" style="font-variant:small-caps">Goitsemang</inline> (Botswana),*** <inline name="smallCaps" style="font-variant:small-caps">Hoshino</inline> Toshiya (Japan),*** Conrod <inline name="smallCaps" style="font-variant:small-caps">Hunte</inline> (Antigua and Barbuda),*** Jesús <inline name="smallCaps" style="font-variant:small-caps">Miranda </inline><inline name="smallCaps" style="font-variant:small-caps">Hita</inline> (Spain),* Victor <inline name="smallCaps" style="font-variant:small-caps">Moraru</inline> (Republic of Moldova),* Gönke <inline name="smallCaps" style="font-variant:small-caps">Roscher</inline> (Germany)* and Tesfaalem <inline name="smallCaps" style="font-variant:small-caps">Seyoum</inline> (Eritrea).* </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Term of office expires on 31 December 2025.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2026.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Term of office expires on 31 December 2027.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56th">56th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-12-20" refersTo="#adoptionDate">20 December 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

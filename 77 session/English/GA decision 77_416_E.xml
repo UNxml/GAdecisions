@@ -1,0 +1,172 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/"></FRBRuri>
+          <FRBRdate date="2022-12-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/eng@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/eng@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Peacebuilding Commission. Organizational Committee" showAs="UN. Peacebuilding Commission. Organizational Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117b" showAs="Election of members of the Organizational Committee of the Peacebuilding Commission." shortForm="UN. PEACEBUILDING COMMISSION. ORGANIZATIONAL COMMITTEE--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-20" outcome="adopted" by="56th" />
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Bangladesh" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Brazil" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Bulgaria" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Canada" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="China" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Croatia" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Denmark" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Dominican Republic" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Ecuador" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Egypt" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Ethiopia" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="France" by="" outcome="composition" akn4un:end=" "/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Germany" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="India" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Italy" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Japan" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Kenya" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Mozambique" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Nepal" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Nigeria" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Norway" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Peru" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Qatar" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Republic of Korea" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Russian Federation" by="" outcome="composition" akn4un:end=" "/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Rwanda" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Saint Vincent and the Grenadines" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="South Africa" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="Sweden" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="United Kingdom of Great Britain and Northern Ireland*" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Organizational Committee of the Peacebuilding Commission" refersTo="United States of America" by="" outcome="composition" akn4un:end=""/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/416</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="117 (b)" name="agenda item">Agenda item 117 (b)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/416.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Election of members of the Organizational Committee of the Peacebuilding Commission</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 56th plenary meeting, on 20 December 2022, the General Assembly, pursuant to its resolutions <a href="https://undocs.org/en/A/RES/60/180">60/180</a> of 20 December 2005, <a href="https://undocs.org/en/A/RES/60/261">60/261</a> of 8 May 2006 and <a href="https://undocs.org/en/A/RES/63/145">63/145</a> of 18 December 2008, elected <inline name="smallCaps" style="font-variant:small-caps">E</inline><inline name="smallCaps" style="font-variant:small-caps">gypt, Kenya, Qatar, Saint Vincent and the Grenadines</inline> and <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">outh Africa</inline> as members of the Organizational Committee of the Peacebuilding Commission for a two-year term of office beginning on 1 January 2023 to fill the vacancies occurring on the expiration of the terms of office of <inline name="smallCaps" style="font-variant:small-caps">Brazil, Costa Rica, Egypt, Lebanon</inline> and <inline name="smallCaps" style="font-variant:small-caps">South Africa</inline>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	Pursuant to paragraphs 4 (a) to (d) of resolution <a href="https://undocs.org/en/A/RES/60/180">60/180</a>, 26 States have already been elected and/or selected as members of the Organizational Committee of the Peacebuilding Commission: <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">ulgaria</inline> and <inline name="smallCaps" style="font-variant:small-caps">D</inline><inline name="smallCaps" style="font-variant:small-caps">ominican Republic</inline> elected by the Assembly;<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> See decision 76/412.</p></authorialNote> <inline name="smallCaps" style="font-variant:small-caps">China, </inline><inline name="smallCaps" style="font-variant:small-caps">Ecuador, </inline><inline name="smallCaps" style="font-variant:small-caps">France, </inline><inline name="smallCaps" style="font-variant:small-caps">Mozambique,</inline> <inline name="smallCaps" style="font-variant:small-caps">Russian Federation, United Kingdom of Great Britain and Northern Ireland</inline> and <inline name="smallCaps" style="font-variant:small-caps">United States </inline><inline name="smallCaps" style="font-variant:small-caps">o</inline><inline name="smallCaps" style="font-variant:small-caps">f America</inline> selected by the Security Council;<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> See <a href="https://undocs.org/en/S/2023/37">S/2023/37</a>.</p></authorialNote> <inline name="smallCaps" style="font-variant:small-caps">Brazil, Croatia, Denmark, Italy, Nigeria, Peru</inline> and <inline name="smallCaps" style="font-variant:small-caps">Republic of Korea</inline> elected by the Economic and Social Council;<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> See Economic and Social Council decisions 2022/206 C and D and 2023/208.</p></authorialNote> <inline name="smallCaps" style="font-variant:small-caps">Canada, Germany, Japan, </inline><inline name="smallCaps" style="font-variant:small-caps">Norway</inline> and <inline name="smallCaps" style="font-variant:small-caps">Sweden</inline> selected by and from among the top 10 providers of assessed contributions to United Nations budgets and of voluntary contributions to United Nations funds, programmes and agencies, including a standing peacebuilding fund;<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> See <a href="https://undocs.org/en/A/77/652">A/77/652</a>.</p></authorialNote> and <inline name="smallCaps" style="font-variant:small-caps">Bangladesh, Ethiopia, India, </inline><inline name="smallCaps" style="font-variant:small-caps">Nepal </inline>and <inline name="smallCaps" style="font-variant:small-caps">Rwanda</inline> selected by and from among the top 10 providers of military personnel and civilian police to United Nations missions.<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> See <a href="https://undocs.org/en/A/77/650">A/77/650</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> As a result, on 1 January 2023, the Organizational Committee of the Peacebuilding Commission is composed of the following 31 Member States: <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">angladesh,*** Brazil,**** Bulgaria,** Canada,*** China,* Croatia,**** Denmark,**** Dominican </inline><inline name="smallCaps" style="font-variant:small-caps">Republic,** </inline><inline name="smallCaps" style="font-variant:small-caps">Ecuador,** </inline><inline name="smallCaps" style="font-variant:small-caps">Egypt,*** Ethiopia,*** France,* Germany,*** India,*** Italy,**** Japan,*** Kenya,*** </inline><inline name="smallCaps" style="font-variant:small-caps">Mozambique,** </inline><inline name="smallCaps" style="font-variant:small-caps">Nepal</inline><inline name="smallCaps" style="font-variant:small-caps">,*** Nigeria,**** Norway,*** Peru,**** Qatar,*** Republic of Korea,**** Russian Federation,* Rwanda,*** Saint Vincent and the Grenadines,*** South Africa,*** Sweden,*** United Kingdom of Great Britain and Northern Ireland</inline>* and <inline name="smallCaps" style="font-variant:small-caps">U</inline><inline name="smallCaps" style="font-variant:small-caps">nited States of America</inline>.* </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Permanent members of the Security Council. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2023. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Term of office expires on 31 December 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">****	Term of office expires on 31 December 2024 or when they cease to be members of the Economic and Social Council, whichever comes earlier.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56th">56th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-12-20" refersTo="#adoptionDate">20 December 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

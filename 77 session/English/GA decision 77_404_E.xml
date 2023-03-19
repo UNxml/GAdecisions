@@ -1,0 +1,177 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/"></FRBRuri>
+          <FRBRdate date="2022-11-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/eng@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/eng@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="public_health" href="http://metadata.un.org/thesaurus/1005250" showAs="public_health" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Brant, Leonardo Nemer Caldeira" showAs="Brant, Leonardo Nemer Caldeira" dictionary="DHLAUTH"></keyword>
+        <keyword value="ICJ" showAs="ICJ" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116c" showAs="Election of 1 member of the International Court of Justice." shortForm="ICJ--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-04" outcome="adopted" by="29th" />
+        <step date="2022-11-04" as="International Court of Justice" refersTo="France" by="Ronny ABRAHAM" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Morocco" by="Mohamed BENNOUNA" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="India" by="Dalveer BHANDARI" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Brazil" by="Leonardo Nemer Caldeira BRANT" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Australia" by="Hilary CHARLESWORTH" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="United States of America" by="Joan E. DONOGHUE" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Russian Federation" by="Kirill GEVORGIAN" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Japan" by="IWASAWA Yuji" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Germany" by="Georg NOLTE" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Jamaica" by="Patrick Lipton ROBINSON" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Lebanon" by="Nawaf SALAM" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Uganda" by="Julia SEBUTINDE" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Slovakia" by="Peter TOMKA" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="China" by="XUE Hanqin" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="International Court of Justice" refersTo="Somalia" by="Abdulqawi Ahmed YUSUF" outcome="composition" akn4un:end="2027-02-05"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="116 (c)" name="agenda item">Agenda item 116 (c)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/404.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Election of a member of the International Court of Justice</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	The General Assembly, at its 29th plenary meeting, on 4 November 2022, and the Security Council, at its 9182nd meeting, on the same date, proceeded independently of one another to elect, in accordance with Articles 2 to 4, 7 to 12, 14 and 15 of the Statute of the International Court of Justice, rules 150 and 151 of the rules of procedure of the Assembly and rules 40 and 61 of the provisional rules of procedure of the Council, a member of the Court for the unexpired term of office of Judge Antônio Augusto Cançado Trindade (Brazil) whose death occurred on 29 May 2022.<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> See <a href="https://undocs.org/en/A/77/481">A/77/481-S/2022/722</a>.</p></authorialNote>  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	Having obtained the required absolute majority of votes in both the General Assembly and the Security Council, Leonardo Nemer Caldeira Brant (Brazil) was elected as a member of the Court for a term of office beginning on 4 November 2022 and expiring on 5 February 2027.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	As a result, as of 4 November 2022, the International Court of Justice is composed as follows: Ronny <inline name="smallCaps" style="font-variant:small-caps">Abraham</inline> (France),** Mohamed <inline name="smallCaps" style="font-variant:small-caps">Bennouna</inline> (Morocco),* Dalveer <inline name="smallCaps" style="font-variant:small-caps">Bhandari</inline> (India),** Leonardo Nemer Caldeira <inline name="smallCaps" style="font-variant:small-caps">Brant</inline> (Brazil),** Hilary <inline name="smallCaps" style="font-variant:small-caps">Charlesworth</inline> (Australia),* Joan E. <inline name="smallCaps" style="font-variant:small-caps">Donoghue</inline> (United States of America),* Kirill <inline name="smallCaps" style="font-variant:small-caps">Gevorgian</inline> (Russian Federation),* <inline name="smallCaps" style="font-variant:small-caps">Iwasawa</inline> Yuji (Japan),*** Georg <inline name="smallCaps" style="font-variant:small-caps">Nolte</inline> (Germany),*** Patrick Lipton <inline name="smallCaps" style="font-variant:small-caps">Robinson</inline> (Jamaica),* Nawaf <inline name="smallCaps" style="font-variant:small-caps">Salam</inline> (Lebanon),** Julia <inline name="smallCaps" style="font-variant:small-caps">Sebutinde</inline> (Uganda),*** Peter <inline name="smallCaps" style="font-variant:small-caps">Tomka</inline> (Slovakia),*** <inline name="smallCaps" style="font-variant:small-caps">Xue</inline> Hanqin (China)*** and Abdulqawi Ahmed <inline name="smallCaps" style="font-variant:small-caps">Yusuf</inline> (Somalia).**</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">____________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Term of office expires on 5 February 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Term of office expires on 5 February 2027.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Term of office expires on 5 February 2030.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="29th">29th plenary meeting</inline>
+        <eol />
+        <docDate date="2022-11-04" refersTo="#adoptionDate">4 November 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
