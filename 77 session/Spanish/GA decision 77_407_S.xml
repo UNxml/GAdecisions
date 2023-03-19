@@ -1,0 +1,147 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/spa@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-407/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN Appeals Tribunal" showAs="UN Appeals Tribunal" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118h" showAs="Appointment of the judges of the United Nations Appeals Tribunal." shortForm="UN APPEALS TRIBUNAL--JUDGES" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34ª" />
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="Nueva Zelandia" by="Graeme COLGAN" outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="Camerún" by="Leslie Formine FORBANG" outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="Canadá" by="Kanwaldeep SANDHU" outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="China" by="GAO Xiaoli" outcome="composition" akn4un:end="2026-06-30"/>
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="Sudáfrica" by="Katharine SAVAGE" outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="Egipto" by="Abdelmohsen Ahmed SHEHA" outcome="composition" akn4un:end="2030-06-30"/>
+        <step date="2023-07-01" as="Tribunal de Apelaciones de las Naciones Unidas" refersTo="Líbano/Chile" by="Nassib ZIADÉ" outcome="composition" akn4un:end="2030-06-30"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/407</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="118 h)" name="agenda item">Tema 118 h) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/407.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nombramiento de magistrados del Tribunal de Apelaciones de las Naciones Unidas</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	En su 34ª sesión plenaria, celebrada el 15 de noviembre de 2022, la Asamblea General, de conformidad con el artículo 3 del Estatuto del Tribunal de Apelaciones de las Naciones Unidas, que figura en el anexo II de la resolución <a href="https://undocs.org/sp/A/RES/63/253">63/253</a>, de 24 de diciembre de 2008, y por recomendación del Consejo de Justicia Interna<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Véase <span class="underline"><a href="https://undocs.org/sp/A/77/129/Rev.1">A/77/129/Rev.1</a></span>.</p></authorialNote>, nombró a Leslie Formine Forbang (Camerún), Katharine Savage (Sudáfrica), Abdelmohsen Ahmed Sheha (Egipto) y Nassib Ziadé (Líbano/Chile) magistrados del Tribunal para un mandato que comenzaría el 1 de julio de 2023 y terminaría el 30 de junio de 2030, a fin de llenar las vacantes que se producirían al término de los mandatos de Martha Halfeld Furtado de Mendonça SCHMIDT, Sabine Knierim, John Raymond Murphy y Dimitrios Raikos; y a Gao Xiaoli (China) para un mandato que comenzaría el 15 de noviembre de 2022 y terminaría el 30 de junio de 2026, a fin de cubrir la vacante producida como consecuencia de la dimisión de Jean-François Neven el 10 de enero de 2022.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En consecuencia, a partir del 1 de julio de 2023, el Tribunal de Apelaciones de las Naciones Unidas quedó integrado por los siguientes magistrados: Graeme <inline name="smallCaps" style="font-variant:small-caps">Colgan</inline> (Nueva Zelandia)*, Leslie Formine <inline name="smallCaps" style="font-variant:small-caps">Forbang</inline> (Camerún)**, Kanwaldeep <inline name="smallCaps" style="font-variant:small-caps">Sandhu</inline> (Canadá)*, <inline name="smallCaps" style="font-variant:small-caps">Gao</inline> Xiaoli (China)*, Katharine <inline name="smallCaps" style="font-variant:small-caps">Savage</inline> (Sudáfrica)**, Abdelmohsen Ahmed <inline name="smallCaps" style="font-variant:small-caps">Sheha</inline> (Egipto)** y Nassib <inline name="smallCaps" style="font-variant:small-caps">Ziadé</inline> (Líbano/Chile)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	El mandato termina el 30 de junio de 2026.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	El mandato termina el 30 de junio de 2030.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34ª">34ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 de noviembre de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

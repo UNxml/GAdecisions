@@ -1,0 +1,166 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/"></FRBRuri>
+          <FRBRdate date="2022-11-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/spa@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-04/77-404/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Brant, Leonardo Nemer Caldeira" showAs="Brant, Leonardo Nemer Caldeira" dictionary="DHLAUTH"></keyword>
+        <keyword value="ICJ" showAs="ICJ" dictionary="DHLAUTH"></keyword>
+        <keyword value="JUDGES" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116c" showAs="Election of 1 member of the International Court of Justice." shortForm="ICJ--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-04" outcome="adopted" by="29" />
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Francia" by="Ronny ABRAHAM" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Marruecos" by="Mohamed BENNOUNA" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="India" by="Dalveer BHANDARI" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Brasil" by="Leonardo Nemer Caldeira BRANT" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Australia" by="Hilary CHARLESWORTH" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Estados Unidos de América" by="Joan E. DONOGHUE" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Federación de Rusia" by="Kirill GEVORGIAN" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Japón" by="IWASAWA Yuji" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Alemania" by="Georg NOLTE" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Jamaica" by="Patrick Lipton ROBINSON" outcome="composition" akn4un:end="2024-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Líbano" by="Nawaf SALAM" outcome="composition" akn4un:end="2027-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Uganda" by="Julia SEBUTINDE" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Eslovaquia" by="Peter TOMKA" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="China" by="XUE Hanqin" outcome="composition" akn4un:end="2030-02-05"/>
+        <step date="2022-11-04" as="Corte Internacional de Justicia" refersTo="Somalia" by="Abdulqawi Ahmed YUSUF" outcome="composition" akn4un:end="2027-02-05"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="116 c)" name="agenda item">Tema 116 c) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/404.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de un miembro de la Corte Internacional de Justicia</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	La Asamblea General, en su 29ª sesión plenaria, celebrada el 4 de noviembre de 2022, y el Consejo de Seguridad, en su 9182ª sesión, celebrada en la misma fecha, procedieron a realizar por separado, de conformidad con los Artículos 2 a 4, 7 a 12, 14 y 15 del Estatuto de la Corte Internacional de Justicia, los artículos 150 y 151 del Reglamento de la Asamblea y los artículos 40 y 61 del Reglamento Provisional del Consejo, la elección de un miembro de la Corte para el período restante del mandato del Magistrado Antônio Augusto Cançado Trindade (Brasil), cuyo fallecimiento se produjo el 29 de mayo de 2022<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Véase <span class="underline"><a href="https://undocs.org/sp/A/77/481-S/2022/722">A/77/481-S/2022/722</a></span>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	Tras obtener la mayoría absoluta de votos requerida tanto en la Asamblea General como en el Consejo de Seguridad, Leonardo Nemer Caldeira Brant (Brasil) fue elegido miembro de la Corte para un mandato que comenzaría el 4 de noviembre de 2022 y terminaría el 5 de febrero de 2027.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	En consecuencia, a partir del 4 de noviembre de 2022, la Corte Internacional de Justicia quedó integrada por las personas siguientes: Ronny <inline name="smallCaps" style="font-variant:small-caps">Abraham</inline> (Francia)**, Mohamed <inline name="smallCaps" style="font-variant:small-caps">Bennouna</inline> (Marruecos)*, Dalveer <inline name="smallCaps" style="font-variant:small-caps">Bhandari</inline> (India)**, Leonardo Nemer Caldeira <inline name="smallCaps" style="font-variant:small-caps">Brant</inline> (Brasil)**, Hilary <inline name="smallCaps" style="font-variant:small-caps">Charlesworth</inline> (Australia)*, Joan E. <inline name="smallCaps" style="font-variant:small-caps">Donoghue</inline> (Estados Unidos de América)*, Kirill <inline name="smallCaps" style="font-variant:small-caps">Gevorgian</inline> (Federación de Rusia)*, <inline name="smallCaps" style="font-variant:small-caps">Iwasawa</inline> Yuji (Japón)***, Georg <inline name="smallCaps" style="font-variant:small-caps">Nolte</inline> (Alemania)***, Patrick Lipton <inline name="smallCaps" style="font-variant:small-caps">Robinson</inline> (Jamaica)*, Nawaf <inline name="smallCaps" style="font-variant:small-caps">Salam</inline> (Líbano)**, Julia <inline name="smallCaps" style="font-variant:small-caps">Sebutinde</inline> (Uganda)***, Peter <inline name="smallCaps" style="font-variant:small-caps">Tomka</inline> (Eslovaquia)***, <inline name="smallCaps" style="font-variant:small-caps">Xue</inline> Hanqin (China)*** y Abdulqawi Ahmed <inline name="smallCaps" style="font-variant:small-caps">Yusuf</inline> (Somalia)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">____________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	El mandato termina el 5 de febrero de 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	El mandato termina el 5 de febrero de 2027.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	El mandato termina el 5 de febrero de 2030.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="29ª">29ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-11-04" refersTo="#adoptionDate">4 de noviembre de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

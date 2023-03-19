@@ -1,0 +1,139 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-412/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-412/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-412/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-412/spa@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-412/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-412/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Independent Audit Advisory Committee" showAs="UN. Independent Audit Advisory Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118e" showAs="Appointment of members of the Independent Audit Advisory Committee." shortForm="UN. INDEPENDENT AUDIT ADVISORY COMMITTEE--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34ª" />
+        <step date="2022-11-21" outcome="adopted" by="40ª" />
+        <step date="2023-01-01" as="Comité Asesor de Auditoría Independiente" refersTo="Belice" by="Dorothy BRADLEY" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité Asesor de Auditoría Independiente" refersTo="Federación de Rusia" by="Anton V. KOSYANENKO" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité Asesor de Auditoría Independiente" refersTo="Nepal" by="Suresh Raj SHARMA" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité Asesor de Auditoría Independiente" refersTo="Estados Unidos de América" by="Janet ST. LAURENT" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité Asesor de Auditoría Independiente" refersTo="Sudáfrica" by="Imran VANKER" outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/412</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Quinta Comisión</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="118 e)" name="agenda item">Tema 118 e) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/412.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nombramiento de miembros del Comité Asesor de Auditoría Independiente</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	En su 34ª sesión plenaria, celebrada el 15 de noviembre de 2022, la Asamblea General, por recomendación de la Quinta Comisión<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/571">A/77/571</a></span>, párr. 4.</p></authorialNote>, nombró o renovó el nombramiento de las siguientes personas como miembros del Comité Asesor de Auditoría Independiente para un mandato de tres años que comenzaría el 1 de enero de 2023: Anton V. Kosyanenko (Federación de Rusia) y Suresh Raj Sharma (Nepal). </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En su 40ª sesión plenaria, celebrada el 21 de noviembre de 2022, la Asamblea General, por recomendación de la Quinta Comisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/571/Add.1">A/77/571/Add.1</a></span>, párr. 4.</p></authorialNote>, renovó el nombramiento de Dorothy Bradley (Belice) como miembro del Comité Asesor de Auditoría Independiente para un mandato de tres años que comenzaría el 1 de enero de 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	En consecuencia, a partir del 1 de enero de 2023, el Comité Asesor de Auditoría Independiente quedó integrado por las personas siguientes: Dorothy <inline name="smallCaps" style="font-variant:small-caps">Bradley</inline> (Belice)**, Anton V. <inline name="smallCaps" style="font-variant:small-caps">Kosyanenko</inline> (Federación de Rusia)**, Suresh Raj <inline name="smallCaps" style="font-variant:small-caps">Sharma</inline> (Nepal)**, Janet <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">t. Laurent </inline>(Estados Unidos de América)* e Imran <inline name="smallCaps" style="font-variant:small-caps">Vanker</inline> (Sudáfrica)*. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	El mandato termina el 31 de diciembre de 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	El mandato termina el 31 de diciembre de 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34ª">34ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="40ª">40ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 de noviembre de 2022</docDate>
+        <docDate date="2022-11-21" refersTo="#adoptionDate">21 de noviembre de 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
