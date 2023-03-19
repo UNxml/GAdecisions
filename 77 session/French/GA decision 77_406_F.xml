@@ -1,0 +1,148 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/fra@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-406/fra@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee on Conferences" showAs="UN. Committee on Conferences" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118f" showAs="Appointment of members of the Committee on Conferences." shortForm="UN. COMMITTEE ON CONFERENCES--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34e" />
+        <step date="2023-01-01" as="Comité des conférences" refersTo="AUTRICHE" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="CHINE" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="COTE D’IVOIRE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="DJIBOUTI" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="ÉGYPTE" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="ÉTATS-UNIS D’AMERIQUE" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="FEDERATION DE RUSSIE" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="FRANCE" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="IRAN (REPUBLIQUE ISLAMIQUE D’)" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="JAPON" by="" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="KENYA" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="MALAISIE" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="NIGERIA" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="POLOGNE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="PORTUGAL" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="SENEGAL" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité des conférences" refersTo="SRI LANKA" by="" outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/406</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Soixante-dix-septième session</session>
+      </p>
+      <p>
+        <inline title="118 f)" name="agenda item">Point 118 f) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/406.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nomination de membres du Comité des conférences</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 34<sup>e</sup> séance plénière, le 15 novembre 2022, conformément au paragraphe 2 de sa résolution <a href="https://undocs.org/fr/A/RES/43/222">43/222</a> B du 21 décembre 1988, l’Assemblée générale a pris note de la nomination par son président, après consultation des présidents des groupes régionaux concernés, de l’<inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">u</inline><inline name="smallCaps" style="font-variant:small-caps">triche</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>de la <inline name="smallCaps" style="font-variant:small-caps">Chin</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>de <inline name="smallCaps" style="font-variant:small-caps">Djibouti, </inline>de l’É<inline name="smallCaps" style="font-variant:small-caps">gypt</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>des<inline name="smallCaps" style="font-variant:small-caps"> États-Unis d’Amérique </inline>et du <inline name="smallCaps" style="font-variant:small-caps">Jap</inline><inline name="smallCaps" style="font-variant:small-caps">o</inline><inline name="smallCaps" style="font-variant:small-caps">n</inline> comme membres du Comité des conférences pour un mandat de trois ans prenant effet le 1<sup>er</sup> janvier 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	En conséquence, au 1<sup>er</sup> janvier 2023, le Comité des conférences se compose des 17 États Membres suivants<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Il reste quatre sièges à pourvoir parmi les États d’Amérique latine et des Caraïbes : un pour un mandat prenant effet à la date de la nomination et venant à expiration le 31 décembre 2023, deux pour un mandat prenant effet à la date de la nomination et venant à expiration le 31 décembre 2024, et un pour un mandat prenant effet à la date de la nomination et venant à expiration le 31 décembre 2025.</p></authorialNote> : A<inline name="smallCaps" style="font-variant:small-caps">u</inline><inline name="smallCaps" style="font-variant:small-caps">triche</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Chin</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Côte d’Ivoire**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Djibouti***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">gypt</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">États-Unis d’Amérique</inline>***, <inline name="smallCaps" style="font-variant:small-caps">Fédération de Russie</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">France*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Iran (République islamique d’)</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Japon</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Kenya*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Malaisie</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Nig</inline><inline name="smallCaps" style="font-variant:small-caps">é</inline><inline name="smallCaps" style="font-variant:small-caps">ria*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Pologne</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Portugal**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Sénégal</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline> et <inline name="smallCaps" style="font-variant:small-caps">Sri Lanka*</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">___________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34e">34e séance plénière</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 novembre 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

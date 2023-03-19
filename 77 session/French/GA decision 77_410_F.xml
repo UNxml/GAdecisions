@@ -1,0 +1,151 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-410/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-410/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-410/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-410/fra@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-410/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-410/fra@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Investments Committee" showAs="UN. Investments Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118c" showAs="Confirmation of the appointment of members of the Investments Committee." shortForm="UN. INVESTMENTS COMMITTEE--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34e" />
+        <step date="2023-01-01" as="Comité des placements" refersTo="Arabie saoudite" by="Yasir O. AL-RUMAYYAN" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Nigéria" by="Sarah Omotunde ALADE" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Allemagne" by="Jens FRICKE" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Japon" by="HONDA Keiko" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Chine" by="Simon JIANG" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Fédération de Russie" by="Natalia KHANJENKOVA" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="États-Unis d’Amérique" by="Michael KLEIN" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Argentine" by="Patricia PARISE" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Brésil" by="Luciane RIBEIRO" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Comité des placements" refersTo="Mali" by="Macky TALL" outcome="composition" akn4un:end="2023-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/410</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Cinquième Commission</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Soixante-dix-septième session</session>
+      </p>
+      <p>
+        <inline title="118 c)" name="agenda item">Point 118 c) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/410.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Confirmation de la nomination de membres du Comité des placements</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 34<sup>e</sup> séance plénière, le 15 novembre 2022, sur la recommandation de la Cinquième Commission<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/77/569">A/77/569</a>, par. 4 a).</p></authorialNote>, l’Assemblée générale a confirmé la nomination ou la reconduction dans leurs fonctions par le Secrétaire général de Jens Fricke (Allemagne), Michael Klein (États-Unis d’Amérique) et Luciane Ribeiro (Brésil) comme membres ordinaires du Comité des placements pour un mandat de trois ans prenant effet le 1<sup>er</sup> janvier 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	À la même séance, sur la recommandation de la Cinquième Commission<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Ibid., par. 4 b).</p></authorialNote>, l’Assemblée générale a confirmé la reconduction par le Secrétaire général du mandat de Simon Jiang (Chine) comme membre ordinaire du Comité des placements pour une durée d’un an à compter du 1<sup>er</sup> janvier 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	À la même séance, sur la recommandation de la Cinquième Commission<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> Ibid., par. 4 c).</p></authorialNote>, l’Assemblée générale a confirmé la reconduction par le Secrétaire général du mandat de Macky Tall (Mali) comme membre ad hoc du Comité des placements pour une durée d’un an à compter du 1<sup>er</sup> janvier 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	En conséquence, au 1<sup>er</sup> janvier 2023, le Comité des placements se compose des membres suivants : Yasir O. <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">l</inline><inline name="smallCaps" style="font-variant:small-caps">‑R</inline><inline name="smallCaps" style="font-variant:small-caps">umayyan</inline> (Arabie saoudite, membre ordinaire)*, Sarah Omotunde <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">lade</inline> (Nigéria, membre ordinaire)*, Jens <inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">ricke</inline> (Allemagne, membre ordinaire)***, <inline name="smallCaps" style="font-variant:small-caps">H</inline><inline name="smallCaps" style="font-variant:small-caps">onda</inline> Keiko (Japon, membre ordinaire)**, Simon <inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">iang</inline> (Chine, membre ordinaire)*, Natalia <inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">hanjenkova</inline> (Fédération de Russie, membre ordinaire)*, Michael <inline name="smallCaps" style="font-variant:small-caps">K</inline><inline name="smallCaps" style="font-variant:small-caps">lein</inline> (États-Unis d’Amérique, membre ordinaire)***, Patricia <inline name="smallCaps" style="font-variant:small-caps">P</inline><inline name="smallCaps" style="font-variant:small-caps">arise</inline> (Argentine, membre ordinaire)*, Luciane <inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">ibeiro</inline> (Brésil, membre ordinaire)*** et Macky <inline name="smallCaps" style="font-variant:small-caps">T</inline><inline name="smallCaps" style="font-variant:small-caps">all</inline> (Mali, membre ad hoc)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34e">34e séance plénière</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 novembre 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

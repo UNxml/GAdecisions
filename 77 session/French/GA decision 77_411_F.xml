@@ -1,0 +1,154 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/"></FRBRuri>
+          <FRBRdate date="2022-11-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/fra@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-11-15/77-411/fra@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="International Civil Service Commission" showAs="International Civil Service Commission" dictionary="DHLAUTH"></keyword>
+        <keyword value="International Civil Service Commission. Chair" showAs="International Civil Service Commission. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="118d" showAs="Appointment of members of the International Civil Service Commission." dictionary="A/77/251"></keyword>
+        <keyword refersTo="agenda" value="118di" showAs="Appointment of members of the Commission." shortForm="INTERNATIONAL CIVIL SERVICE COMMISSION--MEMBERS" dictionary="A/77/251"></keyword>
+        <keyword refersTo="agenda" value="118dii" showAs="Designation of the Chair of the Commission." shortForm="INTERNATIONAL CIVIL SERVICE COMMISSION. CHAIR" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-11-15" outcome="adopted" by="34e" />
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Algérie" by="Larbi DJACTA" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Sierra Leone" by="Andrew Gbebay BANGALI" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Espagne" by="Xavier BELLMONT ROLDAN" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Mexique" by="Claudia Angélica BUENO REYNAGA" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Grèce" by="Spyridon FLOGAITIS" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Fédération de Russie" by="Igor GOLUBOVSKIY" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Japon" by="KAJI Misako" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="République de Corée" by="Pan-Suk KIM" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Libye" by="Ali KURER" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="États-Unis d’Amérique" by="Jeffrey MOUNTS" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Canada" by="Shauna OLNEY" outcome="composition" akn4un:end="2025-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Brésil" by="João VARGAS" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Chine" by="WANG Xiaochu" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Pologne" by="Boguslaw WINID" outcome="composition" akn4un:end="2026-12-31"/>
+        <step date="2023-01-01" as="Commission de la fonction publique internationale" refersTo="Maroc" by="El Hassane ZAHID" outcome="composition" akn4un:end="2024-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/411</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Cinquième Commission</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Soixante-dix-septième session</session>
+      </p>
+      <p>
+        <inline title="118 d)" name="agenda item">Point 118 d) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/411.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nomination de membres de la Commission de la fonction publique internationale</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 34<sup>e</sup> séance plénière, le 15 novembre 2022, sur la recommandation de la Cinquième Commission<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/77/570">A/77/570</a>, par. 6 a).</p></authorialNote>, l’Assemblée générale a nommé les personnes ci‑après membres de la Commission de la fonction publique internationale ou les a reconduites dans leurs fonctions pour un mandat de quatre ans prenant effet le 1<sup>er</sup> janvier 2023 : Andrew Gbebay Bangali (Sierra Leone), Xavier Bellmont Roldán (Espagne), Ali Kurer (Libye), João Vargas (Brésil) et Boguslaw Winid (Pologne).</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	À la même séance, sur la recommandation de la Cinquième Commission<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Ibid., par. 6 b).</p></authorialNote>, l’Assemblée générale a nommé Larbi Djacta (Algérie) Président de la Commission de la fonction publique internationale pour une durée de quatre ans à compter du 1<sup>er</sup> janvier 2023, sous réserve de la prolongation de son mandat de membre de la Commission.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	En conséquence, au 1<sup>er</sup> janvier 2023, la Commission de la fonction publique internationale se compose des membres suivants : Larbi <inline name="smallCaps" style="font-variant:small-caps">Djacta</inline> (Algérie, Président)*, Andrew Gbebay <inline name="smallCaps" style="font-variant:small-caps">Bangali</inline> (Sierra Leone)***, Xavier <inline name="smallCaps" style="font-variant:small-caps">Bellmont Roldán</inline> (Espagne)***, Claudia Angélica <inline name="smallCaps" style="font-variant:small-caps">Bueno Reynaga </inline>(Mexique)**, Spyridon <inline name="smallCaps" style="font-variant:small-caps">Flogaitis</inline> (Grèce)**, Igor <inline name="smallCaps" style="font-variant:small-caps">Golubovskiy</inline> (Fédération de Russie)*, <inline name="smallCaps" style="font-variant:small-caps">Kaji </inline>Misako (Japon)**, Pan-Suk <inline name="smallCaps" style="font-variant:small-caps">Kim</inline> (République de Corée)*, Ali <inline name="smallCaps" style="font-variant:small-caps">Kurer</inline> (Libye)***, Jeffrey <inline name="smallCaps" style="font-variant:small-caps">Mounts </inline>(États-Unis d’Amérique)**, Shauna <inline name="smallCaps" style="font-variant:small-caps">Olney</inline> (Canada)**, João <inline name="smallCaps" style="font-variant:small-caps">Vargas</inline> (Brésil)***, <inline name="smallCaps" style="font-variant:small-caps">Wang</inline> Xiaochu (Chine)*, Boguslaw <inline name="smallCaps" style="font-variant:small-caps">Winid</inline> (Pologne)*** et El Hassane <inline name="smallCaps" style="font-variant:small-caps">Zahid</inline> (Maroc)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">___________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2025.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2026.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="34e">34e séance plénière</inline>
+        <eol />
+        <docDate date="2022-11-15" refersTo="#adoptionDate">15 novembre 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

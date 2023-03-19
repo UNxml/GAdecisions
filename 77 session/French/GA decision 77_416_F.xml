@@ -1,0 +1,172 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/"></FRBRuri>
+          <FRBRdate date="2022-12-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/fra@/"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-12-20/77-416/fra@.xml"></FRBRuri>
+          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Peacebuilding Commission. Organizational Committee" showAs="UN. Peacebuilding Commission. Organizational Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117b" showAs="Election of members of the Organizational Committee of the Peacebuilding Commission." shortForm="UN. PEACEBUILDING COMMISSION. ORGANIZATIONAL COMMITTEE--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2022-12-20" outcome="adopted" by="56e" />
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="AFRIQUE DU SUD" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ALLEMAGNE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="BANGLADESH" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="BRESIL" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="BULGARIE" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="CANADA" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="CHINE" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="CROATIE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="DANEMARK" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ÉGYPTE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ÉQUATEUR" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ÉTATS-UNIS D’AMERIQUE" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ÉTHIOPIE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="FEDERATION DE RUSSIE" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="FRANCE" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="INDE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ITALIE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="JAPON" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="KENYA" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="MOZAMBIQUE" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="NEPAL" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="NIGERIA" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="NORVEGE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="PEROU" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="QATAR" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="REPUBLIQUE DE COREE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="REPUBLIQUE DOMINICAINE" by="" outcome="composition" akn4un:end="2023-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="ROYAUME-UNI DE GRANDE-BRETAGNE ET D’IRLANDE DU NORD" by="" outcome="composition" akn4un:end=""/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="RWANDA" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="SAINT-VINCENT-ET-LES GRENADINES" by="" outcome="composition" akn4un:end="2024-12-31"/>
+        <step date="2023-01-01" as="Comité d’organisation de la Commission de consolidation de la paix" refersTo="SUEDE" by="" outcome="composition" akn4un:end="2024-12-31"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/416</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Soixante-dix-septième session</session>
+      </p>
+      <p>
+        <inline title="117 b)" name="agenda item">Point 117 b) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/416.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection de membres du Comité d’organisation de la Commission de consolidation de la paix</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	À sa 56<sup>e</sup> séance plénière, le 20 décembre 2022, l’Assemblée générale a élu, conformément à ses résolutions <a href="https://undocs.org/fr/A/RES/60/180">60/180</a> du 20 décembre 2005, <a href="https://undocs.org/fr/A/RES/60/261">60/261</a> du 8 mai 2006 et <a href="https://undocs.org/fr/A/RES/63/145">63/145</a> du 18 décembre 2008, l’<inline name="smallCaps" style="font-variant:small-caps">Afrique du Sud</inline>, l’É<inline name="smallCaps" style="font-variant:small-caps">gypt</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Kenya, </inline>le <inline name="smallCaps" style="font-variant:small-caps">Qatar</inline> et <inline name="smallCaps" style="font-variant:small-caps">Saint-Vincent-et-les Grenadines</inline> membres du Comité d’organisation de la Commission de consolidation de la paix pour un mandat de deux ans prenant effet le 1<sup>er</sup> janvier 2023 afin de pourvoir les sièges laissés vacants par les pays ci‑après, membres sortants : <inline name="smallCaps" style="font-variant:small-caps">Afrique du Sud,</inline> <inline name="smallCaps" style="font-variant:small-caps">Br</inline><inline name="smallCaps" style="font-variant:small-caps">és</inline><inline name="smallCaps" style="font-variant:small-caps">il, Costa Rica, </inline><inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">gypt</inline><inline name="smallCaps" style="font-variant:small-caps">e </inline>et <inline name="smallCaps" style="font-variant:small-caps">Liban</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+        <p xml:space="preserve">	Conformément aux alinéas a) à d) du paragraphe 4 de la résolution <a href="https://undocs.org/fr/A/RES/60/180">60/180</a>, 26 États ont déjà été élus ou nommés membres du Comité d’organisation de la Commission de consolidation de la paix : <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">ulgari</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline> et <inline name="smallCaps" style="font-variant:small-caps">République dominicaine, </inline>élues par l’Assemblée<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Voir décision 76/412.</p></authorialNote> ; <inline name="smallCaps" style="font-variant:small-caps">Chin</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Équateur, </inline><inline name="smallCaps" style="font-variant:small-caps">États-Unis d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Amérique, </inline><inline name="smallCaps" style="font-variant:small-caps">Fédération de Russie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">France</inline><inline name="smallCaps" style="font-variant:small-caps">, Mozambique</inline> et <inline name="smallCaps" style="font-variant:small-caps">Royaume-Uni de Grande-Bretagne et d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Irlande du Nord</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>choisis par le Conseil de sécurité<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Voir <a href="https://undocs.org/fr/S/2023/37">S/2023/37</a>.</p></authorialNote> ; <inline name="smallCaps" style="font-variant:small-caps">Brésil</inline><inline name="smallCaps" style="font-variant:small-caps">, Croati</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Danemark</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Italie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Nigéria</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Pérou </inline>et <inline name="smallCaps" style="font-variant:small-caps">République de Corée, </inline>élus par le Conseil économique et social<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> Voir décisions 2022/206 C et D et 2023/208 du Conseil économique et social.</p></authorialNote> ; <inline name="smallCaps" style="font-variant:small-caps">Allemagne,</inline> <inline name="smallCaps" style="font-variant:small-caps">Canada, </inline><inline name="smallCaps" style="font-variant:small-caps">Japon, Norvège </inline>et <inline name="smallCaps" style="font-variant:small-caps">Suède</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>choisis parmi eux par les 10 pays dont les contributions au budget de l’Organisation des Nations Unies et les contributions volontaires aux fonds, aux programmes et aux organismes des Nations Unies, dont un fonds permanent pour la consolidation de la paix, sont les plus importantes<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> Voir <a href="https://undocs.org/fr/A/77/652">A/77/652</a>.</p></authorialNote> ; <inline name="smallCaps" style="font-variant:small-caps">Bangladesh, </inline><inline name="smallCaps" style="font-variant:small-caps">É</inline><inline name="smallCaps" style="font-variant:small-caps">thiopi</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, Ind</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Népal </inline>et <inline name="smallCaps" style="font-variant:small-caps">Rwanda</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline>choisis parmi eux par les 10 principaux pays fournisseurs de contingents et de personnel de police civile aux missions des Nations Unies<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> Voir <a href="https://undocs.org/fr/A/77/650">A/77/650</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> En conséquence, au 1<sup>er</sup> janvier 2023, le Comité d’organisation de la Commission de consolidation de la paix se compose des 31 États Membres suivants : <inline name="smallCaps" style="font-variant:small-caps">Afrique du Sud</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Allemagne</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">B</inline><inline name="smallCaps" style="font-variant:small-caps">angladesh***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Brésil</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Bulgarie</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Canada***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Chine</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Croatie</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Danemark</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Égypte</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Équateur</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">États-Unis d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Amérique</inline>*, <inline name="smallCaps" style="font-variant:small-caps">Éthiopie</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Fédération de Russie</inline><inline name="smallCaps" style="font-variant:small-caps">*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">France*</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Inde</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Italie</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Japon</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Kenya***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Mozambique</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Népal</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Nigéria</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Norvège</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Pérou</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Qatar***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">République de Corée</inline><inline name="smallCaps" style="font-variant:small-caps">****</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">République dominicaine</inline><inline name="smallCaps" style="font-variant:small-caps">**</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline> <inline name="smallCaps" style="font-variant:small-caps">Royaume-Uni de Grande-Bretagne et d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Irlande du Nord</inline>*, <inline name="smallCaps" style="font-variant:small-caps">Rwanda***</inline><inline name="smallCaps" style="font-variant:small-caps">,</inline><inline name="smallCaps" style="font-variant:small-caps"> Saint</inline><inline name="smallCaps" style="font-variant:small-caps">-</inline><inline name="smallCaps" style="font-variant:small-caps">Vincent</inline><inline name="smallCaps" style="font-variant:small-caps">-et-</inline><inline name="smallCaps" style="font-variant:small-caps">les </inline><inline name="smallCaps" style="font-variant:small-caps">Grenadines*** </inline>et<inline name="smallCaps" style="font-variant:small-caps"> Suède</inline><inline name="smallCaps" style="font-variant:small-caps">***</inline><inline name="smallCaps" style="font-variant:small-caps">.</inline></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Membres permanents du Conseil de sécurité.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2023.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">****	Mandat venant à expiration le 31 décembre 2024 ou à l’expiration de leur mandat comme membres du Conseil économique et social si celle-ci intervient à une date antérieure.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="56e">56e séance plénière</inline>
+        <eol />
+        <docDate date="2022-12-20" refersTo="#adoptionDate">20 décembre 2022</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
