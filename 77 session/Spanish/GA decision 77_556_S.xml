@@ -1,0 +1,135 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-04-18/77-556/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-04-18/77-556/"></FRBRuri>
+          <FRBRdate date="2023-04-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-04-18/77-556/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-04-18/77-556/spa@/"></FRBRuri>
+          <FRBRdate date="2023-08-04" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-04-18/77-556/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-04-18/77-556/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="15" href="http://metadata.un.org/sdg/15" showAs="sdg_15" dictionary="SDGO"></keyword>
+        <keyword value="land,_plant_and_soil_resources" href="http://metadata.un.org/thesaurus/030600" showAs="land,_plant_and_soil_resources" dictionary="UNBIS"></keyword>
+        <keyword value="deforestation" href="http://eurovoc.europa.eu/339" showAs="deforestation" dictionary="EuroVoc"></keyword>
+        <keyword value="deforestation" href="http://metadata.un.org/thesaurus/1001550" showAs="deforestation" dictionary="UNBIS"></keyword>
+        <keyword value="desertification" href="http://eurovoc.europa.eu/416" showAs="desertification" dictionary="EuroVoc"></keyword>
+        <keyword value="desertification" href="http://metadata.un.org/thesaurus/1001594" showAs="desertification" dictionary="UNBIS"></keyword>
+        <keyword value="biodiversity" href="http://eurovoc.europa.eu/5463" showAs="biodiversity" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Intergovernmental Conference on Marine Biodiversity of Areas Beyond National Jurisdiction (5th sess. : 2022-2023 : New York)" showAs="Intergovernmental Conference on Marine Biodiversity of Areas Beyond National Jurisdiction (5th sess. : 2022-2023 : New York)" dictionary="DHLAUTH"></keyword>
+        <keyword value="Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (2023)" showAs="Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (2023)" dictionary="DHLAUTH"></keyword>
+        <keyword value="LAW OF THE SEA" showAs="LAW OF THE SEA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="INTERNATIONAL INSTRUMENTS" showAs="INTERNATIONAL INSTRUMENTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="MARINE ECOSYSTEMS" showAs="MARINE ECOSYSTEMS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="BIOLOGICAL DIVERSITY" showAs="BIOLOGICAL DIVERSITY" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="NEGOTIATION" showAs="NEGOTIATION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="WORKING GROUPS" showAs="WORKING GROUPS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="72a" showAs="Oceans and the law of the sea." shortForm="LAW OF THE SEA" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-03-29" outcome="draftDecision" as="A/77/L.62" by="Singapore" />
+        <step date="2023-04-18" outcome="adopted" as="A/77/PV.66" by="66ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/556</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="72 a)" name="agenda item">Tema 72 a) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/556.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Conferencia intergubernamental sobre un instrumento internacional jurídicamente vinculante en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar relativo a la conservación y el uso sostenible de la diversidad biológica marina de las zonas situadas fuera de la jurisdicción nacional</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 66<sup>a</sup> sesión plenaria, celebrada el 18 de abril de 2023, la Asamblea General, sobre la base de la propuesta de Singapur<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/L.62">A/77/L.62</a></span>.</p></authorialNote>, recordando su resolución <a href="https://undocs.org/sp/A/RES/72/249">72/249</a>, de 24 de diciembre de 2017, en que decidió convocar una conferencia intergubernamental, bajo los auspicios de las Naciones Unidas, a fin de examinar las recomendaciones del Comité Preparatorio establecido por la resolución <a href="https://undocs.org/sp/A/RES/69/292">69/292</a>, de 19 de junio de 2015, sobre los elementos del texto de un instrumento internacional jurídicamente vinculante en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Naciones Unidas, <span class="italic">Treaty Series</span>, vol. 1834, núm. 31363.</p></authorialNote> relativo a la conservación y el uso sostenible de la diversidad biológica marina de las zonas situadas fuera de la jurisdicción nacional, y de redactar dicho texto, con miras a elaborar el instrumento lo antes posible, su decisión 76/564, de 23 de mayo de 2022, en que decidió convocar un quinto período de sesiones de la conferencia del 15 al 26 de agosto de 2022, y su resolución <a href="https://undocs.org/sp/A/RES/77/248">77/248</a>, de 30 de diciembre de 2022, en que solicitó al Secretario General que organizara la continuación del quinto período de sesiones de la conferencia del 20 de febrero al 3 de marzo de 2023, tomando nota de la decisión de la conferencia, adoptada en la continuación de su quinto período de sesiones, de establecer un grupo de trabajo oficioso de composición abierta encargado de asegurar la uniformidad de la terminología del texto del proyecto de acuerdo en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar relativo a la conservación y el uso sostenible de la diversidad biológica marina de las zonas situadas fuera de la jurisdicción nacional ultimado en ese período de sesiones y de armonizar las versiones en los seis idiomas oficiales de las Naciones Unidas, y tomando nota también de la decisión de la conferencia de reanudar sus sesiones en una fecha posterior, una vez que el grupo de trabajo oficioso de composición abierta hubiera concluido su labor, con miras a adoptar el Acuerdo, solicitó al Secretario General que proporcionase el apoyo y los servicios necesarios al grupo de trabajo oficioso de composición abierta y organizase una nueva continuación del quinto período de sesiones de la conferencia los días 19 y 20 de junio de 2023, provisionalmente, o en una fecha que se determinase en consulta con la Presidenta de la conferencia y que no coincidiera con ninguna sesión plenaria de la Asamblea General, y que le proporcionase servicios de conferencias completos.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="66ª">66ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2023-04-18" refersTo="#adoptionDate">18 de abril de 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

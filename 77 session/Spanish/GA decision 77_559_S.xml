@@ -1,0 +1,194 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/"></FRBRuri>
+          <FRBRdate date="2023-06-29" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/spa@/"></FRBRuri>
+          <FRBRdate date="2023-08-07" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-07" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Open-ended Working Group on the Question of Equitable Representation on and Increase in the Membership of the Security Council and Other Matters related to the Security Council" showAs="UN. General Assembly. Open-ended Working Group on the Question of Equitable Representation on and Increase in the Membership of the Security Council and Other Matters related to the Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="125" showAs="Question of equitable representation on and increase in the membership of the Security Council and other matters related to the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERSHIP" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-29" outcome="adopted" as="A/77/PV.85" by="85ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/559</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="125" name="agenda item">Tema 125 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/559.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Cuestión de la representación equitativa en el Consejo de Seguridad y el aumento del número de sus miembros y otros asuntos relativos al Consejo de Seguridad</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">
+            <span class="bold">Cuestión de la representación equitativa en el Consejo de Seguridad y el aumento del número de sus miembros y otros asuntos relativos al Consejo de Seguridad</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En su 85ª sesión plenaria, celebrada el 29 de junio de 2023, la Asamblea General, a propuesta de su Presidencia: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> Decidió reafirmar el papel central que tiene la Asamblea General sobre la cuestión de la representación equitativa en el Consejo de Seguridad y el aumento del número de sus miembros y otros asuntos relativos al Consejo de Seguridad y el compromiso contraído por los Jefes de Estado y de Gobierno que representan a los pueblos del mundo de infundir nueva vida a los debates sobre la reforma del Consejo de Seguridad; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_4__content">
+          <p xml:space="preserve"> Decidió continuar de inmediato las negociaciones intergubernamentales sobre la reforma del Consejo de Seguridad en sesión plenaria oficiosa de la Asamblea General en su septuagésimo octavo período de sesiones, con arreglo a lo establecido en las decisiones de la Asamblea 62/557, de 15 de septiembre de 2008, 63/565 B, de 14 de septiembre de 2009, 64/568, de 13 de septiembre de 2010, 65/554, de 12 de septiembre de 2011, 66/566, de 13 de septiembre de 2012, 67/561, de 29 de agosto de 2013, 68/557, de 8 de septiembre de 2014, 69/560, de 14 de septiembre de 2015, 70/559, de 27 de julio de 2016, 71/553, de 19 de julio de 2017, 72/557, de 29 de junio de 2018, 73/554, de 25 de junio de 2019, 74/569, de 31 de agosto de 2020, 75/569, de 22 de junio de 2021, y 76/572, de 12 de julio de 2022, sobre la base de las sesiones oficiosas celebradas durante su septuagésimo séptimo período de sesiones, como se refleja en la carta de las Copresidentas de fecha 2 de junio de 2023, y basándose en el documento revisado en que las Copresidentas presentaron elementos comunes de convergencia y divergencia relativos a la cuestión de la representación equitativa en el Consejo de Seguridad y el aumento del número de sus miembros y cuestiones conexas, distribuido el 5 de junio de 2023, así como en las posturas y las propuestas formuladas por los Estados Miembros, que figuran en el texto y su anexo distribuidos el 31 de julio de 2015, para ayudar a fundamentar su labor futura; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <num>c)</num>
+        <content eId="para_6__content">
+          <p xml:space="preserve"> Acogió con beneplácito las iniciativas dinámicas y los esfuerzos intensos de la Presidencia de la Asamblea General para alentar la participación y tomó nota con reconocimiento del papel activo y los esfuerzos concretos de las Copresidencias efectuados en forma consultiva con miras a una pronta reforma integral del Consejo de Seguridad; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <num>d)</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve"> Acogió con beneplácito el acuerdo entre los Estados Miembros para mejorar la transparencia y la inclusividad del proceso mediante la introducción de la transmisión web para el primer segmento (debate) de las negociaciones intergubernamentales, mientras que el segundo segmento (debate interactivo) permanecería cerrado, así como el establecimiento de un sitio web específico que funcionaría como repositorio de las grabaciones de las transmisiones web, cartas, decisiones y otros documentos relacionados con el proceso de negociaciones intergubernamentales, así como enlaces a las declaraciones de los Estados Miembros, mencionado en la carta de las Copresidencias de fecha 3 de marzo de 2023; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <num>e)</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve"> Decidió que el Grupo de Trabajo de Composición Abierta sobre la Cuestión de la Representación Equitativa en el Consejo de Seguridad y el Aumento del Número de sus Miembros y Otros Asuntos relativos al Consejo de Seguridad se reuniera durante el septuagésimo octavo período de sesiones de la Asamblea General si así lo decidían los Estados Miembros; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <num>f)</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve"> Decidió también incluir en el programa de su septuagésimo octavo período de sesiones el tema titulado “Cuestión de la representación equitativa en el Consejo de Seguridad y el aumento del número de sus miembros y otros asuntos relativos al Consejo de Seguridad”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="85ª">85ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2023-06-29" refersTo="#adoptionDate">29 de junio de 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

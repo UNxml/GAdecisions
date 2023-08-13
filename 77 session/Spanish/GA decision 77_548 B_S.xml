@@ -1,0 +1,251 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-04-18/77-548B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-04-18/77-548B/"></FRBRuri>
+          <FRBRdate date="2023-04-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-04-18/77-548B/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-04-18/77-548B/spa@/"></FRBRuri>
+          <FRBRdate date="2023-08-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-04-18/77-548B/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-04-18/77-548B/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH"> 
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH" showAs="UN. General Assembly (77th sess. : 2022-2023)"/>
+        <keyword value="136" dictionary="A/77/251" showAs="Review of the efficiency of the administrative and financial functioning of the United Nations." shortForm="UN--ADMINISTRATION" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-04-18" outcome="adopted" by="66ª" as="A/77/PV.66"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/548 B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Quinta Comisión</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="136" name="agenda item">Tema 136 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/548.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Cuestiones cuyo examen queda aplazado para una fecha futura</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> La decisión 77/548, que figura en la sección B.6 de los <span class="italic">Documentos Oficiales de la Asamblea General, septuagésimo séptimo período de sesiones, suplemento núm. 49</span> (<span class="underline"><a href="https://undocs.org/sp/A/77/49">A/77/49</a></span>), vol. II, pasa a ser la decisión 77/548 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 66ª sesión plenaria, celebrada el 18 de abril de 2023, la Asamblea General, por recomendación de la Quinta Comisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/673/Add.1">A/77/673/Add.1</a></span>, párr. 9.</p></authorialNote>,</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">
+            <span class="bold">Sección A</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	Decidió aplazar hasta la segunda parte de la continuación de su septuagésimo séptimo período de sesiones el examen de los documentos siguientes: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Tema 136</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">
+            <span class="italic">Examen de la eficiencia del funcionamiento administrativo y financiero de las Naciones Unidas</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">
+            <span class="italic">Invertir en la prevención y la consolidación de la paz</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">Informe del Secretario General sobre la inversión en la prevención y la consolidación de la paz<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/76/732">A/76/732</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">Informe conexo de la Comisión Consultiva en Asuntos Administrativos y de Presupuesto<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/76/821">A/76/821</a></span>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="bold">Sección B</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve">	Decidió aplazar hasta la parte principal de su septuagésimo octavo período de sesiones el examen de los documentos siguientes: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="MercuryDocument">
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Tema 138</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Presupuesto por programas para 2023</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Planificación de las inversiones de capital</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <content eId="para_14__content">
+          <p xml:space="preserve">Informe del Secretario General sobre la planificación de las inversiones de capital<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/519">A/77/519</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="MercuryDocument">
+        <content eId="para_15__content">
+          <p xml:space="preserve">Informe conexo de la Comisión Consultiva en Asuntos Administrativos y de Presupuesto<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/7/Add.23">A/77/7/Add.23</a></span>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Estrategia de tecnología de la información y las comunicaciones</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <content eId="para_17__content">
+          <p xml:space="preserve">Informe del Secretario General sobre la estrategia de tecnología de la información y las comunicaciones<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/489">A/77/489</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <content eId="para_18__content">
+          <p xml:space="preserve">Informe conexo de la Comisión Consultiva en Asuntos Administrativos y de Presupuesto<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/7/Add.22">A/77/7/Add.22</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="MercuryDocument">
+        <content eId="para_19__content">
+          <p xml:space="preserve">Nota del Secretario General por la que se señala el informe de la Dependencia Común de Inspección titulado “La ciberseguridad en las organizaciones del sistema de las Naciones Unidas”<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/88">A/77/88</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="MercuryDocument">
+        <content eId="para_20__content">
+          <p xml:space="preserve">Nota del Secretario General por la que se transmiten sus observaciones y las de la Junta de los Jefes Ejecutivos del Sistema de las Naciones Unidas para la Coordinación sobre el informe de la Dependencia Común de Inspección titulado “La ciberseguridad en las organizaciones del sistema de las Naciones Unidas”<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/88/Add.1">A/77/88/Add.1</a></span>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="66ª">66ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2023-04-18" refersTo="#adoptionDate">18 de abril de 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
