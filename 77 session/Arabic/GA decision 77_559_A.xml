@@ -1,0 +1,187 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/"></FRBRuri>
+          <FRBRdate date="2023-06-29" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/ara@/"></FRBRuri>
+          <FRBRdate date="2023-08-07" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-29/77-559/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-07" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Open-ended Working Group on the Question of Equitable Representation on and Increase in the Membership of the Security Council and Other Matters related to the Security Council" showAs="UN. General Assembly. Open-ended Working Group on the Question of Equitable Representation on and Increase in the Membership of the Security Council and Other Matters related to the Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="125" showAs="Question of equitable representation on and increase in the membership of the Security Council and other matters related to the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERSHIP" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-29" outcome="adopted" as="A/77/PV.85" by="85" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/559</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="125" name="agenda item">البند 125 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/559</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">مسألة التمثيل العادل في مجلس الأمن وزيادة عدد أعضائه والمسائل الأخرى المتصلة بمجلس الأمن</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	قامت الجمعية العامة، في الجلسة العامة 85 المعقودة في 29 حزيران/يونيه 2023، بناء على اقتراح رئيسها، بما يلي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	قررت أن تعيد تأكيد الدور المحوري للجمعية العامة فيما يتعلق بمسألة التمثيل العادل في مجلس الأمن وزيادة عدد أعضائه والمسائل الأخرى المتصلة بمجلس الأمن، والتزام رؤساء الدول والحكومات الذين يمثلون شعوب العالم ببث زخم جديد في المناقشات المتعلقة بإصلاح مجلس الأمن؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	قررت أن تواصل على الفور المفاوضات الحكومية الدولية بشأن إصلاح مجلس الأمن في جلسة عامة غير رسمية للجمعية العامة في دورتها الثامنة والسبعين، حسب التكليف الصادر عن الجمعية في مقرراتها 62/557 المؤرخ 15 أيلول/سبتمبر 2008 و 63/565 باء المؤرخ 14 أيلول/سبتمبر 2009 و 64/568 المؤرخ 13 أيلول/سبتمبر 2010 و 65/554 المؤرخ 12 أيلول/سبتمبر 2011 و 66/566 المؤرخ 13 أيلول/سبتمبر 2012 و 67/561 المؤرخ 29 آب/أغسطس 2013 و 68/557 المؤرخ 8 أيلول/سبتمبر 2014 و 69/560 المؤرخ 14 أيلول/سبتمبر 2015 و 70/559 المؤرخ 27 تموز/يوليه 2016 و 71/553 المؤرخ 19 تموز/يوليه 2017 و 72/557 المؤرخ 29 حزيران/يونيه 2018 و 73/554 المؤرخ 25 حزيران/يونيه 2019 و 74/569 المؤرخ 31 آب/أغسطس 2020 و 75/569 المؤرخ 22 حزيران/يونيه 2021 و 76/572 المؤرخ 12 تموز/يوليه 2022، استنادا إلى الاجتماعات غير الرسمية التي عقدت أثناء دورتها السابعة والسبعين، على النحو الوارد في الرسالة المؤرخة 2 حزيران/يونيه 2023 الموجهة من الرئيستين المشاركتين، وإلى الوثيقة المعنونة ”ورقة العناصر المنقحة التي أعدتها الرئيستان المشاركتان عن أوجه التقارب والاختلاف بشأن مسألة التمثيل العادل في مجلس الأمن وزيادة عدد أعضائه والمسائل ذات الصلة“ التي عُممت في 5 حزيران/يونيه 2023، وكذلك مواقف ومقترحات الدول الأعضاء، الواردة في النص المعمم هو ومرفقه في 31 تموز/يوليه 2015، وذلك للمساعدة في إثراء أعمالها في المستقبل؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	رحبت بالمشاركة النشطة لرئيس الجمعية العامة وبمبادراته وجهوده المكثفة، ولاحظت مع التقدير الدور الفعال الذي تضطلع به الرئيستان المشاركتان والجهود الملموسة التي تبذلانها بطريقة تشاورية بهدف التوصل في وقت مبكر إلى إصلاح شامل لمجلس الأمن؛ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">	رحبت بالاتفاق بين الدول الأعضاء على تعزيز شفافية العملية وشموليتها عن طريق البث الشبكي للجزء الأول (المناقشة) من اجتماعات المفاوضات الحكومية الدولية، مع بقاء الجزء الثاني (المناقشة التحاورية) مغلقا، فضلا عن إنشاء موقع شبكي خاص يكون بمثابة مستودع لتسجيلات البث الشبكي والرسائل والقرارات والوثائق الأخرى ذات الصلة المتعلقة بعملية المفاوضات الحكومية الدولية، وكذلك لروابط بيانات الدول الأعضاء، على النحو المشار إليه في رسالة الرئيستين المشاركتين المؤرخة 3 آذار/مارس 2023؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>(هـ)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">	قررت عقد اجتماع للفريق العامل المفتوح باب العضوية المعني بمسألة التمثيل العادل في مجلس الأمن وزيادة عدد أعضائه والمسائل الأخرى المتصلة بمجلس الأمن خلال الدورة الثامنة والسبعين للجمعية العامة، إذا ما قررت الدول الأعضاء ذلك؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <num>(و)</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">	قررت أيضا إدراج البند المعنون ”مسألة التمثيل العادل في مجلس الأمن وزيادة عدد أعضائه والمسائل الأخرى المتصلة بمجلس الأمن“ في جدول أعمال الدورة الثامنة والسبعين للجمعية العامة.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="85">الجلسة العامة 85</inline>
+        <eol />
+        <docDate date="2023-06-29" refersTo="#adoptionDate">29 حزيران/يونيه 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
