@@ -1,0 +1,109 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-01-18/77-418/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-01-18/77-418/"></FRBRuri>
+          <FRBRdate date="2023-01-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-01-18/77-418/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-01-18/77-418/rus@/"></FRBRuri>
+          <FRBRdate date="2023-08-22" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-01-18/77-418/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-01-18/77-418/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Andersen, Inger" showAs="Andersen, Inger" dictionary="DHLAUTH"></keyword>
+        <keyword value="UNEP. Executive Director" showAs="UNEP. Executive Director" dictionary="DHLAUTH"></keyword>
+        <keyword value="TOP ECHELON STAFF" showAs="TOP ECHELON STAFF" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="APPOINTMENT OF OFFICIALS" showAs="APPOINTMENT OF OFFICIALS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="117d" showAs="Election of the Executive Director of the United Nations Environment Programme." shortForm="UNEP. EXECUTIVE DIRECTOR--ELECTION" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-01-18" outcome="adopted" as="A/77/PV.57" by="57-е" />
+        <step date="2023-01-18" as="Директора-исполнителя Программы Организации Объединенных Наций по окружающей среде" refersTo="Дания" by="Ингер АНДЕРСЕН" outcome="appointment" akn4un:start="2023-06-15" akn4un:end="2027-06-14"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/418</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#plenaryMeeting">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="117 d)" name="agenda item">Пункт 117 d) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/418.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы Директора-исполнителя Программы Организации Объединенных Наций по окружающей среде </span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 57‑м пленарном заседании 18 января 2023 года Генеральная Ассамблея по предложению Генерального секретаря<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> См. <a href="https://undocs.org/ru/A/77/689">A/77/689</a>.</p></authorialNote> переизбрала г‑жу Ингер <inline name="smallCaps" style="font-variant:small-caps">Андерсен </inline><inline name="smallCaps" style="font-variant:small-caps">(</inline>Дания) Директором-исполнителем Программы Организации Объединенных Наций по окружающей среде на четырехлетний срок полномочий, начинающийся 15 июня 2023 года и заканчивающийся 14 июня 2027 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="57-е">57‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2023-01-18" refersTo="#adoptionDate">18 января 2023 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

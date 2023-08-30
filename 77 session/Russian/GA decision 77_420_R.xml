@@ -1,0 +1,127 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/"></FRBRuri>
+          <FRBRdate date="2023-06-01" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/rus@/"></FRBRuri>
+          <FRBRdate date="2023-08-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/rus@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Vice-President" showAs="UN. General Assembly. Vice-President" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="6" showAs="Election of the Vice-Presidents of the General Assembly." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--VICE-PRESIDENTS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-01" outcome="adopted" as="A/76/PV.74" by="74-е" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="БОЛИВИИ (МНОГОНАЦИОНАЛЬНОЕ ГОСУДАРСТВО)" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ГАМБИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ЗАМБИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ИРАНА (ИСЛАМСКАЯ РЕСПУБЛИКА)" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ИСЛАНДИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="КИТАЯ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="КОНГО" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="МАЛАЙЗИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="МАРОККО" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="НИДЕРЛАНДОВ (КОРОЛЕВСТВО)" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="РОССИЙСКОЙ ФЕДЕРАЦИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="СЕНЕГАЛА" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="СИНГАПУРА" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="СОЕДИНЕННОГО КОРОЛЕВСТВА ВЕЛИКОБРИТАНИИ И СЕВЕРНОЙ ИРЛАНДИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="СОЕДИНЕННЫХ ШТАТОВ АМЕРИКИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="СУРИНАМА" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="УЗБЕКИСТАНА" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="УГАНДЫ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ФРАНЦИИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ШРИ-ЛАНКИ" outcome="composition" />
+        <step date="2023-06-08" as="заместитель Председателя Генеральной Ассамблеи" by="" refersTo="ЭСТОНИИ" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/420</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#plenaryMeeting">пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Семьдесят седьмая сессия</session>
+      </p>
+      <p>
+        <inline title="6" name="agenda item">Пункт 6 повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/420.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы заместителей Председателя Генеральной Ассамблеи на ее семьдесят восьмой сессии</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 74‑м пленарном заседании 1 июня 2023 года Генеральная Ассамблея в соответствии с правилом 30 правил процедуры Ассамблеи и пунктами 2 и 3 приложения к резолюции <a href="https://undocs.org/ru/A/RES/33/138">33/138</a> от 19 декабря 1978 года избрала заместителями Председателя Генеральной Ассамблеи на ее семьдесят восьмой сессии представителей следующего 21 государства-члена: <inline name="smallCaps" style="font-variant:small-caps">Боливии (Многонациональное Государство), Гамбии, Замбии, Ирана (Исламская Республика), Исландии, Китая, Конго, Малайзии, Марокко, Нидерландов (Королевство), Российской Федерации, Сенегала, Сингапура, Соединенного Королевства Великобритании и Северной Ирландии, Соединенных Штатов Америки, Суринама, Узбекистана, Уганды, Франции, Шри‑Ланки </inline>и<inline name="smallCaps" style="font-variant:small-caps"> Эстонии.</inline></p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="74-е">74‑е пленарное заседание</inline>
+        <eol />
+        <docDate date="2023-06-01" refersTo="#adoptionDate">1 июня 2023 года</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
