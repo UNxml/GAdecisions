@@ -1,0 +1,146 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-06/77-421/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-06/77-421/"></FRBRuri>
+          <FRBRdate date="2023-06-06" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-06/77-421/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-06/77-421/eng@/"></FRBRuri>
+          <FRBRdate date="2023-08-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-06/77-421/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-06/77-421/eng@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council" showAs="UN. Security Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="ALGERIA" showAs="ALGERIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="GUYANA" showAs="GUYANA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="REPUBLIC OF KOREA" showAs="REPUBLIC OF KOREA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SIERRA LEONE" showAs="SIERRA LEONE" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="SLOVENIA" showAs="SLOVENIA" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="116a" showAs="Election of non-permanent members of the Security Council." shortForm="UN. SECURITY COUNCIL--MEMBERS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-06" outcome="adopted" as="A/77/PV.75" by="75th" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="ALGERIA" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="CHINA" outcome="composition" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="ECUADOR" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="FRANCE" outcome="composition" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="GUYANA" outcome="composition" akn4un:end="2025-12-31" /> 
+        <step date="2023-06-06" as="Security Council" by="" refersTo="JAPAN" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="MALTA" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="MOZAMBIQUE" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="REPUBLIC OF KOREA" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="RUSSIAN FEDERATION" outcome="composition" /> 
+        <step date="2023-06-06" as="Security Council" by="" refersTo="SIERRA LEONE" outcome="composition" akn4un:end="2025-12-31" />        
+        <step date="2023-06-06" as="Security Council" by="" refersTo="SLOVENIA" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="SWITZERLAND" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-06-06" as="Security Council" by="" refersTo="UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND" outcome="composition" />         
+        <step date="2023-06-06" as="Security Council" by="" refersTo="UNITED STATES OF AMERICA" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/421</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Seventy-seventh session</session>
+      </p>
+      <p>
+        <inline title="116 (a)" name="agenda item">Agenda item 116 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elections and appointments</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/421.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Election of non‑permanent members of the Security Council</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	At its 75th plenary meeting, on 6 June 2023, the General Assembly, in accordance with Article 23 of the Charter of the United Nations, rule 142 of the rules of procedure of the Assembly and paragraph 17 of Assembly resolution <a href="https://undocs.org/en/A/RES/68/307">68/307</a> of 10 September 2014, elected <inline name="smallCaps" style="font-variant:small-caps">Algeria</inline>, <inline name="smallCaps" style="font-variant:small-caps">Guyana</inline>, the <inline name="smallCaps" style="font-variant:small-caps">Republic of Korea</inline>, <inline name="smallCaps" style="font-variant:small-caps">Sierra Leone</inline> and <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">lovenia</inline> as non‑permanent members of the Security Council for a two-year term of office beginning on 1 January 2024 to fill the vacancies occurring on the expiration of the terms of office of <inline name="smallCaps" style="font-variant:small-caps">A</inline><inline name="smallCaps" style="font-variant:small-caps">lbania, Brazil, Gabon, Ghana</inline> and the <inline name="smallCaps" style="font-variant:small-caps">United Arab Emirates</inline>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	As a result, as of 1 January 2024, the Security Council is composed of the following 15 Member States: <inline name="smallCaps" style="font-variant:small-caps">Algeria</inline>,** <inline name="smallCaps" style="font-variant:small-caps">C</inline><inline name="smallCaps" style="font-variant:small-caps">hina</inline><inline name="smallCaps" style="font-variant:small-caps">, E</inline><inline name="smallCaps" style="font-variant:small-caps">cuador</inline>,* <inline name="smallCaps" style="font-variant:small-caps">F</inline><inline name="smallCaps" style="font-variant:small-caps">rance</inline>, <inline name="smallCaps" style="font-variant:small-caps">Guyana</inline>,** <inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">apan</inline><inline name="smallCaps" style="font-variant:small-caps">,* M</inline><inline name="smallCaps" style="font-variant:small-caps">alta</inline><inline name="smallCaps" style="font-variant:small-caps">,* M</inline><inline name="smallCaps" style="font-variant:small-caps">ozambique</inline>,* <inline name="smallCaps" style="font-variant:small-caps">Republic of Korea</inline>,** <inline name="smallCaps" style="font-variant:small-caps">R</inline><inline name="smallCaps" style="font-variant:small-caps">ussian Federation</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Sierra Leone</inline>,** <inline name="smallCaps" style="font-variant:small-caps">Slovenia</inline>,** <inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">witzerland</inline>,* <inline name="smallCaps" style="font-variant:small-caps">U</inline><inline name="smallCaps" style="font-variant:small-caps">nited Kingdom of Great Britain and Northern Ireland</inline> and <inline name="smallCaps" style="font-variant:small-caps">U</inline><inline name="smallCaps" style="font-variant:small-caps">nited States of America</inline><inline name="smallCaps" style="font-variant:small-caps">.</inline> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Term of office expires on 31 December 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Term of office expires on 31 December 2025.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="75th">75th plenary meeting</inline>
+        <eol />
+        <docDate date="2023-06-06" refersTo="#adoptionDate">6 June 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
