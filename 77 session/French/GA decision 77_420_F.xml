@@ -1,0 +1,127 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/"></FRBRuri>
+          <FRBRdate date="2023-06-01" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/fra@/"></FRBRuri>
+          <FRBRdate date="2023-08-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-06-01/77-420/fra@.xml"></FRBRuri>
+          <FRBRdate date="2023-08-23" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Vice-President" showAs="UN. General Assembly. Vice-President" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="6" showAs="Election of the Vice-Presidents of the General Assembly." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--VICE-PRESIDENTS" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-01" outcome="adopted" as="A/77/PV.74" by="74e" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="BOLIVIE (ÉTAT PLURINATIONAL DE)" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="CHINE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="CONGO" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="ESTONIE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="ÉTATS-UNIS D’AMERIQUE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="FEDERATION DE RUSSIE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="FRANCE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="GAMBIE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="IRAN (REPUBLIQUE ISLAMIQUE D’)" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="ISLANDE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="MALAISIE" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="MAROC" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="OUGANDA" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="OUZBEKISTAN" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="PAYS-BAS (ROYAUME DES)" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="ROYAUME-UNI DE GRANDE-BRETAGNE ET D’IRLANDE DU NORD" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="SENEGAL" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="SINGAPOUR" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="SRI LANKA" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="SURINAME" outcome="composition" />
+        <step date="2023-06-01" as="Vice-présidence de l’Assemblée générale" by="" refersTo="ZAMBIE" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/420</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Soixante-dix-septième session</session>
+      </p>
+      <p>
+        <inline title="6" name="agenda item">Point 6 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/420.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Élection à la vice-présidence de la soixante-dix-huitième session de l’Assemblée générale</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> À sa 74<sup>e</sup> séance plénière, le 1<sup>er</sup> juin 2023, l’Assemblée générale, agissant conformément à l’article 30 de son règlement intérieur et aux paragraphes 2 et 3 de l’annexe de sa résolution <a href="https://undocs.org/fr/A/RES/33/138">33/138</a> du 19 décembre 1978, a élu les 21 États Membres ci‑après à la vice-présidence de sa soixante-dix-huitième session : <inline name="smallCaps" style="font-variant:small-caps">Bolivi</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps"> (</inline><inline name="smallCaps" style="font-variant:small-caps">État p</inline><inline name="smallCaps" style="font-variant:small-caps">lurinational</inline><inline name="smallCaps" style="font-variant:small-caps"> de</inline><inline name="smallCaps" style="font-variant:small-caps">), Chin</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, Congo, Estoni</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">États-Unis d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Amérique, </inline><inline name="smallCaps" style="font-variant:small-caps">Fédération de Russie, </inline><inline name="smallCaps" style="font-variant:small-caps">France, Gambi</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Iran (République islamique d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">)</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Islande, Malaisie</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Maroc</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Ouganda, </inline><inline name="smallCaps" style="font-variant:small-caps">Ouzbékistan, </inline><inline name="smallCaps" style="font-variant:small-caps">Pays‑Bas (Royaume des)</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Royaume-Uni de Grande-Bretagne et d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Irlande du Nord, </inline><inline name="smallCaps" style="font-variant:small-caps">S</inline><inline name="smallCaps" style="font-variant:small-caps">é</inline><inline name="smallCaps" style="font-variant:small-caps">n</inline><inline name="smallCaps" style="font-variant:small-caps">é</inline><inline name="smallCaps" style="font-variant:small-caps">gal, </inline><inline name="smallCaps" style="font-variant:small-caps">Singapour</inline><inline name="smallCaps" style="font-variant:small-caps">, Sri Lanka, Suriname</inline> et <inline name="smallCaps" style="font-variant:small-caps">Z</inline><inline name="smallCaps" style="font-variant:small-caps">ambi</inline><inline name="smallCaps" style="font-variant:small-caps">e</inline>.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="74e">74e séance plénière</inline>
+        <eol />
+        <docDate date="2023-06-01" refersTo="#adoptionDate">1er juin 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
