@@ -13,14 +13,14 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/eng@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/eng@/"></FRBRuri>
-          <FRBRdate date="2023-08-03" name="publication"></FRBRdate>
+          <FRBRdate date="2023-09-09" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="eng"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/eng@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/eng@.xml"></FRBRuri>
-          <FRBRdate date="2023-08-03" name="markup"></FRBRdate>
+          <FRBRdate date="2023-09-09" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
@@ -72,19 +72,25 @@
         <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
         <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
       </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH" showAs="UN. General Assembly (77th sess. : 2022-2023)"/>
+        <keyword value="7" dictionary="A/77/251" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" refersTo="agenda"/>
+      </classification>
       <workflow source="#un">
-        <step date="2023-02-06" outcome="adopted" by="58th" as="A/77/PV.58" />
-        <step date="2023-04-18" outcome="adopted" by="66th" as="A/77/PV.66" />
-        <step date="2023-06-08" outcome="adopted" by="77th" as="A/77/PV.77" />
-        <step date="2023-06-14" outcome="adopted" by="79th" as="A/77/PV.79" />
+        <step date="2023-02-06" as="A/77/PV.58" outcome="adopted" by="58th" />
+        <step date="2023-04-18" as="A/77/PV.66"  outcome="adopted" by="66th" />
+        <step date="2023-06-08" as="A/77/PV.77" outcome="adopted" by="77th" />
+        <step date="2023-06-14" as="A/77/PV.79" outcome="adopted" by="79th" />
+        <step date="2023-06-30" as="A/77/PV.87" outcome="adopted" by="87th" />
+        <step date="2023-07-24" as="A/77/PV.93" outcome="adopted" by="93rd" />
       </workflow>
       <analysis source="#un">
-          <parliamentary>
-            <voting>
-              <quorum value=""></quorum>
-            </voting>
-          </parliamentary>
-        </analysis>
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
       <references source="#DGACM">
         <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
         <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
@@ -104,7 +110,7 @@
         </span>
       </p>
       <p class="upperRight">
-        <docNumber refersTo="#symbol">A/DEC/77/505  B</docNumber>
+        <docNumber refersTo="#symbol">A/DEC/77/505 B</docNumber>
       </p>
       <p class="upperLeft">
         <img src="logo-un.jpg"></img>
@@ -130,7 +136,7 @@
       <p>
         <docNumber refersTo="decisionNumber">77/505.</docNumber>
         <docTitle refersTo="#decisionTitle">
-          <span class="bold">Adoption of the agenda and allocation of agenda items</span>
+          <span class="bold">B.	Adoption of the agenda and allocation of agenda items</span>
         </docTitle>
       </p>
       <p>
@@ -138,7 +144,7 @@
           <span class="bold">B</span>
         </docNumber>
         <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
-          <p xml:space="preserve"> Decision 77/505, in section B.1 of the <span class="italic">Official Records of the General Assembly, Seventy-seventh Session, Supplement No. 49</span> (<span class="underline"><a href="https://undocs.org/en/A/77/49(vol.ii)">A/77/49</a></span>), vol. II, becomes decision 77/505 A.</p>
+          <p xml:space="preserve"> Decision 77/505, in section B.1 of the <span class="italic">Official Records of the General Assembly, Seventy-seventh Session, Supplement No. 49 </span>(<span class="underline"><a href="https://undocs.org/en/A/77/49(vol.II)">A/77/49</a></span>), vol. II, becomes decision 77/505 A.</p>
         </authorialNote>
       </p>
     </preface>
@@ -150,17 +156,17 @@
       </paragraph>
       <paragraph eId="para_2" class="MercuryDocument">
         <content eId="para_2__content">
-          <p xml:space="preserve">	At the same meeting, the General Assembly decided to consider directly in plenary meeting agenda item 22 entitled “Eradication of poverty and other development issues”, under heading A (Promotion of sustained economic growth and sustainable development in accordance with the relevant resolutions of the General Assembly and recent United Nations conferences), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/L.43">A/77/L.43</a>.</p></authorialNote></p>
+          <p xml:space="preserve">	At the same meeting, the General Assembly decided to consider directly in plenary meeting agenda item 22 entitled “Eradication of poverty and other development issues”, under heading A (Promotion of sustained economic growth and sustainable development in accordance with the relevant resolutions of the General Assembly and recent United Nations conferences), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/L.43">A/77/L.43</a>.</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_3" class="MercuryDocument">
         <content eId="para_3__content">
-          <p xml:space="preserve">	At its 66th plenary meeting, on 18 April 2023, the General Assembly decided to reopen consideration of sub-item (b) entitled “Appointment of members of the Committee on Contributions” of agenda item 118 entitled “Appointments to fill vacancies in subsidiary organs and other appointments”, under heading I (Organizational, administrative and other matters), and to proceed expeditiously with the consideration of the report of the Fifth Committee.<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/568/Add.1">A/77/568/Add.1</a>.</p></authorialNote></p>
+          <p xml:space="preserve">	At its 66th plenary meeting, on 18 April 2023, the General Assembly decided to reopen consideration of sub‑item (b) entitled “Appointment of members of the Committee on Contributions” of agenda item 118 entitled “Appointments to fill vacancies in subsidiary organs and other appointments”, under heading I (Organizational, administrative and other matters), and to proceed expeditiously with the consideration of the report of the Fifth Committee.<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/568/Add.1">A/77/568/Add.1</a>.</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_4" class="MercuryDocument">
         <content eId="para_4__content">
-          <p xml:space="preserve">	At the same meeting, the General Assembly decided to consider directly in plenary meeting agenda item 18 entitled “Sustainable development”, under heading A (Promotion of sustained economic growth and sustainable development in accordance with the relevant resolutions of the General Assembly and recent United Nations conferences), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/L.60">A/77/L.60</a>.</p></authorialNote> </p>
+          <p xml:space="preserve">	At the same meeting, the General Assembly decided to consider directly in plenary meeting agenda item 18 entitled “Sustainable development”, under heading A (Promotion of sustained economic growth and sustainable development in accordance with the relevant resolutions of the General Assembly and recent United Nations conferences), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/L.60">A/77/L.60</a>.</p></authorialNote> </p>
         </content>
       </paragraph>
       <paragraph eId="para_5" class="MercuryDocument">
@@ -173,6 +179,16 @@
           <p xml:space="preserve">	At its 79th plenary meeting, on 14 June 2023, the General Assembly decided to consider directly in plenary meeting agenda item 48 entitled “Comprehensive review of the whole question of peacekeeping operations in all their aspects”, under heading B (Maintenance of international peace and security), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/L.75">A/77/L.75</a>.</p></authorialNote> </p>
         </content>
       </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">	At its 87th plenary meeting, on 30 June 2023, the General Assembly decided to reopen consideration of sub‑item (a) entitled “Appointment of members of the Advisory Committee on Administrative and Budgetary Questions” of agenda item 118 entitled “Appointments to fill vacancies in subsidiary organs and other appointments”, under heading I (Organizational, administrative and other matters), and to proceed expeditiously with the consideration of the report of the Fifth Committee.<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/567/Add.1">A/77/567/Add.1</a>.</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">	At its 93rd plenary meeting, on 24 July 2023, the General Assembly decided to reopen consideration of agenda item 68 entitled “Promotion and protection of human rights”, under heading D (Promotion of human rights), and to proceed expeditiously with the consideration of a draft resolution.<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/en/A/77/L.81">A/77/L.81</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
@@ -180,11 +196,15 @@
         <inline name="adoptionMeeting" title="66th">66th plenary meeting</inline>
         <inline name="adoptionMeeting" title="77th">77th plenary meeting</inline>
         <inline name="adoptionMeeting" title="79th">79th plenary meeting</inline>
+        <inline name="adoptionMeeting" title="87th">87th plenary meeting</inline>
+        <inline name="adoptionMeeting" title="93rd">93rd plenary meeting</inline>
         <eol />
         <docDate date="2023-02-06" refersTo="#adoptionDate">6 February 2023</docDate>
         <docDate date="2023-04-18" refersTo="#adoptionDate">18 April 2023</docDate>
         <docDate date="2023-06-08" refersTo="#adoptionDate">8 June 2023</docDate>
         <docDate date="2023-06-14" refersTo="#adoptionDate">14 June 2023</docDate>
+        <docDate date="2023-06-30" refersTo="#adoptionDate">30 June 2023</docDate>
+        <docDate date="2023-07-24" refersTo="#adoptionDate">24 July 2023</docDate>
       </p>
     </conclusions>
   </statement>
