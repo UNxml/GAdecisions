@@ -13,14 +13,14 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/fra@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/fra@/"></FRBRuri>
-          <FRBRdate date="2023-08-03" name="publication"></FRBRdate>
+          <FRBRdate date="2023-09-09" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="fra"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/fra@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/fra@.xml"></FRBRuri>
-          <FRBRdate date="2023-08-03" name="markup"></FRBRdate>
+          <FRBRdate date="2023-09-09" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
@@ -72,11 +72,17 @@
         <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
         <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
       </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH" showAs="UN. General Assembly (77th sess. : 2022-2023)"/>
+        <keyword value="7" dictionary="A/77/251" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" refersTo="agenda"/>
+      </classification>
       <workflow source="#un">
-        <step date="2023-02-06" outcome="adopted" by="58e" as="A/77/PV.58" />
-        <step date="2023-04-18" outcome="adopted" by="66e" as="A/77/PV.66" />
-        <step date="2023-06-08" outcome="adopted" by="77e" as="A/77/PV.77" />
-        <step date="2023-06-14" outcome="adopted" by="79e" as="A/77/PV.79" />
+        <step date="2023-02-06" as="A/77/PV.58" outcome="adopted" by="58e" />
+        <step date="2023-04-18" as="A/77/PV.66" outcome="adopted" by="66e" />
+        <step date="2023-06-08" as="A/77/PV.77" outcome="adopted" by="77e" />
+        <step date="2023-06-14" as="A/77/PV.79" outcome="adopted" by="79e" />
+        <step date="2023-06-30" as="A/77/PV.87" outcome="adopted" by="87e" />
+        <step date="2023-07-24" as="A/77/PV.93" outcome="adopted" by="93e" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -104,7 +110,7 @@
         </span>
       </p>
       <p class="upperRight">
-        <docNumber refersTo="#symbol">A/DEC/77/505  B</docNumber>
+        <docNumber refersTo="#symbol">A/DEC/77/505 B</docNumber>
       </p>
       <p class="upperLeft">
         <img src="logo-un.jpg"></img>
@@ -130,7 +136,7 @@
       <p>
         <docNumber refersTo="decisionNumber">77/505.</docNumber>
         <docTitle refersTo="#decisionTitle">
-          <span class="bold">Adoption de l’ordre du jour et répartition des questions inscrites à l’ordre du jour</span>
+          <span class="bold">B.	Adoption de l’ordre du jour et répartition des questions inscrites à l’ordre du jour</span>
         </docTitle>
       </p>
       <p>
@@ -173,6 +179,16 @@
           <p xml:space="preserve"> À sa 79<sup>e</sup> séance plénière, le 14 juin 2023, l’Assemblée générale a décidé d’examiner directement en séance plénière le point 48 de l’ordre du jour intitulé « Étude d’ensemble de toute la question des opérations de maintien de la paix sous tous leurs aspects », sous le titre B (Maintien de la paix et de la sécurité internationales), et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/77/L.75">A/77/L.75</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve"> À sa 87<sup>e</sup> séance plénière, le 30 juin 2023, l’Assemblée générale a décidé de reprendre l’examen de l’alinéa a) intitulé « Nomination de membres du Comité consultatif pour les questions administratives et budgétaires » du point 118 de l’ordre du jour intitulé « Nominations aux sièges devenus vacants dans les organes subsidiaires et autres nominations », sous le titre I (Questions d’organisation, questions administratives et autres questions), et de procéder sans délai à l’examen du rapport de la Cinquième Commission<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/77/567/Add.1">A/77/567/Add.1</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve"> À sa 93<sup>e</sup> séance plénière, le 24 juillet 2023, l’Assemblée générale a décidé de reprendre l’examen du point 68 de l’ordre du jour intitulé « Promotion et protection des droits humains », sous le titre D (Promotion des droits humains), et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/77/L.81">A/77/L.81</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
@@ -180,11 +196,15 @@
         <inline name="adoptionMeeting" title="66e">66e séance plénière</inline>
         <inline name="adoptionMeeting" title="77e">77e séance plénière</inline>
         <inline name="adoptionMeeting" title="79e">79e séance plénière</inline>
+        <inline name="adoptionMeeting" title="87e">87e séance plénière</inline>
+        <inline name="adoptionMeeting" title="93e">93e séance plénière</inline>
         <eol />
         <docDate date="2023-02-06" refersTo="#adoptionDate">6 février 2023</docDate>
         <docDate date="2023-04-18" refersTo="#adoptionDate">18 avril 2023</docDate>
         <docDate date="2023-06-08" refersTo="#adoptionDate">8 juin 2023</docDate>
         <docDate date="2023-06-14" refersTo="#adoptionDate">14 juin 2023</docDate>
+        <docDate date="2023-06-30" refersTo="#adoptionDate">30 juin 2023</docDate>
+        <docDate date="2023-07-24" refersTo="#adoptionDate">24 juillet 2023</docDate>
       </p>
     </conclusions>
   </statement>
