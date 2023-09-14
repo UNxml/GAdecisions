@@ -1,0 +1,127 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga//77-538B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga//77-538B/"></FRBRuri>
+          <FRBRdate date="2023-07-24" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga//77-538B/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga//77-538B/zho@/"></FRBRuri>
+          <FRBRdate date="2023-09-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga//77-538B/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga//77-538B/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-09-13" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="11" href="http://metadata.un.org/sdg/11" showAs="sdg_11" dictionary="SDGO"></keyword>
+        <keyword value="cities" href="http://metadata.un.org/thesaurus/1000995" showAs="cities" dictionary="UNBIS"></keyword>
+        <keyword value="human_settlements" href="http://metadata.un.org/thesaurus/1002986" showAs="human_settlements" dictionary="UNBIS"></keyword>
+        <keyword value="urban_area" href="http://eurovoc.europa.eu/4809" showAs="urban_area" dictionary="EuroVoc"></keyword>
+        <keyword value="urban_area" href="http://metadata.un.org/thesaurus/1006809" showAs="urban_area" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. 2nd Committee" dictionary="DHLAUTH" showAs="UN. General Assembly. 2nd Committee"/>
+        <keyword value="124" dictionary="A/77/251" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-23" as="A/C.2/77/L.78" by="submitted by the Bureau" outcome="draftDecision"/>
+        <step date="2023-07-24" outcome="adopted" by="93" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/538 B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#secondCommittee">第二委员会</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">议程项目124</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/538.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">振兴第二委员会的工作</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> 《大会正式记录，第七十七届会议，补编第49号》(<span class="underline"><a href="https://undocs.org/ch/A/77/49">A/77/49</a></span>)第二卷B.4节中的第77/538号决定成为第77/538A号决定。</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2023年7月24日，大会第93次全体会议根据第二委员会的建议，<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/451/Add.1">A/77/451/Add.1</a></span>，第7段。</p></authorialNote> 回顾其2021年9月10日第<a href="https://undocs.org/ch/A/RES/75/325">75/325</a>号决议，特别是有关工作方法的规定、其2020年8月11日第74/537 B号和2021年7月29日第75/548 B号决定，以及根据2022年12月14日第77/538 A号决定于2023年5月26日举行的关于振兴第二委员会工作的非正式对话，注意到振兴大会工作特设工作组正在进行的协商，表示注意到第二委员会主席团编写的关于委员会工作方法的最新会议室文件(<a href="https://undocs.org/ch/A/C.2/77/CRP.3">A/C.2/77/CRP.3</a>)，并请第二委员会主席团在大会第七十八届会议期间进一步更新该文件，同时考虑到委员会在第七十八届会议主要会期的工作以及特设工作组将要提供的任何指导。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第93次">第93次全体会议</inline>
+        <eol />
+        <docDate date="2023-07-24" refersTo="#adoptionDate">2023年7月24日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
