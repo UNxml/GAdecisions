@@ -13,14 +13,14 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/ara@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/ara@/"></FRBRuri>
-          <FRBRdate date="2023-08-03" name="publication"></FRBRdate>
+          <FRBRdate date="2023-09-09" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="ara"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/ara@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/ara@.xml"></FRBRuri>
-          <FRBRdate date="2023-08-03" name="markup"></FRBRdate>
+          <FRBRdate date="2023-09-09" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
@@ -72,11 +72,17 @@
         <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
         <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
       </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH" showAs="UN. General Assembly (77th sess. : 2022-2023)"/>
+        <keyword value="7" dictionary="A/77/251" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" refersTo="agenda"/>
+      </classification>
       <workflow source="#un">
-        <step date="2023-02-06" outcome="adopted" by="58" as="A/77/PV.58" />
-        <step date="2023-04-18" outcome="adopted" by="66" as="A/77/PV.66" />
-        <step date="2023-06-08" outcome="adopted" by="77" as="A/77/PV.77" />
-        <step date="2023-06-14" outcome="adopted" by="79" as="A/77/PV.79" />
+        <step date="2023-02-06" as="A/77/PV.58" outcome="adopted" by="58" />
+        <step date="2023-04-18" as="A/77/PV.66" outcome="adopted" by="66" />
+        <step date="2023-06-08" as="A/77/PV.77" outcome="adopted" by="77" />
+        <step date="2023-06-14" as="A/77/PV.79" outcome="adopted" by="79" />
+        <step date="2023-06-30" as="A/77/PV.87" outcome="adopted" by="87" />
+        <step date="2023-07-24" as="A/77/PV.93" outcome="adopted" by="93" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -130,49 +136,59 @@
       <p>
         <docNumber refersTo="decisionNumber">77/505</docNumber>
         <docTitle refersTo="#decisionTitle">
-          <span class="bold">إقرار جدول الأعمال وتوزيع بنود جدول الأعمال</span>
+          <span class="bold">	إقرار جدول الأعمال وتوزيع بنود جدول الأعمال</span>
         </docTitle>
       </p>
       <p>
         <docNumber refersTo="#letter">
-          <span class="bold">باء</span>
+          <span class="bold">		باء</span>
         </docNumber>
         <sup>(</sup>
         <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
-          <p xml:space="preserve">()	يصبح المقرر 77/505، الوارد في الفرع باء-1 من الوثائق الرسمية للجمعية العامة، الدورة السابعة والسبعون، الملحق رقم 49 (<a href="https://undocs.org/ar/A/77/49">A/77/49</a>)، المجلد الثاني، المقرر 77/505 ألف.</p>
+          <p xml:space="preserve">	()	يصبح المقرر 77/505 الوارد في الفرع باء-1 من <span class="italic">الوثائق الرسمية للجمعية العامة، الدورة السابعة والسبعون، الملحق رقم 49</span> (<span class="underline"><a href="https://undocs.org/ar/A/77/49">A/77/49</a></span>)، المجلد الثاني، المقرر 77/505 ألف.</p>
         </authorialNote>
         <sup>)</sup>
       </p>
     </preface>
     <mainBody>
-      <paragraph eId="para_1" class="MercuryDocument">
+      <paragraph eId="para_1" class="SingleTxt">
         <content eId="para_1__content">
-          <p xml:space="preserve">	قررت الجمعية العامة، في جلستها العامة 58 (المستأنفة) المعقودة في 6 شباط/فبراير 2023، أن تنظر مباشرة في جلسة عامة في البند الفرعي (أ) المعنون ”متابعة مؤتمر الأمم المتحدة الخامس المعني بأقل البلدان نمواً“ من البند 21 من جدول الأعمال المعنون ”مجموعات البلدان التي تواجه أوضاعا خاصة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع مقرر<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">()	<a href="https://undocs.org/ar/A/77/L.50">A/77/L.50</a>.</p></authorialNote><sup>)</sup>.</p>
+          <p xml:space="preserve">	قررت الجمعية العامة، في جلستها العامة 58 (المستأنفة)، المعقودة في 6 شباط/فبراير 2023، أن تنظر مباشرة في جلسة عامة في البند الفرعي (أ) المعنون ”متابعة مؤتمر الأمم المتحدة الخامس المعني بأقل البلدان نمواً“ من البند 21 من جدول الأعمال المعنون ”مجموعات البلدان التي تواجه أوضاعا خاصة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع مقرر<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/L.50">A/77/L.50</a>.</p></authorialNote><sup>)</sup>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_2" class="MercuryDocument">
+      <paragraph eId="para_2" class="SingleTxt">
         <content eId="para_2__content">
-          <p xml:space="preserve">	وفي الجلسة نفسها، قررت الجمعية العامة أن تنظر مباشرة في جلسة عامة في البند 22 من جدول الأعمال المعنون ”القضاء على الفقر وقضايا إنمائية أخرى“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">()	<a href="https://undocs.org/ar/A/77/L.43">A/77/L.43</a>.</p></authorialNote><sup>)</sup>.</p>
+          <p xml:space="preserve">	وفي الجلسة نفسها، قررت الجمعية العامة أن تنظر مباشرة في جلسة عامة في البند 22 من جدول الأعمال المعنون ”القضاء على الفقر وقضايا إنمائية أخرى“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/L.43">A/77/L.43</a>.</p></authorialNote><sup>)</sup>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_3" class="MercuryDocument">
+      <paragraph eId="para_3" class="SingleTxt">
         <content eId="para_3__content">
-          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 66 المعقودة في 18 نيسان/أبريل 2023، أن تعيد فتح باب النظر في البند الفرعي (ب) المعنون ”تعييـن أعضاء في لجنـة الاشتراكات“ من البند 118 من جدول الأعمال المعنون ”تعيينات لملء الشواغر في الأجهزة الفرعية وتعيينات أخرى“، تحت العنوان طاء (المسائل التنظيمية والإدارية والمسائل الأخرى)، وأن تنظر على وجه السرعة في تقرير اللجنة الخامسة<sup>(</sup><authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">()	<a href="https://undocs.org/ar/A/77/568/Add.1">A/77/568/Add.1</a>.</p></authorialNote><sup>)</sup>.</p>
+          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 66، المعقودة في 18 نيسان/أبريل 2023، أن تعيد فتح باب النظر في البند الفرعي (ب) المعنون ”تعييـن أعضاء في لجنـة الاشتراكات“ من البند 118 من جدول الأعمال المعنون ”تعيينات لملء الشواغر في الأجهزة الفرعية وتعيينات أخرى“ تحت العنوان طاء (المسائل التنظيمية والإدارية والمسائل الأخرى)، وأن تنظر على وجه السرعة في تقرير اللجنة الخامسة<sup>(</sup><authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/568/Add.1">A/77/568/Add.1</a>.</p></authorialNote><sup>)</sup>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_4" class="MercuryDocument">
+      <paragraph eId="para_4" class="SingleTxt">
         <content eId="para_4__content">
-          <p xml:space="preserve">	وفي الجلسة نفسها، قررت الجمعية العامة أن تنظر مباشرة في جلسة عامة في البند 18 من جدول الأعمال المعنون ”التنمية المستدامة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">()	<a href="https://undocs.org/ar/A/77/L.60">A/77/L.60</a>.</p></authorialNote><sup>)</sup>. </p>
+          <p xml:space="preserve">	وفي الجلسة نفسها، قررت الجمعية العامة أن تنظر مباشرة في جلسة عامة في البند 18 من جدول الأعمال المعنون ”التنمية المستدامة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/L.60">A/77/L.60</a>.</p></authorialNote><sup>)</sup>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_5" class="MercuryDocument">
+      <paragraph eId="para_5" class="SingleTxt">
         <content eId="para_5__content">
-          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 77 المعقودة في 8 حزيران/يونيه 2023، أن تنظر مباشرة في جلسة عامة في البند الفرعي (ي) المعنون ”مكافحة العواصف الرملية والترابية“ من البند 18 من جدول الأعمال المعنون ”التنمية المستدامة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">()	<a href="https://undocs.org/ar/A/77/L.72">A/77/L.72</a>.</p></authorialNote><sup>)</sup>.</p>
+          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 77، المعقودة في 8 حزيران/يونيه 2023، أن تنظر مباشرة في جلسة عامة في البند الفرعي (ي) المعنون ”مكافحة العواصف الرملية والترابية“ من البند 18 من جدول الأعمال المعنون ”التنمية المستدامة“، تحت العنوان ألف (تحقيق النمو الاقتصادي المطرد والتنمية المستدامة وفقا للقرارات ذات الصلة الصادرة عن الجمعية العامة والمؤتمرات التي عقدتها الأمم المتحدة مؤخرا)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/L.72">A/77/L.72</a>.</p></authorialNote><sup>)</sup>.</p>
         </content>
       </paragraph>
-      <paragraph eId="para_6" class="MercuryDocument">
+      <paragraph eId="para_6" class="SingleTxt">
         <content eId="para_6__content">
-          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 79 المعقودة في 14 حزيران/يونيه 2023، أن تنظر مباشرة في جلسة عامة في البند 48 من جدول الأعمال المعنون ”استعراض شامل لكامل مسألة عمليات حفظ السلام من جميع نواحي هذه العمليات“، تحت العنوان باء (صون السلام والأمن الدوليين)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">()	<a href="https://undocs.org/ar/A/77/L.75">A/77/L.75</a>.</p></authorialNote><sup>)</sup>. </p>
+          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 79، المعقودة في 14 حزيران/يونيه 2023، أن تنظر مباشرة في جلسة عامة في البند 48 من جدول الأعمال المعنون ”استعراض شامل لكامل مسألة عمليات حفظ السلام من جميع نواحي هذه العمليات“، تحت العنوان باء (صون السلم والأمن الدوليين)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/L.75">A/77/L.75</a>.</p></authorialNote><sup>)</sup>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="SingleTxt">
+        <content eId="para_7__content">
+          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 87، المعقودة في 30 حزيران/يونيه 2023، أن تعيد فتح باب النظر في البند الفرعي (أ) المعنون ”تعيين أعضاء في اللجنة الاستشارية لشؤون الإدارة والميزانية“ من البند 118 من جدول الأعمال المعنون ”تعيينات لملء الشواغر في الأجهزة الفرعية وتعيينات أخرى“ تحت العنوان طاء (المسائل التنظيمية والإدارية والمسائل الأخرى)، وأن تنظر على وجه السرعة في تقرير اللجنة الخامسة<sup>(</sup><authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/567/Add.1">A/77/567/Add.1</a>.</p></authorialNote><sup>)</sup>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <content eId="para_8__content">
+          <p xml:space="preserve">	وقررت الجمعية العامة، في جلستها العامة 93، المعقودة في 24 تموز/يوليه 2023، أن تعيد فتح باب النظر في البند 68 من جدول الأعمال المعنون ”تعزيز حقوق الإنسان وحمايتها“، تحت العنوان دال (تعزيز حقوق الإنسان)، وأن تنظر على وجه السرعة في مشروع قرار<sup>(</sup><authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	()	<a href="https://undocs.org/ar/A/77/L.81">A/77/L.81</a>.</p></authorialNote><sup>)</sup>.</p>
         </content>
       </paragraph>
     </mainBody>
@@ -182,11 +198,15 @@
         <inline name="adoptionMeeting" title="66">الجلسة العامة 66</inline>
         <inline name="adoptionMeeting" title="77">الجلسة العامة 77</inline>
         <inline name="adoptionMeeting" title="79">الجلسة العامة 79</inline>
+        <inline name="adoptionMeeting" title="87">الجلسة العامة 87</inline>
+        <inline name="adoptionMeeting" title="93">الجلسة العامة 93</inline>
         <eol />
         <docDate date="2023-02-06" refersTo="#adoptionDate">6 شباط/فبراير 2023</docDate>
         <docDate date="2023-04-18" refersTo="#adoptionDate">18 نيسان/أبريل 2023</docDate>
         <docDate date="2023-06-08" refersTo="#adoptionDate">8 حزيران/يونيه 2023</docDate>
         <docDate date="2023-06-14" refersTo="#adoptionDate">14 حزيران/يونيه 2023</docDate>
+        <docDate date="2023-06-30" refersTo="#adoptionDate">30 حزيران/يونيه 2023</docDate>
+        <docDate date="2023-07-24" refersTo="#adoptionDate">24 تموز/يوليه 2023</docDate>
       </p>
     </conclusions>
   </statement>
