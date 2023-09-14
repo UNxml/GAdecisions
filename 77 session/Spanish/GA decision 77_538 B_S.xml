@@ -1,0 +1,127 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-07-24/77-538B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-07-24/77-538B/"></FRBRuri>
+          <FRBRdate date="2023-07-24" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-07-24/77-538B/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-07-24/77-538B/spa@/"></FRBRuri>
+          <FRBRdate date="2023-09-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-07-24/77-538B/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-07-24/77-538B/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-09-13" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="11" href="http://metadata.un.org/sdg/11" showAs="sdg_11" dictionary="SDGO"></keyword>
+        <keyword value="cities" href="http://metadata.un.org/thesaurus/1000995" showAs="cities" dictionary="UNBIS"></keyword>
+        <keyword value="human_settlements" href="http://metadata.un.org/thesaurus/1002986" showAs="human_settlements" dictionary="UNBIS"></keyword>
+        <keyword value="urban_area" href="http://eurovoc.europa.eu/4809" showAs="urban_area" dictionary="EuroVoc"></keyword>
+        <keyword value="urban_area" href="http://metadata.un.org/thesaurus/1006809" showAs="urban_area" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+       <keyword value="UN. General Assembly. 2nd Committee" dictionary="DHLAUTH" showAs="UN. General Assembly. 2nd Committee"/>
+       <keyword value="124" dictionary="A/77/251" showAs="Revitalization of the work of the General Assembly." shortForm="UN. GENERAL ASSEMBLY--WORK PROGRAMME" refersTo="agenda"/>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-06-23" as="A/C.2/77/L.78" by="submitted by the Bureau" outcome="draftDecision"/>
+        <step date="2023-07-24" outcome="adopted" by="93ª" />
+      </workflow>
+      <analysis source="#un">
+          <parliamentary>
+            <voting outcome="adoptedWithoutVote">
+              <quorum value=""></quorum>
+            </voting>
+          </parliamentary>
+        </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/538 B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#secondCommittee">Segunda Comisión</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">Septuagésimo séptimo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="124" name="agenda item">Tema 124 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/538.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Revitalización de la labor de la Segunda Comisión</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> La decisión 77/538, que figura en la sección B.4 de los <span class="italic">Documentos Oficiales de la Asamblea General, septuagésimo séptimo período de sesiones, suplemento núm. 49</span> (<span class="underline"><a href="https://undocs.org/es/A/77/49(Vol.II)">A/77/49</a></span>), vol. II, pasa a ser la decisión 77/538 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 93ª sesión plenaria, celebrada el 24 de julio de 2023, la Asamblea General, sobre la base de la recomendación de la Segunda Comisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/451/Add.1">A/77/451/Add.1</a>, párr. 7.</p></authorialNote>, recordando su resolución <a href="https://undocs.org/es/A/RES/75/325">75/325</a>, de 10 de septiembre de 2021, en particular las disposiciones relativas a sus métodos de trabajo, y sus decisiones 74/537 B, de 11 de agosto de 2020, y 75/548 B, de 29 de julio de 2021, y el diálogo oficioso sobre la revitalización de la labor de la Segunda Comisión, celebrado el 26 de mayo de 2023, de conformidad con la decisión 77/538 A, de 14 de diciembre de 2022, y observando las consultas que mantiene el Grupo de Trabajo Especial sobre la Revitalización de la Labor de la Asamblea General, tomó nota de la versión actualizada del documento de sesión (<a href="https://undocs.org/sp/A/C.2/77/CRP.3">A/C.2/77/CRP.3</a>) sobre los métodos de trabajo de la Segunda Comisión preparado por la Mesa de la Comisión, y solicitó a la Mesa de la Comisión que, en el septuagésimo octavo período de sesiones de la Asamblea, siguiera actualizando el documento, teniendo en cuenta la labor de la Comisión durante la parte principal de ese período de sesiones, así como cualquier orientación proporcionada por el Grupo de Trabajo Especial.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="93ª">93ª sesión plenaria</inline>
+        <eol />
+        <docDate date="2023-07-24" refersTo="#adoptionDate">24 de julio de 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
