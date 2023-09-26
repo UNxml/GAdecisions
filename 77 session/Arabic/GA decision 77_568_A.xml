@@ -1,0 +1,221 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-01/77-568/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-01/77-568/"></FRBRuri>
+          <FRBRdate date="2023-09-01" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-01/77-568/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-01/77-568/ara@/"></FRBRuri>
+          <FRBRdate date="2023-09-20" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-01/77-568/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-01/77-568/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-09-20" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="hunger" href="http://eurovoc.europa.eu/961" showAs="hunger" dictionary="EuroVoc"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Summit of the Future (2024 : New York)" showAs="Summit of the Future (2024 : New York)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="126a" showAs="Strengthening of the United Nations System." shortForm="UN SYSTEM--STRENGTHENING" dictionary="A/77/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-08-30" outcome="draftDecision" as="A/77/L.109" by="submitted by the President of the General Assembly" />
+        <step date="2023-09-01" outcome="adopted" as="A/77/PV.99" by="99" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/77/568</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">الدورة السابعة والسبعون</session>
+      </p>
+      <p>
+        <inline title="126" name="agenda item">البند 126 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">77/568</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">نطاق مؤتمر القمة المعني بالمستقبل</span>
+        </docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">إن الجمعية العامة، في جلستها العامة 99 المعقودة في 1 أيلول/سبتمبر 2023، وبناء على اقتراح رئيسها<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/ar/A/77/L.109">A/77/L.109</a>.</p></authorialNote>، إذ تعيد تأكيد ميثاق الأمم المتحدة، وإذ تشـــــــير إلى قـــــــرارها <a href="https://undocs.org/ar/A/RES/76/307">76/307</a> المـــــــــؤرخ 8 أيلول/سبتمبر 2022 بشأن طرائق عقد مؤتمر القمة المعني بالمستقبل الذي قررت فيه أن يعتمد مؤتمر القمة المعني بالمستقبل وثيقة ختامية موجزة وعملية المنحى معنونة ”ميثاق من أجل المستقبل“، يتفق عليها مسبقا بتوافق الآراء من خلال مفاوضات حكومية دولية:</p>
+      </formula>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(أ)</num>
+        <list eId="para_2_list">
+          <intro eId="para_2_list_intro">
+            <p xml:space="preserve"> 	قررت أن يشمل نطاق مؤتمر القمة المعني بالمستقبل العناصر التالي بيانها التي يتعين إيرادها في الوثيقة الختامية المعنونة ”ميثاق من أجل المستقبل“، وهي تتألف من مقدمة وخمسة فصول على النحو الآتي:</p>
+          </intro>
+          <point eId="para_2_list_point_’1‘">
+            <num>’1‘</num>
+            <content eId="para_2_list_point_’1‘_content">
+              <p xml:space="preserve">	الفصل الأول - التنمية المستدامة وتمويل التنمية؛</p>
+            </content>
+          </point>
+          <point eId="para_2_list_point_’2‘">
+            <num>’2‘</num>
+            <content eId="para_2_list_point_’2‘_content">
+              <p xml:space="preserve">	الفصل الثاني - السلام والأمن الدوليان؛</p>
+            </content>
+          </point>
+          <point eId="para_2_list_point_’3‘">
+            <num>’3‘</num>
+            <content eId="para_2_list_point_’3‘_content">
+              <p xml:space="preserve"> 	الفصل الثالث - العلم والتكنولوجيا والابتكار والتعاون الرقمي؛</p>
+            </content>
+          </point>
+          <point eId="para_2_list_point_’4‘">
+            <num>’4‘</num>
+            <content eId="para_2_list_point_’4‘_content">
+              <p xml:space="preserve"> 	الفصل الرابع - الشباب والأجيال المقبلة؛</p>
+            </content>
+          </point>
+          <point eId="para_2_list_point_’5‘">
+            <num>’5‘</num>
+            <content eId="para_2_list_point_’5‘_content">
+              <p xml:space="preserve"> 	الفصل الخامس - إحداث تحول في الحوكمة العالمية؛</p>
+            </content>
+          </point>
+        </list>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	قررت أيضا أن تؤخذ في الاعتبار في الفصول ذات الصلة من الميثاق من أجل المستقبل خطة التنمية المستدامة لعام 2030<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> القرار <a href="https://undocs.org/ar/A/RES/70/1">70/1</a>.</p></authorialNote>، والتعهد الوارد فيها بألا يترك أحد خلف الركب، والالتزام بالقضاء على الفقر والجوع في كل مكان، ومكافحة أوجه عدم المساواة داخل البلدان وفيما بينها، وإقامة مجتمعات مسالمة وعادلة لا يهمش فيها أحد، وضمان الحماية الدائمة لكوكب الأرض وموارده الطبيعية وتهيئة الظروف المؤاتية للنمو الاقتصادي المطرد والمستدام الذي يشمل الجميع ولبلوغ الازدهار العميم وتوفير فرص العمل اللائق للكافة، مع مراعاة اختلاف مستويات التنمية والقدرات على الصعيد الوطني؛ وكذلك إعمال حقوق الإنسان الواجبة للناس كافة وتحقيق المساواة بين الجنسين وتمكين جميع النساء والفتيات؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(ج)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	جددت طلبها إلى رئيس الجمعية العامة، الوارد في الفقرة 16 من القرار <a href="https://undocs.org/ar/A/RES/76/307">76/307</a>، أن يعين ميسِّريْن مشاركيْن في موعد أقصاه 31 تشرين الأول/أكتوبر 2023، أحدهما من بلد متقدم والآخر من بلد نام، وقررت أن يتألف الجزء المتبقي من العملية التحضيرية الحكومية الدولية لمؤتمر القمة من مشاورات تعقد لتحديد مواضيع جلسات التحاور وسبل تنظيمها ومفاوضات بشأن الصيغة النهائية للوثيقة الختامية مع تخصيص وقت كاف لجلسات التفاوض، وطلبت إلى الميسِّريْن المشاركَيْن أن يقوما، بالتشاور مع رئيس الجمعية، بتعيين منسقَيْن حسب الاقتضاء لكل فصل أو عنصر من الفصول والعناصر، على أن يكون أحدهما من بلد متقدم والآخر من بلد نام، ومع مراعاة التوازن بين الجنسين؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <num>(د)</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve"> 	طلبت إلى رئيس الجمعية العامة أن يعيّن، في موعد أقصاه 31 تشرين الأول/أكتوبر 2023، ومع مراعاة التوازن بين الجنسين، فريقين من الميسِّرين المشاركين يضم كل منهما ميسرا من بلد متقدم وآخر من بلد نام يقومان، في إطار العملية التحضيرية لمؤتمر القمة المعني بالمستقبل، بتيسير مشاورات حكومية دولية منفتحة وشفافة وشاملة للجميع تُعقد لصوغ اتفاق رقمي عالمي وإعلان بشأن الأجيال المقبلة، يُرفقان بالميثاق من أجل المستقبل إذا اتُفق عليهما على الصعيد الحكومي الدولي؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>(هـ)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve"> 	قررت ألا يُعقد أي من جلسات العملية التحضيرية لمؤتمر القمة بالتزامن مع أخرى، وذلك لضمان حسن تنسيق العملية وسيرها بسلاسة، وأن تتلافى العملية التحضيرية لمؤتمر القمة أي أوجه تداخل وازدواجية مع العمليات الحكومية الدولية القائمة.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="99">الجلسة العامة 99</inline>
+        <eol />
+        <docDate date="2023-09-01" refersTo="#adoptionDate">1 أيلول/سبتمبر 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
