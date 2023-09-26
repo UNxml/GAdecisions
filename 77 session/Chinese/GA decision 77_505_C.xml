@@ -4,33 +4,33 @@
     <meta>
       <identification source="#DGACM">
         <FRBRWork>
-          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/!main/"></FRBRthis>
-          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/"></FRBRuri>
-          <FRBRdate date="2022-09-16" name="adoption"></FRBRdate>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/"></FRBRuri>
+          <FRBRdate date="2023-02-06" name="adoption"></FRBRdate>
           <FRBRauthor href="ga" as="author"></FRBRauthor>
           <FRBRcountry value="un"></FRBRcountry>
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/zho@!main/"></FRBRthis>
-          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/zho@/"></FRBRuri>
-          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/zho@/"></FRBRuri>
+          <FRBRdate date="2023-09-25" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="zho"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/zho@/!main.xml"></FRBRthis>
-          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/zho@.xml"></FRBRuri>
-          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-09-25" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
       <classification source="http://metadata.un.org/sdg">
         <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
-        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
         <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
         <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
         <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
         <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
         <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
         <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
         <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
@@ -66,21 +66,25 @@
         <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
       </classification>
       <classification source="http://metadata.un.org/sdg">
-        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
-        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
-        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
-        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
-        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
-        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
       </classification>
       <classification source="DHLAUTH">
-        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
-        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" dictionary="A/77/251"></keyword>
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH" showAs="UN. General Assembly (77th sess. : 2022-2023)"/>
+        <keyword value="7" dictionary="A/77/251" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." refersTo="agenda" shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA"/>
       </classification>
       <workflow source="#un">
-        <step date="2022-09-16" outcome="adopted" by="第3次" />
-        <step date="2022-12-16" outcome="adopted" by="第55次" />
-        <step date="2022-12-20" outcome="adopted" by="第56次" />
+        <step date="2023-02-06" outcome="adopted" by="第58次" />
+        <step date="2023-04-18" outcome="adopted" by="第66次" />
+        <step date="2023-06-08" outcome="adopted" by="第77次" />
+        <step date="2023-06-14" outcome="adopted" by="第79次" />
+        <step date="2023-06-30" outcome="adopted" by="第87次" />
+        <step date="2023-07-24" outcome="adopted" by="第93次" />
+        <step date="2023-08-25" outcome="adopted" by="第96次" />
+        <step date="2023-09-01" outcome="adopted" by="第99次" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -108,7 +112,7 @@
         </span>
       </p>
       <p class="upperRight">
-        <docNumber refersTo="#symbol">A/DEC/77/505</docNumber>
+        <docNumber refersTo="#symbol">A/DEC/77/505 B</docNumber>
       </p>
       <p class="upperLeft">
         <img src="logo-un.jpg"></img>
@@ -118,7 +122,7 @@
         <docType>决定</docType>
       </p>
       <p>
-        <docProponent refersTo="#noMainCommittee">全会</docProponent>
+        <docProponent refersTo="#plenaryMeeting">全体会议</docProponent>
       </p>
       <p>
         <session refersTo="#generalAssembly" value="77" eId="coverPage_1__session_1">第七十七届会议</session>
@@ -135,48 +139,101 @@
         <docNumber refersTo="decisionNumber">77/505.</docNumber>
         <docTitle refersTo="#decisionTitle">通过议程和分配议程项目</docTitle>
       </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> 《大会正式记录，第七十七届会议，补编第49号》(<span class="underline"><a href="https://undocs.org/ch/A/77/49">A/77/49</a></span>)第二卷B.1节中的第77/505号决定成为第77/505 A号决定。</p>
+        </authorialNote>
+      </p>
     </preface>
     <mainBody>
       <paragraph eId="para_1" class="MercuryDocument">
         <content eId="para_1__content">
-          <p xml:space="preserve">	2022年9月16日，大会第3次全体会议根据总务委员会第一次报告中提出的建议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/250">A/77/250</a>。</p></authorialNote> 通过了大会第七十七届会议议程<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/251">A/77/251</a>。</p></authorialNote> 和议程项目分配。<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/252">A/77/252</a>。</p></authorialNote></p>
+          <p xml:space="preserve">	2023年2月6日，大会第58次全体会议(续会)决定直接在全体会议上审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“各特殊处境国家组”的议程项目21中题为“第五次联合国最不发达国家问题会议的后续行动”的分项(a)，并迅速着手审议一项决定草案。<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.50">A/77/L.50</a></span>。</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_2" class="MercuryDocument">
         <content eId="para_2__content">
-          <p xml:space="preserve">	大会同次会议根据总务委员会第一次报告中提出的建议，<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/250">A/77/250</a>，第90段。</p></authorialNote> 决定在第七十七届会议议程标题B(维护国际和平与安全)下列入题为“科摩罗马约特岛问题”的项目，但有一项谅解，即大会将不审议该项目。</p>
+          <p xml:space="preserve">	在同次会议上，大会决定直接在全体会议上审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“消除贫困和其他发展问题”的议程项目22，并迅速着手审议一项决议草案。<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.43">A/77/L.43</a></span>。</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_3" class="MercuryDocument">
         <content eId="para_3__content">
-          <p xml:space="preserve">	大会同次会议又根据总务委员会第一次报告中提出的建议，<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> 同上，第91段。</p></authorialNote> 决定推迟审议题为“马达加斯加格洛里厄斯群岛、新胡安岛、欧罗巴岛和印度巴萨斯岛问题”的项目，并将其列入第七十八届会议临时议程。</p>
+          <p xml:space="preserve">	2023年4月18日，大会第66次全体会议决定重新审议标题I(组织、行政和其他事项)下题为“任命各附属机关成员以补空缺，并作出其他任命”的议程项目118中题为“任命会费委员会成员”的分项(b)，并迅速着手审议第五委员会的报告。<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/568/Add.1">A/77/568/Add.1</a></span>。</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_4" class="MercuryDocument">
         <content eId="para_4__content">
-          <p xml:space="preserve">	2022年12月16日，大会第55次全体会议决定直接在全体会议上审议标题D(促进人权)下题为“促进和保护人权”的议程项目68，并迅速着手审议一项决议草案。<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/L.37">A/77/L.37</a>。</p></authorialNote></p>
+          <p xml:space="preserve">	在同次会议上，大会决定直接在全体会议上审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“可持续发展”的议程项目18，并迅速着手审议一项决议草案。<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.60">A/77/L.60</a></span>。</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_5" class="MercuryDocument">
         <content eId="para_5__content">
-          <p xml:space="preserve">	在同次会议上，大会决定直接在全体会议上审议标题H(药物管制、预防犯罪和打击一切形式和表现的国际恐怖主义)下题为“预防犯罪和刑事司法”的议程项目109，并迅速着手审议一项决议草案。<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/L.29">A/77/L.29</a>.</p></authorialNote></p>
+          <p xml:space="preserve">	2023年6月8日，大会第77次全体会议决定直接在全体会议上审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“可持续发展”的议程项目18中题为“防治沙尘暴”的分项(j)，并迅速着手审议一项决议草案。<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.72">A/77/L.72</a></span>。</p></authorialNote></p>
         </content>
       </paragraph>
       <paragraph eId="para_6" class="MercuryDocument">
         <content eId="para_6__content">
-          <p xml:space="preserve">	2022年12月20日，大会第56次全体会议决定直接在全体会议上审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“可持续发展”的议程项目18中题为“努力实现可持续发展：在《21世纪议程》基础上通过可持续消费和生产等方式执行《2030年可持续发展议程》”的分项(a)，并迅速着手审议一项决定草案。<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <a href="https://undocs.org/ch/A/77/L.42">A/77/L.42</a>。</p></authorialNote></p>
+          <p xml:space="preserve">	2023年6月14日，大会第79次全体会议决定直接在全体会议上审议标题B(维护国际和平与安全)下题为“整个维持和平行动问题所有方面的全盘审查”的议程项目48，并迅速着手审议一项决议草案。<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.75">A/77/L.75</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">	2023年6月30日，大会第87次全体会议决定重新审议标题I(组织、行政和其他事项)下题为“任命各附属机关成员以补空缺，并作出其他任命”的议程项目118中题为“任命行政和预算问题咨询委员会成员”的分项(a)，并迅速着手审议第五委员会的报告。<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/567/Add.1">A/77/567/Add.1</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">	2023年7月24日，大会第93次全体会议决定重新审议标题D (促进人权)下题为“促进和保护人权”的议程项目68，并迅速着手审议一项决议草案。<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.81">A/77/L.81</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">	2023年8月25日，大会第96次全体会议决定重新审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“体育运动促进发展与和平”的议程项目11，并迅速着手审议一项决议草案。<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.95">A/77/L.95</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve">	在同次会议上，大会决定重新审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“可持续发展”的议程项目18中题为“《小岛屿发展中国家快速行动方式(萨摩亚途径)》和《关于进一步执行小岛屿发展中国家可持续发展行动纲领的毛里求斯战略》的后续行动和执行情况”的分项(b)，直接在全体会议上审议该分项，并迅速着手审议一项决议草案。<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.96">A/77/L.96</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="MercuryDocument">
+        <content eId="para_11__content">
+          <p xml:space="preserve">	在同次会议上，大会还决定重新审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“各特殊处境国家组”的议程项目21中题为“第二次联合国内陆发展中国家问题会议的后续行动”的分项(b)，直接在全体会议上审议该分项，并迅速着手审议一项决议草案。<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.92">A/77/L.92</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <content eId="para_12__content">
+          <p xml:space="preserve">	在同次会议上，大会还决定重新审议标题G(裁军)下题为“从国际安全角度看信息和电信领域的发展”的议程项目94，直接在全体会议上审议该项目，并迅速着手审议一项决定草案。<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.101">A/77/L.101</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve">	2023年9月1日，大会第99次全体会议决定重新审议标题A(按照大会和最近各次联合国会议的相关决议促进持续经济增长和可持续发展)下题为“发展方面的业务活动”的议程项目23，直接在全体会议上审议该项目，并迅速着手审议一项决定草案。<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/77/L.108">A/77/L.108</a></span>。</p></authorialNote></p>
         </content>
       </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
-        <inline name="adoptionMeeting" title="第3次">第3次全体会议</inline>
-        <inline name="adoptionMeeting" title="第55次">第55次全体会议</inline>
-        <inline name="adoptionMeeting" title="第56次">第56次全体会议</inline>
+        <inline name="adoptionMeeting" title="第58次">第58次全体会议(续会)</inline>
+        <inline name="adoptionMeeting" title="第66次">第66次全体会议</inline>
+        <inline name="adoptionMeeting" title="第77次">第77次全体会议</inline>
+        <inline name="adoptionMeeting" title="第79次">第79次全体会议</inline>
+        <inline name="adoptionMeeting" title="第87次">第87次全体会议</inline>
+        <inline name="adoptionMeeting" title="第93次">第93次全体会议</inline>
+        <inline name="adoptionMeeting" title="第96次">第96次全体会议</inline>
+        <inline name="adoptionMeeting" title="第99次">第99次全体会议</inline>
         <eol />
-        <docDate date="2022-09-16" refersTo="#adoptionDate">2022年9月16日</docDate>
-        <docDate date="2022-12-16" refersTo="#adoptionDate">2022年12月16日</docDate>
-        <docDate date="2022-12-20" refersTo="#adoptionDate">2022年12月20日</docDate>
+        <docDate date="2023-02-06" refersTo="#adoptionDate">2023年2月6日</docDate>
+        <docDate date="2023-04-18" refersTo="#adoptionDate">2023年4月18日</docDate>
+        <docDate date="2023-06-08" refersTo="#adoptionDate">2023年6月8日</docDate>
+        <docDate date="2023-06-14" refersTo="#adoptionDate">2023年6月14日</docDate>
+        <docDate date="2023-06-30" refersTo="#adoptionDate">2023年6月30日</docDate>
+        <docDate date="2023-07-24" refersTo="#adoptionDate">2023年7月24日</docDate>
+        <docDate date="2023-08-25" refersTo="#adoptionDate">2023年8月25日</docDate>
+        <docDate date="2023-09-01" refersTo="#adoptionDate">2023年9月1日</docDate>
       </p>
     </conclusions>
   </statement>
