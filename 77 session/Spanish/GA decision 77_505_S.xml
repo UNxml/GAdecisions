@@ -4,33 +4,33 @@
     <meta>
       <identification source="#DGACM">
         <FRBRWork>
-          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/!main/"></FRBRthis>
-          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/"></FRBRuri>
-          <FRBRdate date="2022-09-16" name="adoption"></FRBRdate>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/"></FRBRuri>
+          <FRBRdate date="2023-02-06" name="adoption"></FRBRdate>
           <FRBRauthor href="ga" as="author"></FRBRauthor>
           <FRBRcountry value="un"></FRBRcountry>
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/spa@!main/"></FRBRthis>
-          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/spa@/"></FRBRuri>
-          <FRBRdate date="2023-01-23" name="publication"></FRBRdate>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/spa@/"></FRBRuri>
+          <FRBRdate date="2023-09-25" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="spa"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/spa@/!main.xml"></FRBRthis>
-          <FRBRuri value="/akn/un/statement/deliberation/unga/2022-09-16/77-505/spa@.xml"></FRBRuri>
-          <FRBRdate date="2023-01-23" name="markup"></FRBRdate>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-02-06/77-505B/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-09-25" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
       <classification source="http://metadata.un.org/sdg">
         <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
-        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
         <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
         <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
         <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
         <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
         <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
         <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
         <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
@@ -66,21 +66,25 @@
         <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS"></keyword>
       </classification>
       <classification source="http://metadata.un.org/sdg">
-        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
-        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
-        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
-        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
-        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
-        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
       </classification>
       <classification source="DHLAUTH">
-        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" showAs="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH"></keyword>
-        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA" dictionary="A/77/251"></keyword>
+        <keyword value="UN. General Assembly (77th sess. : 2022-2023)" dictionary="DHLAUTH" showAs="UN. General Assembly (77th sess. : 2022-2023)"/>
+        <keyword value="7" dictionary="A/77/251" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." refersTo="agenda" shortForm="UN. GENERAL ASSEMBLY (77TH SESS. : 2022-2023)--AGENDA"/>
       </classification>
       <workflow source="#un">
-        <step date="2022-09-16" outcome="adopted" by="Tercera" />
-        <step date="2022-12-16" outcome="adopted" by="55ª" />
-        <step date="2022-12-20" outcome="adopted" by="56ª" />
+        <step date="2023-02-06" outcome="adopted" by="58a" />
+        <step date="2023-04-18" outcome="adopted" by="66a" />
+        <step date="2023-06-08" outcome="adopted" by="77a" />
+        <step date="2023-06-14" outcome="adopted" by="79ª" />
+        <step date="2023-06-30" outcome="adopted" by="87ª" />
+        <step date="2023-07-24" outcome="adopted" by="93ª" />
+        <step date="2023-08-25" outcome="adopted" by="96ª" />
+        <step date="2023-09-01" outcome="adopted" by="99ª" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -108,7 +112,7 @@
         </span>
       </p>
       <p class="upperRight">
-        <docNumber refersTo="#symbol">A/DEC/77/505</docNumber>
+        <docNumber refersTo="#symbol">A/DEC/77/505 B</docNumber>
       </p>
       <p class="upperLeft">
         <img src="logo-un.jpg"></img>
@@ -137,48 +141,101 @@
           <span class="bold">Aprobación del programa y asignación de los temas del programa</span>
         </docTitle>
       </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> La decisión 77/505, que figura en la sección B.1 de los <span class="italic">Documentos Oficiales de la Asamblea General, septuagésimo séptimo período de sesiones, suplemento núm. 49</span> (<span class="underline"><a href="https://undocs.org/es/A/77/49">A/77/49</a></span>), vol. II, pasa a ser la decisión 77/505 A.</p>
+        </authorialNote>
+      </p>
     </preface>
     <mainBody>
       <paragraph eId="para_1" class="MercuryDocument">
         <content eId="para_1__content">
-          <p xml:space="preserve">	En su tercera sesión plenaria, celebrada el 16 de septiembre de 2022, la Asamblea General, sobre la base de la recomendación formulada por la Mesa en su primer informe<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/250">A/77/250</a></span>.</p></authorialNote>, aprobó el programa<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/251">A/77/251</a></span>.</p></authorialNote> y la asignación de los temas del programa del septuagésimo séptimo período de sesiones<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/252">A/77/252</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve">	En su 58ª sesión plenaria, celebrada el 6 de febrero de 2023, la Asamblea General decidió examinar directamente en sesión plenaria el subtema a), titulado “Seguimiento de la Quinta Conferencia de las Naciones Unidas sobre los Países Menos Adelantados”, del tema 21 del programa, titulado “Grupos de países en situaciones especiales”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.50">A/77/L.50</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_2" class="MercuryDocument">
         <content eId="para_2__content">
-          <p xml:space="preserve">	En la misma sesión, la Asamblea General, sobre la base de la recomendación formulada por la Mesa en su primer informe<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/250">A/77/250</a></span>, párr. 90.</p></authorialNote>, decidió incluir en el programa de su septuagésimo séptimo período de sesiones el tema titulado “Cuestión de la isla comorana de Mayotte”, bajo el epígrafe B (“Mantenimiento de la paz y la seguridad internacionales”), en el entendimiento de que la Asamblea no examinaría este tema.</p>
+          <p xml:space="preserve">	En la misma sesión, la Asamblea General decidió examinar directamente en sesión plenaria el tema 22 del programa, titulado “Erradicación de la pobreza y otras cuestiones de desarrollo”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.43">A/77/L.43</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_3" class="MercuryDocument">
         <content eId="para_3__content">
-          <p xml:space="preserve">	También en la misma sesión, la Asamblea General, sobre la base de la recomendación formulada por la Mesa en su primer informe<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <span class="italic">Ibid</span>., párr. 91.</p></authorialNote>, decidió aplazar el examen del tema titulado “Cuestión de las islas malgaches Gloriosas, Juan de Nova, Europa y Bassas da India” e incluirlo en el programa provisional de su septuagésimo octavo período de sesiones.</p>
+          <p xml:space="preserve">	En su 66ª sesión plenaria, celebrada el 18 de abril de 2023, la Asamblea General decidió reabrir el examen del subtema b), titulado “Nombramiento de miembros de la Comisión de Cuotas”, del tema 118 del programa, titulado “Nombramientos para llenar vacantes en órganos subsidiarios y otros nombramientos”, bajo el epígrafe I (“Asuntos administrativos y de organización y otros asuntos”), y ocuparse de inmediato del examen del informe de la Quinta Comisión<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/568/Add.1">A/77/568/Add.1</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_4" class="MercuryDocument">
         <content eId="para_4__content">
-          <p xml:space="preserve">	En su 55ª sesión plenaria, celebrada el 16 de diciembre de 2022, la Asamblea General decidió examinar directamente en sesión plenaria el tema 68 del programa, titulado “Promoción y protección de los derechos humanos”, bajo el epígrafe D (“Promoción de los derechos humanos”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/L.37">A/77/L.37</a></span>.</p></authorialNote>. </p>
+          <p xml:space="preserve">	En la misma sesión, la Asamblea General decidió examinar directamente en sesión plenaria el tema 18 del programa, titulado “Desarrollo sostenible”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.60">A/77/L.60</a>.</p></authorialNote>. </p>
         </content>
       </paragraph>
       <paragraph eId="para_5" class="MercuryDocument">
         <content eId="para_5__content">
-          <p xml:space="preserve">	También en la misma sesión, la Asamblea General decidió examinar directamente en sesión plenaria el tema 109 del programa, titulado “Prevención del delito y justicia penal”, bajo el epígrafe H (“Fiscalización de drogas, prevención del delito y lucha contra el terrorismo internacional en todas sus formas y manifestaciones”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/L.29">A/77/L.29</a></span>.</p></authorialNote>.</p>
+          <p xml:space="preserve">	En su 77ª sesión plenaria, celebrada el 8 de junio de 2023, la Asamblea General decidió examinar directamente en sesión plenaria el subtema j) del programa, titulado “Lucha contra las tormentas de arena y polvo”, del tema 18 del programa, titulado “Desarrollo sostenible”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.72">A/77/L.72</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
       <paragraph eId="para_6" class="MercuryDocument">
         <content eId="para_6__content">
-          <p xml:space="preserve">	En su 56ª sesión plenaria, celebrada el 20 de diciembre de 2022, la Asamblea General decidió examinar directamente en sesión plenaria el subtema a), titulado “Hacia el logro del desarrollo sostenible: implementación de la Agenda 2030 para el Desarrollo Sostenible, incluso mediante el consumo y la producción sostenibles, partiendo del Programa 21”, del tema 18 del programa, titulado “Desarrollo sostenible”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/77/L.42">A/77/L.42</a></span>.</p></authorialNote>. </p>
+          <p xml:space="preserve">	En su 79ª sesión plenaria, celebrada el 14 de junio de 2023, la Asamblea General decidió examinar directamente en sesión plenaria el tema 48 del programa, titulado “Examen amplio de toda la cuestión de las operaciones de mantenimiento de la paz en todos sus aspectos”, bajo el epígrafe B (“Mantenimiento de la paz y la seguridad internacionales”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.75">A/77/L.75</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">	En su 87ª sesión plenaria, celebrada el 30 de junio de 2023, la Asamblea General decidió reabrir el examen del subtema a), titulado “Nombramiento de miembros de la Comisión Consultiva en Asuntos Administrativos y de Presupuesto”, del tema 118 del programa, titulado “Nombramientos para llenar vacantes en órganos subsidiarios y otros nombramientos”, bajo el epígrafe I (“Asuntos administrativos y de organización y otros asuntos”), y ocuparse de inmediato del examen del informe de la Quinta Comisión<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/567/Add.1">A/77/567/Add.1</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">	En su 93ª sesión plenaria, celebrada el 24 de julio de 2023, la Asamblea General decidió volver a examinar el tema 68 del programa, titulado “Promoción y protección de los derechos humanos”, bajo el epígrafe D (“Promoción de los derechos humanos”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.81">A/77/L.81</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve"> En su 96ª sesión plenaria, celebrada el 25 de agosto de 2023, la Asamblea General decidió reabrir el examen del tema 11 del programa, titulado “El deporte para el desarrollo y la paz”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y del desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.95">A/77/L.95</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <content eId="para_10__content">
+          <p xml:space="preserve"> En la misma sesión, la Asamblea General decidió reabrir el examen del subtema b) titulado “Seguimiento y aplicación de las Modalidades de Acción Acelerada para los Pequeños Estados Insulares en Desarrollo (Trayectoria de Samoa) y la Estrategia de Mauricio para la Ejecución Ulterior del Programa de Acción para el Desarrollo Sostenible de los Pequeños Estados Insulares en Desarrollo” del tema 18 del programa titulado “Desarrollo sostenible”, bajo el epígrafe A (Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.96">A/77/L.96</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="MercuryDocument">
+        <content eId="para_11__content">
+          <p xml:space="preserve"> También en la misma sesión, la Asamblea General decidió volver a examinar el subtema b), titulado “Seguimiento de la Segunda Conferencia de las Naciones Unidas sobre los Países en Desarrollo Sin Litoral”, del tema 21 del programa, titulado “Grupos de países en situaciones especiales”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de resolución<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.92">A/77/L.92</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <content eId="para_12__content">
+          <p xml:space="preserve"> También en la misma sesión, la Asamblea General decidió reabrir el examen del tema 94 del programa, titulado “Avances en la esfera de la información y las telecomunicaciones en el contexto de la seguridad internacional”, bajo el epígrafe G (“Desarme”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.101">A/77/L.101</a>.</p></authorialNote>. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <content eId="para_13__content">
+          <p xml:space="preserve"> En su 99ª sesión plenaria, celebrada el 1 de septiembre de 2023, la Asamblea General decidió reabrir el examen del tema 23 del programa, titulado “Actividades operacionales para el desarrollo”, bajo el epígrafe A (“Promoción del crecimiento económico sostenido y el desarrollo sostenible de conformidad con las resoluciones pertinentes de la Asamblea General y las conferencias recientes de las Naciones Unidas”), examinarlo directamente en sesión plenaria y ocuparse de inmediato del examen de un proyecto de decisión<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"> <a href="https://undocs.org/es/A/77/L.108">A/77/L.108</a>.</p></authorialNote>.</p>
         </content>
       </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
-        <inline name="adoptionMeeting" title="Tercera">Tercera sesión plenaria</inline>
-        <inline name="adoptionMeeting" title="55ª">55ª sesión plenaria</inline>
-        <inline name="adoptionMeeting" title="56ª">56ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="58a">58a sesión plenaria (continuación)</inline>
+        <inline name="adoptionMeeting" title="66a">66a sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="77a">77a sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="79ª">79ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="87ª">87ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="93ª">93ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="96ª">96ª sesión plenaria</inline>
+        <inline name="adoptionMeeting" title="99ª">99ª sesión plenaria</inline>
         <eol />
-        <docDate date="2022-09-16" refersTo="#adoptionDate">16 de septiembre de 2022</docDate>
-        <docDate date="2022-12-16" refersTo="#adoptionDate">16 de diciembre de 2022</docDate>
-        <docDate date="2022-12-20" refersTo="#adoptionDate">20 de diciembre de 2022</docDate>
+        <docDate date="2023-02-06" refersTo="#adoptionDate">6 de febrero de 2023</docDate>
+        <docDate date="2023-04-18" refersTo="#adoptionDate">18 de abril de 2023</docDate>
+        <docDate date="2023-06-08" refersTo="#adoptionDate">8 de junio de 2023</docDate>
+        <docDate date="2023-06-14" refersTo="#adoptionDate">14 de junio de 2023</docDate>
+        <docDate date="2023-06-30" refersTo="#adoptionDate">30 de junio de 2023</docDate>
+        <docDate date="2023-07-24" refersTo="#adoptionDate">24 de julio de 2023</docDate>
+        <docDate date="2023-08-25" refersTo="#adoptionDate">25 de agosto de 2023</docDate>
+        <docDate date="2023-09-01" refersTo="#adoptionDate">1 de septiembre de 2023</docDate>
       </p>
     </conclusions>
   </statement>
