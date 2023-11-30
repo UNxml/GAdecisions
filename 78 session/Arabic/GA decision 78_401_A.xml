@@ -1,0 +1,115 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/"></FRBRuri>
+          <FRBRdate date="2023-09-05" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/ara@/"></FRBRuri>
+          <FRBRdate date="2023-10-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/ara@.xml"></FRBRuri>
+          <FRBRdate date="2023-10-21" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Credentials Committee" showAs="UN. General Assembly. Credentials Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="3a" showAs="Appointment of the members of the Credentials Committee." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024). CREDENTIALS COMMITTEE--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-09-05" outcome="adopted" by="1" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="الاتحاد الروسي" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="أندورا" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="توغو" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="جزر سليمان" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="سورينام" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="الصين" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="غرينادا" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="نيجيريا" outcome="composition" />
+        <step date="2023-09-05" as=" لجنة وثائق التفويض" by="" refersTo="الولايات المتحدة الأمريكية" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/401</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">الدورة الثامنة والسبعون</session>
+      </p>
+      <p>
+        <inline title="3 (أ)" name="agenda item">البند 3 (أ) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/401</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">تعيين أعضاء لجنة وثائق التفويض</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> عينت الجمعية العامة، في جلستها العامة 1، المعقودة في 5 أيلول/سبتمبر 2023، وفقا للمادة 28 من نظامها الداخلي، لجنة لوثائق التفويض لدورتها الثامنة والسبعين تتألف من الدول الأعضاء التالية: الاتحاد الروسي وأندورا وتوغو وجزر سليمان وسورينام والصين وغرينادا ونيجيريا والولايات المتحدة الأمريكية.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="1">الجلسة العامة 1</inline>
+        <eol />
+        <docDate date="2023-09-05" refersTo="#adoptionDate">5 أيلول/سبتمبر 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
