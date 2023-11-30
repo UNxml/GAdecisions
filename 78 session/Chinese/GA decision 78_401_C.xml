@@ -1,0 +1,115 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/"></FRBRuri>
+          <FRBRdate date="2023-09-05" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/zho@/"></FRBRuri>
+          <FRBRdate date="2023-10-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-05/78-401/zho@.xml"></FRBRuri>
+          <FRBRdate date="2023-10-21" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. Credentials Committee" showAs="UN. General Assembly. Credentials Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="3a" showAs="Appointment of the members of the Credentials Committee." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024). CREDENTIALS COMMITTEE--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-09-05" outcome="adopted" by="第1次" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="安道尔" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="中国" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="格林纳达" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="尼日利亚" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="俄罗斯联邦" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="所罗门群岛" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="苏里南" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="多哥" outcome="composition" />
+        <step date="2023-09-05" as="全权证书委员会" by="" refersTo="美利坚合众国" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/401</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全体会议</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">第七十八届会议</session>
+      </p>
+      <p>
+        <inline title="3 (a)" name="agenda item">议程项目3 (a)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/401.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">任命全权证书委员会成员</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2023年9月5日，大会第1次全体会议根据大会议事规则第28条，任命下列会员国为大会第七十八届会议全权证书委员会成员：安道尔、中国、格林纳达、尼日利亚、俄罗斯联邦、所罗门群岛、苏里南、多哥和美利坚合众国。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="第1次">第1次全体会议</inline>
+        <eol />
+        <docDate date="2023-09-05" refersTo="#adoptionDate">2023年9月5日</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
