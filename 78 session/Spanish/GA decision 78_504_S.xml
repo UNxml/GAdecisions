@@ -1,0 +1,115 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/"></FRBRuri>
+          <FRBRdate date="2023-09-08" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/spa@/"></FRBRuri>
+          <FRBRdate date="2023-10-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/spa@.xml"></FRBRuri>
+          <FRBRdate date="2023-10-21" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024)--AGENDA" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-09-08" outcome="adopted" as="A/78/PV.2" by="Segunda" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/504</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Septuagésimo octavo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="7" name="agenda item">Tema 7 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/504.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Aprobación del programa y asignación de los temas del programa</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su segunda sesión plenaria, celebrada el 8 de septiembre de 2023, la Asamblea General, sobre la base de la recomendación formulada por la Mesa en su primer informe<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/78/250">A/78/250</a></span>.</p></authorialNote>, aprobó el programa<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/78/251">A/78/251</a></span>.</p></authorialNote> y la asignación de los temas del programa<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/78/252">A/78/252</a></span>.</p></authorialNote> del septuagésimo octavo período de sesiones.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En la misma sesión, la Asamblea General, sobre la base de la recomendación formulada por la Mesa en su primer informe<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/sp/A/78/250">A/78/250</a></span>, párr. 93.</p></authorialNote>, decidió incluir en el programa de su septuagésimo octavo período de sesiones el tema titulado “Cuestión de la isla comorana de Mayotte”, bajo el epígrafe B (“Mantenimiento de la paz y la seguridad internacionales”), en el entendimiento de que la Asamblea no examinaría este tema.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> También en la misma sesión, la Asamblea General, sobre la base de la recomendación formulada por la Mesa en su primer informe<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> <span class="italic">Ibid</span>., párr. 94.</p></authorialNote>, decidió aplazar el examen del tema titulado “Cuestión de las islas malgaches Gloriosas, Juan de Nova, Europa y Bassas da India” e incluirlo en el programa provisional de su septuagésimo noveno período de sesiones.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="Segunda">Segunda sesión plenaria</inline>
+        <eol />
+        <docDate date="2023-09-08" refersTo="#adoptionDate">8 de septiembre de 2023</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
