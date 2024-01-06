@@ -1,0 +1,154 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/"></FRBRuri>
+          <FRBRdate date="2023-11-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/fra@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/fra@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Advisory Committee on Administrative and Budgetary Questions" showAs="UN. Advisory Committee on Administrative and Budgetary Questions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115a" showAs="Appointment of members of the Advisory Committee on Administrative and Budgetary Questions." shortForm="UN. ADVISORY COMMITTEE ON ADMINISTRATIVE AND BUDGETARY QUESTIONS--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-16" outcome="adopted" as="A/78/PV.35" by="35e" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Udo Klaus Fenchel" refersTo="Allemagne" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Makiese Kinkela Augusto" refersTo="Angola" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Sharon Brennen-Haylock" refersTo="Bahamas" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Yves Éric Ahoussougbemey" refersTo="Bénin" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Juliana Gaspar Ruas" refersTo="Brésil" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Ji Haojun" refersTo="Chine" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Stephani Laura Scheer" refersTo="États-Unis d’Amérique" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Evgeny Kalugin" refersTo="Fédération de Russie" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Surendra Kumar Adhana" refersTo="Inde" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Carlo Jacobucci" refersTo="Italie" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Matsuda Yukiko" refersTo="Japon" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Feliksas Bakanauskas" refersTo="Lituanie" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Caroline Nalwanga" refersTo="Ouganda" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Julia Maciel" refersTo="Paraguay" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Jakub Chmielewski" refersTo="Pologne" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Minhong Yi" refersTo="République de Corée" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Olivio Fermín" refersTo="République dominicaine" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Simon Horner" refersTo="Royaume-Uni de Grande-Bretagne et d’Irlande du Nord" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Abdallah Bachar Bong" refersTo="Tchad" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Ali Ben Said" refersTo="Tunisie" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Comité consultatif pour les questions administratives et budgétaires" by="Amjad Qaid Al Kumaim" refersTo="Yémen" outcome="composition" akn4un:end="2024-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Cinquième Commission</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Soixante-dix-huitième session</session>
+      </p>
+      <p>
+        <inline title="115 a)" name="agenda item">Point 115 a) de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Élections et nominations</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/404.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nomination de membres du Comité consultatif pour les questions administratives et budgétaires</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> À sa 35<sup>e</sup> séance plénière, le 16 novembre 2023, sur la recommandation de la Cinquième Commission<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/78/558">A/78/558</a>, par. 6.</p></authorialNote>, l’Assemblée générale a nommé les personnes ci‑après membres du Comité consultatif pour les questions administratives et budgétaires ou les a reconduites dans leurs fonctions pour un mandat de trois ans prenant effet le 1<sup>er</sup> janvier 2024 : Surendra Kumar Adhana (Inde), Abdallah Bachar Bong (Tchad), Feliksas Bakanauskas (Lituanie), Ali Ben Said (Tunisie), Simon Horner (Royaume-Uni de Grande-Bretagne et d’Irlande du Nord), Evgeny Kalugin (Fédération de Russie), Julia Maciel (Paraguay), Caroline Nalwanga (Ouganda), Juliana Gaspar Ruas (Brésil) et Stephani Laura Scheer (États-Unis d’Amérique).</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En conséquence, au 1<sup>er</sup> janvier 2024, le Comité consultatif pour les questions administratives et budgétaires se compose des membres suivants : Surendra Kumar <inline name="smallCaps" style="font-variant:small-caps">Adhana</inline> (Inde)***, Yves Éric <inline name="smallCaps" style="font-variant:small-caps">Ahoussougbemey</inline> (Bénin)*, Amjad Qaid <inline name="smallCaps" style="font-variant:small-caps">Al Kumaim</inline> (Yémen)*, Makiese Kinkela <inline name="smallCaps" style="font-variant:small-caps">Augusto</inline> (Angola)*, Abdallah <inline name="smallCaps" style="font-variant:small-caps">Bachar Bong</inline> (Tchad)***, Feliksas <inline name="smallCaps" style="font-variant:small-caps">Bakanauskas</inline> (Lituanie)***, Ali B<inline name="smallCaps" style="font-variant:small-caps">en Said</inline> (Tunisie)***, Sharon <inline name="smallCaps" style="font-variant:small-caps">Brennen-Haylock</inline> (Bahamas)*, Jakub C<inline name="smallCaps" style="font-variant:small-caps">hmielewski</inline> (Pologne)*, Udo Klaus F<inline name="smallCaps" style="font-variant:small-caps">enchel</inline> (Allemagne)**, Olivio <inline name="smallCaps" style="font-variant:small-caps">Fermín</inline> (République dominicaine)**, Simon <inline name="smallCaps" style="font-variant:small-caps">Horner</inline> (Royaume-Uni de Grande-Bretagne et d’Irlande du Nord)***, Carlo <inline name="smallCaps" style="font-variant:small-caps">Jacobucci</inline> (Italie)**,  <inline name="smallCaps" style="font-variant:small-caps">J</inline><inline name="smallCaps" style="font-variant:small-caps">i</inline> Haojun (Chine)**, Evgeny <inline name="smallCaps" style="font-variant:small-caps">Kalugin</inline> (Fédération de Russie)***, Julia M<inline name="smallCaps" style="font-variant:small-caps">aciel</inline> (Paraguay)***, <inline name="smallCaps" style="font-variant:small-caps">Matsuda</inline> Yukiko (Japon)**, Caroline <inline name="smallCaps" style="font-variant:small-caps">Nalwanga</inline> (Ouganda)***, Juliana Gaspar <inline name="smallCaps" style="font-variant:small-caps">Ruas</inline> (Brésil)***, Stephani Laura <inline name="smallCaps" style="font-variant:small-caps">Scheer</inline> (États-Unis d’Amérique)*** et Minhong <inline name="smallCaps" style="font-variant:small-caps">Y</inline><inline name="smallCaps" style="font-variant:small-caps">i</inline> (République de Corée)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Mandat venant à expiration le 31 décembre 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Mandat venant à expiration le 31 décembre 2025.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Mandat venant à expiration le 31 décembre 2026.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="35e" refersTo="#adoptionMeeting">35e séance plénière</location>
+          <eol />
+          <docDate date="2023-11-16" refersTo="#adoptionDate">16 novembre 2023</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
