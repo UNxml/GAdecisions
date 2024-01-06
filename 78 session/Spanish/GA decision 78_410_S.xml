@@ -1,0 +1,158 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-20/78-410/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-20/78-410/"></FRBRuri>
+          <FRBRdate date="2023-11-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-20/78-410/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-20/78-410/spa@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-20/78-410/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-20/78-410/spa@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee on Conferences" showAs="UN. Committee on Conferences" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115f" showAs="Appointment of members of the Committee on Conferences." shortForm="UN. COMMITTEE ON CONFERENCES--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-20" outcome="adopted" as="A/78/PV.37" by="37ª" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Argentina" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Austria" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Botswana" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Brasil" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="China" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Djibouti" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Egipto" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Estados Unidos de América" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Federación de Rusia" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Filipinas" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Francia" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Guatemala" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Irán (República Islámica del)" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Japón" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Perú" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Polonia" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Portugal" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Senegal" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Sierra Leona" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="Comité de Conferencias" by="" refersTo="Sri Lanka" outcome="composition" akn4un:end="2026-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/410</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Septuagésimo octavo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="115 f)" name="agenda item">Tema 115 f) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/410.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Nombramiento de miembros del Comité de Conferencias</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 37ª sesión plenaria, celebrada el 20 de noviembre de 2023, la Asamblea General, de conformidad con el párrafo 2 de su resolución <a href="https://undocs.org/sp/A/RES/43/222">43/222</a> B, de 21 de diciembre de 1988, tomó nota del nombramiento por su Presidencia, tras celebrar consultas con las Presidencias de los grupos regionales interesados, de la <inline name="smallCaps" style="font-variant:small-caps">Argentina, Botswana, Filipinas, Francia, </inline>la<inline name="smallCaps" style="font-variant:small-caps"> Federación de Rusia,</inline> <inline name="smallCaps" style="font-variant:small-caps">Sierra Leona </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Sri Lanka</inline> como miembros del Comité de Conferencias para un mandato de tres años que comenzaría el 1 de enero de 2024.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En la misma sesión, la Asamblea General, de conformidad con el párrafo 2 de su resolución <a href="https://undocs.org/sp/A/RES/43/222">43/222</a> B, tomó nota del nombramiento por su Presidencia, previa consulta con la Presidencia del grupo regional correspondiente, del <inline name="smallCaps" style="font-variant:small-caps">Brasil</inline> y el <inline name="smallCaps" style="font-variant:small-caps">Perú</inline> para un mandato que comenzaría en la fecha del nombramiento y expiraría el 31 de diciembre de 2024, y de <inline name="smallCaps" style="font-variant:small-caps">Guatemala</inline> para un mandato que comenzaría en la fecha del nombramiento y terminaría el 31 de diciembre de 2025.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> En consecuencia, a partir del 1 de enero de 2024, el Comité de Conferencias estará compuesto por los 21 Estados Miembros siguientes: <inline name="smallCaps" style="font-variant:small-caps">Argentina***,</inline> <inline name="smallCaps" style="font-variant:small-caps">Austria**, Botswana***, Brasil*, China**, Côte </inline>d'<inline name="smallCaps" style="font-variant:small-caps">Ivoire*, Djibouti**, Egipto**, Estados Unidos de América**, Federación de Rusia***, </inline><inline name="smallCaps" style="font-variant:small-caps">Filipinas***, </inline><inline name="smallCaps" style="font-variant:small-caps">Francia***, Guatemala**, Irán (República Islámica del)*, Japón**, Perú*, Polonia*, Portugal*, Senegal*, Sierra Leona*** </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Sri Lanka***</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">___________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	El mandato termina el 31 de diciembre de 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	El mandato termina el 31 de diciembre de 2025. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	El mandato termina el 31 de diciembre de 2026.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="37ª" refersTo="#adoptionMeeting">37ª sesión plenaria</location>
+          <eol />
+          <docDate date="2023-11-20" refersTo="#adoptionDate">20 de noviembre de 2023</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
