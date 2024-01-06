@@ -1,0 +1,172 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/"></FRBRuri>
+          <FRBRdate date="2023-12-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/ara@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/ara@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Peacebuilding Commission. Organizational Committee" showAs="UN. Peacebuilding Commission. Organizational Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" href="http://metadata.un.org/thesaurus/1001938" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="114b" showAs="Election of members of the Organizational Committee of the Peacebuilding Commission." shortForm="UN. PEACEBUILDING COMMISSION. ORGANIZATIONAL COMMITTEE--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-12-04" outcome="adopted" as="A/78/PV.42" by="42" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="الاتحاد الروسي" outcome="composition" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="إثيوبيا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="ألمانيا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="أوروغواي" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="إيطاليا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="البرازيل" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="بنغلاديش" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="بولندا" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="بيرو" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="جمهورية كوريا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="جنوب أفريقيا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="الدانمرك" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="رواندا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="سانت فنسنت وجزر غرينادين" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="السويد" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="الصين" outcome="composition" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="فرنسا" outcome="composition" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="قطر" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="كرواتيا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="كندا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="كينيا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="مصر" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية" outcome="composition" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="النرويج" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="نيبال" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="نيجيريا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="الهند" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="الولايات المتحدة الأمريكية" outcome="composition" />
+        <step date="2023-12-04" as=" اللجنة التنظيمية للجنة بناء السلام" by="" refersTo="اليابان" outcome="composition" akn4un:end="2024-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/411</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">الدورة الثامنة والسبعون</session>
+      </p>
+      <p>
+        <inline title="114 (ب)" name="agenda item">البند 114 (ب) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/411</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب أعضاء في اللجنة التنظيمية للجنة بناء السلام</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	انتخبت الجمعية العامة، في جلستها العامة الثانية والأربعين المعقودة في 4 كانون الأول/ديسمبر 2023، عملا بقراراتها <a href="https://undocs.org/ar/A/RES/60/180">60/</a><a href="https://undocs.org/ar/A/RES/60/180">180</a> المؤرخ 20 كانون الأول/ديسمبر 2005 و <a href="https://undocs.org/ar/A/RES/60/261">60/</a><a href="https://undocs.org/ar/A/RES/60/261">261</a> المؤرخ 8 أيار/مايو 2006 و <a href="https://undocs.org/ar/A/RES/63/145">63/</a><a href="https://undocs.org/ar/A/RES/63/145">145</a> المؤرخ 18 كانون الأول/ ديسمبر 2008، أوروغواي وبولندا عضوين في اللجنة التنظيمية للجنة بناء السلام لفترة عضوية مدتها سنتان تبدأ في 1 كانون الثاني/ يناير 2024 لملء الشاغرين الناشئين عن انتهاء مدة عضوية بلغاريا والجمهورية الدومينيكية.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+        <p xml:space="preserve">	وعملا بالفقرات 4 (أ) إلى (د) من القرار <a href="https://undocs.org/ar/A/RES/60/180">60/</a><a href="https://undocs.org/ar/A/RES/60/180">180</a>، تم بالفعل انتخاب و/أو اختيار 26 دولة لعضوية اللجنة التنظيمية للجنة بناء السلام، وهي: جنوب أفريقيا وسانت فنسنت وجزر غرينادين وقطر وكينيا ومصر، وقد انتخبتها الجمعية العامة<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() انظر المقرر 77/416.</p></authorialNote><sup>)</sup>؛ و (دولة تؤكد لاحقا) و (دولة تؤكد لاحقا) والاتحاد الروسي والصين وفرنسا والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية والولايات المتحدة الأمريكية، وقد اختارها مجلس الأمن<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">() انظر <span class="underline"><a href="https://undocs.org/ar/S/2024/xx">S/2024/xx</a></span>.</p></authorialNote><sup>)</sup>؛ وإيطاليا والبرازيل وبيرو وجمهورية كوريا والدانمرك وكرواتيا ونيجيريا وقد انتخبها المجلس الاقتصادي والاجتماعي<sup>(</sup><authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">() انظر مقررات المجلس الاقتصادي والاجتماعي 2022/206 جيم ودال و 2023/208</p></authorialNote><sup>)</sup>؛ وألمانيا والسويد وكندا والنرويج واليابان وقد اختارها، من بينهم، كبار المساهمين العشرة بالأنصبة المقررة في ميزانيات الأمم المتحدة وبالتبرعات المقدمة لصناديق الأمم المتحدة وبرامجها ووكالاتها، بما في ذلك صندوق دائم لبناء السلام<sup>(</sup><authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">() انظر <a href="https://undocs.org/ar/A/77/652">A/77/652</a>.</p></authorialNote><sup>)</sup>؛ وإثيوبيا وبنغلاديش ورواندا ونيبال والهند وقد اختارها، من بينهم، كبار المساهمين العشرة بالأفراد العسكريين وأفراد الشرطة المدنية في بعثات الأمم المتحدة<sup>(</sup><authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">() انظر <a href="https://undocs.org/ar/A/77/650">A/77/650</a>.</p></authorialNote><sup>)</sup>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف اللجنة التنظيمية للجنة بناء السلام، اعتبارا من 1 كانون الثاني/يناير 2024، من الدول الأعضاء الـ 31 التالية: (دولة تؤكد لاحقا)** و (دولة تؤكد لاحقا)** والاتحاد الروسي* وإثيوبيا** وألمانيا** وأوروغواي*** وإيطاليا**** والبرازيل**** وبنغلاديش** وبولندا*** وبيرو**** وجمهورية كوريا**** وجنوب أفريقيا** والدانمرك**** ورواندا** وسانت فنسنت وجزر غرينادين** والسويد** والصين* وفرنسا* وقطر** وكرواتيا**** وكندا** وكينيا** ومصر** والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية* والنرويج** ونيبال** ونيجيريا**** والهند** والولايات المتحدة الأمريكية* واليابان**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">__________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	أعضاء دائمون في مجلس الأمن. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">****	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024 أو في تاريخ انتهاء العضوية في المجلس الاقتصادي والاجتماعي، أيهما أقرب.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="42" refersTo="#adoptionMeeting">الجلسة العامة 42</location>
+          <eol />
+          <docDate date="2023-12-04" refersTo="#adoptionDate">4 كانون الأول/ديسمبر 2023</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

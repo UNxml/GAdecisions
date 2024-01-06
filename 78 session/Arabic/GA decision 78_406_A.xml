@@ -1,0 +1,155 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/"></FRBRuri>
+          <FRBRdate date="2023-11-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/ara@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/ara@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Investments Committee" showAs="UN. Investments Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115c" showAs="Confirmation of the appointment of members of the Investments Committee." shortForm="UN. INVESTMENTS COMMITTEE--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-16" outcome="adopted" as="A/78/PV.35" by="35" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="ناتاليا خانجينكوفا" refersTo="الاتحاد الروسي" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="باتريسيا باريسي" refersTo="الأرجنتين" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="ينس فريكه" refersTo="ألمانيا" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="لوسيان ريبيرو" refersTo="البرازيل" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="شان لي" refersTo="الصين" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="ماكي تال" refersTo="مالي" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="ياسر ع الرميان" refersTo="المملكة العربية السعودية" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="سارة أوموتوندي ألادي" refersTo="نيجيريا" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="مايكل كلاين" refersTo="الولايات المتحدة الأمريكية" outcome="composition" />
+        <step date="2023-11-16" as="لجنة الاستثمارات" by="هوندا كيكو" refersTo="اليابان" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/406</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">اللجنة الخامسة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" eId="coverPage_1__session_1">الدورة الثامنة والسبعون</session>
+      </p>
+      <p>
+        <inline title="115 (ج)" name="agenda item">البند 115 (ج) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/406</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">إقرار تعيين أعضاء في لجنة الاستثمارات</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	قامت الجمعية العامة، في جلستها العامة الخامسة والثلاثين المعقودة في 16 تشرين الثاني/نوفمبر 2023، وبناء على توصية اللجنة الخامسة<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() <a href="https://undocs.org/ar/A/78/560">A/78/560</a>، الفقرة 4.</p></authorialNote><sup>)</sup> بما يلي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(أ)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	إقرار تعيين أو إعادة تعيين الأمين العام لكل من ياسر ع. الرميان (المملكة العربية السعودية)، وسارة أوموتوندي ألادي (نيجيريا)، وناتاليا خانجينكوفا (الاتحاد الروسي)، وشان لي (الصين)، وباتريسيا باريسي (الأرجنتين) أعضاء عاديين في لجنة الاستثمارات لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2024؛ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(ب)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve">	إقرار إعادة تعيين الأمين العام لماكي تال (مالي) عضوا مخصصا في لجنة الاستثمارات لفترة عضوية مدتها سنة واحدة تبدأ في 1 كانون الثاني/يناير 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	ونتيجة لذلك، تتألف لجنة الاستثمارات، اعتبارا من 1 كانون الثاني/يناير 2024، على النحو التالي: ياسر ع. <span class="bold">الرميان </span>(المملكة العربية السعودية، عضو عادي)*** وسارة أوموتوندي <span class="bold">ألادي</span> (نيجيريا، عضوة عادية)*** وينس <span class="bold">فريكه</span> (ألمانيا، عضو عادي)** و<span class="bold">هوندا</span> كيكو (اليابان، عضو عادي)* وناتاليا <span class="bold">خانجينكوفا</span> (الاتحاد الروسي، عضوة عادية)*** ومايكل <span class="bold">كلاين </span>(الولايات المتحدة الأمريكية، عضو عادي)** وشان <span class="bold">لي </span>(الصين، عضو عادي)*** وباتريسيا <span class="bold">باريسي </span>(الأرجنتين، عضوة عادية)*** ولوسيان <span class="bold">ريبيرو </span>(البرازيل، عضوة عادية)** وماكي <span class="bold">تال </span>(مالي، عضو مخصص)*. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">* 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">*** 	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2026.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="35" refersTo="#adoptionMeeting">الجلسة العامة 35</location>
+          <eol />
+          <docDate date="2023-11-16" refersTo="#adoptionDate">16 تشرين الثاني/نوفمبر 2023</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

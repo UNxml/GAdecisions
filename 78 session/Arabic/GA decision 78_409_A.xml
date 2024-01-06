@@ -1,0 +1,166 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-20/78-409/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-20/78-409/"></FRBRuri>
+          <FRBRdate date="2023-11-20" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-20/78-409/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-20/78-409/ara@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-20/78-409/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-20/78-409/ara@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee for Programme and Coordination" showAs="UN. Committee for Programme and Coordination" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" href="http://metadata.un.org/thesaurus/1001938" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="114a" showAs="Election of members of the Committee for Programme and Coordination." shortForm="UN. COMMITTEE FOR PROGRAMME AND COORDINATION--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-20" outcome="adopted" as="A/78/PV.37" by="37" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الاتحاد الروسي" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الأرجنتين" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="أرمينيا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="إسرائيل" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="ألمانيا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="أوروغواي" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="إيران (جمهورية - الإسلامية)" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="إيطاليا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="باراغواي" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="باكستان" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="البرازيل" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="بلجيكا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="بوتسوانا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="بولندا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="تونس" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="جمهورية كوريا" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="جنوب أفريقيا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="رواندا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="شيلي" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الصين" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="فرنسا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الفلبين" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الكاميرون" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="كوت ديفوار" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="كوستاريكا" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="كينيا" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="ليبريا" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="المغرب" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="المكسيك" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="المملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الهند" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="الولايات المتحدة الأمريكية" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-20" as="لجنة البرنامج والتنسيق" by="" refersTo="اليابان" outcome="composition" akn4un:end="2026-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/409</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">الجلسة العامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" eId="coverPage_1__session_1">الدورة الثامنة والسبعون</session>
+      </p>
+      <p>
+        <inline title="114 (أ)" name="agenda item">البند 114 (أ) من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">الانتخابات والتعيينات</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/409</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">انتخاب أعضاء في لجنة البرنامج والتنسيق</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> انتخبت الجمعية العامة، في جلستها العامة السابعة والثلاثين المعقودة في 20 تشرين الثاني/نوفمبر 2023، على أساس الترشيحات التي قدمها المجلس الاقتصادي والاجتماعي<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">() انظر <a href="https://undocs.org/ar/A/78/519">A/78/519</a>؛ وانظر أيضا مقررات المجلس الاقتصادي والاجتماعي 2023/213 ألف إلى جيم.</p></authorialNote><sup>)</sup> ووفقا لمرفق قرار المجلس 2008 (د-60) المؤرخ 14 أيار/مايو 1976 ومقرر الجمعية <a href="https://undocs.org/ar/A/RES/42/450">42/450</a> المؤرخ 17 كانون الأول/ديسمبر 1987، أرمينيا وإسرائيل وألمانيا وأوروغواي وإيران (جمهورية - الإسلامية) وإيطاليا وباكستان والبرازيل وبولندا وجنوب أفريقيا ورواندا والكاميرون وكوت ديفوار وكوستاريكا والمكسيك والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية والهند والولايات المتحدة الأمريكية واليابان أعضاء في لجنة البرنامج والتنسيق لفترة عضوية مدتها ثلاث سنوات تبدأ في 1 كانون الثاني/يناير 2024 لملء الشواغر الناشئة عن انتهاء مدة عضوية أرمينيا وإريتريا وإسواتيني وألمانيا وإيران (جمهورية - الإسلامية) وإيطاليا وباكستان والبرازيل وبولندا وبيلاروس والجمهورية الدومينيكية والكاميرون وكوبا وكوستاريكا ومالطة ومالي والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية والهند والولايات المتحدة الأمريكية واليابان. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> ونتيجة لذلك، تتألف لجنة البرنامج والتنسيق، اعتبارا من 1 كانون الثاني/يناير 2024، من الدول الأعضاء الـ 33 التالية<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">() لا يزال يتعين ملء شاغر واحد لعضو من دول أوروبا الشرقية لفترة عضوية تبدأ في تاريخ الانتخاب وتنتهي في 31 كانون الأول/ديسمبر 2026.</p></authorialNote><sup>)</sup>: الاتحاد الروسي* والأرجنتين** وأرمينيا*** وإسرائيل*** وألمانيا*** وأوروغواي*** وإيران (جمهورية - الإسلامية)*** وإيطاليا*** وباراغواي* وباكستان*** والبرازيل*** وبلجيكا* وبوتسوانا* وبولندا*** وتونس** وجمهورية كوريا** وجنوب أفريقيا*** ورواندا*** وشيلي* والصين** وفرنسا* والفلبين** والكاميرون*** وكوت ديفوار*** وكوستاريكا*** وكينيا* وليبريا** والمغرب** والمكسيك*** والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية*** والهند*** والولايات المتحدة الأمريكية*** واليابان***.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2024. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2025. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	تنتهي مدة العضوية في 31 كانون الأول/ديسمبر 2026.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="37" refersTo="#adoptionMeeting">الجلسة العامة 37</location>
+          <eol />
+          <docDate date="2023-11-20" refersTo="#adoptionDate">20 تشرين الثاني/نوفمبر 2023</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
