@@ -1,0 +1,172 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-09/78-403/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-09/78-403/"></FRBRuri>
+          <FRBRdate date="2023-11-09" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-09/78-403/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-09/78-403/rus@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-09/78-403/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-09/78-403/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="ICJ" showAs="ICJ" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" href="http://metadata.un.org/thesaurus/1001938" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="JUDGES" href="http://metadata.un.org/thesaurus/1003478" showAs="JUDGES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="113c" showAs="Election of a member of the International Court of Justice." shortForm="ICJ--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-09" outcome="adopted" as="A/78/PV.31" by="31-е" />
+        <step date="2023-11-09" as="Международный Суд" by="Хилари Чарлзуорт" refersTo="Австралия" outcome="composition" akn4un:end="2033-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Леонарду Немер Калдейра Брант" refersTo="Бразилия" outcome="composition" akn4un:end="2027-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Георг Нольте" refersTo="Германия" outcome="composition" akn4un:end="2030-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Далвир Бхандари" refersTo="Индия" outcome="composition" akn4un:end="2027-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Сюэ Ханьцинь" refersTo="Китай" outcome="composition" akn4un:end="2030-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Наваф Салам" refersTo="Ливан" outcome="composition" akn4un:end="2027-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Хуан Мануэль Гомес Робледо Вердуско" refersTo="Мексика" outcome="composition" akn4un:end="2033-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Лучан Ауреску" refersTo="Румыния" outcome="composition" akn4un:end="2033-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Петер Томка" refersTo="Словакия" outcome="composition" akn4un:end="2030-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Сара Халл Кливленд" refersTo="Соединенные Штаты Америки" outcome="composition" akn4un:end="2033-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Абдулкави Ахмед Юсуф" refersTo="Сомали" outcome="composition" akn4un:end="2027-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Джулия Себутинде" refersTo="Уганда" outcome="composition" akn4un:end="2030-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Ронни Абраам" refersTo="Франция" outcome="composition" akn4un:end="2027-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Дире Тлади" refersTo="Южная Африка" outcome="composition" akn4un:end="2033-02-05" />
+        <step date="2023-11-09" as="Международный Суд" by="Ивасава Юдзи" refersTo="Япония" outcome="composition" akn4un:end="2030-02-05" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/403</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="113 c)" name="agenda item">Пункт 113 c) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/403.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы членов Международного Суда</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> Генеральная Ассамблея на своем 31‑м пленарном заседании 9 ноября 2023 года и Совет Безопасности на своем 9471‑м заседании, состоявшемся в тот же день, независимо друг от друга приступили к избранию в соответствии со статьями 2-4 и 7-12 Статута Международного Суда, правилами 150 и 151 правил процедуры Ассамблеи и правилами 40 и 61 временных правил процедуры Совета пяти членов Суда на девятилетний срок полномочий, начинающийся 6 февраля 2024 года, для заполнения вакансий, возникших в связи с истечением срока полномочий Мохамеда Беннуны (Марокко), Хилари Чарлзуорт (Австралия), Джоан Э. Донохью (Соединенные Штаты Америки), Кирилла Геворгяна (Российская Федерация) и Патрика Липтона Робинсона (Ямайка). </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+        <p xml:space="preserve">	Получив требуемое абсолютное большинство голосов как в Генеральной Ассамблее, так и в Совете Безопасности, Богдан-Лучан Ауреску (Румыния), Хилари Чарлзуорт (Австралия), Сара Халл Кливленд (Соединенные Штаты Америки), Хуан Мануэль Гомес Робледо Вердуско (Мексика) и Дире Тлади (Южная Африка) были избраны членами Суда на девятилетний срок полномочий, начинающийся 6 февраля 2024 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	Таким образом, на 6 февраля 2024 года в состав Международного Суда входят следующие лица: Ронни Абраам (Франция)*, Богдан- Лучан Ауреску (Румыния)***, Далвир Бхандари (Индия)*, Леонарду Немер Калдейра Брант (Бразилия)*, Хилари Чарлзуорт (Австралия)***, Сара Халл Кливленд (Соединенные Штаты Америки)***, Хуан Мануэль Гомес Робледо Вердуско (Мексика) ***, Ивасава Юдзи (Япония)**, Георг Нольте (Германия)**, Наваф Салам (Ливан)*, Джулия Себутинде (Уганда)**, Дире Тлади (Южная Африка)***, Петер Томка (Словакия)**, Сюэ Ханьцинь (Китай)** и Абдулкави Ахмед Юсуф (Сомали)*.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">________________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 5 февраля 2027 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 5 февраля 2030 года.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 5 февраля 2033 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="31-е" refersTo="#adoptionMeeting">31‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2023-11-09" refersTo="#adoptionDate">9 ноября 2023 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

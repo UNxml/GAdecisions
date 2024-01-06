@@ -1,0 +1,154 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/"></FRBRuri>
+          <FRBRdate date="2023-11-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/rus@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-404/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Advisory Committee on Administrative and Budgetary Questions" showAs="UN. Advisory Committee on Administrative and Budgetary Questions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115a" showAs="Appointment of members of the Advisory Committee on Administrative and Budgetary Questions." shortForm="UN. ADVISORY COMMITTEE ON ADMINISTRATIVE AND BUDGETARY QUESTIONS--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-16" outcome="adopted" as="A/78/PV.35" by="35-е" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Макиези Кинкела Аугушту" refersTo="Ангола" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Шэрон Бреннен-Хейлок" refersTo="Багамские Острова" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Ив Эрик Ахуссугбемей" refersTo="Бенин" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Жулиана Гаспар Руас" refersTo="Бразилия" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Удо Клаус Фенхель" refersTo="Германия" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Оливио Фермин" refersTo="Доминиканская Республика" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Сурендра Кумар Адхана" refersTo="Индия" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Карло Якобуччи" refersTo="Италия" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Амджад Каид Аль Кумайм" refersTo="Йемен" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Цзи Хаоцзюнь" refersTo="Китай" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Феликсас Баканаускас" refersTo="Литва" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Хулия Масьель" refersTo="Парагвай" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Якуб Хмелевский" refersTo="Польша" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Минхон И" refersTo="Республика Корея" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Евгений Калугин" refersTo="Российская Федерация" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Саймон Хорнер" refersTo="Соединенное Королевство Великобритании и Северной Ирландии" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Стефани Лора Шир" refersTo="Соединенные Штаты Америки" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Али Бен Саид" refersTo="Тунис" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Кэролайн Налванга" refersTo="Уганда" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Абдалла Башар Бонг" refersTo="Чад" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Консультативного комитета по административным и бюджетным вопросам" by="Мацуда Юкико" refersTo="Япония" outcome="composition" akn4un:end="2025-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/404</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Пятый комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="115 a)" name="agenda item">Пункт 115 a) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/404.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Назначение членов Консультативного комитета по административным и бюджетным вопросам</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> На своем 35‑м пленарном заседании 16 ноября 2023 года Генеральная Ассамблея по рекомендации Пятого комитета<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/78/558">A/78/558</a></span>, п. 6.</p></authorialNote> назначила или повторно назначила членами Консультативного комитета по административным и бюджетным вопросам на трехлетний срок полномочий, начинающийся 1 января 2024 года, следующих лиц: Сурендру Кумара Адхану (Индия), Абдаллу Башара Бонга (Чад), Феликсаса Баканаускаса (Литва), Али Бен Саида (Тунис), Саймона Хорнера (Соединенное Королевство Великобритании и Северной Ирландии), Евгения Калугина (Российская Федерация), Хулию Масьель (Парагвай), Кэролайн Налвангу (Уганда), Жулиану Гаспар Руас (Бразилия) и Стефани Лору Шир (Соединенные Штаты Америки).</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> Таким образом, на 1 января 2024 года в Консультативный комитет по административным и бюджетным вопросам входят следующие лица: Сурендра Кумар Адхана (Индия)***, Ив Эрик Ахуссугбемей (Бенин)*, Амджад Каид Аль Кумайм (Йемен)*, Макиези Кинкела Аугушту (Ангола)*, Абдалла Башар Бонг (Чад)***, Феликсас Баканаускас (Литва)***, Али Бен Саид (Тунис)***, Шэрон Бреннен-Хейлок (Багамские Острова)*, Якуб Хмелевский (Польша)*, Удо Клаус Фенхель (Германия)**, Оливио Фермин (Доминиканская Республика)**, Саймон Хорнер (Соединенное Королевство Великобритании и Северной Ирландии)***, Карло Якобуччи (Италия)**, Цзи Хаоцзюнь (Китай)**, Евгений Калугин (Российская Федерация)***, Хулия Масьель (Парагвай)***, Мацуда Юкико (Япония)**, Кэролайн Налванга (Уганда)***, Жулиана Гаспар Руас (Бразилия)***, Стефани Лора Шир (Соединенные Штаты Америки)*** и Минхон И (Республика Корея)**.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 31 декабря 2024 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 31 декабря 2025 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 31 декабря 2026 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="35-е" refersTo="#adoptionMeeting">35‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2023-11-16" refersTo="#adoptionDate">16 ноября 2023 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,163 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-405/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-405/"></FRBRuri>
+          <FRBRdate date="2023-11-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-405/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-405/rus@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-405/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-405/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Committee on Contributions" showAs="UN. Committee on Contributions" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115b" showAs="Appointment of members of the Committee on Contributions." shortForm="UN. COMMITTEE ON CONTRIBUTIONS--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-16" outcome="adopted" as="A/78/PV.35" by="35-е" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Гордон Экерсли" refersTo="Австралия" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Фолого Каоне Богатсу" refersTo="Ботсвана" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Энрики да Сильвейра Сардинья Пинту" refersTo="Бразилия" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Михаэль Хольч" refersTo="Германия" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Джозеф Масила" refersTo="Кения" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Линь Шань" refersTo="Китай" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Сайед Явар Али" refersTo="Пакистан" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Елена Консепсьон Фелип Салазар" refersTo="Парагвай" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Пак Хэ Юн" refersTo="Республика Корея" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Вадим Лапутин" refersTo="Российская Федерация" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Шейх Тидиан Дем" refersTo="Сенегал" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Томас Энтони Репаш" refersTo="Соединенные Штаты Америки" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Джихан Терзи" refersTo="Турция" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Игорь Гуменный" refersTo="Украина" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Бернардо Грейвер Дель Ойо" refersTo="Уругвай" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Ясминка Динич" refersTo="Хорватия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Марсель Жюйе" refersTo="Швейцария" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-11-16" as="Комитета по взносам" by="Судзуки Ёрико" refersTo="Япония" outcome="composition" akn4un:end="2024-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/405</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Пятый комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="115 b)" name="agenda item">Пункт 115 b) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/405.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Назначение членов Комитета по взносам</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> На своем 35‑м пленарном заседании 16 ноября 2023 года Генеральная Ассамблея по рекомендации Пятого комитета<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/78/559">A/78/559</a></span>, п. 7.</p></authorialNote> назначила или повторно назначила членами Комитета по взносам следующих лиц:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	Судзуки Ёрико (Япония) на срок полномочий, начинающийся 1 января 2024 года и заканчивающийся 31 декабря 2024 года; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	Михаэля Хольча (Германия), Вадима Лапутина (Российская Федерация), Линя Шаня (Китай), Пака Хэ Юна (Республика Корея), Энрики да Силвейру Сардинью Пинту (Бразилия) и Джихана Терзи (Турция) на трехлетний срок полномочий, начинающийся 1 января 2024 года;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve"> Таким образом, на 1 января 2024 года в состав Комитета по взносам входят следующие лица: Сайед Явар Али (Пакистан)*, Фолого Каоне Богатсу (Боствана)*, Шейх Тидиан Дем (Сенегал)**, Ясминка Динич (Хорватия)*, Гордон Экерсли (Австралия)**, Елена Консепсьон Фелип Салазар (Парагвай)**, Бернардо Грейвер Дель Ойо (Уругвай)**, Михаэль Хольч (Германия)***, Игорь Гуменный (Украина)*, Марсель Жюйе (Швейцария)**, Вадим Лапутин (Российская Федерация)***, Линь Шань (Китай)***, Джозеф Масила (Кения)**, Пак Хэ Юн (Республика Корея)***, Томас Энтони Репаш (Соединенные Штаты Америки)*, Энрики да Сильвейра Сардинья Пинту (Бразилия)***, Судзуки Ёрико (Япония)* и Джихан Терзи (Турция)***.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 31 декабря 2024 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 31 декабря 2025 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 31 декабря 2026 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="35-е" refersTo="#adoptionMeeting">35‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2023-11-16" refersTo="#adoptionDate">16 ноября 2023 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

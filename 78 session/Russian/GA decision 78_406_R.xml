@@ -1,0 +1,155 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/"></FRBRuri>
+          <FRBRdate date="2023-11-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/rus@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-11-16/78-406/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Investments Committee" showAs="UN. Investments Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115c" showAs="Confirmation of the appointment of members of the Investments Committee." shortForm="UN. INVESTMENTS COMMITTEE--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-11-16" outcome="adopted" as="A/78/PV.35" by="35-е" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Патрисия Парисе" refersTo="Аргентина" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Лусиани Рибейру" refersTo="Бразилия" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Йенс Фрике" refersTo="Германия" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Шань Ли" refersTo="Китай" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Маки Талль" refersTo="Мали" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Сара Омотунде Аладе" refersTo="Нигерия" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Наталья Ханженкова" refersTo="Российская Федерация" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Ясир О ар-Румайян" refersTo="Саудовская Аравия" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Майкл Кляйн" refersTo="Соединенные Штаты Америки" outcome="composition" />
+        <step date="2023-11-16" as="Комитета по инвестициям" by="Хонда Кейко" refersTo="Япония" outcome="composition" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/406</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Пятый комитет</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="115 c)" name="agenda item">Пункт 115 c) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/406.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Утверждение назначения членов Комитета по инвестициям</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> На своем 35‑м пленарном заседании 16 ноября 2023 года Генеральная Ассамблея по рекомендации Пятого комитета<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ru/A/78/560">A/78/560</a></span>, п. 4.</p></authorialNote>:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	утвердила назначение или повторное назначение Генеральным секретарем Ясира О. ар-Румайяна (Саудовская Аравия), Сары Омотунде Аладе (Нигерия), Натальи Ханженковой (Российская Федерация), Шаня Ли (Китай) и Патрисии Парисе (Аргентина) в качестве обычных членов Комитета по инвестициям на трехлетний срок полномочий, начинающийся 1 января 2024 года; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	утвердила повторное назначение Генеральным секретарем Маки Талля (Мали) в качестве члена ad hoc Комитета по инвестициям на годичный срок полномочий, начинающийся 1 января 2024 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve"> Таким образом, на 1 января 2024 года в состав Комитета по инвестициям входят следующие лица: Ясир О. ар-Румайян (Саудовская Аравия, обычный член)***, Сара Омотунде Аладе (Нигерия, обычный член)***, Йенс Фрике (Германия, обычный член)**, Хонда Кейко (Япония, обычный член)*, Наталья Ханженкова (Российская Федерация, обычный член)***, Майкл Кляйн (Соединенные Штаты Америки, обычный член )**, Шань Ли (Китай, обычный член)***, Патрисия Парисе (Аргентина, обычный член)***, Лусиани Рибейру (Бразилия, обычный член)** и Маки Талль (Мали, член ad hoc)*. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">__________________ </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">*	Срок полномочий истекает 31 декабря 2024 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 31 декабря 2025 года. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 31 декабря 2026 года.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="35-е" refersTo="#adoptionMeeting">35‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2023-11-16" refersTo="#adoptionDate">16 ноября 2023 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

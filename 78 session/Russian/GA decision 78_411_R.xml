@@ -1,0 +1,172 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/"></FRBRuri>
+          <FRBRdate date="2023-12-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/rus@/"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-04/78-411/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-03" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Peacebuilding Commission. Organizational Committee" showAs="UN. Peacebuilding Commission. Organizational Committee" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" href="http://metadata.un.org/thesaurus/1001938" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="114b" showAs="Election of members of the Organizational Committee of the Peacebuilding Commission." shortForm="UN. PEACEBUILDING COMMISSION. ORGANIZATIONAL COMMITTEE--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-12-04" outcome="adopted" as="A/78/PV.42" by="42-е" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Бангладеш" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Бразилия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Германия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Дания" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Египет" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Индия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Италия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Канада" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Катар" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Кения" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Китай" outcome="composition" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Непал" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Нигерия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Норвегия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Перу" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Польша" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Республика Корея" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Российская Федерация" outcome="composition" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Руанда" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Сент-Винсент и Гренадины" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Соединенное Королевство Великобритании и Северной Ирландии" outcome="composition" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Соединенные Штаты Америки" outcome="composition" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Уругвай" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Франция" outcome="composition" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Хорватия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Швеция" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Эфиопия" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Южная Африка" outcome="composition" akn4un:end="2024-12-31" />
+        <step date="2023-12-04" as="Организационный комитет Комиссии по миростроительству" by="" refersTo="Япония" outcome="composition" akn4un:end="2024-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/411</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="114 b)" name="agenda item">Пункт 114 b) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/411.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы членов Организационного комитета Комиссии по миростроительству</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> На своем 42‑м пленарном заседании 4 декабря 2023 года Генеральная Ассамблея в соответствии со своими резолюциями <a href="https://undocs.org/ru/A/RES/60/180">60/180</a> от 20 декабря 2005 года, <a href="https://undocs.org/ru/A/RES/60/261">60/261</a> от 8 мая 2006 года и <a href="https://undocs.org/ru/A/RES/63/145">63/145</a> от 18 декабря 2008 года избрала ПОЛЬШУ и УРУГВАЙ членами Организационного комитета Комиссии по миростроительству на двухлетний срок полномочий, начинающийся 1 января 2024 года, для заполнения вакансий, возникших в связи с истечением срока полномочий БОЛГАРИИ и ДОМИНИКАНСКОЙ РЕСПУБЛИКИ.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+        <p xml:space="preserve"> В соответствии с пунктами 4 а)- d) резолюции <a href="https://undocs.org/ru/A/RES/60/180">60/180</a> следующие 26 государства уже избраны и/или отобраны в качестве членов Организационного комитета Комиссии по миростроительству: ЕГИПЕТ, КАТАР, КЕНИЯ, СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ и ЮЖНАЯ АФРИКА избраны Ассамблеей<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> См. решение 77/416.</p></authorialNote>; [подлежит уточнению], [подлежит уточнению],  КИТАЙ, РОССИЙСКАЯ ФЕДЕРАЦИЯ, СОЕДИНЕННОЕ КОРОЛЕВСТВО ВЕЛИКОБРИТАНИИ И СЕВЕРНОЙ ИРЛАНДИИ, СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ и ФРАНЦИЯ избраны Советом Безопасности<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> См. <span class="underline"><a href="https://undocs.org/ru/S/2024/xx">S/2024/xx</a></span>.</p></authorialNote>; БРАЗИЛИЯ, ДАНИЯ, ИТАЛИЯ, НИГЕРИЯ, ПЕРУ, РЕСПУБЛИКА КОРЕЯ и ХОРВАТИЯ избраны Экономическим и Социальным Советом<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> См. решения 2022/206 C и D и 2023/208 Экономического и Социального Совета.</p></authorialNote>; ГЕРМАНИЯ, КАНАДА, НОРВЕГИЯ, ШВЕЦИЯ и ЯПОНИЯ выбраны 10 членами, которые вносят самые большие начисленные взносы в бюджеты Организации Объединенных Наций и добровольные взносы в фонды, программы и учреждения Организации Объединенных Наций, включая постоянный фонд миростроительства, и из числа этих членов<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> См. <span class="underline"><a href="https://undocs.org/ru/A/77/652">A/77/652</a></span>.</p></authorialNote>; и БАНГЛАДЕШ, ИНДИЯ, НЕПАЛ, РУАНДА и ЭФИОПИЯ выбраны 10 членами, которые предоставляют самые большие контингенты военнослужащих и гражданских полицейских для миссий Организации Объединенных Наций, и из числа этих членов<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> См. <span class="underline"><a href="https://undocs.org/ru/A/77/650">A/77/650</a></span>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> Таким образом, на 1 января 2024 года в состав Организационного комитета Комиссии по миростроительству входит следующее 31 государство-член: [подлежит уточнению]**, [подлежит уточнению]**, БАНГЛАДЕШ**, БРАЗИЛИЯ****, ГЕРМАНИЯ**, ДАНИЯ****, ЕГИПЕТ**, ИНДИЯ**, ИТАЛИЯ****, КАНАДА**, КАТАР**, КЕНИЯ**, КИТАЙ*, НЕПАЛ**, НИГЕРИЯ****, НОРВЕГИЯ**, ПЕРУ****, ПОЛЬША***, РЕСПУБЛИКА КОРЕЯ****, РОССИЙСКАЯ ФЕДЕРАЦИЯ*, РУАНДА**, СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ**, СОЕДИНЕННОЕ КОРОЛЕВСТВО ВЕЛИКОБРИТАНИИ И СЕВЕРНОЙ ИРЛАНДИИ*, СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ*, УРУГВАЙ***, ФРАНЦИЯ*, ХОРВАТИЯ****, ШВЕЦИЯ**, ЭФИОПИЯ**, ЮЖНАЯ АФРИКА** и ЯПОНИЯ**.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">__________________  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">*	Постоянные члены Совета Безопасности.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">**	Срок полномочий истекает 31 декабря 2024 года.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">***	Срок полномочий истекает 31 декабря 2025 года.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">****	Срок полномочий истекает 31 декабря 2024 года или когда они перестают быть членами Экономического и Социального Совета, в зависимости от того, что произойдет раньше.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="42-е" refersTo="#adoptionMeeting">42‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2023-12-04" refersTo="#adoptionDate">4 декабря 2023 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
