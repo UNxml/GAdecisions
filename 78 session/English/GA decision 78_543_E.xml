@@ -1,0 +1,879 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-22/78-543/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-22/78-543/"></FRBRuri>
+          <FRBRdate date="2023-12-22" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-22/78-543/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-22/78-543/eng@/"></FRBRuri>
+          <FRBRdate date="2024-01-17" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2023-12-22/78-543/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2023-12-22/78-543/eng@.xml"></FRBRuri>
+          <FRBRdate date="2024-01-17" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="public_health" href="http://metadata.un.org/thesaurus/1005250" showAs="public_health" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024)--AGENDA" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-12-22" outcome="adopted" as="A/78/PV.50 (Resumption 1)" by="50th" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/543</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Seventy-eighth session</session>
+      </p>
+      <p>
+        <inline title="7" name="agenda item">Agenda item 7</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/543.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Agenda items remaining for consideration by the General Assembly at its seventy-eighth session</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 50th (resumed) plenary meeting, on 22 December 2023, the General Assembly, apart from organizational matters and items that might have to be considered by operation of the rules of procedure of the Assembly, took note of the following agenda items that remained for consideration during its seventy-eighth session: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">Item 9.	Report of the Economic and Social Council</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">Item 10.	Implementation of the Declaration of Commitment on HIV/AIDS and the political declarations on HIV/AIDS </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">Item 11.	Sport for development and peace: building a peaceful and better world through sport and the Olympic ideal</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">Item 12.	Improving global road safety</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">Item 13.	Integrated and coordinated implementation of and follow-up to the outcomes of the major United Nations conferences and summits in the economic, social and related fields</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">Item 14.	Culture of peace</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">Item 18.	Sustainable development:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">	Follow-up to and implementation of the SIDS Accelerated Modalities of Action (SAMOA) Pathway and the Mauritius Strategy for the Further Implementation of the Programme of Action for the Sustainable Development of Small Island Developing States</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">	Disaster risk reduction</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>(d)</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">	Protection of global climate for present and future generations of humankind</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="MercuryDocument">
+        <num>(i)</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">	Combating sand and dust storms</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <content eId="para_16__content">
+          <p xml:space="preserve">Item 20.	Groups of countries in special situations:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">	Follow-up to the second United Nations Conference on Landlocked Developing Countries</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <content eId="para_18__content">
+          <p xml:space="preserve">Item 25.	Advancement of women:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">	Advancement of women</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="MercuryDocument">
+        <content eId="para_20__content">
+          <p xml:space="preserve">Item 26.	Report of the Security Council </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="MercuryDocument">
+        <content eId="para_21__content">
+          <p xml:space="preserve">Item 27.	Report of the Peacebuilding Commission </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <content eId="para_22__content">
+          <p xml:space="preserve">Item 28.	Elimination of unilateral extraterritorial coercive economic measures as a means of political and economic compulsion </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <content eId="para_23__content">
+          <p xml:space="preserve">Item 29.	Support by the United Nations system of the efforts of Governments to promote and consolidate new or restored democracies</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <content eId="para_24__content">
+          <p xml:space="preserve">Item 30.	The role of diamonds in fuelling conflict </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <content eId="para_25__content">
+          <p xml:space="preserve">Item 31.	Prevention of armed conflict:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">	Prevention of armed conflict </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">	Strengthening the role of mediation in the peaceful settlement of disputes, conflict prevention and resolution</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <content eId="para_28__content">
+          <p xml:space="preserve">Item 32.	Protracted conflicts in the GUAM area and their implications for international peace, security and development</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <content eId="para_29__content">
+          <p xml:space="preserve">Item 33.	Zone of peace and cooperation of the South Atlantic</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <content eId="para_30__content">
+          <p xml:space="preserve">Item 34.	The situation in the Middle East </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <content eId="para_31__content">
+          <p xml:space="preserve">Item 35.	Question of Palestine </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <content eId="para_32__content">
+          <p xml:space="preserve">Item 36.	The situation in Afghanistan </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <content eId="para_33__content">
+          <p xml:space="preserve">Item 37.	Question of the Comorian island of Mayotte</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="MercuryDocument">
+        <content eId="para_34__content">
+          <p xml:space="preserve">Item 39.	The situation in Central America: progress in fashioning a region of peace, freedom, democracy and development </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <content eId="para_35__content">
+          <p xml:space="preserve">Item 40.	Question of Cyprus</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="MercuryDocument">
+        <content eId="para_36__content">
+          <p xml:space="preserve">Item 41.	Armed aggression against the Democratic Republic of the Congo </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="MercuryDocument">
+        <content eId="para_37__content">
+          <p xml:space="preserve">Item 42.	Question of the Falkland Islands (Malvinas)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="MercuryDocument">
+        <content eId="para_38__content">
+          <p xml:space="preserve">Item 43.	The situation of democracy and human rights in Haiti </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="MercuryDocument">
+        <content eId="para_39__content">
+          <p xml:space="preserve">Item 44.	Armed Israeli aggression against the Iraqi nuclear installations and its grave consequences for the established international system concerning the peaceful uses of nuclear energy, the non‑proliferation of nuclear weapons and international peace and security</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="MercuryDocument">
+        <content eId="para_40__content">
+          <p xml:space="preserve">Item 45.	Consequences of the Iraqi occupation of and aggression against Kuwait</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="MercuryDocument">
+        <content eId="para_41__content">
+          <p xml:space="preserve">Item 51.	Comprehensive review of the whole question of peacekeeping operations in all their aspects </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="MercuryDocument">
+        <content eId="para_42__content">
+          <p xml:space="preserve">Item 58.	Implementation of the Declaration on the Granting of Independence to Colonial Countries and Peoples </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="MercuryDocument">
+        <content eId="para_43__content">
+          <p xml:space="preserve">Item 61.	Peacebuilding and sustaining peace</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="MercuryDocument">
+        <content eId="para_44__content">
+          <p xml:space="preserve">Item 62.	The situation in the temporarily occupied territories of Ukraine</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="MercuryDocument">
+        <content eId="para_45__content">
+          <p xml:space="preserve">Item 63.	Use of the veto</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="MercuryDocument">
+        <content eId="para_46__content">
+          <p xml:space="preserve">Item 64.	Zone of peace, trust and cooperation of Central Asia</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="MercuryDocument">
+        <content eId="para_47__content">
+          <p xml:space="preserve">Item 65.	New Partnership for Africa’s Development: progress in implementation and international support: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">	New Partnership for Africa’s Development: progress in implementation and international support </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">	Causes of conflict and the promotion of durable peace and sustainable development in Africa </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="MercuryDocument">
+        <content eId="para_50__content">
+          <p xml:space="preserve">Item 68.	Rights of Indigenous Peoples: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">	Rights of Indigenous Peoples</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">	Follow-up to the outcome document of the high-level plenary meeting of the General Assembly known as the World Conference on Indigenous Peoples</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="MercuryDocument">
+        <content eId="para_53__content">
+          <p xml:space="preserve">Item 69.	Elimination of racism, racial discrimination, xenophobia and related intolerance</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="MercuryDocument">
+        <content eId="para_54__content">
+          <p xml:space="preserve">Item 72.	Strengthening of the coordination of humanitarian and disaster relief assistance of the United Nations, including special economic assistance: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">	Strengthening of the coordination of emergency humanitarian assistance of the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">	Assistance to the Palestinian people</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">	Special economic assistance to individual countries or regions</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="MercuryDocument">
+        <content eId="para_59__content">
+          <p xml:space="preserve">Item 73.	Report of the International Court of Justice </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="MercuryDocument">
+        <content eId="para_60__content">
+          <p xml:space="preserve">Item 75.	Oceans and the law of the sea: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">	Oceans and the law of the sea </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">	Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="MercuryDocument">
+        <content eId="para_63__content">
+          <p xml:space="preserve">Item 80.	Crimes against humanity</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="MercuryDocument">
+        <content eId="para_64__content">
+          <p xml:space="preserve">Item 88.	Request for an advisory opinion of the International Court of Justice on the legal consequences of the separation of the Chagos Archipelago from Mauritius in 1965</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="MercuryDocument">
+        <content eId="para_65__content">
+          <p xml:space="preserve">Item 99.	General and complete disarmament</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="MercuryDocument">
+        <content eId="para_66__content">
+          <p xml:space="preserve">Item 110.	Report of the Secretary-General on the work of the Organization </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="MercuryDocument">
+        <content eId="para_67__content">
+          <p xml:space="preserve">Item 111.	Report of the Secretary-General on the Peacebuilding Fund </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="MercuryDocument">
+        <content eId="para_68__content">
+          <p xml:space="preserve">Item 112.	Notification by the Secretary-General under Article 12, paragraph 2, of the Charter of the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="MercuryDocument">
+        <content eId="para_69__content">
+          <p xml:space="preserve">Item 113.	Elections to fill vacancies in principal organs:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">	Election of non‑permanent members of the Security Council </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_71__content">
+          <p xml:space="preserve">	Election of members of the Economic and Social Council</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="MercuryDocument">
+        <content eId="para_72__content">
+          <p xml:space="preserve">Item 114.	Elections to fill vacancies in subsidiary organs and other elections:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">	Election of members of the Committee for Programme and Coordination </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="MercuryDocument">
+        <num>(d)</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">	Election of the Executive Director of the United Nations Human Settlements Programme</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="MercuryDocument">
+        <content eId="para_75__content">
+          <p xml:space="preserve">Item 115.	Appointments to fill vacancies in subsidiary organs and other appointments: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="MercuryDocument">
+        <num>(f)</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">	Appointment of members of the Committee on Conferences</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_77" class="MercuryDocument">
+        <num>(g)</num>
+        <content eId="para_77__content">
+          <p xml:space="preserve">	Appointment of members of the Board of the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_78" class="MercuryDocument">
+        <content eId="para_78__content">
+          <p xml:space="preserve">Item 116.	Admission of new Members to the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_79" class="MercuryDocument">
+        <content eId="para_79__content">
+          <p xml:space="preserve">Item 117.	Follow-up to the outcome of the Millennium Summit</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_80" class="MercuryDocument">
+        <content eId="para_80__content">
+          <p xml:space="preserve">Item 118.	Commemoration of the abolition of slavery and the transatlantic slave trade </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_81" class="MercuryDocument">
+        <content eId="para_81__content">
+          <p xml:space="preserve">Item 119.	Implementation of the resolutions of the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_82" class="MercuryDocument">
+        <content eId="para_82__content">
+          <p xml:space="preserve">Item 120.	Revitalization of the work of the General Assembly</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="MercuryDocument">
+        <content eId="para_83__content">
+          <p xml:space="preserve">Item 121.	Question of equitable representation on and increase in the membership of the Security Council and other matters related to the Security Council </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_84" class="MercuryDocument">
+        <content eId="para_84__content">
+          <p xml:space="preserve">Item 122.	Strengthening of the United Nations system</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="MercuryDocument">
+        <content eId="para_85__content">
+          <p xml:space="preserve">Item 123.	United Nations reform: measures and proposals</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="MercuryDocument">
+        <content eId="para_86__content">
+          <p xml:space="preserve">Item 124.	Multilingualism</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_87" class="MercuryDocument">
+        <content eId="para_87__content">
+          <p xml:space="preserve">Item 125.	Global health and foreign policy </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="MercuryDocument">
+        <content eId="para_88__content">
+          <p xml:space="preserve">Item 127.	Investigation into the conditions and circumstances resulting in the tragic death of Dag Hammarskjöld and of the members of the party accompanying him </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_89" class="MercuryDocument">
+        <content eId="para_89__content">
+          <p xml:space="preserve">Item 128.	Sexual exploitation and abuse: implementing a zero-tolerance policy</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_90" class="MercuryDocument">
+        <content eId="para_90__content">
+          <p xml:space="preserve">Item 129.	The responsibility to protect and the prevention of genocide, war crimes, ethnic cleansing and crimes against humanity</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_91" class="MercuryDocument">
+        <content eId="para_91__content">
+          <p xml:space="preserve">Item 130.	Report of the United Nations Youth Office</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_92" class="MercuryDocument">
+        <content eId="para_92__content">
+          <p xml:space="preserve">Item 131.	Financial reports and audited financial statements, and reports of the Board of Auditors: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_93" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_93__content">
+          <p xml:space="preserve">	United Nations</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_94" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_94__content">
+          <p xml:space="preserve">	United Nations peacekeeping operations</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_96" class="MercuryDocument">
+        <num>(c)</num>
+        <content eId="para_96__content">
+          <p xml:space="preserve">	International Trade Centre</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_99" class="MercuryDocument">
+        <num>(d)</num>
+        <content eId="para_99__content">
+          <p xml:space="preserve">	United Nations University</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_103" class="MercuryDocument">
+        <num>(e)</num>
+        <content eId="para_103__content">
+          <p xml:space="preserve">	United Nations Development Programme</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_108" class="MercuryDocument">
+        <num>(f)</num>
+        <content eId="para_108__content">
+          <p xml:space="preserve">	United Nations Capital Development Fund</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_114" class="MercuryDocument">
+        <num>(g)</num>
+        <content eId="para_114__content">
+          <p xml:space="preserve">	United Nations Children’s Fund</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_121" class="MercuryDocument">
+        <num>(h)</num>
+        <content eId="para_121__content">
+          <p xml:space="preserve">	United Nations Relief and Works Agency for Palestine Refugees in the Near East</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_129" class="MercuryDocument">
+        <num>(i)</num>
+        <content eId="para_129__content">
+          <p xml:space="preserve">	United Nations Institute for Training and Research</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_138" class="MercuryDocument">
+        <num>(j)</num>
+        <content eId="para_138__content">
+          <p xml:space="preserve">	Voluntary funds administered by the United Nations High Commissioner for Refugees</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_148" class="MercuryDocument">
+        <num>(k)</num>
+        <content eId="para_148__content">
+          <p xml:space="preserve">	Fund of the United Nations Environment Programme</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_159" class="MercuryDocument">
+        <num>(l)</num>
+        <content eId="para_159__content">
+          <p xml:space="preserve">	United Nations Population Fund</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_171" class="MercuryDocument">
+        <num>(m)</num>
+        <content eId="para_171__content">
+          <p xml:space="preserve">	United Nations Human Settlements Programme</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_184" class="MercuryDocument">
+        <num>(n)</num>
+        <content eId="para_184__content">
+          <p xml:space="preserve">	United Nations Office on Drugs and Crime</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_198" class="MercuryDocument">
+        <num>(o)</num>
+        <content eId="para_198__content">
+          <p xml:space="preserve">	United Nations Office for Project Services</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_213" class="MercuryDocument">
+        <num>(p)</num>
+        <content eId="para_213__content">
+          <p xml:space="preserve">	United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women)</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_229" class="MercuryDocument">
+        <num>(q)</num>
+        <content eId="para_229__content">
+          <p xml:space="preserve">	International Residual Mechanism for Criminal Tribunals</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_246" class="MercuryDocument">
+        <num>(r)</num>
+        <content eId="para_246__content">
+          <p xml:space="preserve">	United Nations Joint Staff Pension Fund </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_247" class="MercuryDocument">
+        <content eId="para_247__content">
+          <p xml:space="preserve">Item 132.	Review of the efficiency of the administrative and financial functioning of the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_248" class="MercuryDocument">
+        <content eId="para_248__content">
+          <p xml:space="preserve">Item 133.	Programme budget for 2023 </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_249" class="MercuryDocument">
+        <content eId="para_249__content">
+          <p xml:space="preserve">Item 134.	Programme budget for 2024</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_250" class="MercuryDocument">
+        <content eId="para_250__content">
+          <p xml:space="preserve">Item 135.	Programme planning</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_251" class="MercuryDocument">
+        <content eId="para_251__content">
+          <p xml:space="preserve">Item 136.	Improving the financial situation of the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_252" class="MercuryDocument">
+        <content eId="para_252__content">
+          <p xml:space="preserve">Item 137.	Pattern of conferences </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_253" class="MercuryDocument">
+        <content eId="para_253__content">
+          <p xml:space="preserve">Item 138.	Scale of assessments for the apportionment of the expenses of the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_254" class="MercuryDocument">
+        <content eId="para_254__content">
+          <p xml:space="preserve">Item 139.	Human resources management </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_255" class="MercuryDocument">
+        <content eId="para_255__content">
+          <p xml:space="preserve">Item 140.	Report on the activities of the Ethics Office</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_256" class="MercuryDocument">
+        <content eId="para_256__content">
+          <p xml:space="preserve">Item 141.	Joint Inspection Unit </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_257" class="MercuryDocument">
+        <content eId="para_257__content">
+          <p xml:space="preserve">Item 142.	United Nations common system</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_258" class="MercuryDocument">
+        <content eId="para_258__content">
+          <p xml:space="preserve">Item 143.	Report on the activities of the Office of Internal Oversight Services </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_259" class="MercuryDocument">
+        <content eId="para_259__content">
+          <p xml:space="preserve">Item 144.	Administration of justice at the United Nations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_260" class="MercuryDocument">
+        <content eId="para_260__content">
+          <p xml:space="preserve">Item 145.	Financing of the International Residual Mechanism for Criminal Tribunals </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_261" class="MercuryDocument">
+        <content eId="para_261__content">
+          <p xml:space="preserve">Item 146.	Administrative and budgetary aspects of the financing of the United Nations peacekeeping operations </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_262" class="MercuryDocument">
+        <content eId="para_262__content">
+          <p xml:space="preserve">Item 147.	Financing of the United Nations Interim Security Force for Abye. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_263" class="MercuryDocument">
+        <content eId="para_263__content">
+          <p xml:space="preserve">Item 148.	Financing of the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_264" class="MercuryDocument">
+        <content eId="para_264__content">
+          <p xml:space="preserve">Item 149.	Financing of the United Nations Operation in Côte d’Ivoire </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_265" class="MercuryDocument">
+        <content eId="para_265__content">
+          <p xml:space="preserve">Item 150.	Financing of the United Nations Peacekeeping Force in Cyprus </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_266" class="MercuryDocument">
+        <content eId="para_266__content">
+          <p xml:space="preserve">Item 151.	Financing of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_267" class="MercuryDocument">
+        <content eId="para_267__content">
+          <p xml:space="preserve">Item 152.	Financing of the United Nations Mission in East Timor </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_268" class="MercuryDocument">
+        <content eId="para_268__content">
+          <p xml:space="preserve">Item 153.	Financing of the United Nations Interim Administration Mission in Kosovo </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_269" class="MercuryDocument">
+        <content eId="para_269__content">
+          <p xml:space="preserve">Item 154.	Financing of the United Nations Mission in Liberia </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_270" class="MercuryDocument">
+        <content eId="para_270__content">
+          <p xml:space="preserve">Item 155.	Financing of the United Nations Multidimensional Integrated Stabilization Mission in Mali </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_271" class="MercuryDocument">
+        <content eId="para_271__content">
+          <p xml:space="preserve">Item 156.	Financing of the United Nations peacekeeping forces in the Middle East: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_272" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_272__content">
+          <p xml:space="preserve">	United Nations Disengagement Observer Force </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_273" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_273__content">
+          <p xml:space="preserve">	United Nations Interim Force in Lebanon </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_274" class="MercuryDocument">
+        <content eId="para_274__content">
+          <p xml:space="preserve">Item 157.	Financing of the United Nations Mission in South Sudan </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_275" class="MercuryDocument">
+        <content eId="para_275__content">
+          <p xml:space="preserve">Item 158.	Financing of the United Nations Mission for the Referendum in Western Sahara </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_276" class="MercuryDocument">
+        <content eId="para_276__content">
+          <p xml:space="preserve">Item 159.	Financing of the African Union-United Nations Hybrid Operation in Darfur</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_277" class="MercuryDocument">
+        <content eId="para_277__content">
+          <p xml:space="preserve">Item 160.	Financing of the activities arising from Security Council resolution <a href="https://undocs.org/en/S/RES/1863(2009)">1863 (2009)</a></p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="50th" refersTo="#adoptionMeeting">50th (resumed) plenary meeting</location>
+          <eol />
+          <docDate date="2023-12-22" refersTo="#adoptionDate">22 December 2023</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
