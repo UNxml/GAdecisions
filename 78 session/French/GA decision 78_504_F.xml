@@ -13,23 +13,73 @@
         <FRBRExpression>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/fra@!main/"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/fra@/"></FRBRuri>
-          <FRBRdate date="2023-10-21" name="publication"></FRBRdate>
+          <FRBRdate date="2024-01-17" name="publication"></FRBRdate>
           <FRBRauthor href="ga" as="issuer"></FRBRauthor>
           <FRBRlanguage language="fra"></FRBRlanguage>
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/fra@/!main.xml"></FRBRthis>
           <FRBRuri value="/akn/un/statement/deliberation/unga/2023-09-08/78-504/fra@.xml"></FRBRuri>
-          <FRBRdate date="2023-10-21" name="markup"></FRBRdate>
+          <FRBRdate date="2024-01-17" name="markup"></FRBRdate>
           <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
         </FRBRManifestation>
       </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
+      </classification>
       <classification source="DHLAUTH">
         <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
         <keyword refersTo="agenda" value="7" showAs="Organization of work, adoption of the agenda and allocation of items: reports of the General Committee." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024)--AGENDA" dictionary="A/78/251"></keyword>
       </classification>
       <workflow source="#un">
         <step date="2023-09-08" outcome="adopted" as="A/78/PV.2" by="2e" />
+        <step date="2023-12-07" outcome="adopted" as="A/78/PV.2" by="45e" />
+        <step date="2023-12-22" outcome="adopted" as="A/78/PV.2" by="50e" />
       </workflow>
       <analysis source="#un">
         <parliamentary>
@@ -103,12 +153,28 @@
           <p xml:space="preserve"> À la même séance également, sur la recommandation formulée par le Bureau dans son premier rapport<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> Ibid., par. 94.</p></authorialNote>, l’Assemblée générale a décidé de reporter l’examen de la question intitulée « Question des îles malgaches Glorieuses, Juan de Nova, Europa et Bassas da India » et de l’inscrire à l’ordre du jour provisoire de sa soixante-dix-neuvième session.</p>
         </content>
       </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve"> À sa 45<sup>e</sup> séance plénière, le 7 décembre 2023, l’Assemblée générale a décidé d’examiner directement en séance plénière le point subsidiaire b) intitulé « Suivi de la deuxième Conférence des Nations Unies sur les pays en développement sans littoral » du point 20 de l’ordre du jour intitulé « Groupes de pays en situation particulière », sous le titre A (Promotion d’une croissance économique soutenue et d’un développement durable, conformément aux résolutions de l’Assemblée générale et aux décisions issues des récentes conférences des Nations Unies), et de procéder sans délai à l’examen d’un projet de décision<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/78/L.23">A/78/L.23</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve"> À la reprise de sa 50<sup>e</sup> séance plénière, le 22 décembre 2023, l’Assemblée générale a décidé de reprendre l’examen du point 107 de l’ordre du jour intitulé « Prévention du crime et justice pénale », sous le titre H (Contrôle des drogues, prévention du crime et lutte contre le terrorisme international sous toutes ses formes et dans toutes ses manifestations), d’examiner ce point directement en séance plénière et de procéder sans délai à l’examen d’un projet de résolution<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"> <a href="https://undocs.org/fr/A/78/L.33">A/78/L.33</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
     </mainBody>
     <conclusions eId="conclusions">
       <p>
-        <inline name="adoptionMeeting" title="2e">2e séance plénière</inline>
-        <eol />
-        <docDate date="2023-09-08" refersTo="#adoptionDate">8 septembre 2023</docDate>
+        <event refersTo="#adoption">
+          <location title="2e" refersTo="#adoptionMeeting">2e séance plénière</location>
+          <location title="45e" refersTo="#adoptionMeeting">45e séance plénière</location>
+          <location title="50e" refersTo="#adoptionMeeting">50e séance plénière (reprise)</location>
+          <eol />
+          <docDate date="2023-09-08" refersTo="#adoptionDate">8 septembre 2023</docDate>
+          <docDate date="2023-12-07" refersTo="#adoptionDate">7 décembre 2023</docDate>
+          <docDate date="2023-12-22" refersTo="#adoptionDate">22 décembre 2023</docDate>
+        </event>
       </p>
     </conclusions>
   </statement>
