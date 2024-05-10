@@ -1,0 +1,129 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-546/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-546/"></FRBRuri>
+          <FRBRdate date="2024-02-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-546/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-546/zho@/"></FRBRuri>
+          <FRBRdate date="2024-04-22" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-546/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-546/zho@.xml"></FRBRuri>
+          <FRBRdate date="2024-04-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="11" href="http://metadata.un.org/sdg/11" showAs="sdg_11" dictionary="SDGO"></keyword>
+        <keyword value="cities" href="http://metadata.un.org/thesaurus/1000995" showAs="cities" dictionary="UNBIS"></keyword>
+        <keyword value="human_settlements" href="http://metadata.un.org/thesaurus/1002986" showAs="human_settlements" dictionary="UNBIS"></keyword>
+        <keyword value="urban_area" href="http://eurovoc.europa.eu/4809" showAs="urban_area" dictionary="EuroVoc"></keyword>
+        <keyword value="urban_area" href="http://metadata.un.org/thesaurus/1006809" showAs="urban_area" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="13" href="http://metadata.un.org/sdg/13" showAs="sdg_13" dictionary="SDGO"></keyword>
+        <keyword value="climate_change" href="http://eurovoc.europa.eu/5482" showAs="climate_change" dictionary="EuroVoc"></keyword>
+        <keyword value="climate_change" href="http://metadata.un.org/thesaurus/1001030" showAs="climate_change" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Office for Disaster Risk Reduction" showAs="UN. Office for Disaster Risk Reduction" dictionary="DHLAUTH"></keyword>
+        <keyword value="Santiago Network" showAs="Santiago Network" dictionary="DHLAUTH"></keyword>
+        <keyword value="CLIMATE CHANGE" href="http://metadata.un.org/thesaurus/1001030" showAs="CLIMATE CHANGE" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CLIMATE CHANGE MITIGATION" href="http://metadata.un.org/thesaurus/c_7690f4b4" showAs="CLIMATE CHANGE MITIGATION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CLIMATE CHANGE ADAPTATION" href="http://metadata.un.org/thesaurus/c_e88b31d2" showAs="CLIMATE CHANGE ADAPTATION" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="18c" showAs="Disaster risk reduction." shortForm="DISASTER PREVENTION" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-02-07" outcome="adopted" as="A/78/PV.55" by="第55次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/546</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全体会议</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">第七十八届会议</session>
+      </p>
+      <p>
+        <inline title="18(c)" name="agenda item">议程项目18(c)</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/546.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">授权联合国减少灾害风险办公室主持避免、最大限度减少和处理气候变化不利影响相关损失和损害的圣地亚哥网络秘书处的工作</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2024年2月7日，大会第55次全体会议根据奥地利、保加利亚、加拿大、克罗地亚、塞浦路斯、捷克、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、意大利、日本、肯尼亚、拉脱维亚、卢森堡、马耳他、荷兰王国、挪威、波兰、葡萄牙、摩尔多瓦共和国、罗马尼亚、斯洛文尼亚、西班牙、苏里南、瑞典、瑞士、阿拉伯联合酋长国、大不列颠及北爱尔兰联合王国和美利坚合众国的提议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/78/L.36/Rev.1">A/78/L.36/Rev.1</a></span>；另见<span class="underline"><a href="https://undocs.org/ch/A/78/PV.55">A/78/PV.55</a></span>。</p></authorialNote> 回顾关于联合国减少灾害风险办公室的各项相关决议，包括1999年12月22日第<a href="https://undocs.org/ch/A/RES/54/219">54/219</a>号决议和2001年12月21日第<a href="https://undocs.org/ch/A/RES/56/195">56/195</a>号决议，授权联合国减少灾害风险办公室根据第6/CMA.5和2/CP.28号决定，就避免、尽量减轻和处理气候变化不利影响相关损失和损害问题圣地亚哥网络秘书处工作的主持事宜，与《联合国气候变化框架公约》缔约方会议和作为《巴黎协定》缔约方会议的《公约》缔约方会议订立一项谅解备忘录。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+      <conclusions eId="conclusions">
+        <p>
+          <event refersTo="#adoption">
+            <location title="第55次" refersTo="#adoptionMeeting">第55次全体会议</location>
+            <eol />
+            <docDate date="2024-02-07" refersTo="#adoptionDate">2024年2月7日</docDate>
+          </event>
+        </p>
+      </conclusions>
+  </statement>
+</akomaNtoso>
