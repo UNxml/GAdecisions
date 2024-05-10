@@ -1,0 +1,255 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <documentCollection name="publication">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413/"></FRBRuri>
+          <FRBRdate date="2024-03-21" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413/rus@/"></FRBRuri>
+          <FRBRdate date="2024-04-30" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-04-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="12" href="http://metadata.un.org/sdg/12" showAs="sdg_12" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_consumption" href="http://metadata.un.org/thesaurus/1006318" showAs="sustainable_consumption" dictionary="UNBIS"></keyword>
+        <keyword value="consumption" href="http://eurovoc.europa.eu/139" showAs="consumption" dictionary="EuroVoc"></keyword>
+        <keyword value="consumption" href="http://metadata.un.org/thesaurus/1001264" showAs="consumption" dictionary="UNBIS"></keyword>
+        <keyword value="production" href="http://eurovoc.europa.eu/2707" showAs="production" dictionary="EuroVoc"></keyword>
+        <keyword value="production" href="http://metadata.un.org/thesaurus/1005146" showAs="production" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://metadata.un.org/thesaurus/1004576" showAs="ocean" dictionary="UNBIS"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://metadata.un.org/thesaurus/1003911" showAs="marine_environment" dictionary="UNBIS"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" showAs="Ten-Year Framework of Programmes on Sustainable Consumption and Production Patterns. Board" dictionary="DHLAUTH"></keyword>
+        <keyword value="APPOINTMENT OF MEMBERS" href="http://metadata.un.org/thesaurus/1000343" showAs="APPOINTMENT OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="115g" showAs="Appointment of members of the Board of the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns." shortForm="TEN-YEAR FRAMEWORK OF PROGRAMMES ON SUSTAINABLE CONSUMPTION AND PRODUCTION PATTERNS. BOARD--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-03-21" outcome="adopted" as="A/78/PV.63" by="63-е" />
+        <step date="2024-03-21" as="Совет Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства" by="" refersTo="БРАЗИЛИЯ" outcome="composition" akn4un:end="2026-03-20" />
+        <step date="2024-03-21" as="Совет Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства" by="" refersTo="РОССИЙСКАЯ ФЕДЕРАЦИЯ" outcome="composition" akn4un:end="2026-03-20" />
+        <step date="2024-03-21" as="Совет Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства" by="" refersTo="СЕНЕГАЛ" outcome="composition" akn4un:end="2026-03-20" />
+        <step date="2024-03-21" as="Совет Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства" by="" refersTo="СОЕДИНЕННЫЕ ШТАТЫ АМЕРИКИ" outcome="composition" akn4un:end="2026-03-20" />
+        <step date="2024-03-21" as="Совет Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства" by="" refersTo="ФИНЛЯНДИЯ" outcome="composition" akn4un:end="2026-03-20" />
+        <step date="2024-03-21" as="Совет Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства" by="" refersTo="ЮЖНЫЙ СУДАН" outcome="composition" akn4un:end="2026-03-20" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/413</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="115 g)" name="agenda item">Пункт 115 g) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/413.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Назначение членов Совета Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства</span>
+        </docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution A"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution B"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413A/"></FRBRuri>
+              <FRBRdate date="2024-03-21" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413A/rus@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413A/rus@/"></FRBRuri>
+              <FRBRdate date="2024-04-30" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="rus"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413A/rus@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413A/rus@.xml"></FRBRuri>
+              <FRBRdate date="2024-04-30" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>A</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve">	На своем 63‑м пленарном заседании 21 марта 2024 года Генеральная Ассамблея постановила, что двухлетний срок полномочий членов Совета Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства начинается с 21 марта 2024 года, даты их назначения, с учетом резолюции <a href="https://undocs.org/ru/A/RES/69/214">69/214</a> от 19 декабря 2014 года.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="decision">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413B/"></FRBRuri>
+              <FRBRdate date="2024-03-21" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413B/rus@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413B/rus@/"></FRBRuri>
+              <FRBRdate date="2024-04-30" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="rus"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2024-03-21/78-413B/rus@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2024-03-21/78-413B/rus@.xml"></FRBRuri>
+              <FRBRdate date="2024-04-30" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>B</docNumber>
+          </p>
+        </preface>
+        <mainBody>
+          <paragraph eId="para_1" class="MercuryDocument">
+            <content eId="para_1__content">
+              <p xml:space="preserve">	На своем 63‑м пленарном заседании 21 марта 2024 года Генеральная Ассамблея в соответствии с резолюциями <a href="https://undocs.org/ru/A/RES/67/203">67/203</a> от 21 декабря 2012 года и <a href="https://undocs.org/ru/A/RES/69/214">69/214</a> от 19 декабря 2014 года и решением 78/413 A от 21 марта 2024 года постановила назначить <inline name="smallCaps" style="font-variant:small-caps">Бразилию, Российскую Федерацию, Сенегал, Соединенные Штаты Америки, Финляндию</inline> и <inline name="smallCaps" style="font-variant:small-caps">Южный</inline> <inline name="smallCaps" style="font-variant:small-caps">Судан</inline> членами Совета Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства на срок полномочий, начинающийся 21 марта 2024 года и заканчивающийся 20 марта 2026 года. </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_2" class="MercuryDocument">
+            <content eId="para_2__content">
+              <p xml:space="preserve">	Таким образом, по состоянию на 21 марта 2024 года в состав Совета Десятилетней стратегии действий по переходу к использованию рациональных моделей потребления и производства входят следующие шесть государств-членов<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Бразилия, Сенегал и Соединенные Штаты Америки исполняют свои обязанности в течение второго срока подряд. Остаются незаполненными две вакансии для членов от государств Азии и Тихого океана, одна вакансия для члена от государств Восточной Европы и одна вакансия для члена от государств Латинской Америки и Карибского бассейна на срок полномочий, начинающийся с даты назначения и истекающий 20 марта 2026 года.</p></authorialNote>: <inline name="smallCaps" style="font-variant:small-caps">Бразилия</inline>*, <inline name="smallCaps" style="font-variant:small-caps">Российская</inline> <inline name="smallCaps" style="font-variant:small-caps">Федерация</inline>*, <inline name="smallCaps" style="font-variant:small-caps">Сенегал</inline>*, <inline name="smallCaps" style="font-variant:small-caps">Соединенные</inline> <inline name="smallCaps" style="font-variant:small-caps">Штаты</inline> <inline name="smallCaps" style="font-variant:small-caps">Америки</inline>*, <inline name="smallCaps" style="font-variant:small-caps">Финляндия</inline>* и <inline name="smallCaps" style="font-variant:small-caps">Южный</inline> <inline name="smallCaps" style="font-variant:small-caps">Судан</inline>*.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="MercuryDocument">
+            <content eId="para_3__content">
+              <p xml:space="preserve">__________________</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="MercuryDocument">
+            <content eId="para_4__content">
+              <p xml:space="preserve">*	Срок полномочий истекает 20 марта 2026 года.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <event refersTo="#adoption">
+              <location title="63-е" refersTo="#adoptionMeeting">63‑е пленарное заседание</location>
+              <eol />
+              <docDate date="2024-03-21" refersTo="#adoptionDate">21 марта 2024 года</docDate>
+            </event>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>

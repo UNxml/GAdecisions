@@ -1,0 +1,460 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-528B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-528B/"></FRBRuri>
+          <FRBRdate date="2024-02-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-528B/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-528B/rus@/"></FRBRuri>
+          <FRBRdate date="2024-04-22" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-528B/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-528B/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-04-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="civil_society" href="http://eurovoc.europa.eu/8428" showAs="civil_society" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://eurovoc.europa.eu/878" showAs="public_institution" dictionary="EuroVoc"></keyword>
+        <keyword value="public_institution" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institution" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS"></keyword>
+        <keyword value="women's_rights" href="http://eurovoc.europa.eu/585" showAs="women's_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="women's_rights" href="http://metadata.un.org/thesaurus/1007035" showAs="women's_rights" dictionary="UNBIS"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="7" href="http://metadata.un.org/sdg/7" showAs="sdg_7" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_energy" href="http://metadata.un.org/thesaurus/1006320" showAs="sustainable_energy" dictionary="UNBIS"></keyword>
+        <keyword value="66_energy" href="http://eurovoc.europa.eu/100159" showAs="66_energy" dictionary="EuroVoc"></keyword>
+        <keyword value="energy_market" href="http://eurovoc.europa.eu/4886" showAs="energy_market" dictionary="EuroVoc"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="8" href="http://metadata.un.org/sdg/8" showAs="sdg_8" dictionary="SDGO"></keyword>
+        <keyword value="unemployment" href="http://eurovoc.europa.eu/5974" showAs="unemployment" dictionary="EuroVoc"></keyword>
+        <keyword value="unemployment" href="http://metadata.un.org/thesaurus/1006773" showAs="unemployment" dictionary="UNBIS"></keyword>
+        <keyword value="economic_growth" href="http://eurovoc.europa.eu/310" showAs="economic_growth" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_growth" href="http://metadata.un.org/thesaurus/1001854" showAs="economic_growth" dictionary="UNBIS"></keyword>
+        <keyword value="employment" href="http://metadata.un.org/thesaurus/1002007" showAs="employment" dictionary="UNBIS"></keyword>
+        <keyword value="full_employment" href="http://eurovoc.europa.eu/2427" showAs="full_employment" dictionary="EuroVoc"></keyword>
+        <keyword value="full_employment" href="http://metadata.un.org/thesaurus/1002563" showAs="full_employment" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Intergovernmental Preparatory Committee for the Third United Nations Conference on Landlocked Developing Countries" showAs="UN. Intergovernmental Preparatory Committee for the Third United Nations Conference on Landlocked Developing Countries" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN Conference on Landlocked Developing Countries (3rd : 2024 : Kigali)" showAs="UN Conference on Landlocked Developing Countries (3rd : 2024 : Kigali)" dictionary="DHLAUTH"></keyword>
+        <keyword value="LANDLOCKED DEVELOPING COUNTRIES" href="http://metadata.un.org/thesaurus/1003606" showAs="LANDLOCKED DEVELOPING COUNTRIES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" href="http://metadata.un.org/thesaurus/1004744" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="20b" showAs="Follow-up to the 2nd United Nations Conference on Landlocked Developing Countries." shortForm="LANDLOCKED DEVELOPING COUNTRIES--CONFERENCE (2ND : 2014 : VIENNA)" dictionary="A/78/251"></keyword>
+      </classification> 
+      <workflow source="#un">
+        <step date="2024-02-07" outcome="adopted" as="A/78/PV.55" by="55-е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/528 B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="20 b)" name="agenda item">Пункт 20 b) повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/528.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Участие неправительственных организаций, организаций гражданского общества, научно-образовательных учреждений и частного сектора в третьей Конференции Организации Объединенных Наций по развивающимся странам, не имеющим выхода к морю</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> Решение 78/528 в разделе B.1 <span class="italic">Официальных отчетов Генеральной Ассамблеи, семьдесят восьмая сессия, Дополнение № 49</span> (<span class="underline"><a href="https://undocs.org/ru/A/78/49(vol.II)">A/78/49</a></span>), т. II, становится решением 78/528 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 55‑м пленарном заседании 7 февраля 2024 года Генеральная Ассамблея по предложению своего Председателя<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/ru/A/78/L.40">A/78/L.40</a>.</p></authorialNote>, ссылаясь на пункт 51 c) своей резолюции <a href="https://undocs.org/ru/A/RES/77/246">77/246</a> от 30 декабря 2022 года о последующей деятельности по итогам второй Конференции Организации Объединенных Наций по развивающимся странам, не имеющим выхода к морю, постановила одобрить участие неправительственных организаций, организаций гражданского общества, научно-образовательных учреждений и частного сектора, перечисленных в приложении к настоящему решению, в третьей Конференции Организации Объединенных Наций по развивающимся странам, не имеющим выхода к морю, которая будет проведена во исполнение резолюции <a href="https://undocs.org/ru/A/RES/77/246">77/246</a>, а также резолюции <a href="https://undocs.org/ru/A/RES/77/329">77/329</a> от 25 августа 2023 года, и в процессе подготовки к ней.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="55‑е" refersTo="#adoptionMeeting">55‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2024-02-07" refersTo="#adoptionDate">7 февраля 2024 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-528/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-528/"></FRBRuri>
+                <FRBRdate date="2024-02-07" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-528/rus@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-528/rus@/"></FRBRuri>
+                <FRBRdate date="2024-02-07" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="rus"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-02-07/78-528/rus@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-02-07/78-528/rus@.xml"></FRBRuri>
+                <FRBRdate date="2024-04-22" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_2" class="MercuryDocument">
+              <content eId="para_2__content">
+                <p xml:space="preserve">
+                  <span class="bold">Приложение</span>
+                </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_3" class="MercuryDocument">
+              <content eId="para_3__content">
+                <p xml:space="preserve">Организация «Действия по борьбе с нищетой» (Action Centre la Pauvreté (ACP))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_4" class="MercuryDocument">
+              <content eId="para_4__content">
+                <p xml:space="preserve">Женская ассоциация в пользу устойчивого развития (Association des Femmes pour le Développement Durable (AFDD))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_5" class="MercuryDocument">
+              <content eId="para_5__content">
+                <p xml:space="preserve">Ассоциация молодых панафриканских гуманитариев (Association des Jeunes Humanitaires Panafricains (HUMANUS))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_6" class="MercuryDocument">
+              <content eId="para_6__content">
+                <p xml:space="preserve">Ассоциация «Гармония за восстановление и развитие» (Association Harmonie pour l’assainissement et le développement (ONG-ASHAD))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_7" class="MercuryDocument">
+              <content eId="para_7__content">
+                <p xml:space="preserve">Ассоциация высших школ планирования (Association of Collegiate Schools of Planning)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="MercuryDocument">
+              <content eId="para_8__content">
+                <p xml:space="preserve">Ассоциация развития Мурча (ASSOCIATION POUR LE DEVELOPPEMENT DE MOURTCHA (ADM))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="MercuryDocument">
+              <content eId="para_9__content">
+                <p xml:space="preserve">Образовательный фонд мальчиков и девочек (Boys and Girls Educational Foundation)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="MercuryDocument">
+              <content eId="para_10__content">
+                <p xml:space="preserve">Инициатива по развитию молодежи «Ваятели умов» (Brain Builders Youth Development Initiative)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="MercuryDocument">
+              <content eId="para_11__content">
+                <p xml:space="preserve">Центр миростроительства и демократии в Либерии (Center for Peace Building and Democracy in Liberia (CEPEBUD-Liberia))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="MercuryDocument">
+              <content eId="para_12__content">
+                <p xml:space="preserve">Международный центр по технологическим, экономическим, энергетическим и экологическим действиям (Centre International Actions Technologiques Economiques Energétiques et Environnementales (CIAT3E))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="MercuryDocument">
+              <content eId="para_13__content">
+                <p xml:space="preserve">Палата торговли, промышленности, сельского хозяйства, рудников и ремесленничества (Chambre de Commerce, d’Industrie, d’Agriculture, des Mines et d’Artisanat)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="MercuryDocument">
+              <content eId="para_14__content">
+                <p xml:space="preserve">Христианский фонд помощи (Christian Care Foundation)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="MercuryDocument">
+              <content eId="para_15__content">
+                <p xml:space="preserve">Организация «Помощь в целях развития общин» (Community Development Aid)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="MercuryDocument">
+              <content eId="para_16__content">
+                <p xml:space="preserve">Национальный совет малийских предпринимателей (Conseil National du Patronat du Mali)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="MercuryDocument">
+              <content eId="para_17__content">
+                <p xml:space="preserve">Сельскохозяйственный, лесоводческий и животноводческий кооператив друзей во имя солидарности (Coopératif Agro Sylvo-Pastorale des Amis pour la Solidarité)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="MercuryDocument">
+              <content eId="para_18__content">
+                <p xml:space="preserve">Организация «Достойная работа для всех — Бурунди» (DECENT WORK FOR ALL BURUNDI)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="MercuryDocument">
+              <content eId="para_19__content">
+                <p xml:space="preserve">Проект по регенерации Земли (Сьерра-Леоне) (Earth Regenerative Project Sierra Leone)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="MercuryDocument">
+              <content eId="para_20__content">
+                <p xml:space="preserve">Консультативная ассоциация работодателей Малави (Employers Consultative Association of Malawi)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="MercuryDocument">
+              <content eId="para_21__content">
+                <p xml:space="preserve">Организация «Гендерное равенство и развитие для Камбоджи» (Gender and Development for Cambodia (GADC))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="MercuryDocument">
+              <content eId="para_22__content">
+                <p xml:space="preserve">Центр торговли и отношений Гана — Россия (Ghana Russia Center for Commerce and Relations)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="MercuryDocument">
+              <content eId="para_23__content">
+                <p xml:space="preserve">Организация по развитию и сотрудничеству в области глобального объединения энергосистем (Global Energy Interconnection Development and Cooperation Organization)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_24" class="MercuryDocument">
+              <content eId="para_24__content">
+                <p xml:space="preserve">Организация “Global Good Net Works Ltd.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_25" class="MercuryDocument">
+              <content eId="para_25__content">
+                <p xml:space="preserve">Благотворительный фонд «Хазрас» (Hazras Charity Foundation)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_26" class="MercuryDocument">
+              <content eId="para_26__content">
+                <p xml:space="preserve">Международная организация «Надежда для человечества» (Hope for Humanity International)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_27" class="MercuryDocument">
+              <content eId="para_27__content">
+                <p xml:space="preserve">Организация “Instituția Privată Keystone Moldova”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_28" class="MercuryDocument">
+              <content eId="para_28__content">
+                <p xml:space="preserve">Организация по развитию прав человека «Калкал» (KALKAL HUMAN RIGHTS DEVELOPMENT ORGANIZATION (KAHRDO))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_29" class="MercuryDocument">
+              <content eId="para_29__content">
+                <p xml:space="preserve">Экологическая ассоциация Кикандва (Kikandwa Environmental Association)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_30" class="MercuryDocument">
+              <content eId="para_30__content">
+                <p xml:space="preserve">Организация «Ладлад Карага, инк.» (LADLAD CARAGA, INC.)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_31" class="MercuryDocument">
+              <content eId="para_31__content">
+                <p xml:space="preserve">Организация «Манзил» (Пакистан) (Manzil Pakistan)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_32" class="MercuryDocument">
+              <content eId="para_32__content">
+                <p xml:space="preserve">Общественный фонд «Наш Век»</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_33" class="MercuryDocument">
+              <content eId="para_33__content">
+                <p xml:space="preserve">Национальный совет гражданского общества Либерии (National Civil Society Council of Liberia)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_34" class="MercuryDocument">
+              <content eId="para_34__content">
+                <p xml:space="preserve">Национальная организация по расширению прав и возможностей женщин и реабилитации (National Women Empowerment and Rehabilitation Organization (NWERO))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_35" class="MercuryDocument">
+              <content eId="para_35__content">
+                <p xml:space="preserve">Организация «Надежда на новый мир» (New World Hope Organization (NWHO))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_36" class="MercuryDocument">
+              <content eId="para_36__content">
+                <p xml:space="preserve">Организация по интеграции и улучшению положения людей с альбинизмом (Organisation d’intégration et de promotion des personnes atteintes d’albinisme (OIPPA))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_37" class="MercuryDocument">
+              <content eId="para_37__content">
+                <p xml:space="preserve">Платформа гражданского общества Руанды (Plateforme de la Société Civile Rwandaise)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_38" class="MercuryDocument">
+              <content eId="para_38__content">
+                <p xml:space="preserve">Фонд частного сектора Лесото (Private Sector Foundation of Lesotho)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_39" class="MercuryDocument">
+              <content eId="para_39__content">
+                <p xml:space="preserve">Молодежная сеть за климат в Чаде (Réseau des Jeunes pour le Climat au Tchad (REJEC-T))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_40" class="MercuryDocument">
+              <content eId="para_40__content">
+                <p xml:space="preserve">Сеть международных исследований в области опустынивания (RESEAU POUR LA RECHERCHE INTERNATIONALE SUR LA DESERTIFICATION (DesertNET International))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_41" class="MercuryDocument">
+              <content eId="para_41__content">
+                <p xml:space="preserve">Сеть женщин Руанды по развитию на местном уровне (Rwanda Women Community Development Network)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_42" class="MercuryDocument">
+              <content eId="para_42__content">
+                <p xml:space="preserve">Организация “S&amp;I STEP FORWARD Ltd.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_43" class="MercuryDocument">
+              <content eId="para_43__content">
+                <p xml:space="preserve">Организация "Sea Rail (Botswana) (Proprietary) Limited"</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_44" class="MercuryDocument">
+              <content eId="para_44__content">
+                <p xml:space="preserve">Академия социальных инноваций (SINA (SOCIAL INNOVATION ACADEMY))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_45" class="MercuryDocument">
+              <content eId="para_45__content">
+                <p xml:space="preserve">Социальный форум — ЗАМСОФ (SOCIAL FORUM — ZAMSOF)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_46" class="MercuryDocument">
+              <content eId="para_46__content">
+                <p xml:space="preserve">Сомалийская предпринимательская ассоциация в Турции (Somaliler İş Adamları Derneği)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_47" class="MercuryDocument">
+              <content eId="para_47__content">
+                <p xml:space="preserve">Совет по устойчивому развитию</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_48" class="MercuryDocument">
+              <content eId="para_48__content">
+                <p xml:space="preserve">Организация TRUE PROPHECY INTEGRATED DEVELOPMENT ACTORS (TIDA)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_49" class="MercuryDocument">
+              <content eId="para_49__content">
+                <p xml:space="preserve">Университет исследований в сфере развития (UNIVERSITY FOR DEVELOPMENT STUDIES)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_50" class="MercuryDocument">
+              <content eId="para_50__content">
+                <p xml:space="preserve">Организация «Велфэр» (WELFARE)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_51" class="MercuryDocument">
+              <content eId="para_51__content">
+                <p xml:space="preserve">Социально-благотворительный центр «Женщины и современный мир» (Women and Modern World Social Charitable Center (CWMW))</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_52" class="MercuryDocument">
+              <content eId="para_52__content">
+                <p xml:space="preserve">Организация «Женщины в Пресвитерианской церкви Уганды» (WOMEN IN PRESBYTERIAN MINISTRY UGANDA)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_53" class="MercuryDocument">
+              <content eId="para_53__content">
+                <p xml:space="preserve">Организация «Уорлд Фьючер Актив» (World Future Active)</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>
