@@ -1,0 +1,168 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-01-16/78-542B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-01-16/78-542B/"></FRBRuri>
+          <FRBRdate date="2024-01-16" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-01-16/78-542B/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-01-16/78-542B/spa@/"></FRBRuri>
+          <FRBRdate date="2024-04-22" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-01-16/78-542B/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-01-16/78-542B/spa@.xml"></FRBRuri>
+          <FRBRdate date="2024-04-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://metadata.un.org/thesaurus/1005558" showAs="right_to_education" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://metadata.un.org/thesaurus/1003223" showAs="innovation" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="https://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="public_health" href="http://metadata.un.org/thesaurus/1005250" showAs="public_health" dictionary="UNBIS"></keyword>
+      </classification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly (78th sess. : 2023-2024)" showAs="UN. General Assembly (78th sess. : 2023-2024)" dictionary="DHLAUTH"></keyword>
+        <keyword value="SPECIAL MISSIONS" href="http://metadata.un.org/thesaurus/1006122" showAs="SPECIAL MISSIONS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="FINANCING" href="http://metadata.un.org/thesaurus/1002343" showAs="FINANCING" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="132" showAs="Review of the efficiency of the administrative and financial functioning of the United Nations." shortForm="UN--ADMINISTRATION" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2023-12-22" outcome="draftDecision" as="A/C.5/78/L.27" by="submitted by the Chair" />
+        <step date="2024-01-16" outcome="adopted" as="A/78/PV.53" by="53ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/542 B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#fifthCommittee">Quinta Comisión</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Septuagésimo octavo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="132" name="agenda item">Tema 132 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/542.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Cuestiones cuyo examen queda aplazado para una fecha futura</span>
+        </docTitle>
+      </p>
+      <p>
+        <docNumber refersTo="#letter">
+          <span class="bold">B</span>
+        </docNumber>
+        <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+          <p xml:space="preserve"> La decisión 78/542, que figura en la sección B.6 de los<span class="italic"> Documentos Oficiales de la Asamblea General, septuagésimo octavo período de sesiones, Suplemento núm. 49</span> (<span class="underline"><a href="https://undocs.org/es/A/78/49">A/78/49</a></span>), vol. II, pasa a ser la decisión 78/542 A.</p>
+        </authorialNote>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 53ª sesión plenaria, celebrada el 16 de enero de 2024, la Asamblea General, por recomendación de la Quinta Comisión<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <a href="https://undocs.org/es/A/78/664">A/78/664</a>, párr. 13.</p></authorialNote>, decidió aplazar hasta la primera parte de la continuación de su septuagésimo octavo período de sesiones el examen de los siguientes documentos: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">
+            <span class="italic">Tema 139</span> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">
+            <span class="italic">Gestión de los recursos humanos</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Enmiendas del Estatuto y el Reglamento del Personal</span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">Informe del Secretario General sobre las enmiendas del Estatuto y el Reglamento del Personal<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> <a href="https://undocs.org/es/A/78/177">A/78/177</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">Informe conexo de la Comisión Consultiva en Asuntos Administrativos y de Presupuesto<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> <a href="https://undocs.org/es/A/78/671">A/78/671</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="53ª" refersTo="#adoptionMeeting">53ª sesión plenaria</location>
+          <eol />
+          <docDate date="2024-01-16" refersTo="#adoptionDate">16 de enero de 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
