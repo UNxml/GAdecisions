@@ -1,0 +1,256 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+          <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@/"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="ara"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Summit of the Future (2024 : New York)" showAs="Summit of the Future (2024 : New York)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" href="http://metadata.un.org/thesaurus/1004744" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="122" showAs="Strengthening of the United Nations System." shortForm="UN SYSTEM--STRENGTHENING" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-05-31" outcome="draftDecision" as="A/78/L.77" by="submitted by the President of the General Assembly" />
+        <step date="2024-07-10" outcome="adopted" as="A/78/PV.98" by="98" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">الأمــم المتحـدة</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/555</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">الجمعية العامة</docAuthority>
+      </p>
+      <p>
+        <docType>مقرر</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">جلسة عامة</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">الدورة الثامنة والسبعون</session>
+      </p>
+      <p>
+        <inline title="122" name="agenda item">البند 122 من جدول الأعمال</inline>
+      </p>
+      <p>
+        <inline name="decision type">المقررات الأخرى</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/555</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">	إعداد قائمة المتكلمين في مؤتمر القمة المعني بالمستقبل</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="SingleTxt">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	قامت الجمعية العامة، في جلستها العامة 98، المعقودة في 10 تموز/يوليه 2024، بناء على اقتراح رئيسها<sup>(</sup><authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	()	<span class="underline"><a href="https://undocs.org/ar/A/78/L.77">A/78/L.77</a></span>.</p></authorialNote><sup>)</sup>، إذ تشير إلى قرارها <a href="https://undocs.org/ar/A/RES/76/307">76/307</a> المؤرخ 8 أيلول/سبتمبر 2022، ولا سيما الفقرات 6 إلى 9 و 12 منه بشأن الجلسات العامة، بما يلي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="SingleTxt">
+        <num>(أ)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	قررت أن تعقد الجلسات العامة لمؤتمر القمة المعني بالمستقبل على أساس عقد جلستين في اليوم الواحد على النحو التالي:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="SingleTxt">
+        <content eId="para_3__content">
+          <p xml:space="preserve">		الأحد 22 أيلول/سبتمبر 2024: من الساعة 9:00<sup>(</sup><authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	()	تبدأ الجلسة العامة صباح يوم 22 أيلول/سبتمبر في الساعة 9:00، على أن يستمر الجزء الافتتاحي من الساعة 9:00 إلى الساعة 10:00. وفي الجزء الافتتاحي، تُعتمد الوثيقة الختامية، ثم يلي ذلك بيانات يدلي بها رئيس الجمعية العامة والأمين العام وممثلون عن الشباب يختارهم رئيس الجمعية العامة بالتشاور مع الدول الأعضاء، عملا بالقرار <a href="https://undocs.org/ar/A/RES/76/307">76/307</a> (الفقرة 6 (أ)).</p></authorialNote><sup>)</sup> إلى الساعة 15:00 ومن الساعة 15:00 إلى الساعة 21:00؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="SingleTxt">
+        <content eId="para_4__content">
+          <p xml:space="preserve">		الاثنين 23 أيلول/سبتمبر 2024: من الساعة 9:00 إلى الساعة 15:00 ومن الساعة 15:00 إلى الساعة 21:00<sup>(</sup><authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	()	يُعقد الجزء الختامي من الساعة 8:30 إلى الساعة 9:00، ويُدلي فيه رئيس الجمعية العامة ببيان، عملا بالقرار <a href="https://undocs.org/ar/A/RES/76/307">76/307</a> (الفقرة 6 (ب)).</p></authorialNote><sup>)</sup>؛</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="SingleTxt">
+        <num>(ب)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	قررت أيضا أن تُعدّ قائمة المتكلمين في مؤتمر القمة وفقا للإجراءات المبينة في مرفق هذا المقرر.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="98" refersTo="#adoptionMeeting">الجلسة العامة 98</location>
+          <eol />
+          <docDate date="2024-07-10" refersTo="#adoptionDate">10 تموز/يوليه 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+                <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@/"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="ara"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/ara@.xml"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_7" class="H1">
+              <heading>المرفق</heading>
+            </paragraph>
+            <paragraph eId="para_8" class="SingleTxt">
+              <num>1 -</num>
+              <content eId="para_8__content">
+                <p xml:space="preserve">	تُعدّ قائمة المتكلمين في الجلسات العامة لمؤتمر القمة المعني بالمستقبل على أساس أربع جلسات. وبعد عقد الجزء الافتتاحي من الساعة 9:00 إلى الساعة 10:00 من صباح يوم 22 أيلول/سبتمبر 2024، تُخصص المدة المتبقية من هذه الجلسة العامة الممتدة حتى الساعة 15:00، وهي 300 دقيقة، للإدلاء ببيانات. وتُخصص 360 دقيقة للإدلاء ببيانات في الجلسة المعقودة بعد الظهر في 22 أيلول/سبتمبر 2024 وفي الجلسة الصباحية المعقودة في 23 أيلول/سبتمبر 2024 على السواء. وتُخصص 330 دقيقة للإدلاء ببيانات في الجلسة المعقودة بعد الظهر في 23 أيلول/سبتمبر 2024، ثم يُعقد الجزء الختامي من الساعة 8:30 إلى الساعة 9:00.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="SingleTxt">
+              <num>2 -</num>
+              <content eId="para_9__content">
+                <p xml:space="preserve">	وتُعدّ قائمة المتكلمين في الجلسات العامة لمؤتمر القمة على النحو التالي مبدئيا:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="SingleTxt">
+              <content eId="para_10__content">
+                <p xml:space="preserve">	(أ)	يسحب ممثل الأمين العام اسما واحدا من صندوق توضع فيه أسماء جميع الدول الأعضاء، إضافة إلى جزر كوك ودولة فلسطين والكرسي الرسولي ونيوي، وكذلك الاتحاد الأوروبي (في حال كان تكلُّمه لعرض مواقف الاتحاد الأوروبي والدول الأعضاء فيه على النحو المتفق عليه بينها، عملا بالفقرة 1 (أ) من مرفق القرار <a href="https://undocs.org/ar/A/RES/65/276">65/276</a> المؤرخ 3 أيار/مايو 2011). ويكرَّر هذا الإجراء إلى أن تُسحب جميع الأسماء من الصندوق، وبذلك يتحدَّد الترتيب الذي تدعى به الوفود إلى اختيار الجلسات التي ستتكلم فيها وفترات التكلم فيها؛</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="SingleTxt">
+              <content eId="para_11__content">
+                <p xml:space="preserve">	(ب)	تُعدّ أربعة صناديق يُمثل كل منها جلسة عامة ويحتوي كل منها على أرقام تقابل فترات التكلم في الجلسة المعنية على النحو التالي<sup>(</sup><authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	()	بناء على عدم تجاوز الحد الزمني البالغ خمس دقائق الذي يسري على الدول المشاركة عملا بالقرار <a href="https://undocs.org/ar/A/RES/76/307">76/307</a> (الفقرة 7).</p></authorialNote><sup>)</sup>: 60 فترة للتكلم في الجلسة الصباحية المعقودة في 22 أيلول/سبتمبر 2024؛ 72 فترة للتكلم في الجلسة المعقودة بعد الظهر في 22 أيلول/سبتمبر 2024؛ 72 فترة للتكلم في الجلسة الصباحية المعقودة في 23 أيلول/سبتمبر 2024؛ 66 فترة للتكلم في الجلسة المعقودة بعد الظهر في 23 أيلول/سبتمبر 2024؛ </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="SingleTxt">
+              <content eId="para_12__content">
+                <p xml:space="preserve">	(ج)	بعد أن يسحب ممثل الأمين العام اسم دولة مشاركة أو اسم الاتحاد الأوروبي، يُدعى الوفد المعني أولا إلى اختيار جلسة للتكلم فيها ثم يُدعى إلى أن يسحب من الصندوق المناسب الرقم الذي سيحدد فترة تكلمه في تلك الجلسة. ويخبر الوفدُ الأمانةَ العامة عندئذ بالمستوى التمثيلي للمتكلم ويبلغها بما إذا كان بيانه سيُدلى باسم إحدى المجموعات. وإذا لم يكن بإمكان أحد الوفود، وقت اختياره فترة التكلم، أن يعلِم بمستوى المتكلم، تُسجله الأمانة العامة على أنه رئيس الوفد؛</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="SingleTxt">
+              <content eId="para_13__content">
+                <p xml:space="preserve">	(د)	في حالة لم يكن أحد الوفود حاضرا في قاعة الاجتماع عند المناداة باسمه، تُتاح له الفرصة لاختيار فترة التكلم من الصندوق الذي يمثل الجلسة التي يفضلها (حسب المتاح) بعد اختتام إجراءات سحب فترات التكلم، ثم مرة أخرى قبل نهاية الاجتماع الخاص المشار إليه في الفقرة 3 أدناه. وتتاح هذه الفرصة بناء على نفس الترتيب الذي سُحب به اسم الوفد في البداية؛</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="SingleTxt">
+              <content eId="para_14__content">
+                <p xml:space="preserve">	(هـ)	يجوز للوفود التي يتعذر عليها حضور الاجتماع الخاص المعقود لسحب فترات التكلم أن تسجل أسماءها في قائمة المتكلمين في غضون سبعة أيام تقويمية بعد إجراء السحب عن طريق الاتصال بالأمانة العامة. وتتاح لهذه الوفود فرصة اختيار فترة للتكلم من بين الفترات المتبقية وقت تسجيلها. وبعد انقضاء تلك المهلة، لن يتسنى للدول أو الاتحاد الأوروبي (في حال كان تكلُّمه لعرض مواقف الاتحاد الأوروبي والدول الأعضاء فيه على النحو المتفق عليه بينها، عملا بالفقرة 1 (أ) من مرفق القرار <a href="https://undocs.org/ar/A/RES/65/276">65/276</a>) أن تسجل اسمها.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="SingleTxt">
+              <num>3 -</num>
+              <content eId="para_15__content">
+                <p xml:space="preserve">	وتُعدّ القائمة الأولية للمتكلمين في مؤتمر القمة، على النحو المبين في الفقرة 2 أعلاه، في اجتماع خاص يتقرّر موعده في غضون شهر واحد من اعتماد هذا المقرر.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="SingleTxt">
+              <num>4 -</num>
+              <content eId="para_16__content">
+                <p xml:space="preserve">	وعندما تنظم كل فئة من فئات المتكلمين باتباع الترتيب الذي تسفر عنه عملية الاختيار المبينة في الفقرة 2 أعلاه، يُعاد ترتيب قائمة المتكلمين في كل جلسة وفقا للممارسة المعمول بها في الجمعية العامة: وبناء على ذلك، تُعطى الأولوية في كل جلسة عامة لرؤساء الدول، يليهم نواب الرؤساء والأمراء والأميرات من أولياء العهد، ثم رؤساء الحكومات ونواب رؤساء الوزراء ثم الوزراء ونوابهم، على أن تولى أولويةٌ إضافية لبيانات المجموعات في كل مستوى. ثم تلي تلك المستويات مستوياتُ رؤساء الوفود. وتُعطى الدول الأعضاء بدايةً ترتيبها للتكلم في جلسة عامة معينة ضمن مستوى معين رهنا بما تنص عليه الفقرة (ك) من مرفق القرار دإط-<a href="https://undocs.org/ar/A/RES/10/23">10/23</a> المؤرخ 10 أيار/مايو 2024.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="SingleTxt">
+              <num>5 -</num>
+              <content eId="para_17__content">
+                <p xml:space="preserve">	وتتاح القائمة المؤقتة الأولى للمتكلمين بعد وقت قصير من الانتهاء من إجراءات سحب فترات التكلم. وتُجرى التغييرات بعدئذ على النحو التالي:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="SingleTxt">
+              <content eId="para_18__content">
+                <p xml:space="preserve">	(أ)	إذا تغير مستوى التمثيل، يُنقل المتكلم إلى آخر فترة للتكلم ضمن الفئة المناسبة في الجلسة نفسها؛ </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="SingleTxt">
+              <content eId="para_19__content">
+                <p xml:space="preserve">	(ب)	يجوز للدول المشاركة والاتحاد الأوروبي اتخاذُ ترتيبات فيما بينهم لتبادل فترات التكلم. وفي حالة كان مستوى التمثيل متماثلا، يُنقل الوفد إلى الترتيب نفسه الممنوح للوفد الآخر. وفي حالة كان مستوى التمثيل غير متماثل، يُنقل الوفد إلى الترتيب الأخير ضمن الفئة المناسبة في الجلسة موضع التغيير. ولن تعتبر إجراءات التبادل منتهية إلا عندما تُزود جميع الوفود المعنية الأمانةَ العامة بتأكيدها الخطي لعمليات التبادل على النحو المبين أعلاه. ولن تلغى عمليات التبادل المنتهية إجراءاتها إلا بعد أن تخطر جميع الوفود المعنية الأمانةَ العامة برغبتها في إلغاء عمليات التبادل.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="SingleTxt">
+              <num>6 -</num>
+              <content eId="para_20__content">
+                <p xml:space="preserve">	وتتاح القائمة المؤقتة الثانية للمتكلمين بعد انقضاء المهلة المحددة في الفقرة 2 (ه) أعلاه بفترة وجيزة.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="SingleTxt">
+              <num>7 -</num>
+              <content eId="para_21__content">
+                <p xml:space="preserve">	وبعد تعميم القائمة المؤقتة الثانية، تفتح الأمانة العامة باب التسجيل في فترات التكلم المتبقية أمام الكيانات المتلقية دعوة دائمة للمشاركة بصفة مراقب في أعمال الجمعية العامة<sup>(</sup><authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	()	القرار <a href="https://undocs.org/ar/A/RES/76/307">76/307</a>، الفقرة 8.</p></authorialNote><sup>)</sup>، والكيانات من منظومة الأمم المتحدة، بما فيها الصناديق والبرامج والوكالات المتخصصة واللجان الإقليمية، ومؤسسات بريتون وودز<sup>(</sup><authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	()	المرجع نفسه، الفقرة 9.</p></authorialNote><sup>)</sup>، لتُدعى، إذا سمح الوقت، إلى الإدلاء ببيانات لا تتجاوز ثلاث دقائق على أساس أسبقية التسجّل.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="SingleTxt">
+              <num>8 -</num>
+              <content eId="para_22__content">
+                <p xml:space="preserve">	ويُنتهى من قائمة المتكلمين في كل جلسة عامة في اليوم ذاته الذي تنعقد فيه ولا ينقل أي متكلم إلى الجلسة التالية. والمتكلمون الذين يتخلفون عن الحضور عند حلول دورهم في التكلم تُخصص لهم آليا فترة التكلم التالية المتاحة ضمن فئتهم في الجلسة نفسها.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="SingleTxt">
+              <num>9 -</num>
+              <content eId="para_23__content">
+                <p xml:space="preserve">	وبغية استيعاب جميع المتكلمين في مؤتمر القمة، تقتصر مدة بيانات الدول المشاركة على خمس دقائق، عملا بالفقرة 7 من القرار <a href="https://undocs.org/ar/A/RES/76/307">76/307</a>، على ألا يمنع ذلك من توزيع نصوص أكثر إسهابا. وعملا بالمادة 72 من النظام الداخلي للجمعية العامة، إذا تجاوز أحد المتكلمين الوقت المخصص له، يُنبِّهه الرئيس دون إبطاء إلى وجوب مراعاة النظام عن طريق قطع الميكروفون تلقائيا. ولضمان أن يبدأ الإدلاء بالبيانات حسب قائمة المتكلمين في الوقت المحدد في الساعة 10:00 في الجلسة الصباحية المعقودة في 22 أيلول/سبتمبر 2024، يُدرج أي تعليل للتصويت على اعتماد الوثيقة الختامية ضمن البيانات الوطنية بدلا من الإدلاء به في الجزء الافتتاحي.</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>
