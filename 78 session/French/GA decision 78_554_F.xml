@@ -1,0 +1,107 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-25/78-554/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-25/78-554/"></FRBRuri>
+          <FRBRdate date="2024-06-25" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-25/78-554/fra@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-25/78-554/fra@/"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="fra"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-25/78-554/fra@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-25/78-554/fra@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Security Council (78th year : 2023)" showAs="UN. Security Council (78th year : 2023)" dictionary="DHLAUTH"></keyword>
+        <keyword refersTo="agenda" value="26" showAs="Report of the Security Council." shortForm="UN. SECURITY COUNCIL--REPORTS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-06-25" outcome="adopted" as="A/78/PV.94" by="94e" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Nations Unies</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/554</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Assemblée générale</docAuthority>
+      </p>
+      <p>
+        <docType>Décision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plénière</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Soixante-dix-huitième session</session>
+      </p>
+      <p>
+        <inline title="26" name="agenda item">Point 26 de l’ordre du jour</inline>
+      </p>
+      <p>
+        <inline name="decision type">Autres décisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/554.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Rapport du Conseil de sécurité</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> À sa 94<sup>e</sup> séance plénière, le 25 juin 2024, l’Assemblée générale a pris note du rapport du Conseil de sécurité<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="italic">Documents officiels de l’Assemblée générale, soixante-dix-huitième session, Supplément n</span><sup>o</sup><span class="italic"> 2 </span>(<span class="underline underline underline"><a href="https://undocs.org/fr/A/78/2">A/78/2</a></span>).</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="94e" refersTo="#adoptionMeeting">94e séance plénière</location>
+          <eol />
+          <docDate date="2024-06-25" refersTo="#adoptionDate">25 juin 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
