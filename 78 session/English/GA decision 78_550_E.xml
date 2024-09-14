@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/"></FRBRuri>
+          <FRBRdate date="2024-05-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/eng@/"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/eng@.xml"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Intergovernmental Preparatory Committee for the Third United Nations Conference on Landlocked Developing Countries" showAs="UN. Intergovernmental Preparatory Committee for the Third United Nations Conference on Landlocked Developing Countries" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN Conference on Landlocked Developing Countries (3rd : 2024 : Gaborone, Botswana)" showAs="UN Conference on Landlocked Developing Countries (3rd : 2024 : Gaborone, Botswana)" dictionary="DHLAUTH"></keyword>
+        <keyword value="LANDLOCKED DEVELOPING COUNTRIES" href="http://metadata.un.org/thesaurus/1003606" showAs="LANDLOCKED DEVELOPING COUNTRIES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="20b" showAs="Follow-up to the 2nd United Nations Conference on Landlocked Developing Countries." shortForm="LANDLOCKED DEVELOPING COUNTRIES--CONFERENCES" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-04-30" outcome="draftDecision" as="A/78/L.63" by="Botswana" />
+        <step date="2024-05-07" outcome="adopted" as="A/78/PV.80" by="80th" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/550</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Seventy-eighth session</session>
+      </p>
+      <p>
+        <inline title="20 (b)" name="agenda item">Agenda item 20 (b)</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/550.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Postponement of the third United Nations Conference on Landlocked Developing Countries and the second session of the Preparatory Committee for the third United Nations Conference on Landlocked Developing Countries</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 80th meeting, on 7 May 2024, the General Assembly, on the proposal of Botswana,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/en/A/78/L.63">A/78/L.63</a>.</p></authorialNote> recalling its resolutions <a href="https://undocs.org/en/A/RES/76/217">76/217</a> of 17 December 2021, and <a href="https://undocs.org/en/A/RES/77/246">77/246</a> of 30 December 2022, by which the Assembly had decided to convene the third United Nations Conference on Landlocked Developing Countries in the first half of 2024 in Kigali at the highest possible level, including Heads of State and Government, and recalling also its resolution <a href="https://undocs.org/en/A/RES/77/329">77/329</a> of 25 August 2023, by which it had decided to hold the Conference from 18 to 21 June 2024 in Kigali and had also decided that the first and second sessions of the Preparatory Committee for the third United Nations Conference on Landlocked Developing Countries should have been should be organized from 5 to 8 February 2024 and from 29 April to 1 May 2024 in New York, decided that the third United Nations Conference on Landlocked Developing Countries shall be postponed to a later date, and also decided that the second session of the Preparatory Committee for the Conference shall be postponed to 3 to 5 June 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="80th" refersTo="#adoptionMeeting">80th plenary meeting</location>
+          <eol />
+          <docDate date="2024-05-07" refersTo="#adoptionDate">7 May 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

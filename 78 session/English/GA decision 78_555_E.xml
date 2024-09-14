@@ -1,0 +1,258 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+          <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@/"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Summit of the Future (2024 : New York)" showAs="Summit of the Future (2024 : New York)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" href="http://metadata.un.org/thesaurus/1004744" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="122" showAs="Strengthening of the United Nations System." shortForm="UN SYSTEM--STRENGTHENING" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-05-31" outcome="draftDecision" as="A/78/L.77" by="submitted by the President of the General Assembly" />
+        <step date="2024-07-10" outcome="adopted" as="A/78/PV.98" by="98th" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/555</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docType>Decision</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Plenary</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Seventy-eighth session</session>
+      </p>
+      <p>
+        <inline title="122" name="agenda item">Agenda item 122</inline>
+      </p>
+      <p>
+        <inline name="decision type">Other decisions</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/555.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Establishment of the list of speakers for the Summit of the Future</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> At its 98th plenary meeting, on 10 July 2024, the General Assembly, on the proposal of its President,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/en/A/78/L.77">A/78/L.77</a>.</p></authorialNote> recalling its resolution <a href="https://undocs.org/en/A/RES/76/307">76/307</a> of 8 September 2022, in particular paragraphs 6 to 9 and 12 thereof, concerning the plenary meetings:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	Decided that the plenary meetings of the Summit of the Future shall be held, on the basis of two meetings a day, as follows:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	Sunday, 22 September 2024: from 9 a.m.<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> The plenary meeting in the morning of 22 September will begin at 9 a.m. with the opening segment from 9 to 10 a.m. The opening segment will include the adoption of the outcome document followed by statements from the President of the General Assembly, the Secretary-General and youth representatives to be selected by the President of the General Assembly in consultation with Member States, pursuant to resolution <a href="https://undocs.org/en/A/RES/76/307">76/307</a> (para. 6 (a)).</p></authorialNote> to 3 p.m. and from 3 to 9 p.m.;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	Monday, 23 September 2024: from 9 a.m. to 3 p.m. and from 3 to 9 p.m.;<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> Including a closing segment from 8.30 to 9.00 p.m., which will feature a statement from the President of the General Assembly, pursuant to resolution <a href="https://undocs.org/en/A/RES/76/307">76/307</a> (para. 6 (b)).</p></authorialNote> </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	Also decided that the list of speakers for the Summit shall be established in accordance with the procedure set forth in the annex to the present decision.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="98th" refersTo="#adoptionMeeting">98th plenary meeting</location>
+          <eol />
+          <docDate date="2024-07-10" refersTo="#adoptionDate">10 July 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+                <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@/"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="eng"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/eng@.xml"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_7" class="MercuryDocument">
+              <content eId="para_7__content">
+                <p xml:space="preserve"> <span class="bold">Annex</span></p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="MercuryDocument">
+              <num>1.</num>
+              <content eId="para_8__content">
+                <p xml:space="preserve">	The list of speakers for the plenary meetings of the Summit of the Future will be established on the basis of four meetings. Following the opening segment from 9 to 10 a.m. on 22 September 2024, the remainder of that plenary meeting, until 3 p.m., will comprise 300 minutes for statements. The afternoon meeting of 22 September 2024 and the morning meeting of 23 September 2024 will each comprise 360 minutes for statements. The afternoon meeting of 23 September 2024 will comprise 330 minutes for statements, to be followed by the closing segment from 8:30 to 9 p.m.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="MercuryDocument">
+              <num>2.</num>
+              <content eId="para_9__content">
+                <p xml:space="preserve">	The list of speakers for the plenary meetings of the Summit will be established initially as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="MercuryDocument">
+              <content eId="para_10__content">
+                <p xml:space="preserve">	(a)	The representative of the Secretary-General will draw one name from a box containing the names of all Member States, the Cook Islands, the Holy See, Niue and the State of Palestine, as well as the European Union (if presenting positions of the European Union and its member States as agreed by them, pursuant to paragraph 1 (a) of the annex to resolution <a href="https://undocs.org/en/A/RES/65/276">65/276</a> of 3 May 2011). This procedure will be repeated until all names have been drawn from the box, thus establishing the order in which delegations will be invited to choose their meetings and select their speaking slots; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="MercuryDocument">
+              <content eId="para_11__content">
+                <p xml:space="preserve">	(b)	Four boxes will be prepared, each one representing a plenary meeting and each one containing numbers corresponding to speaking slots at that meeting, as follows:<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> Based on the five-minute time limit applicable to participating States, pursuant to resolution <a href="https://undocs.org/en/A/RES/76/307">76/307</a> (para. 7).</p></authorialNote> 60 speaking slots for the morning meeting of 22 September 2024; 72 speaking slots for the afternoon meeting of 22 September 2024; 72 speaking slots for the morning meeting of 23 September 2024; and 66 speaking slots for the afternoon meeting of 23 September 2024; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="MercuryDocument">
+              <content eId="para_12__content">
+                <p xml:space="preserve">	(c)	Once the name of a participating State or the European Union has been drawn by the representative of the Secretary-General, that delegation will be invited first to choose a meeting and then to draw from the appropriate box the number indicating the speaking slot in the meeting. The delegation will indicate to the Secretariat at that time the level of representation of the speaker and advise if its statement will be on behalf of a group. If, at the time when the speaking slot is selected, a delegation cannot indicate the level of its speaker, the Secretariat will record it as the level of Chair of delegation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="MercuryDocument">
+              <content eId="para_13__content">
+                <p xml:space="preserve">	(d)	If a delegation is absent from the meeting room when the name of that delegation is called, it will be given the opportunity to select a speaking slot from the box representing the preferred meeting (as availability permits) following the conclusion of the procedure for the drawing of lots and again prior to the end of the special meeting stipulated in paragraph 3 below. This opportunity will be given in the same order in which the delegation’s name was initially drawn;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="MercuryDocument">
+              <content eId="para_14__content">
+                <p xml:space="preserve">	(e)	Delegations that are unable to attend the special meeting for the drawing of lots may inscribe their names on the list of speakers for seven calendar days after the drawing of lots by contacting the Secretariat. These delegations will be given the opportunity to select a speaking slot from those remaining at the time of their inscription. After that deadline, no further inscriptions by States or the European Union (if presenting positions of the European Union and its member States as agreed by them, pursuant to paragraph 1 (a) of the annex to resolution <a href="https://undocs.org/en/A/RES/65/276">65/276</a>) will be possible.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="MercuryDocument">
+              <num>3.</num>
+              <content eId="para_15__content">
+                <p xml:space="preserve">	The establishment of the initial list of speakers for the Summit as outlined in paragraph 2 above will take place at a special meeting to be scheduled within one month of the adoption of the present decision.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="MercuryDocument">
+              <num>4.</num>
+              <content eId="para_16__content">
+                <p xml:space="preserve">	Subsequently, the list of speakers for each meeting will be rearranged in accordance with the established practice of the General Assembly when organizing each category of speakers, following the order resulting from the selection process outlined in paragraph 2 above. Accordingly, within each plenary meeting, Heads of State will be accorded priority, followed by Vice-Presidents and Crown Princes or Princesses, Heads of Government, Deputy Prime Ministers, Ministers and Vice-Ministers, with group statements given further priority within each level. These levels will be followed by that of Chairs of delegation. Member States will be placed first within a given level at a given meeting, subject to the provision in paragraph (k) of the annex to resolution <a href="https://undocs.org/en/A/RES/ES-10/23">E</a><a href="https://undocs.org/en/A/RES/ES-10/23">S-10/23</a> of 10 May 2024.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="MercuryDocument">
+              <num>5.</num>
+              <content eId="para_17__content">
+                <p xml:space="preserve">	The first provisional list of speakers will be made available shortly after the completion of the drawing of lots. Subsequent changes will be made in the following manner:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="MercuryDocument">
+              <content eId="para_18__content">
+                <p xml:space="preserve">	(a)	If the level of representation changes, the speaker will be moved to the last speaking slot in the appropriate category at the same meeting;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="MercuryDocument">
+              <content eId="para_19__content">
+                <p xml:space="preserve">	(b)	Participating States and the European Union may arrange to exchange their speaking slots. In cases of equality in the level of representation, a delegation will be moved to the exact position of the other delegation. In cases of inequality in the level of representation, a delegation will be moved to the last position in the appropriate category at the meeting to which it is changing. Exchanges will be considered as completed only when all the delegations concerned have provided the Secretariat with their written confirmation of the exchanges as set forth above. Completed exchanges will only be cancelled upon notification by all the delegations concerned to the Secretariat of their intention to cancel the exchanges.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="MercuryDocument">
+              <num>6.</num>
+              <content eId="para_20__content">
+                <p xml:space="preserve">	The second provisional list of speakers will be made available shortly after the deadline mentioned in paragraph 2 (e) above.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="MercuryDocument">
+              <num>7.</num>
+              <content eId="para_21__content">
+                <p xml:space="preserve">	Following the circulation of the second provisional list, the Secretariat will open the remaining speaking slots to inscription by entities having received a standing invitation to participate as observers in the work of the General Assembly<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> Resolution <a href="https://undocs.org/en/A/RES/76/307">76/307</a>, para. 8.</p></authorialNote> and by the United Nations system, including the funds, programmes, specialized agencies and regional commissions, as well as the Bretton Woods institutions,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> Ibid., para. 9.</p></authorialNote> which are invited, time permitting, to make statements of up to three minutes, on a first-come, first served basis.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="MercuryDocument">
+              <num>8.</num>
+              <content eId="para_22__content">
+                <p xml:space="preserve"> 	On the day of the plenary meetings, the list of speakers for each meeting shall be completed and no speakers will be rolled over to the next meeting. Speakers who are not present when their speaking turn comes will be automatically moved to the next available speaking slot within their category at the same meeting.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="MercuryDocument">
+              <num>9.</num>
+              <content eId="para_23__content">
+                <p xml:space="preserve"> 	In order to accommodate all speakers at the Summit, statements by the participating States should be limited to five minutes, pursuant to paragraph 7 of resolution <a href="https://undocs.org/en/A/RES/76/307">76/307</a>, on the understanding that this will not preclude the distribution of more extensive texts. Pursuant to rule 72 of the rules of procedure of the General Assembly, when a representative exceeds her or his allotted time, the President shall call the speaker to order without delay, which will be done by means of automatic microphone cut-off. In order to ensure that the statements from the list of speakers will begin on time at 10 a.m. at the morning meeting of 22 September 2024, any explanation of vote on the outcome document shall be incorporated into national statements instead of being made at the opening segment.</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>
