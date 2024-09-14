@@ -1,0 +1,353 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/"></FRBRuri>
+          <FRBRdate date="2024-06-13" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@/"></FRBRuri>
+          <FRBRdate date="2024-08-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="International Conference on Financing for Development (4th : 2025 : Spain)" showAs="International Conference on Financing for Development (4th : 2025 : Spain)" dictionary="DHLAUTH"></keyword>
+        <keyword value="PARTICIPANTS" href="http://metadata.un.org/thesaurus/1004744" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="17" showAs="Follow-up to and implementation of the outcomes of the International Conferences on Financing for Development." shortForm="DEVELOPMENT FINANCE--CONFERENCES" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-06-03" outcome="draftDecision" as="A/78/L.76" by="submitted by the President of the General Assembly" />
+        <step date="2024-06-13" outcome="adopted" as="A/78/PV.90" by="第90次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/551</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全体会议</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">第七十八届会议</session>
+      </p>
+      <p>
+        <inline title="17" name="agenda item">议程项目17</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/551.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">非政府组织、民间社会组织、学术机构和私营部门参加第四次发展筹资问题国际会议</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2024年6月13日，大会第90次全体会议根据以59票赞成、10票反对、40票弃权的记录表决作出修正<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> 见<span class="underline"><a href="https://undocs.org/ch/A/78/PV.90">A/78/PV.90</a></span>和<span class="underline"><a href="https://undocs.org/ch/A/78/L.79">A/78/L.79</a></span>。</p></authorialNote> 的主席提议，<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/78/L.76">A/78/L.76</a></span>。</p></authorialNote> 回顾其2024年4月11日题为“第四次发展筹资问题国际会议的进一步安排”的第<a href="https://undocs.org/ch/A/RES/78/271">78/271</a>号决议第4(b)段，决定核准本决定附件清单所列非政府组织、民间社会组织、学术机构和私营部门参加根据2023年12月22日第<a href="https://undocs.org/ch/A/RES/78/231">78/231</a>号决议以及第<a href="https://undocs.org/ch/A/RES/78/271">78/271</a>号决议举行的第四次发展筹资问题国际会议及其筹备进程。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="第90次" refersTo="#adoptionMeeting">第90次全体会议</location>
+          <eol />
+          <docDate date="2024-06-13" refersTo="#adoptionDate">2024年6月13日</docDate>
+        </event>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/"></FRBRuri>
+                <FRBRdate date="2024-06-13" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@/"></FRBRuri>
+                <FRBRdate date="2024-08-11" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="zho"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-13/78-551/zho@.xml"></FRBRuri>
+                <FRBRdate date="2024-08-11" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_2" class="MercuryDocument">
+              <content eId="para_2__content">
+                <p xml:space="preserve">
+                  <span class="bold">附件</span>
+                </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_3" class="SingleTxt">
+              <content eId="para_3__content">
+                <p xml:space="preserve">AlphaZULU倡导者组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_4" class="SingleTxt">
+              <content eId="para_4__content">
+                <p xml:space="preserve">亚洲土著国际网</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_5" class="SingleTxt">
+              <content eId="para_5__content">
+                <p xml:space="preserve">波士顿大学全球发展政策中心</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_6" class="SingleTxt">
+              <content eId="para_6__content">
+                <p xml:space="preserve">加泰罗尼亚发展合作基金</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_7" class="SingleTxt">
+              <content eId="para_7__content">
+                <p xml:space="preserve">墨西哥全球责任中心</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="SingleTxt">
+              <content eId="para_8__content">
+                <p xml:space="preserve">女孩促进发展中心</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="SingleTxt">
+              <content eId="para_9__content">
+                <p xml:space="preserve">改变生活协会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="SingleTxt">
+              <content eId="para_10__content">
+                <p xml:space="preserve">CLIMCOM Berlin——气候与公司组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="SingleTxt">
+              <content eId="para_11__content">
+                <p xml:space="preserve">发展与权利委员会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="SingleTxt">
+              <content eId="para_12__content">
+                <p xml:space="preserve">阿根廷国际关系委员会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="SingleTxt">
+              <content eId="para_13__content">
+                <p xml:space="preserve">达雅世代网络</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="SingleTxt">
+              <content eId="para_14__content">
+                <p xml:space="preserve">利比里亚发展教育网</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="SingleTxt">
+              <content eId="para_15__content">
+                <p xml:space="preserve">德意志模拟联合国基金会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="SingleTxt">
+              <content eId="para_16__content">
+                <p xml:space="preserve">塞拉利昂地球再生项目</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="SingleTxt">
+              <content eId="para_17__content">
+                <p xml:space="preserve">FACT宪政联盟/基金</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="SingleTxt">
+              <content eId="para_18__content">
+                <p xml:space="preserve">公平税收基金会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="SingleTxt">
+              <content eId="para_19__content">
+                <p xml:space="preserve">加泰罗尼亚发展合作基金会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="SingleTxt">
+              <content eId="para_20__content">
+                <p xml:space="preserve">德国发展与可持续性研究所</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="SingleTxt">
+              <content eId="para_21__content">
+                <p xml:space="preserve">德国观察</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="SingleTxt">
+              <content eId="para_22__content">
+                <p xml:space="preserve">全球基础设施、金融和发展管理局</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="SingleTxt">
+              <content eId="para_23__content">
+                <p xml:space="preserve">全球扶贫项目/全球公民组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_24" class="SingleTxt">
+              <content eId="para_24__content">
+                <p xml:space="preserve">IE大学变革治理中心</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_25" class="SingleTxt">
+              <content eId="para_25__content">
+                <p xml:space="preserve">全纳教育促进可持续发展组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_26" class="SingleTxt">
+              <content eId="para_26__content">
+                <p xml:space="preserve">计划生育国际青年联盟</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_27" class="SingleTxt">
+              <content eId="para_27__content">
+                <p xml:space="preserve">KND顾问私人有限公司</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_28" class="SingleTxt">
+              <content eId="para_28__content">
+                <p xml:space="preserve">扫盲与成人培训组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_29" class="SingleTxt">
+              <content eId="para_29__content">
+                <p xml:space="preserve">纳什维克公共基金会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_30" class="SingleTxt">
+              <content eId="para_30__content">
+                <p xml:space="preserve">国际非暴力行动学会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_31" class="SingleTxt">
+              <content eId="para_31__content">
+                <p xml:space="preserve">埃塞俄比亚促进积极和平组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_32" class="SingleTxt">
+              <content eId="para_32__content">
+                <p xml:space="preserve">斯塔琳计划</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_33" class="SingleTxt">
+              <content eId="para_33__content">
+                <p xml:space="preserve">拉丁美洲经济和社会公正网</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_34" class="SingleTxt">
+              <content eId="para_34__content">
+                <p xml:space="preserve">巴基斯坦农村援助组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_35" class="SingleTxt">
+              <content eId="para_35__content">
+                <p xml:space="preserve">智语咖啡馆</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_36" class="SingleTxt">
+              <content eId="para_36__content">
+                <p xml:space="preserve">SOAS可持续金融中心</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_37" class="SingleTxt">
+              <content eId="para_37__content">
+                <p xml:space="preserve">坦桑尼亚成功之手倡议</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_38" class="SingleTxt">
+              <content eId="para_38__content">
+                <p xml:space="preserve">可持续发展理事会</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_39" class="SingleTxt">
+              <content eId="para_39__content">
+                <p xml:space="preserve">布雷顿森林计划</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_40" class="SingleTxt">
+              <content eId="para_40__content">
+                <p xml:space="preserve">追寻肯尼亚组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_41" class="SingleTxt">
+              <content eId="para_41__content">
+                <p xml:space="preserve">大学促进可持续发展目标组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_42" class="SingleTxt">
+              <content eId="para_42__content">
+                <p xml:space="preserve">妇女积极行动组织</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_43" class="SingleTxt">
+              <content eId="para_43__content">
+                <p xml:space="preserve">青年企业发展和创新学会。</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>

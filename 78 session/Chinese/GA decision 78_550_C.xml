@@ -1,0 +1,111 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/"></FRBRuri>
+          <FRBRdate date="2024-05-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/zho@/"></FRBRuri>
+          <FRBRdate date="2024-08-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-05-07/78-550/zho@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Intergovernmental Preparatory Committee for the Third United Nations Conference on Landlocked Developing Countries" showAs="UN. Intergovernmental Preparatory Committee for the Third United Nations Conference on Landlocked Developing Countries" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN Conference on Landlocked Developing Countries (3rd : 2024 : Gaborone, Botswana)" showAs="UN Conference on Landlocked Developing Countries (3rd : 2024 : Gaborone, Botswana)" dictionary="DHLAUTH"></keyword>
+        <keyword value="LANDLOCKED DEVELOPING COUNTRIES" href="http://metadata.un.org/thesaurus/1003606" showAs="LANDLOCKED DEVELOPING COUNTRIES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="20b" showAs="Follow-up to the 2nd United Nations Conference on Landlocked Developing Countries." shortForm="LANDLOCKED DEVELOPING COUNTRIES--CONFERENCES" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-04-30" outcome="draftDecision" as="A/78/L.63" by="Botswana" />
+        <step date="2024-05-07" outcome="adopted" as="A/78/PV.80" by="第80次" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/550</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全体会议</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">第七十八届会议</session>
+      </p>
+      <p>
+        <inline title="20(b)" name="agenda item">议程项目20(b)</inline>
+      </p>
+      <p>
+        <inline name="decision type">其他决定</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/550.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">推迟举行第三次联合国内陆发展中国家问题会议和第三次联合国内陆发展中国家问题会议筹备委员会第二届会议</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2024年5月7日，大会第80次会议根据博茨瓦纳的提议，<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <span class="underline"><a href="https://undocs.org/ch/A/78/L.63">A/78/L.63</a></span>。</p></authorialNote> 回顾其2021年12月17日第<a href="https://undocs.org/ch/A/RES/76/217">76/217</a>号和2022年12月30日第<a href="https://undocs.org/ch/A/RES/77/246">77/246</a>号决议，其中大会决定于2024年上半年在基加利召开尽可能最高级别、包括国家元首和政府首脑级别的第三次联合国内陆发展中国家问题会议，又回顾其2023年8月25日第<a href="https://undocs.org/ch/A/RES/77/329">77/329</a>号决议，其中大会决定于2024年6月18日至21日在基加利召开第三次联合国内陆发展中国家问题会议，又决定于2024年2月5日至8日和2024年4月29日至5月1日在纽约举行会议筹备委员会第一届和第二届会议，决定推迟召开第三次联合国内陆发展中国家问题会议，并决定会议筹备委员会第二届会议推迟至2024年6月3日至5日举行。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="第80次" refersTo="#adoptionMeeting">第80次全体会议</location>
+          <eol />
+          <docDate date="2024-05-07" refersTo="#adoptionDate">2024年5月7日</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,203 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/"></FRBRuri>
+          <FRBRdate date="2024-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/zho@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/zho@/"></FRBRuri>
+          <FRBRdate date="2024-08-11" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="zho"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/zho@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/zho@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-11" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Economic and Social Council" showAs="UN. Economic and Social Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" href="http://metadata.un.org/thesaurus/1001938" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="113b" showAs="Election of members of the Economic and Social Council." shortForm="UN. ECONOMIC AND SOCIAL COUNCIL--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-06-07" outcome="adopted" as="A/78/PV.88" by="第88次" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="阿尔及利亚" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="安提瓜和巴布达" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="亚美尼亚" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="澳大利亚" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="奥地利" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="阿塞拜疆" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="孟加拉国" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="博茨瓦纳" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="巴西" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="佛得角" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="喀麦隆" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="加拿大" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="中国" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="哥伦比亚" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="哥斯达黎加" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="科特迪瓦" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="吉布提" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="多米尼加共和国" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="赤道几内亚" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="芬兰" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="法国" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="海地" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="意大利" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="日本" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="肯尼亚" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="老挝人民民主共和国" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="列支敦士登" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="毛里塔尼亚" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="墨西哥" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="尼泊尔" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="荷兰王国" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="尼日利亚" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="巴基斯坦" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="巴拉圭" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="波兰" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="卡塔尔" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="大韩民国" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="沙特阿拉伯" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="塞内加尔" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="斯洛伐克" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="斯洛文尼亚" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="南非" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="西班牙" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="斯里兰卡" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="苏里南" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="瑞典" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="瑞士" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="土耳其" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="大不列颠及北爱尔兰联合王国" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="坦桑尼亚联合共和国" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="乌拉圭" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="乌兹别克斯坦" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="经济及社会理事会" by="" refersTo="赞比亚" outcome="composition" akn4un:end="2026-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">联合国</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/418</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">大会</docAuthority>
+      </p>
+      <p>
+        <docType>决定</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">全体会议</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">第七十八届会议</session>
+      </p>
+      <p>
+        <inline title="113(b)" name="agenda item">议程项目113(b)</inline>
+      </p>
+      <p>
+        <inline name="decision type">选举和任命</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/418.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">选举经济及社会理事会成员</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> 2024年6月7日，大会第88次全体会议根据大会议事规则第一四〇条，选举下列国家为经济及社会理事会成员：</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>(a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	澳大利亚和芬兰，任期为新西兰和丹麦的剩余任期，自2025年1月1日起，至2025年12月31日止；</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>(b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	奥地利，任期为德国的剩余任期，自2025年1月1日起，至2026年12月31日止。<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> 见<span class="underline"><a href="https://undocs.org/ch/A/78/876">A/78/876</a></span>。</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve"> 在同次会议上，大会根据《联合国宪章》第六十一条、大会议事规则第一四五条和大会2014年9月10日第<a href="https://undocs.org/ch/A/RES/68/307">68/307</a>号决议第17段，选举阿尔及利亚、安提瓜和巴布达、亚美尼亚、阿塞拜疆、孟加拉国、加拿大、科特迪瓦、吉布提、多米尼加共和国、意大利、墨西哥、荷兰王国、沙特阿拉伯、南非、斯里兰卡、瑞士、坦桑尼亚联合共和国和乌兹别克斯坦为经济及社会理事会成员，自2025年1月1日起任期三年，以填补因阿富汗、比利时、伯利兹、加拿大、智利、科特迪瓦、克罗地亚、捷克、斯威士兰、印度、意大利、哈萨克斯坦、毛里求斯、阿曼、秘鲁、突尼斯、坦桑尼亚联合共和国和美利坚合众国任满而出现的空缺。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 因此，自2025年1月1日起，经济及社会理事会由下列会员国组成：<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> 东欧国家的一个成员空缺尚待填补，任期自当选之日起，至2025年12月31日止。</p></authorialNote> 阿尔及利亚、*** 安提瓜和巴布达、*** 亚美尼亚、*** 澳大利亚、* 奥地利、** 阿塞拜疆、*** 孟加拉国、*** 博茨瓦纳、* 巴西、* 佛得角、* 喀麦隆、* 加拿大、*** 中国、* 哥伦比亚、* 哥斯达黎加、* 科特迪瓦、*** 吉布提、*** 多米尼加共和国、*** 赤道几内亚、* 芬兰、* 法国、** 海地、** 意大利、*** 日本、** 肯尼亚、** 老挝人民民主共和国、* 列支敦士登、** 毛里塔尼亚、** 墨西哥、*** 尼泊尔、** 荷兰王国、*** 尼日利亚、** 巴基斯坦、** 巴拉圭、** 波兰、** 卡塔尔、* 大韩民国、* 沙特阿拉伯、*** 塞内加尔、** 斯洛伐克、* 斯洛文尼亚、* 西班牙、** 南非、*** 斯里兰卡、*** 苏里南、** 瑞典、* 瑞士、*** 土耳其、* 大不列颠及北爱尔兰联合王国、** 坦桑尼亚联合共和国、*** 乌拉圭、** 乌兹别克斯坦***和赞比亚。**</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">___________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">*2025年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">**2026年12月31日任满。</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">***2027年12月31日任满。</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="第88次" refersTo="#adoptionMeeting">第88次全体会议</location>
+          <eol />
+          <docDate date="2024-06-07" refersTo="#adoptionDate">2024年6月7日</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
