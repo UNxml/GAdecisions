@@ -1,0 +1,202 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/"></FRBRuri>
+          <FRBRdate date="2024-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/spa@/"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-418/spa@.xml"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. Economic and Social Council" showAs="UN. Economic and Social Council" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF MEMBERS" href="http://metadata.un.org/thesaurus/1001938" showAs="ELECTION OF MEMBERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="113b" showAs="Election of members of the Economic and Social Council." shortForm="UN. ECONOMIC AND SOCIAL COUNCIL--MEMBERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-06-07" outcome="adopted" as="A/78/PV.88" by="88ª" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Arabia Saudita" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Argelia" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Armenia" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Australia" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Austria" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Azerbaiyán" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Bangladesh" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Botswana" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Brasil" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Cabo Verde" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Camerún" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Canadá" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="China" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Colombia" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Costa Rica" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Côte d’Ivoire" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Djibouti" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Eslovaquia" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Eslovenia" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="España" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Finlandia" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Francia" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Guinea Ecuatorial" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Haití" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Italia" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Japón" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Kenya" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Liechtenstein" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Mauritania" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="México" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Nepal" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Nigeria" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Países Bajos (Reino de los)" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Pakistán" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Paraguay" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Polonia" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Qatar" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Reino Unido de Gran Bretaña e Irlanda del Norte" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="República de Corea" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="República Democrática Popular Lao" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="República Dominicana" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="República Unida de Tanzanía" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Senegal" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Sri Lanka" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Sudáfrica" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Suecia" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Suiza" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Suriname" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Türkiye" outcome="composition" akn4un:end="2025-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Uruguay" outcome="composition" akn4un:end="2026-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Uzbekistán" outcome="composition" akn4un:end="2027-12-31" />
+        <step date="2024-06-07" as="Consejo Económico y Social" by="" refersTo="Zambia" outcome="composition" akn4un:end="2026-12-31" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/418</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Septuagésimo octavo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="113 b)" name="agenda item">Tema 113 b) del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/418.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de miembros del Consejo Económico y Social</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 88ª sesión plenaria, celebrada el 7 de junio de 2024, la Asamblea General, de conformidad con el artículo 140 de su Reglamento, eligió a los siguientes miembros del Consejo Económico y Social:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	<inline name="smallCaps" style="font-variant:small-caps">Australia</inline> y <inline name="smallCaps" style="font-variant:small-caps">Finlandia</inline> para completar el período restante de los mandatos de <inline name="smallCaps" style="font-variant:small-caps">Nueva Zelandia </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Dinamarca</inline>, a partir del 1 de enero de 2025 y hasta el 31 de diciembre de 2025;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_3__content">
+          <p xml:space="preserve"> 	<inline name="smallCaps" style="font-variant:small-caps">Austria</inline> para completar el período restante del mandato de <inline name="smallCaps" style="font-variant:small-caps">Alemania</inline>, a partir del 1 de enero de 2025 y hasta el 31 de diciembre de 2026<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> Véase <a href="https://undocs.org/es/A/78/876">A/78/876</a>.</p></authorialNote>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve"> En la misma sesión, la Asamblea General, de conformidad con el Artículo 61 de la Carta de las Naciones Unidas, el artículo 145 de su Reglamento y el párrafo 17 de su resolución <a href="https://undocs.org/es/A/RES/68/307">68/307</a>, de 10 de septiembre de 2014, eligió a la <inline name="smallCaps" style="font-variant:small-caps">Arabia Saudita, Argelia, Antigua y Barbuda, Armenia, Azerbaiyán, Bangladesh, </inline>el<inline name="smallCaps" style="font-variant:small-caps"> Canadá, </inline><inline name="smallCaps" style="font-variant:small-caps">Côte</inline> <inline name="smallCaps" style="font-variant:small-caps">d</inline><inline name="smallCaps" style="font-variant:small-caps">’</inline><inline name="smallCaps" style="font-variant:small-caps">Ivoire</inline><inline name="smallCaps" style="font-variant:small-caps">, </inline><inline name="smallCaps" style="font-variant:small-caps">Djibouti</inline><inline name="smallCaps" style="font-variant:small-caps">, Italia, México, Países Bajos (Reino de los), </inline>la<inline name="smallCaps" style="font-variant:small-caps"> República Dominicana, </inline>la<inline name="smallCaps" style="font-variant:small-caps"> República Unida de Tanzanía, Sri Lanka, Sudáfrica, Suiza </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Uzbekistán</inline> miembros del Consejo Económico y Social para un mandato de tres años que comenzaría el 1 de enero de 2025, a fin de llenar las vacantes que se producirían al término de los mandatos del <inline name="smallCaps" style="font-variant:small-caps">Afganistán, Bélgica, Belice, </inline>el<inline name="smallCaps" style="font-variant:small-caps"> Canadá, Chequia, Chile, Côte d’Ivoire, Croacia, </inline>los<inline name="smallCaps" style="font-variant:small-caps"> Estados Unidos de América, Eswatini, </inline>la<inline name="smallCaps" style="font-variant:small-caps"> India, Italia, Kazajstán, Mauricio, Omán, </inline>el<inline name="smallCaps" style="font-variant:small-caps"> Perú, </inline>la<inline name="smallCaps" style="font-variant:small-caps"> República Unida de Tanzanía </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Túnez</inline>.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve"> En consecuencia, a partir del 1 de enero de 2025 el Consejo Económico y Social quedará integrado por los Estados Miembros siguientes<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Queda por llenar una vacante de un miembro de los Estados de Europa Oriental para un mandato que comenzaría en la fecha de la elección y terminaría el 31 de diciembre de 2025.</p></authorialNote>: <inline name="smallCaps" style="font-variant:small-caps">Antigua y Barbuda***, Arabia Saudita***, Argelia***, Armenia***, Australia*, Austria**, Azerbaiyán***, Bangladesh***, Botswana*, Brasil*, Cabo Verde*, Camerún*, Canadá***, China*, Colombia*, Costa Rica*, Côte d’Ivoire***, Djibouti***, Eslovaquia*, Eslovenia*, España**, Guinea Ecuatorial*, Finlandia*, Francia**, Haití**, Italia***, Japón**, Kenya**, Liechtenstein**, Mauritania**, México***, Nepal**, Países Bajos (Reino de los)***, Nigeria**, Pakistán**, Paraguay**, Polonia**, Qatar*, Reino Unido de Gran Bretaña e Irlanda del Norte**, República de Corea*, República Democrática Popular Lao*, República Dominicana***, República Unida de Tanzanía***, Senegal**, Sri Lanka***, Sudáfrica***, Suecia*, Suiza***, </inline><inline name="smallCaps" style="font-variant:small-caps">Surina</inline><inline name="smallCaps" style="font-variant:small-caps">me</inline><inline name="smallCaps" style="font-variant:small-caps">**, </inline><inline name="smallCaps" style="font-variant:small-caps">Türkiye</inline><inline name="smallCaps" style="font-variant:small-caps">*, Uruguay**, Uzbekistán*** </inline>y<inline name="smallCaps" style="font-variant:small-caps"> Zambia**.</inline></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve">___________</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve">*	El mandato termina el 31 de diciembre de 2025. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve">**	El mandato termina el 31 de diciembre de 2026. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve">***	El mandato termina el 31 de diciembre de 2027.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="88ª" refersTo="#adoptionMeeting">88ª sesión plenaria</location>
+          <eol />
+          <docDate date="2024-06-07" refersTo="#adoptionDate">7 de junio de 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,163 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/"></FRBRuri>
+          <FRBRdate date="2024-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/spa@/"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/spa@.xml"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. 1st Committee. Chair" showAs="UN. General Assembly. 1st Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly (79th sess. : 2024-2025)" showAs="UN. General Assembly (79th sess. : 2024-2025)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 2nd Committee. Chair" showAs="UN. General Assembly. 2nd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 3rd Committee. Chair" showAs="UN. General Assembly. 3rd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" showAs="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 5th Committee. Chair" showAs="UN. General Assembly. 5th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee. Chair" showAs="UN. General Assembly. 6th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" href="http://metadata.un.org/thesaurus/1001939" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="5" showAs="Election of the officers of the Main Committees." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024)--OFFICERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-06-07" outcome="adopted" as="A/78/PV.88" by="88ª" />
+        <step date="2024-06-07" as="Primera Comisión" by="Maritza CHAN VALVERDE" refersTo="Costa Rica" outcome="appointment"/>
+        <step date="2024-06-07" as="Comisión Política Especial y de Descolonización (Cuarta Comisión)" by="Sanita PAVĻUTA-DESLANDES" refersTo="Letonia" outcome="appointment"/>
+        <step date="2024-06-07" as="Segunda Comisión" by="Muhammad Abdul MUHITH" refersTo="Bangladesh" outcome="appointment"/>
+        <step date="2024-06-07" as="Tercera Comisión" by="Zéphyrin MANIRATANGA" refersTo="Burundi" outcome="appointment"/>
+        <step date="2024-06-07" as="Quinta Comisión" by="Egriselda LÓPEZ" refersTo="El Salvador" outcome="appointment"/>
+        <step date="2024-06-07" as="Sexta Comisión" by="Rui VINHAS" refersTo="Portugal" outcome="appointment"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/419</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Septuagésimo octavo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="5" name="agenda item">Tema 5 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Elecciones y nombramientos</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/419.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Elección de las Presidencias de las Comisiones Principales de la Asamblea General en su septuagésimo noveno período de sesiones</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> El 6 de junio de 2024, la Primera Comisión, la Comisión Política Especial y de Descolonización (Cuarta Comisión) y las Comisiones Segunda, Tercera, Quinta y Sexta de la Asamblea General celebraron reuniones, de conformidad con los artículos 99 a) y 103 del Reglamento de la Asamblea, con el propósito de elegir a sus Presidencias. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve"> En su 88ª sesión plenaria, celebrada el 7 de junio de 2024, la Presidencia de la Asamblea General anunció que se había elegido Presidentes de la Primera Comisión, la Comisión Política Especial y de Descolonización (Cuarta Comisión) y las Comisiones Segunda, Tercera, Quinta y Sexta de la Asamblea en su septuagésimo noveno período de sesiones a las personas siguientes: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> <span class="italic">Primera Comisión:</span>				Maritza <inline name="smallCaps" style="font-variant:small-caps">Chan Valverde</inline> (Costa Rica) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Comisión Política Especial y de Descolonización </span>
+          </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve">
+            <span class="italic">(Cuarta Comisión):</span>				Sanita <inline name="smallCaps" style="font-variant:small-caps">Pavļuta-Deslandes</inline> (Letonia) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve"> <span class="italic">Segunda Comisión:</span>				Muhammad Abdul <inline name="smallCaps" style="font-variant:small-caps">Muhith </inline>(Bangladesh) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve"> <span class="italic">Tercera Comisión:</span>				Zéphyrin <inline name="smallCaps" style="font-variant:small-caps">Maniratanga</inline> (Burundi) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve"> <span class="italic">Quinta Comisión:</span>				Egriselda <inline name="smallCaps" style="font-variant:small-caps">López</inline> (El Salvador) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="MercuryDocument">
+        <content eId="para_9__content">
+          <p xml:space="preserve"> <span class="italic">Sexta Comisión:</span>				Rui <inline name="smallCaps" style="font-variant:small-caps">Vinhas</inline> (Portugal)</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="88ª" refersTo="#adoptionMeeting">88ª sesión plenaria</location>
+          <eol />
+          <docDate date="2024-06-07" refersTo="#adoptionDate">7 de junio de 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

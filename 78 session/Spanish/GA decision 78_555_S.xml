@@ -1,0 +1,258 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+          <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@/"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="spa"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Summit of the Future (2024 : New York)" showAs="Summit of the Future (2024 : New York)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" href="http://metadata.un.org/thesaurus/1004744" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="122" showAs="Strengthening of the United Nations System." shortForm="UN SYSTEM--STRENGTHENING" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-05-31" outcome="draftDecision" as="A/78/L.77" by="submitted by the President of the General Assembly" />
+        <step date="2024-07-10" outcome="adopted" as="A/78/PV.98" by="98ª" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Naciones Unidas</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/555</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Asamblea General</docAuthority>
+      </p>
+      <p>
+        <docType>Decisión</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Pleno</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Septuagésimo octavo período de sesiones</session>
+      </p>
+      <p>
+        <inline title="122" name="agenda item">Tema 122 del programa</inline>
+      </p>
+      <p>
+        <inline name="decision type">Otras decisiones</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/555.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Establecimiento de la lista de oradores de la Cumbre del Futuro</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve"> En su 98ª sesión plenaria, celebrada el 10 de julio de 2024, la Asamblea General, a propuesta de su Presidencia<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/es/A/78/L.77">A/78/L.77</a>.</p></authorialNote>, recordando su resolución <a href="https://undocs.org/es/A/RES/76/307">76/307</a>, de 8 de septiembre de 2022, en particular los párrafos 6 a 9 y 12, relativos a las sesiones plenarias:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve"> 	Decidió que se celebrarían dos sesiones plenarias de la Cumbre del Futuro cada día, como sigue:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	Domingo 22 de septiembre de 2024, de las 9.00<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> La sesión plenaria de la mañana del 22 de septiembre empezará a las 9.00 horas con el segmento de apertura de las 9.00 a las 10.00 horas. El segmento de apertura incluirá la aprobación del documento final, seguido de las declaraciones de la Presidencia de la Asamblea General, el Secretario General y los representantes de la juventud que seleccione la Presidencia de la Asamblea en consulta con los Estados Miembros, en consonancia con lo dispuesto en la resolución <a href="https://undocs.org/es/A/RES/76/307">76/307</a> (párr. 6 a)).</p></authorialNote> a las 15.00 horas y de las 15.00 a las 21.00 horas;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	Lunes 23 de septiembre de 2024, de las 9.00 a las 15.00 horas y de las 15.00 a las 21.00 horas<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> Incluirá un segmento de clausura de las 20.30 a las 21.00 horas, en el que formulará una declaración la Presidencia de la Asamblea General, en consonancia con lo dispuesto en la resolución <a href="https://undocs.org/es/A/RES/76/307">76/307</a> (párr. 6 b)).</p></authorialNote>;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve"> 	Decidió también que la lista de oradores de la Cumbre se establecería de conformidad con el procedimiento establecido en el anexo de la presente decisión.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="98ª" refersTo="#adoptionMeeting">98ª sesión plenaria</location>
+          <eol />
+          <docDate date="2024-07-10" refersTo="#adoptionDate">10 de julio de 2024</docDate>
+        </event>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+                <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@/"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="spa"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/spa@.xml"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_7" class="MercuryDocument">
+              <content eId="para_7__content">
+                <p xml:space="preserve"> <span class="bold">Anexo</span></p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="MercuryDocument">
+              <num>1.</num>
+              <content eId="para_8__content">
+                <p xml:space="preserve">	La lista de oradores de las sesiones plenarias de la Cumbre del Futuro se establecerá sobre la base de cuatro sesiones. Tras el segmento de apertura de las 9.00 a las 10.00 horas el 22 de septiembre de 2024, el resto de la sesión plenaria, hasta las 15.00 horas, incluirá 300 minutos para declaraciones. La sesión de la tarde del 22 de septiembre de 2024 y la sesión de la mañana del 23 de septiembre de 2024 incluirán cada una 360 minutos para declaraciones. La sesión de la tarde del 23 de septiembre de 2024 incluirá 330 minutos para declaraciones, tras lo cual se celebrará el segmento de clausura de las 20.30 a las 21.00 horas.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="MercuryDocument">
+              <num>2.</num>
+              <content eId="para_9__content">
+                <p xml:space="preserve">	La lista de oradores de las sesiones plenarias de la Cumbre del Futuro se establecerá inicialmente como sigue:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="MercuryDocument">
+              <content eId="para_10__content">
+                <p xml:space="preserve"> a)	El o la representante del Secretario General extraerá un nombre de una urna que contendrá los nombres de todos los Estados Miembros, las Islas Cook, la Santa Sede, Niue y el Estado de Palestina, así como de la Unión Europea (si presenta las posiciones de la Unión Europea y sus Estados miembros por ellos convenidas, según lo dispuesto en el párrafo 1 a) del anexo de la resolución <a href="https://undocs.org/es/A/RES/65/276">65/276</a>, de 3 de mayo de 2011). El procedimiento se repetirá hasta que se hayan extraído de la urna todos los nombres, y en esa forma quedará establecido el orden en que se invitará a las delegaciones a elegir la sesión y el turno en que intervendrán; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="MercuryDocument">
+              <content eId="para_11__content">
+                <p xml:space="preserve"> b)	Se prepararán cuatro urnas, una por sesión plenaria, con tantos números como turnos de palabra estén previstos para cada sesión, como sigue<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> Sobre la base del límite de tiempo de cinco minutos que se aplica a los Estados participantes, según lo dispuesto en la resolución <a href="https://undocs.org/es/A/RES/76/307">76/307</a> (párr. 7).</p></authorialNote>: 60 turnos para la sesión de la mañana del 22 de septiembre de 2024; 72 turnos para la sesión de la tarde del 22 de septiembre de 2024; 72 turnos para la sesión de la mañana del 23 de septiembre de 2024; y 66 turnos para la sesión de la tarde del 23 de septiembre de 2024; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="MercuryDocument">
+              <content eId="para_12__content">
+                <p xml:space="preserve"> c)	Una vez que el o la representante del Secretario General haya extraído el nombre de un Estado participante o de la Unión Europea, se invitará a esa delegación a elegir una sesión y, a continuación, a extraer de la urna correspondiente un número que indicará su turno en esa sesión. La delegación informará a la Secretaría en ese momento del nivel de representación del orador o la oradora e indicará si la declaración se formulará en nombre de un grupo. Si en el momento de seleccionar el turno de palabra una delegación no puede informar del nivel del orador o la oradora, la Secretaría la inscribirá a nivel de Jefe o Jefa de delegación;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="MercuryDocument">
+              <content eId="para_13__content">
+                <p xml:space="preserve"> d)	Si una delegación está ausente de la sala de reuniones cuando se extraiga su nombre, se le dará la oportunidad de elegir un turno de palabra de la urna de la sesión preferida (en función de la disponibilidad) después de que haya concluido el proceso de sorteo y de nuevo antes de que finalice la sesión extraordinaria prevista en el párrafo 3. Se dará esa oportunidad en el mismo orden en que se extrajo inicialmente el nombre de la delegación;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="MercuryDocument">
+              <content eId="para_14__content">
+                <p xml:space="preserve"> e)	Las delegaciones que no puedan asistir a la sesión extraordinaria para el sorteo podrán inscribirse en la lista de oradores durante los siete días naturales posteriores al sorteo poniéndose en contacto con la Secretaría. Se dará a las delegaciones la oportunidad de elegir un turno de palabra de entre los turnos restantes en el momento de la inscripción. Pasado ese plazo, no se realizarán más inscripciones de Estados o de la Unión Europea (si presenta las posiciones de la Unión Europea y sus Estados miembros por ellos convenidas, según lo dispuesto en el párrafo 1 a) del anexo de la resolución <a href="https://undocs.org/es/A/RES/65/276">65/276</a>).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="MercuryDocument">
+              <num>3.</num>
+              <content eId="para_15__content">
+                <p xml:space="preserve">	El establecimiento de la lista inicial de oradores de la Cumbre descrito en el párrafo 2 se realizará durante una sesión extraordinaria que se convocará en un plazo de un mes a partir de la adopción de la presente decisión.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="MercuryDocument">
+              <num>4.</num>
+              <content eId="para_16__content">
+                <p xml:space="preserve">	Posteriormente, la lista de oradores de cada sesión se reordenará de acuerdo con la práctica establecida de la Asamblea General al organizar cada categoría de oradores, en función del orden resultante del proceso de selección descrito en el párrafo 2. Por consiguiente, en cada sesión plenaria se dará prioridad a los Jefes y Jefas de Estado, seguidos de los Vicepresidentes o Vicepresidentas y los Príncipes o Princesas Herederos, los Jefes o Jefas de Gobierno, los Vice Primeros Ministros o Ministras, los ministros o ministras y los viceministros o viceministras, y dentro de cada categoría se dará mayor prioridad a las declaraciones formuladas en nombre de grupos. A esos niveles de representación les seguirán los Jefes o Jefas de delegación. Se inscribirá primero a los Estados Miembros en un nivel de representación dado en una sesión dada, con sujeción a lo dispuesto en el párrafo k) del anexo de la resolución <a href="https://undocs.org/es/A/RES/ES-10/23">E</a><a href="https://undocs.org/es/A/RES/ES-10/23">S-10/23</a>, de 10 de mayo de 2024.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="MercuryDocument">
+              <num>5.</num>
+              <content eId="para_17__content">
+                <p xml:space="preserve">	La primera lista provisional de oradores se podrá consultar poco después de que haya concluido el sorteo. Los cambios posteriores se realizarán como sigue:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="MercuryDocument">
+              <content eId="para_18__content">
+                <p xml:space="preserve"> a)	Si cambia el nivel de representación, se desplazará al orador u oradora al último turno disponible de la categoría apropiada en esa misma sesión;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="MercuryDocument">
+              <content eId="para_19__content">
+                <p xml:space="preserve"> b)	Los Estados participantes y la Unión Europea podrán permutar entre sí sus turnos. En caso de que el nivel de representación sea el mismo, se desplazará a una delegación al mismo turno que la otra delegación. En caso de que el nivel de representación sea distinto, se desplazará a una delegación al último turno de la categoría correspondiente de la sesión a la que se haya cambiado. Se considerará que se han finalizado las permutas solo cuando las delegaciones interesadas confirmen por escrito a la Secretaría las permutas, según lo dispuesto anteriormente. Las permutas finalizadas solo se podrán cancelar mediante una notificación de todas las delegaciones involucradas a la Secretaría en la que manifiesten su voluntad de cancelar la permuta.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="MercuryDocument">
+              <num>6.</num>
+              <content eId="para_20__content">
+                <p xml:space="preserve">	La segunda lista provisional de oradores se podrá consultar poco después del plazo mencionado en el párrafo 2 e).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="MercuryDocument">
+              <num>7.</num>
+              <content eId="para_21__content">
+                <p xml:space="preserve">	Tras la distribución de la segunda lista provisional, la Secretaría abrirá los turnos de palabra restantes para que se puedan inscribir las entidades que hayan recibido una invitación permanente para participar como observadoras en la labor de la Asamblea General<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> Resolución <a href="https://undocs.org/es/A/RES/76/307">76/307</a>, párr. 8.</p></authorialNote> y el sistema de las Naciones Unidas, incluidos los fondos, los programas, los organismos especializados y las comisiones regionales, así como las instituciones de Bretton Woods<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> <span class="italic">Ibid</span>., párr. 9.</p></authorialNote>, a las que se invita, si el tiempo lo permite, a formular declaraciones de hasta tres minutos, por orden de presentación de las solicitudes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="MercuryDocument">
+              <num>8.</num>
+              <content eId="para_22__content">
+                <p xml:space="preserve"> 	El día de las sesiones plenarias, la lista de oradores de cada sesión deberá cumplirse en esa fecha y ninguna intervención podrá aplazarse para la sesión siguiente. Los oradores u oradoras que no estén presentes cuando les corresponda hacer uso de la palabra pasarán automáticamente al siguiente turno disponible en su categoría en la misma sesión.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="MercuryDocument">
+              <num>9.</num>
+              <content eId="para_23__content">
+                <p xml:space="preserve"> 	Con objeto de dar cabida a todos los oradores y oradoras en la Cumbre, la duración de las declaraciones de los Estados participantes se limitará a cinco minutos, en consonancia con el párrafo 7 de la resolución <a href="https://undocs.org/es/A/RES/76/307">76/307</a>, en el entendimiento de que ello no impedirá la distribución de textos más extensos. De conformidad con el artículo 72 del Reglamento de la Asamblea General, cuando un o una representante rebase el tiempo que le haya sido asignado, la Presidencia lo llamará inmediatamente al orden, apagando de forma automática el micrófono. A fin de velar por que las declaraciones de la lista de oradores empiecen puntualmente a las 10.00 horas en la sesión de la mañana del 22 de septiembre de 2024, cualquier explicación de voto sobre el documento final se hará en las declaraciones nacionales, en vez de durante el segmento de apertura.</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>
