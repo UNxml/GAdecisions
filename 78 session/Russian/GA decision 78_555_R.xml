@@ -1,0 +1,260 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+          <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@/"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="Summit of the Future (2024 : New York)" showAs="Summit of the Future (2024 : New York)" dictionary="DHLAUTH"></keyword>
+        <keyword value="CONFERENCES" href="http://metadata.un.org/thesaurus/1001219" showAs="CONFERENCES" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="PARTICIPANTS" href="http://metadata.un.org/thesaurus/1004744" showAs="PARTICIPANTS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="122" showAs="Strengthening of the United Nations System." shortForm="UN SYSTEM--STRENGTHENING" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-05-31" outcome="draftDecision" as="A/78/L.77" by="submitted by the President of the General Assembly" />
+        <step date="2024-07-10" outcome="adopted" as="A/78/PV.98" by="98‑е" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/555</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="122" name="agenda item">Пункт 122 повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Другие решения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/555.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Составление списка ораторов для Саммита будущего</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	На своем 98‑м пленарном заседании 10 июля 2024 года Генеральная Ассамблея по предложению своего Председателя<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"> <a href="https://undocs.org/ru/A/78/L.77">A/78/L.77</a>.</p></authorialNote>, ссылаясь на свою резолюцию <a href="https://undocs.org/ru/A/RES/76/307">7</a><a href="https://undocs.org/ru/A/RES/76/307">6/307</a> от 8 сентября 2022 года, в частности на ее пункты 6–9 и 12, касающиеся пленарных заседаний:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <num>a)</num>
+        <content eId="para_2__content">
+          <p xml:space="preserve">	постановила, что пленарные заседания Саммита будущего будут проводиться по два в день в следующем порядке:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve">	в воскресенье, 22 сентября 2024 года: с 9 ч 00 мин<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"> Пленарное заседание, которое состоится в первой половине дня 22 сентября, начнется в 9 ч 00 мин, причем с 9 ч 00 мин до 10 ч 00 мин будет проходить вступительная часть. В соответствии с резолюцией <a href="https://undocs.org/ru/A/RES/76/307">76/307</a> (п. 6 a)) на вступительной части будет принят итоговый документ, после чего с заявлениями выступят Председатель Генеральной Ассамблеи, Генеральный секретарь и представители молодежи, которые будут отобраны Председателем Генеральной Ассамблеи в консультации с государствами-членами.</p></authorialNote> до 15 ч 00 мин и с 15 ч 00 мин до 21 ч 00 мин;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">	в понедельник, 23 сентября 2024 года: с 9 ч 00 мин до 15 ч 00 мин и с 15 ч 00 мин до 21 ч 00 мин<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"> Включая заключительную часть с 20 ч 30 мин до 21 ч 00 мин, в ходе которой, в соответствии с резолюцией <a href="https://undocs.org/ru/A/RES/76/307">76/307</a> (п. 6 b)), прозвучит заявление Председателя Генеральной Ассамблеи.</p></authorialNote>;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <num>b)</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	постановила также, что список ораторов, которые выступят на Саммите, будет составлен в соответствии с процедурой, изложенной в приложении к настоящему решению.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="98‑е" refersTo="#adoptionMeeting">98‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2024-07-10" refersTo="#adoptionDate">10 июля 2024 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+    <attachments>
+      <attachment>
+        <doc name="annex">
+          <meta>
+            <identification source="#DGACM">
+              <FRBRWork>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/"></FRBRuri>
+                <FRBRdate date="2024-07-10" name="adoption"></FRBRdate>
+                <FRBRauthor href="ga" as="author"></FRBRauthor>
+                <FRBRcountry value="un"></FRBRcountry>
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@!main/annex"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@/"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="publication"></FRBRdate>
+                <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+                <FRBRlanguage language="rus"></FRBRlanguage>
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@/!main/annex.xml"></FRBRthis>
+                <FRBRuri value="/akn/un/statement/deliberation/unga/2024-07-10/78-555/rus@.xml"></FRBRuri>
+                <FRBRdate date="2024-08-31" name="markup"></FRBRdate>
+                <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <mainBody>
+            <paragraph eId="para_7" class="MercuryDocument">
+              <content eId="para_7__content">
+                <p xml:space="preserve">
+                  <span class="bold">Приложение</span>
+                </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_8" class="MercuryDocument">
+              <num>1.</num>
+              <content eId="para_8__content">
+                <p xml:space="preserve">	Список ораторов, которые выступят на пленарных заседаниях Саммита будущего, будет составлен на четыре заседания. По завершении вступительной части, которая состоится 22 сентября 2024 года с 9 ч 00 мин до 10 ч 00 мин, на оставшейся части этого пленарного заседания, которая продлится до 15 ч 00 мин, на выступления будет отведено 300 минут. На заседании во второй половине дня 22 сентября 2024 года и на заседании в первой половине дня 23 сентября 2024 года на выступления будет отведено по 360 минут. На заседании во второй половине дня 23 сентября 2024 года на выступления будет отведено 330 минут, а затем, с 20 ч 30 мин до 21 ч 00 мин, будет проведена заключительная часть.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_9" class="MercuryDocument">
+              <num>2.</num>
+              <content eId="para_9__content">
+                <p xml:space="preserve">	Список ораторов, которые выступят на пленарных заседаниях Саммита, будет первоначально составлен следующим образом:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_10" class="MercuryDocument">
+              <content eId="para_10__content">
+                <p xml:space="preserve">	a)	представитель Генерального секретаря будет доставать по одной карточке из ящика, содержащего карточки с названиями всех государств-членов, Островов Кука, Святого Престола, Ниуэ и Государства Палестина, а также Европейского союза (если он будет представлять позицию Европейского союза и его государств-членов по согласованию с ними — в соответствии с пунктом 1 a) приложения к резолюции <a href="https://undocs.org/ru/A/RES/65/276">6</a><a href="https://undocs.org/ru/A/RES/65/276">5/276</a> от 3 мая 2011 года). Эта процедура продолжится до тех пор, пока из ящика не будут вытянуты все карточки, и таким образом будет определен порядок, в соответствии с которым участникам будет предложено выбрать заседание для выступления и свое место в череде выступающих; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_11" class="MercuryDocument">
+              <content eId="para_11__content">
+                <p xml:space="preserve">	b)	для каждого из четырех пленарных заседаний будет подготовлено по одному ящику с номерами, обозначающими очередность выступления в ходе этого заседания<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"> Исходя из пятиминутного ограничения на продолжительность выступления, применимого к государствам-участникам в соответствии с резолюцией <a href="https://undocs.org/ru/A/RES/76/307">76/307</a> (п. 7).</p></authorialNote>, причем на заседании в первой половине дня 22 сентября 2024 года будет выделено время для 60 выступлений; на заседании во второй половине дня 22 сентября 2024 года — для 72 выступлений; на заседании в первой половине дня 23 сентября 2024 года — для 72 выступлений; на заседании во второй половине дня 23 сентября 2024 года — для 66 выступлений; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_12" class="MercuryDocument">
+              <content eId="para_12__content">
+                <p xml:space="preserve">	c)	после того как представитель Генерального секретаря вытянет карточку с названием государства-участника или карточку Европейского союза, соответствующей делегации будет предложено сначала выбрать заседание, а затем — вытянуть из соответствующего ящика номер, обозначающий очередность выступления на заседании. После этого делегация сообщит Секретариату уровень представительства оратора и уточнит, будет ли оратор выступать от имени группы. Если во время определения очередности выступления делегация не сможет указать уровень своего представителя, то Секретариат зафиксирует его как уровень главы делегации;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_13" class="MercuryDocument">
+              <content eId="para_13__content">
+                <p xml:space="preserve">	d)	если делегация будет отсутствовать в зале заседаний в момент оглашения ее карточки, то возможность определить очередность выступления путем вытягивания жребия из ящика, относящегося к выбранному ею заседанию (при наличии свободных мест), будет предоставлена ей после завершения процедуры жеребьевки и еще раз до окончания специального заседания, предусмотренного в пункте 3 ниже. Эта возможность будет предоставлена в том же порядке, в котором первоначально был вытянут жребий делегации;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_14" class="MercuryDocument">
+              <content eId="para_14__content">
+                <p xml:space="preserve">	e)	делегации, которые не смогут присутствовать на специальном заседании для проведения жеребьевки, могут записаться в список ораторов в течение семи календарных дней после проведения жеребьевки, обратившись в Секретариат. Этим делегациям будет предоставлена возможность выбрать для выступления отрезок времени из тех, что останутся к моменту их записи. По истечении этого крайнего срока запись государств или Европейского союза (если он будет представлять позицию Европейского союза и его государств-членов по согласованию с ними — в соответствии с пунктом 1 a) приложения к резолюции <a href="https://undocs.org/ru/A/RES/65/276">6</a><a href="https://undocs.org/ru/A/RES/65/276">5/276</a>) более проводиться не будет.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_15" class="MercuryDocument">
+              <num>3.</num>
+              <content eId="para_15__content">
+                <p xml:space="preserve">	Первоначальный список ораторов для Саммита будет составлен в соответствии с процедурой, изложенной в пункте 2 выше, на специальном заседании, которое будет назначено в течение одного месяца после принятия настоящего решения.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_16" class="MercuryDocument">
+              <num>4.</num>
+              <content eId="para_16__content">
+                <p xml:space="preserve">	Последующие перестановки в списке ораторов для каждого заседания будут производиться согласно порядку, который будет определен в процессе жеребьевки, изложенном в пункте 2 выше, в соответствии с установившейся в Генеральной Ассамблее практикой определения очередности выступлений в каждой категории ораторов. Таким образом, на каждом пленарном заседании слово в первую очередь будет предоставляться главам государств, затем вице-президентам и наследным принцам или принцессам, главам правительств, заместителям премьер-министров, министрам и заместителям министров, причем групповые заявления будут обладать более высоким приоритетом в пределах каждого уровня. За этими уровнями следует уровень глав делегаций. В пределах того или иного уровня на каждом заседании слово будет предоставляться в первую очередь государствам-членам с учетом пункта k) приложения к резолюции <a href="https://undocs.org/ru/A/RES/ES-10/23">E</a><a href="https://undocs.org/ru/A/RES/ES-10/23">S-10/23</a> от 10 мая 2024 года.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_17" class="MercuryDocument">
+              <num>5.</num>
+              <content eId="para_17__content">
+                <p xml:space="preserve">	Первый предварительный список ораторов будет издан вскоре после завершения жеребьевки. Последующие изменения будут вноситься следующим образом:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_18" class="MercuryDocument">
+              <content eId="para_18__content">
+                <p xml:space="preserve">	a)	при изменении уровня представительства выступление переносится на последнее место в соответствующей категории на том же заседании; </p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_19" class="MercuryDocument">
+              <content eId="para_19__content">
+                <p xml:space="preserve">	b)	государства-участники и Европейский союз могут договориться об обмене местами в череде выступающих. В случае равного уровня представительства выступление делегации переносится на время, изначально предоставленное другой делегации. В случае неравного уровня представительства делегация перемещается на последнее место в соответствующей категории на том заседании, на котором она будет выступать. Обмен местами считается завершенным только после того, как все соответствующие делегации направят в Секретариат письменное подтверждение такого обмена, произведенного в соответствии с вышеизложенными требованиями. Завершенный обмен отменяется лишь в случае уведомления Секретариата всеми соответствующими делегациями о намерении отменить обмен.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_20" class="MercuryDocument">
+              <num>6.</num>
+              <content eId="para_20__content">
+                <p xml:space="preserve">	Второй предварительный список ораторов будет издан вскоре по истечении срока, указанного в пункте 2 e) выше.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_21" class="MercuryDocument">
+              <num>7.</num>
+              <content eId="para_21__content">
+                <p xml:space="preserve">	После распространения второго предварительного списка Секретариат предоставляет оставшиеся места для выступлений организациям, получившим постоянное приглашение участвовать в работе Генеральной Ассамблеи в качестве наблюдателей<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"> Резолюция <a href="https://undocs.org/ru/A/RES/76/307">76/307</a>, п. 8.</p></authorialNote>, и структурам системы Организации Объединенных Наций, включая фонды, программы, специализированные учреждения и региональные комиссии, а также бреттон-вудские учреждения<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> Там же, п. 9.</p></authorialNote>. Им будет предложено, если позволит время, сделать заявления продолжительностью до трех минут, в порядке поступления заявок.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_22" class="MercuryDocument">
+              <num>8.</num>
+              <content eId="para_22__content">
+                <p xml:space="preserve">	В день пленарных заседаний список ораторов для каждого заседания считается окончательным, и на следующее заседание ни одно выступление не переносится. Выступления ораторов, не присутствующих в зале, когда приходит их очередь выступать, автоматически переносятся на следующее имеющееся в их категории время для выступления.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="para_23" class="MercuryDocument">
+              <num>9.</num>
+              <content eId="para_23__content">
+                <p xml:space="preserve">	Чтобы на Саммите смогли выступить все ораторы, в соответствии с пунктом 7 резолюции <a href="https://undocs.org/ru/A/RES/76/307">7</a><a href="https://undocs.org/ru/A/RES/76/307">6/307</a> продолжительность выступлений государств-участников ограничивается пятью минутами, при этом не исключается распространение более объемных текстов. В соответствии с правилом 72 правил процедуры Генеральной Ассамблеи, когда представитель превышает отведенное ему или ей время, микрофон автоматически отключается, а Председатель незамедлительно призывает оратора к порядку. Чтобы обеспечить своевременное начало выступлений по списку ораторов на заседании, которое начнется в первой половине дня 22 сентября 2024 года в 10 ч 00 мин, разъяснение мотивов голосования по итоговому документу должно включаться в национальное выступление, а не представляться во время вступительной части.</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </statement>
+</akomaNtoso>

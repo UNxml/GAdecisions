@@ -1,0 +1,156 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <!--This is an unofficial copy for informational purposes only and prepared from the official electronic file-->
+  <statement name="decision">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/"></FRBRuri>
+          <FRBRdate date="2024-06-07" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/rus@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/rus@/"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="rus"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/rus@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2024-06-07/78-419/rus@.xml"></FRBRuri>
+          <FRBRdate date="2024-07-25" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="DHLAUTH">
+        <keyword value="UN. General Assembly. 1st Committee. Chair" showAs="UN. General Assembly. 1st Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly (79th sess. : 2024-2025)" showAs="UN. General Assembly (79th sess. : 2024-2025)" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 2nd Committee. Chair" showAs="UN. General Assembly. 2nd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 3rd Committee. Chair" showAs="UN. General Assembly. 3rd Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" showAs="UN. General Assembly. Special Political and Decolonization Committee (4th Committee). Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 5th Committee. Chair" showAs="UN. General Assembly. 5th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="UN. General Assembly. 6th Committee. Chair" showAs="UN. General Assembly. 6th Committee. Chair" dictionary="DHLAUTH"></keyword>
+        <keyword value="ELECTION OF OFFICERS" href="http://metadata.un.org/thesaurus/1001939" showAs="ELECTION OF OFFICERS" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword refersTo="agenda" value="5" showAs="Election of the officers of the Main Committees." shortForm="UN. GENERAL ASSEMBLY (78TH SESS. : 2023-2024)--OFFICERS" dictionary="A/78/251"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2024-06-07" outcome="adopted" as="A/78/PV.88" by="88‑е" />
+        <step date="2024-06-07" as="Первый комитет" by="Марица ЧАН ВАЛЬВЕРДЕ" refersTo="Коста-Рика" outcome="appointment"/>
+        <step date="2024-06-07" as="Комитет по специальным политическим вопросам и вопросам деколонизации(Четвертый комитет)" by="Санита ПАВЛЮТА-ДЕСЛАНДЕС" refersTo="Латвия" outcome="appointment"/>
+        <step date="2024-06-07" as="Второй комитет" by="Мухаммад Абдул МУХИТХ" refersTo="Бангладеш" outcome="appointment"/>
+        <step date="2024-06-07" as="Третий комитет" by="Зефирин МАНИРАТАНГА" refersTo="Бурунди" outcome="appointment"/>
+        <step date="2024-06-07" as="Пятый комитет" by="Эгрисельда ЛОПЕС" refersTo="Сальвадор" outcome="appointment"/>
+        <step date="2024-06-07" as="Шестой комитет" by="Руи ВИНЬЯШ" refersTo="Португалия" outcome="appointment"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting>
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="decisionTitle" href="/akn/ontology/reference/un/decisionTitle" showAs="Decision title"></TLCTerm>
+      </references>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">Организация Объединенных Наций</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/DEC/78/419</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">Генеральная Ассамблея</docAuthority>
+      </p>
+      <p>
+        <docType>Решение</docType>
+      </p>
+      <p>
+        <docProponent refersTo="#noMainCommittee">Пленарное заседание</docProponent>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="78" eId="coverPage_1__session_1">Семьдесят восьмая сессия</session>
+      </p>
+      <p>
+        <inline title="5" name="agenda item">Пункт 5 повестки дня</inline>
+      </p>
+      <p>
+        <inline name="decision type">Выборы и назначения</inline>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber refersTo="decisionNumber">78/419.</docNumber>
+        <docTitle refersTo="#decisionTitle">
+          <span class="bold">Выборы председателей главных комитетов Генеральной Ассамблеи на ее семьдесят девятой сессии</span>
+        </docTitle>
+      </p>
+    </preface>
+    <mainBody>
+      <paragraph eId="para_1" class="MercuryDocument">
+        <content eId="para_1__content">
+          <p xml:space="preserve">	6 июня 2024 года в соответствии с правилами 99 a) и 103 правил процедуры Генеральной Ассамблеи Первый комитет, Комитет по специальным политическим вопросам и вопросам деколонизации (Четвертый комитет), Второй комитет, Третий комитет, Пятый комитет и Шестой комитет Генеральной Ассамблеи провели заседания в целях избрания своих председателей. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_2" class="MercuryDocument">
+        <content eId="para_2__content">
+          <p xml:space="preserve">	На 88‑м пленарном заседании 7 июня 2024 года Председатель Генеральной Ассамблеи объявил, что председателями Первого комитета, Комитета по специальным политическим вопросам и вопросам деколонизации (Четвертого комитета), Второго комитета, Третьего комитета, Пятого комитета и Шестого комитета Ассамблеи на ее семьдесят девятой сессии были избраны следующие лица: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="MercuryDocument">
+        <content eId="para_3__content">
+          <p xml:space="preserve"> <span class="italic">Первый комитет:</span>				Марица <inline name="smallCaps" style="font-variant:small-caps">Чан </inline><inline name="smallCaps" style="font-variant:small-caps">Вальверде</inline> (Коста‑Рика) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_4" class="MercuryDocument">
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Комитет по специальным политическим  вопросам и вопросам деколонизации (Четвертый комитет):</span>			Санита <inline name="smallCaps" style="font-variant:small-caps">Павлюта-Десландес</inline> (Латвия) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="MercuryDocument">
+        <content eId="para_5__content">
+          <p xml:space="preserve"> <span class="italic">Второй комитет:</span>				Мухаммад Абдул <inline name="smallCaps" style="font-variant:small-caps">Мухитх</inline> (Бангладеш) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="MercuryDocument">
+        <content eId="para_6__content">
+          <p xml:space="preserve"> <span class="italic">Третий комитет:</span>				Зефирин <inline name="smallCaps" style="font-variant:small-caps">Маниратанга</inline> (Бурунди) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="MercuryDocument">
+        <content eId="para_7__content">
+          <p xml:space="preserve"> <span class="italic">Пятый комитет:</span>				Эгрисельда <inline name="smallCaps" style="font-variant:small-caps">Лопес</inline> (Сальвадор) </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="MercuryDocument">
+        <content eId="para_8__content">
+          <p xml:space="preserve"> <span class="italic">Шестой комитет:</span>				Руи <inline name="smallCaps" style="font-variant:small-caps">Виньяш</inline> (Португалия)</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <event refersTo="#adoption">
+          <location title="88‑е" refersTo="#adoptionMeeting">88‑е пленарное заседание</location>
+          <eol />
+          <docDate date="2024-06-07" refersTo="#adoptionDate">7 июня 2024 года</docDate>
+        </event>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
